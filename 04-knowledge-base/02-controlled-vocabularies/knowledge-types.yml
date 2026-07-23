@@ -1,0 +1,90 @@
+schema_version: 1.0.0
+vocabulary: knowledge_types
+principle: 每条知识记录只选择一个主要类型，必要时通过关系连接其他类型。
+
+types:
+  - id: historical_fact
+    label_zh: 历史事实
+    definition: 可由史料、可靠元数据或多个独立来源核定的事件、状态或属性。
+    requires_claim_owner: false
+    minimum_evidence: E2
+
+  - id: author_claim
+    label_zh: 作者主张
+    definition: 特定作者在特定文献和语境中明确提出的判断。
+    requires_claim_owner: true
+    minimum_evidence: E2
+
+  - id: definition
+    label_zh: 定义
+    definition: 作者、机构或知识库对概念边界的明确界定。
+    requires_claim_owner: true
+    minimum_evidence: E2
+
+  - id: interpretation
+    label_zh: 解释
+    definition: 对事实、作品、事件或文本意义的分析性说明。
+    requires_claim_owner: true
+    minimum_evidence: E2
+
+  - id: historiographical_judgment
+    label_zh: 史学判断
+    definition: 关于历史分期、正典、研究对象、因果结构或叙事方式的判断。
+    requires_claim_owner: true
+    minimum_evidence: E2
+
+  - id: case_description
+    label_zh: 案例描述
+    definition: 对作品、产品、展览、制度、技术或设计实践的结构化描述。
+    requires_claim_owner: false
+    minimum_evidence: E2
+
+  - id: method_statement
+    label_zh: 方法陈述
+    definition: 关于研究步骤、分析框架、证据使用或操作程序的说明。
+    requires_claim_owner: true
+    minimum_evidence: E2
+
+  - id: synthetic_judgment
+    label_zh: 知识库综合判断
+    definition: 编辑者基于多个来源形成、并明确标注推理边界的综合结论。
+    requires_claim_owner: true
+    minimum_evidence: E3
+
+  - id: model_inference
+    label_zh: 模型推断
+    definition: 自动处理产生且尚未完成人工确认的候选判断。
+    requires_claim_owner: false
+    minimum_evidence: E1
+    maximum_maturity_without_review: L3
+
+  - id: research_hypothesis
+    label_zh: 研究假设
+    definition: 可由后续材料检验、证伪或修订的研究性假设。
+    requires_claim_owner: true
+    minimum_evidence: E1
+
+  - id: disputed_claim
+    label_zh: 争议性判断
+    definition: 存在明确反对证据、竞争解释或学术分歧的命题。
+    requires_claim_owner: true
+    minimum_evidence: E2
+    required_confidence: contested
+
+  - id: negative_evidence
+    label_zh: 否定性证据
+    definition: 对缺失、未出现、未能支持或与预期不一致情况的受限记录。
+    requires_claim_owner: false
+    minimum_evidence: E2
+
+  - id: unresolved_question
+    label_zh: 未解决问题
+    definition: 当前材料无法回答、但具有明确研究对象和验证路径的问题。
+    requires_claim_owner: false
+    minimum_evidence: E0
+
+rules:
+  - 高频词、共现和相似度不能直接标为historical_fact或author_claim。
+  - 模型生成内容在人工复核前必须标为model_inference或candidate。
+  - disputed_claim必须连接至少一个争议对象或反对立场。
+  - synthetic_judgment必须引用至少两个相互独立的来源记录。

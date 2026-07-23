@@ -1,0 +1,211 @@
+schema_version: 1.0.0
+vocabulary: relation_and_status_types
+
+relation_types:
+  repository_provenance:
+    - id: analyzes_source
+      label_zh: 分析原始来源
+      strength: structural
+      definition: 深度报告以特定原始OCR来源为分析对象；不表示报告结论已获正文支持。
+    - id: enhances_report
+      label_zh: 扩展报告分析
+      strength: structural
+      definition: 增强报告以特定深度报告为入口进行解释扩展；不表示内容已完成人工复核。
+
+  identity_and_version:
+    - id: same_as
+      label_zh: 同一对象
+      strength: strong
+    - id: alias_of
+      label_zh: 别名属于
+      strength: strong
+    - id: edition_of
+      label_zh: 版本属于
+      strength: strong
+    - id: revises
+      label_zh: 修订
+      strength: strong
+    - id: reprints
+      label_zh: 再版
+      strength: strong
+    - id: translates
+      label_zh: 翻译自
+      strength: strong
+    - id: excerpt_of
+      label_zh: 节录自
+      strength: strong
+    - id: review_of
+      label_zh: 评论对象
+      strength: strong
+    - id: digitization_of
+      label_zh: 数字化自
+      strength: strong
+    - id: ocr_of
+      label_zh: OCR来源于
+      strength: strong
+    - id: duplicate_entry_of
+      label_zh: 重复目录入口
+      strength: strong
+    - id: supersedes
+      label_zh: 取代
+      strength: strong
+
+  authorship_and_production:
+    - id: authored_by
+      label_zh: 作者为
+    - id: edited_by
+      label_zh: 编者为
+    - id: translated_by
+      label_zh: 译者为
+    - id: designed_by
+      label_zh: 设计者为
+    - id: produced_by
+      label_zh: 生产者为
+    - id: commissioned_by
+      label_zh: 委托者为
+    - id: published_by
+      label_zh: 出版者为
+    - id: exhibited_by
+      label_zh: 展出机构为
+
+  spatial_temporal:
+    - id: occurred_at
+      label_zh: 发生于地点
+    - id: occurred_during
+      label_zh: 发生于时期
+    - id: active_in
+      label_zh: 活跃于
+    - id: located_in
+      label_zh: 位于
+    - id: preceded_by
+      label_zh: 前接
+    - id: followed_by
+      label_zh: 后接
+    - id: contemporary_with
+      label_zh: 与……同时期
+
+  conceptual_and_intellectual:
+    - id: mentions
+      label_zh: 文本提及
+      strength: weak
+      definition: 来源文本显式出现某个候选实体或概念；只表示可回查的文本提及，不表示影响、认同或因果。
+    - id: defines
+      label_zh: 定义
+    - id: distinguishes_from
+      label_zh: 区分于
+    - id: extends
+      label_zh: 延伸
+    - id: revises_claim
+      label_zh: 修正主张
+    - id: supports
+      label_zh: 支持
+    - id: contradicts
+      label_zh: 反驳或冲突
+    - id: critiques
+      label_zh: 批评
+    - id: agrees_with
+      label_zh: 同意
+    - id: interprets
+      label_zh: 解释
+    - id: reframes
+      label_zh: 重新框定
+    - id: applies_method
+      label_zh: 使用方法
+    - id: addresses_question
+      label_zh: 回应问题
+
+  historical_process:
+    - id: influenced
+      label_zh: 影响
+      requires_human_review: true
+    - id: derived_from
+      label_zh: 源自
+      requires_human_review: true
+    - id: caused
+      label_zh: 导致
+      requires_human_review: true
+    - id: enabled
+      label_zh: 促成或使能
+      requires_human_review: true
+    - id: institutionalized
+      label_zh: 制度化
+      requires_human_review: true
+    - id: disseminated_through
+      label_zh: 通过……传播
+      requires_human_review: true
+    - id: commercialized
+      label_zh: 商业化
+      requires_human_review: true
+    - id: standardized
+      label_zh: 标准化
+      requires_human_review: true
+    - id: excluded
+      label_zh: 排除
+      requires_human_review: true
+    - id: appropriated
+      label_zh: 挪用
+      requires_human_review: true
+    - id: decolonized
+      label_zh: 去殖民化处理
+      requires_human_review: true
+
+  object_and_practice:
+    - id: uses_material
+      label_zh: 使用材料
+    - id: uses_technology
+      label_zh: 使用技术
+    - id: uses_medium
+      label_zh: 使用媒介
+    - id: created_for
+      label_zh: 为……创建
+    - id: belongs_to_movement
+      label_zh: 属于运动
+    - id: associated_with_style
+      label_zh: 与风格相关
+    - id: held_by_collection
+      label_zh: 收藏于
+    - id: depicts
+      label_zh: 描绘
+    - id: responds_to
+      label_zh: 回应
+
+relation_statuses:
+  - id: observed
+    label_zh: 来源直接观察
+    definition: 来源明确陈述或史料直接记录。
+  - id: supported
+    label_zh: 证据支持
+    definition: 编辑判断，但已有足够证据支持。
+  - id: candidate
+    label_zh: 候选关系
+    definition: 自动发现或待人工核定。
+  - id: disputed
+    label_zh: 存在争议
+    definition: 有明确冲突证据或竞争解释。
+
+record_statuses:
+  - draft
+  - candidate
+  - review_required
+  - verified
+  - published
+  - disputed
+  - deprecated
+  - superseded
+  - restricted
+
+maturity_levels:
+  L0: 文献已登记
+  L1: 元数据、版本和权利状态已核定
+  L2: 证据已结构化并可回查
+  L3: 知识原子已抽取并完成类型标注
+  L4: 实体、概念和关系已规范化
+  L5: 已完成跨文献比较、冲突识别和来源互证
+  L6: 已通过研究级人工复核
+
+rules:
+  - same_as、duplicate_entry_of和translates必须经过版本或实体消歧。
+  - influenced、caused、derived_from和institutionalized不得仅凭共现建立。
+  - candidate关系不能出现在不带状态提示的研究级输出中。
+  - disputed关系必须连接冲突证据或争议对象。
+  - 专题视图中的排列关系不得自动写回为历史因果关系。

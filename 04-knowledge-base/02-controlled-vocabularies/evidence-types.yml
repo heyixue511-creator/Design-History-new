@@ -1,0 +1,84 @@
+schema_version: 1.0.0
+vocabulary: evidence_types
+principle: 证据类型描述材料如何支持命题，不描述命题本身是否正确。
+
+types:
+  - id: primary_text_statement
+    label_zh: 原始文本陈述
+    definition: 作者在原始文献正文中的明确陈述。
+
+  - id: primary_text_description
+    label_zh: 原始文本描述
+    definition: 原始文献对事件、作品、人物、制度或过程的事实性描述。
+
+  - id: primary_image
+    label_zh: 原始图像证据
+    definition: 作品图、照片、图表、版面、地图或其他可视材料。
+    requires_visual_review: true
+
+  - id: caption_credit
+    label_zh: 图注与版权信息
+    definition: 图注、作品说明、图片来源和版权页提供的元数据。
+
+  - id: bibliographic_metadata
+    label_zh: 书目元数据
+    definition: 版权页、期刊信息、目录、馆藏或出版机构提供的版本信息。
+
+  - id: archival_record
+    label_zh: 档案记录
+    definition: 书信、会议记录、合同、目录、机构档案或同期行政文件。
+
+  - id: material_object
+    label_zh: 实物与物质证据
+    definition: 作品、产品、材料、制作痕迹、尺寸和保存状态等实物信息。
+    requires_object_review: true
+
+  - id: author_structure
+    label_zh: 作者结构安排
+    definition: 章节组织、案例排序、标题和分期所形成的间接论证证据。
+
+  - id: citation_reference
+    label_zh: 引文与参考关系
+    definition: 文献对另一来源的明确引用、转述或参考书目关系。
+
+  - id: secondary_source_claim
+    label_zh: 二手文献主张
+    definition: 研究文献对其他人物、作品、事件或理论的解释。
+
+  - id: review_or_commentary
+    label_zh: 书评与评论
+    definition: 书评、评论文章、编者说明或相邻文本提供的评价性证据。
+    warning: 不得替代被评论的完整著作。
+
+  - id: repository_deep_report
+    label_zh: 仓库深度报告
+    definition: 01-book-report或01-paper-report中的文献级语义分析结果。
+    maximum_strength_without_source_check: E1
+
+  - id: repository_enhanced_report
+    label_zh: 仓库增强报告
+    definition: 03-enhanced-report中的解释、关联和批判性分析。
+    maximum_strength_without_source_check: E1
+
+  - id: external_authoritative_metadata
+    label_zh: 外部权威元数据
+    definition: 出版社、图书馆、博物馆、档案馆、DOI或权威目录记录。
+
+  - id: cross_source_corroboration
+    label_zh: 跨来源互证
+    definition: 两个或多个相互独立来源对同一命题提供一致支持。
+
+  - id: contradiction_evidence
+    label_zh: 冲突证据
+    definition: 对现有命题构成反例、修正或竞争解释的材料。
+
+  - id: absence_observation
+    label_zh: 缺失观察
+    definition: 在明确限定的材料范围内未发现预期信息。
+    warning: 不得把“未发现”直接写成“历史上不存在”。
+
+rules:
+  - OCR文本中的图像和形式判断必须连接primary_image或标记image_missing。
+  - repository_deep_report与repository_enhanced_report只能作为导航证据，研究级命题需回到原始来源。
+  - bibliographic_metadata必须区分原版年份、当前版本年份、译本年份和数字化年份。
+  - absence_observation必须记录检索范围、方法和时间。

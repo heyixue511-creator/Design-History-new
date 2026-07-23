@@ -1,0 +1,1165 @@
+{
+  "schema_version": "1.0.0",
+  "batch_id": "pilot-01",
+  "query_count": 6,
+  "queries": [
+    {
+      "query_id": "CMP-RAIZMAN-EDITIONS",
+      "label": "通史版本组",
+      "research_question": "Raizman不同版本的章节结构、案例、数字设计、全球范围和责任话语有何变化？",
+      "members": [
+        {
+          "source_id": "SRC-PILOT-BOOK-0096",
+          "label": "History of Modern Design（2010）",
+          "publication_year": "2010",
+          "evidence_ids": [
+            "EVD-PILOT-COMP-BOOK-0096-01",
+            "EVD-PILOT-COMP-BOOK-0096-02",
+            "EVD-PILOT-COMP-BOOK-0096-03",
+            "EVD-PILOT-COMP-BOOK-0096-04",
+            "EVD-PILOT-COMP-BOOK-0096-05",
+            "EVD-PILOT-COMP-BOOK-0096-06"
+          ],
+          "evidence_previews": [
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0096-01",
+              "section": "comparison focus: digital",
+              "anchor": "Using computers to generate digital type and manipulate digital images for graphic presentation began in 1984 with the operating system and user interface developed by the Apple Corporation for its Macintosh computers."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0096-02",
+              "section": "comparison focus: computer",
+              "anchor": "Computer preparation of type and layout now dominates the printing industry, although much printing continues to be done on offset presses from photographic plates rather than directly from the computer to the press."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0096-03",
+              "section": "comparison focus: consumption",
+              "anchor": "This dynamic, interdependent relation between production and consumption, involving new technologies, marketing, communications, and competitive commercial practices, provides the foundation for the study of modern design."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0096-04",
+              "section": "comparison focus: global",
+              "anchor": "Good design within the global corporation has been an effective marketing and organizational strategy emphasizing consistency, recognition, and technical standards through mass communication and mechanized mass production."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0096-05",
+              "section": "comparison focus: responsibility",
+              "anchor": "Those governments continued to assume responsibility for patronage and education, sponsoring \"official styles\" and establishing schools for the training of designers to replace or supplement earlier workshop practice."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0096-06",
+              "section": "comparison focus: environmental",
+              "anchor": "With at least some of the health and environmental risks of chemicals addressed and monitored through EPA standards and other regulatory agencies, the link between chemistry, new materials, and design remains strong."
+            }
+          ],
+          "claim_ids": [
+            "CLM-PILOT-MODEL-BOOK-0096-01",
+            "CLM-PILOT-MODEL-BOOK-0096-02",
+            "CLM-PILOT-MODEL-BOOK-0096-03",
+            "CLM-PILOT-MODEL-BOOK-0096-04"
+          ],
+          "claim_previews": [
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0096-01",
+              "description": "Unlike earlier pattern or model books intended for workshop use (although it was certainly used as such by other cabinet-makers), Chippendale's Director targeted prospective customers; its publication was timed to coincide with the opening of parliament after a general election, when new members would be relocating to London and looking to furnish their apartments or town houses."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0096-02",
+              "description": "The design and construction of these early-nineteenth-century examples of cast-iron furniture are remarkably similar to benches used today in parks or commuter rail stations, where simple cast-iron supports connect to riveted planks of painted or varnished wood."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0096-03",
+              "description": "They lobbied for restricted use of machines by manufacturers, and such restrictions eventually allowed American goods to compete for British markets."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0096-04",
+              "description": "Wornum further lamented an overabundance of luxury furniture and other products at the expense of less costly and more practical examples of good taste directed toward shaping the needs of average middle-class consumers."
+            }
+          ],
+          "concept_ids": [
+            "CON-PILOT-LEX-BOOK-0096-01",
+            "CON-PILOT-LEX-BOOK-0096-02",
+            "CON-PILOT-LEX-BOOK-0096-03",
+            "CON-PILOT-LEX-BOOK-0096-04",
+            "CON-PILOT-LEX-BOOK-0096-05"
+          ],
+          "concept_labels": [
+            "industrial",
+            "designers",
+            "furniture",
+            "contemporary",
+            "goods"
+          ],
+          "relation_ids": [
+            "REL-PILOT-MENTION-BOOK-0096-01",
+            "REL-PILOT-MENTION-BOOK-0096-02",
+            "REL-PILOT-MENTION-BOOK-0096-03"
+          ],
+          "debate_ids": [
+            "DBT-PILOT-OPEN-BOOK-0096"
+          ],
+          "review_state": "candidate_evidence_packet_not_semantically_reviewed"
+        },
+        {
+          "source_id": "SRC-PILOT-BOOK-0097",
+          "label": "History of Modern Design（2023）",
+          "publication_year": "2023",
+          "evidence_ids": [
+            "EVD-PILOT-COMP-BOOK-0097-01",
+            "EVD-PILOT-COMP-BOOK-0097-02",
+            "EVD-PILOT-COMP-BOOK-0097-03",
+            "EVD-PILOT-COMP-BOOK-0097-04",
+            "EVD-PILOT-COMP-BOOK-0097-05",
+            "EVD-PILOT-COMP-BOOK-0097-06"
+          ],
+          "evidence_previews": [
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0097-01",
+              "section": "comparison focus: digital",
+              "anchor": "Using computers to generate digital type and manipulate digital images for graphic presentation began in 1984 with the operating system and user interface developed by the Apple Corporation for its Macintosh computers."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0097-02",
+              "section": "comparison focus: computer",
+              "anchor": "Computer preparation of type and layout now dominates the printing industry, although much bulk printing continues to be done on offset presses from photographic plates rather than directly from the computer to the press."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0097-03",
+              "section": "comparison focus: consumption",
+              "anchor": "In a climate of free markets, investment in European industrial production, and international commerce, differences regarding consumption seem more a matter of taste than of ethics, as outlined by journalist Russell Lynes."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0097-04",
+              "section": "comparison focus: global",
+              "anchor": "4.9), Jones included the possibility of constructing original patterns based upon the study of nature tempered by the rules he enumerated and as taught in the British Schools of Design (see also the Global Inspiration II, here)."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0097-05",
+              "section": "comparison focus: responsibility",
+              "anchor": "In Owens New Harmony community in Indiana, workers lives were organized along a collective and egalitarian rather than an individual and hierarchical basis with communal responsibility for education and child-rearing."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0097-06",
+              "section": "comparison focus: environmental",
+              "anchor": "The interconnected political and environmental crises of the twenty-first century have motivated many in the design community and the community at large to address social and ecological responsibility in a variety of ways."
+            }
+          ],
+          "claim_ids": [
+            "CLM-PILOT-MODEL-BOOK-0097-01",
+            "CLM-PILOT-MODEL-BOOK-0097-02",
+            "CLM-PILOT-MODEL-BOOK-0097-03",
+            "CLM-PILOT-MODEL-BOOK-0097-04"
+          ],
+          "claim_previews": [
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0097-01",
+              "description": "Chippendales furniture designs include examples of contemporary French taste in the style of Louis XV, but the illustrations in the Director also feature variations of this style that incorporate Chinese motifs (as interpreted by Western artists) for chinoiserie (see here), as well as chairs, tables, and cabinets with decoration based upon the Gothic style in architecture (figs."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0097-02",
+              "description": "In the eighteenth and nineteenth centuries, a network of officials regulated the China trade, located in markets or warehouses called hongs along Chinas southern coast where traders transacted business."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0097-03",
+              "description": "Curiously, another new face linked to the growing demand for advertising eliminated serifs altogether and often used strokes of uniform thickness, also permitting the very close spacing of letters and giving a strong sense of overall density."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0097-04",
+              "description": "Pugin holds a well-deserved place in the Western canon of modern design, but his direct legacy is perhaps best seen in the widespread construction of Gothic Revival churches in Britain and North America in the late nineteenth and early twentieth centuries."
+            }
+          ],
+          "concept_ids": [
+            "CON-PILOT-LEX-BOOK-0097-01",
+            "CON-PILOT-LEX-BOOK-0097-02",
+            "CON-PILOT-LEX-BOOK-0097-03",
+            "CON-PILOT-LEX-BOOK-0097-04",
+            "CON-PILOT-LEX-BOOK-0097-05"
+          ],
+          "concept_labels": [
+            "forms",
+            "modern",
+            "style",
+            "along",
+            "Colonial"
+          ],
+          "relation_ids": [
+            "REL-PILOT-MENTION-BOOK-0097-01",
+            "REL-PILOT-MENTION-BOOK-0097-02",
+            "REL-PILOT-MENTION-BOOK-0097-03"
+          ],
+          "debate_ids": [
+            "DBT-PILOT-OPEN-BOOK-0097"
+          ],
+          "review_state": "candidate_evidence_packet_not_semantically_reviewed"
+        }
+      ],
+      "answer_status": "not_answered_pending_semantic_review",
+      "use_boundary": "该数据包只复现候选证据链，不自动生成历史比较结论。"
+    },
+    {
+      "query_id": "CMP-MARGOLIN-VOLUMES",
+      "label": "世界设计史卷册组",
+      "research_question": "两卷的卷册边界、连续叙事、战争断点、地域分配和全球史方法如何衔接？",
+      "members": [
+        {
+          "source_id": "SRC-PILOT-BOOK-0511",
+          "label": "World History of Design, Volume 1（2015）",
+          "publication_year": "2015",
+          "evidence_ids": [
+            "EVD-PILOT-COMP-BOOK-0511-01",
+            "EVD-PILOT-COMP-BOOK-0511-02",
+            "EVD-PILOT-COMP-BOOK-0511-03",
+            "EVD-PILOT-COMP-BOOK-0511-04",
+            "EVD-PILOT-COMP-BOOK-0511-05",
+            "EVD-PILOT-COMP-BOOK-0511-06"
+          ],
+          "evidence_previews": [
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0511-01",
+              "section": "comparison focus: 殖民",
+              "anchor": "使用设备，但在中西部却在生产大型农场使用的机器。美国生产的机器大量销往国外及殖民地，如收割机、割草机、脱粒机等。英国进口大量割草机和收割机，而后分销到其他海外市场。俄国是美国农用机械的最大消费国之一，它单在1877年就定了10,000架耕犁。最大的生产商是迪尔公司及其主要竞争对手国际收割机公司。后者建于1902年，当时小赛勒斯·麦考密克与其他几个生产商结成利益共同体，建立了一家拥有50,000名雇员，年均产能为350,000台机器的企业。"
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0511-02",
+              "section": "comparison focus: 奴隶",
+              "anchor": "最典型的殖民地工业企业是奥夫拉赫(obraje），这种工厂可以雇佣几百名工人。奥夫拉赫原本是一种可上溯至17世纪的殖民机构，一种血汗工厂，最早时使用奴隶和在偏远地区购买的劳工。在殖民时代之后，这些工厂开始雇佣付薪工人，其中许多都是新移民。它们的核心产品是纺织，主要是毛织品，但棉织品也有一定比重。纺织品是首批全国分销的产品之一，有的还销往地区外的国际市场。此外，皮革也被加工和制成各种产品，以满足家用或产业需求，包括鞋子、围裙和长裤，以及养马用的缰绳、皮带、包和桶。"
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0511-03",
+              "section": "comparison focus: 战争",
+              "anchor": "批评家们忍不住对希腊光荣的古典历史与希腊馆中所展出的贫乏农业产品和民间手工艺进行比较。无论如何，希腊确实超群的是他们有着丰富刺绣的传统男性服装。审查委员对服装的工艺产生很深印象，他们把这与生产这些服装的艺术学院的教育质量联系起来。然而，博览会中失望的批评家没能认识到独立战争之后的希腊政治形式是如何的困难，又有多少精力被政治而不是经济事务所消耗。他们看起来也注意不到希腊在海运和造船方面的高超技艺，这些显然是没有在展览中予以展示。"
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0511-04",
+              "section": "comparison focus: 全球",
+              "anchor": "Ching)、马克·哲伯克（Mark Jarzombek）和维克拉姆帝亚·普拉卡什（Vikramaditya Prakash）的《全球建筑史》(A Global History of Architecture)，以紧凑的篇幅创造了包含范围广泛而均衡的叙述法，而阿诺德·佩西（Arnold Pacey)早在 1991年的著作《科技与世界文明》（Technology and WorldCivilization）中即提炼出了世界科技史的框架。"
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0511-05",
+              "section": "comparison focus: 工业",
+              "anchor": "用许多拧在一起的小构件组装成椅子的思路是家居产品工业化的早期尝试，与半个世纪之前伊莱·惠特尼（EliWhitney）给美国陆军造的毛瑟枪相似。就像惠特尼利用大量机器将人的劳动成果组织起来一样，格布鲁德·索耐特公司用的是自己设计的机器，如那些处理和弯曲木材的机器。到1860年，最初的工厂每年能够生产出50,000件家具。与比德迈风格家具不一样，格布鲁德·索耐特公司最大的市场不是家庭而是咖啡馆和饭店，一些特定的样式成为典型的维也纳咖啡馆椅子。"
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0511-06",
+              "section": "comparison focus: 世界",
+              "anchor": "这条组装线将底盘组装时间从12小时以上减少到不到3小时（图17.06）。这种大规模的机械化不仅降低了成本也降低了对工人技术的要求。流水线使得很多人不需要培训就可以胜任这份工作，但同时这也使工人陷入机器式的劳作，这正是威廉·莫里斯以及艺术与手工艺改革者所批判的工厂体系。第一次世界大战时，福特公司牢牢地把握住了一半的市场，尽管并没有怎么改进ModelT的基本设计。之后很多年里，福特一直拒绝改变造型同时拒绝其他的风格，而是牢牢把握黑色。"
+            }
+          ],
+          "claim_ids": [
+            "CLM-PILOT-MODEL-BOOK-0511-01",
+            "CLM-PILOT-MODEL-BOOK-0511-02",
+            "CLM-PILOT-MODEL-BOOK-0511-03",
+            "CLM-PILOT-MODEL-BOOK-0511-04"
+          ],
+          "claim_previews": [
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0511-01",
+              "description": "继商朝之后，周朝（公元前1046—公元前256年）统治中国800余年，是中国历史上最长的朝代。尽管周朝在历经3年多的激烈战争后打败了商朝，确立了统治，但其最初还是沿用了许多商朝的技术。早期的周朝陶器还是延续商朝的传统方法，但其工艺水平相对较低。商朝的白陶消失了，而硬质带釉陶器随后被制造出来。"
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0511-02",
+              "description": "相比之下，西欧农业经济主要在封建领主所有的大型庄园周围得以发展。教会也不断扩展，并填补了罗马世俗权力结构消失留下的空白。封建领主及神职人员受最低阶层农民的供养。农民为封建领主耕种土地，同时将一部分收获无偿缴纳给领主以换取庇护。另一种则是由教会支持的修道院，在这里修道士创造属于他们自己的工作环境。他们不仅擅长各种手工艺，还精通创作装饰精美的手稿，所有这些作品均来自被称为缮写室（scriptoria）的特殊工坊。修道院工坊中常见铁匠、锁匠及手工具制造者，某些情况下修道院也是土地所有者，生活在修道院所辖地区的手工艺人用金属器具或编织品来支付租金。"
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0511-03",
+              "description": "Rubin, Norman A., \"Islamic Metalwork,\" www.bewilderingstories.com/issue84/islamic\\_ metalwork(accessed November 1, 2011)."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0511-04",
+              "description": "与奥斯曼帝国不同，欧洲中世纪学者精通希腊罗马文献，但是在15世纪活字印刷术发明之前，这些知识和文献译本都没能得到广泛传播。印刷术发明后，古典文学开始复兴，并进而影响到了生活的各个方面。成千上万的书籍流传到了欧洲大陆各个地方，文学兴起、生产活动参与度以及知识传播等方面的规模也得以大幅提升。"
+            }
+          ],
+          "concept_ids": [
+            "CON-PILOT-LEX-BOOK-0511-01",
+            "CON-PILOT-LEX-BOOK-0511-02",
+            "CON-PILOT-LEX-BOOK-0511-03",
+            "CON-PILOT-LEX-BOOK-0511-04",
+            "CON-PILOT-LEX-BOOK-0511-05"
+          ],
+          "concept_labels": [
+            "William",
+            "accessed",
+            "Cambridge",
+            "Caslon",
+            "Culture"
+          ],
+          "relation_ids": [
+            "REL-PILOT-MENTION-BOOK-0511-01",
+            "REL-PILOT-MENTION-BOOK-0511-02",
+            "REL-PILOT-MENTION-BOOK-0511-03"
+          ],
+          "debate_ids": [
+            "DBT-PILOT-OPEN-BOOK-0511"
+          ],
+          "review_state": "candidate_evidence_packet_not_semantically_reviewed"
+        },
+        {
+          "source_id": "SRC-PILOT-BOOK-0512",
+          "label": "World History of Design, Volume 2（2015）",
+          "publication_year": "2015",
+          "evidence_ids": [
+            "EVD-PILOT-COMP-BOOK-0512-01",
+            "EVD-PILOT-COMP-BOOK-0512-02",
+            "EVD-PILOT-COMP-BOOK-0512-03",
+            "EVD-PILOT-COMP-BOOK-0512-04",
+            "EVD-PILOT-COMP-BOOK-0512-05",
+            "EVD-PILOT-COMP-BOOK-0512-06"
+          ],
+          "evidence_previews": [
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0512-01",
+              "section": "comparison focus: war",
+              "anchor": "Its aim  was   to  glorify\n\n meet  the demand  for more  uniforms  in the  later  years     the state and  its leaders by producing mythic  narratives\n\n of the war,  Boss  took  both  prisoners  of war  and  forced     of heroic  acts and achievements."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0512-02",
+              "section": "comparison focus: state",
+              "anchor": "In  1923   a  group  of\n\n                                                                                             writers  and  graphic   artists  came   together  around   a\n\n                                                                                      journal  called  Sparrow,  which  led  to  the establishment\n\n                                                                                                   in 1925 of aChildren’s  Publishing Department,  known\n\n                                                                                                                       as Detgiz,  in the State  Publishing  House."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0512-03",
+              "section": "comparison focus: colonial",
+              "anchor": "the Communists   set  up  a government   in Jiangxi,  but    For  the most  part,  colonial  officials  treated  native  crafts\n\nChiane’s  continued  military campaigns  forced  them  to      as an  art form  to be shown  off at exhibitions  in Europe."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0512-04",
+              "section": "comparison focus: independence",
+              "anchor": "founding  was  delayed  by the  outbreak  of World  War\n\n                             In   Spain,   the   intensified   bid   for   Catalan     I and a later attempt  to bring together  the appropriate\n\n                  independence   after  World  War   I  contributed    to   a     parties was  unsuccessful."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0512-05",
+              "section": "comparison focus: global",
+              "anchor": "luxury  markets  would  help  ensure  that  France  would    Consequently,   the  Society  of Artist-Decorators   gave\n\n                     not   fall behind  the  other  industrial  nations   in  global      little  attention   to  mass  production   in  its exhibitions."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0512-06",
+              "section": "comparison focus: digital",
+              "anchor": "Institute   of Modern  Russian  Culture  and     done  by hand  with  the  intent  of being  emotionally\n\nDigital  Library,  University of Southern  California."
+            }
+          ],
+          "claim_ids": [
+            "CLM-PILOT-MODEL-BOOK-0512-01",
+            "CLM-PILOT-MODEL-BOOK-0512-02",
+            "CLM-PILOT-MODEL-BOOK-0512-03",
+            "CLM-PILOT-MODEL-BOOK-0512-04"
+          ],
+          "claim_previews": [
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0512-01",
+              "description": "Bayer derived his clean guidance, students began to experiment with new page organization, use of white space, and preference abcdefghi Klmnopar STUVWXYZ HERBERT BAYER: Abb."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0512-02",
+              "description": "Ruhlmann favored exotic woods and rich materials, stating quite openly that he preferred to design for the rich because they had the best taste and could afford to indulge it."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0512-03",
+              "description": "Among its leading in this case the classical facade of the Church of the practitioners were two émigrés, Dr."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0512-04",
+              "description": "It adopted a symbol, the Speedbird As an added design element, the airline commissioned a icon designed by Theyre Lee-Elliott (1903-1988), which line of exclusive dishes from Susie Cooper (1902-1995), it used in various ways (Fig."
+            }
+          ],
+          "concept_ids": [
+            "CON-PILOT-LEX-BOOK-0512-01",
+            "CON-PILOT-LEX-BOOK-0512-02",
+            "CON-PILOT-LEX-BOOK-0512-03",
+            "CON-PILOT-LEX-BOOK-0512-04",
+            "CON-PILOT-LEX-BOOK-0512-05"
+          ],
+          "concept_labels": [
+            "Architect",
+            "began",
+            "books",
+            "World",
+            "Applied"
+          ],
+          "relation_ids": [
+            "REL-PILOT-MENTION-BOOK-0512-01",
+            "REL-PILOT-MENTION-BOOK-0512-02",
+            "REL-PILOT-MENTION-BOOK-0512-03"
+          ],
+          "debate_ids": [
+            "DBT-PILOT-OPEN-BOOK-0512"
+          ],
+          "review_state": "candidate_evidence_packet_not_semantically_reviewed"
+        }
+      ],
+      "answer_status": "not_answered_pending_semantic_review",
+      "use_boundary": "该数据包只复现候选证据链，不自动生成历史比较结论。"
+    },
+    {
+      "query_id": "CMP-DESIGN-HISTORY-THEORY",
+      "label": "设计史理论组",
+      "research_question": "Fallan与Design Discourse如何界定设计史对象、理论来源、学科边界和批评传统？",
+      "members": [
+        {
+          "source_id": "SRC-PILOT-BOOK-0506",
+          "label": "Design History: Understanding Theory and Method（2010）",
+          "publication_year": "2010",
+          "evidence_ids": [
+            "EVD-PILOT-COMP-BOOK-0506-01",
+            "EVD-PILOT-COMP-BOOK-0506-02",
+            "EVD-PILOT-COMP-BOOK-0506-03",
+            "EVD-PILOT-COMP-BOOK-0506-04",
+            "EVD-PILOT-COMP-BOOK-0506-05",
+            "EVD-PILOT-COMP-BOOK-0506-06"
+          ],
+          "evidence_previews": [
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0506-01",
+              "section": "comparison focus: design history",
+              "anchor": "If the discussion had shifted towards publications dealing\nwith more particular subject matters and more unconventional delimitations,\nthere would be more radical and challenging ways of writing industrial design\nhistory."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0506-02",
+              "section": "comparison focus: theory",
+              "anchor": "Having presented first a historiograpical survey, followed by the discus-\nsions on theory and methodology put forth here, it is now time to explore\nsome of the epistemological problems at the heart of design history."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0506-03",
+              "section": "comparison focus: method",
+              "anchor": "Learning from Things—Method and Mate-\nMurphie, A., and Potts,  J., Culture & Tech-       rial of Material Culture Studies, Washing-\n   nology, Basingstoke: Palgrave Macmillan,       ton, D.C.: Smithsonian Institution Press,\n   2003."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0506-04",
+              "section": "comparison focus: object",
+              "anchor": "Clarke,  S., ‘Managing Design: The Art and   Daston, L., ed., Things That Talk—Object Les-\n   Colour Section at General Motors, 1927–      sons form Art and Science, New York: Zone\n   1941’, Journal  of Design History, 12/1      Books, 2004."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0506-05",
+              "section": "comparison focus: discourse",
+              "anchor": "Discourse analysis may be an appropriate tool if one\napproaches design history as a history of textual design discourse but is ill\nequipped to encounter a core concern of most design history: the materiality\nof objects."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0506-06",
+              "section": "comparison focus: discipline",
+              "anchor": "Margolin’s desire\n    to define a new field of study hardly seems necessary—surely the discipline of history\n    as it has developed over the last century or so already provides a perfectly satisfactory\n    definition of the ‘field’."
+            }
+          ],
+          "claim_ids": [
+            "CLM-PILOT-MODEL-BOOK-0506-01",
+            "CLM-PILOT-MODEL-BOOK-0506-02",
+            "CLM-PILOT-MODEL-BOOK-0506-03",
+            "CLM-PILOT-MODEL-BOOK-0506-04"
+          ],
+          "claim_previews": [
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0506-01",
+              "description": "The general field of design history, however, is normally thought to encompass a far wider subject matter, including pre-industrial and non-industrial manufacture, and span- ning graphic design, fashion, textiles, interior design and craft."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0506-02",
+              "description": "34 Despite reservations regarding generalizations, it should be mentioned that these biases have been criticized and challenged within the realm of design history and in the parent discipline of art history for a long time."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0506-03",
+              "description": "The following section outlines some of the attempts that have been made during the past couple of decades at advocating the writing of a design history better suited to a subject matter made up of ubiquitous, mass-produced, mundane, industrial products rather than precious objets d’art."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0506-04",
+              "description": "aims to help consolidate design history as a distinct discipline but it will not be narrowly specialist in content or sectarian in tone."
+            }
+          ],
+          "concept_ids": [
+            "CON-PILOT-LEX-BOOK-0506-01",
+            "CON-PILOT-LEX-BOOK-0506-02",
+            "CON-PILOT-LEX-BOOK-0506-03",
+            "CON-PILOT-LEX-BOOK-0506-04",
+            "CON-PILOT-LEX-BOOK-0506-05"
+          ],
+          "concept_labels": [
+            "history",
+            "consumption",
+            "cultural",
+            "technology",
+            "decades"
+          ],
+          "relation_ids": [
+            "REL-PILOT-MENTION-BOOK-0506-01",
+            "REL-PILOT-MENTION-BOOK-0506-02",
+            "REL-PILOT-MENTION-BOOK-0506-03"
+          ],
+          "debate_ids": [
+            "DBT-PILOT-OPEN-BOOK-0506"
+          ],
+          "review_state": "candidate_evidence_packet_not_semantically_reviewed"
+        },
+        {
+          "source_id": "SRC-PILOT-BOOK-0417",
+          "label": "Design Discourse: History, Theory, Criticism（1989）",
+          "publication_year": "1989",
+          "evidence_ids": [
+            "EVD-PILOT-COMP-BOOK-0417-01",
+            "EVD-PILOT-COMP-BOOK-0417-02",
+            "EVD-PILOT-COMP-BOOK-0417-03",
+            "EVD-PILOT-COMP-BOOK-0417-04",
+            "EVD-PILOT-COMP-BOOK-0417-05",
+            "EVD-PILOT-COMP-BOOK-0417-06"
+          ],
+          "evidence_previews": [
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0417-01",
+              "section": "comparison focus: history",
+              "anchor": "5) See, for example, Sheila Rowbotham, Hidden From History (London: Pluto Press, 1980); Jill Liddington and Jill Norris, One Hand Tied Behind Us: The Rise of the Women's Suffrage Movement (London: Virago, 1978); Judith L."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0417-02",
+              "section": "comparison focus: theory",
+              "anchor": "Nigel Cross, on the other hand, looks more closely at a possible shift to \"post-industrial design\" that incorporates not only changes in production but also sex roles, design methods, planning theory, and work patterns."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0417-03",
+              "section": "comparison focus: criticism",
+              "anchor": "Through his criticism of all design avant-gardes, whether modernist or postmodernist, Selle empowers ordinary people to exercise their own taste which, he says, they do in accordance with their personal life projects."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0417-04",
+              "section": "comparison focus: discourse",
+              "anchor": "These can be qualified as graphic in the sense that they constitute an entire large integrated diagram within the framework of our life and translate the elements of that life into a sort of intelligible discourse."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0417-05",
+              "section": "comparison focus: rhetoric",
+              "anchor": "Semiotics, the doctrine of signs, explains the principles that underlie the structure of signs and their utilization within messages, and rhetoric, the art of persuasion, suggests ways to construct appropriate messages."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0417-06",
+              "section": "comparison focus: patriarchy",
+              "anchor": "To compound this devaluation of women designers' work, designs produced by women in the domestic environment (their natural space within a patriarchy) are seen to represent use-value rather than exchange-value."
+            }
+          ],
+          "claim_ids": [
+            "CLM-PILOT-MODEL-BOOK-0417-01",
+            "CLM-PILOT-MODEL-BOOK-0417-02",
+            "CLM-PILOT-MODEL-BOOK-0417-03",
+            "CLM-PILOT-MODEL-BOOK-0417-04"
+          ],
+          "claim_previews": [
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0417-01",
+              "description": "He has faith in the ability of ordinary people to regulate their lives according to their own needs, but other theorists believe that a new 31) Marketing strategists have been speaking for a few years about service design."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0417-02",
+              "description": "It is this growing mediation of action by symbol systems that both Diani and Morgantini have noted as characteristic of intelligent objects and their concomitant work processes."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0417-03",
+              "description": "For Buckley the \"dialectical necessity\"is patriarchy, which she wants to expose in order to liberate historians from stereotypical thinking about women as designers."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0417-04",
+              "description": "A password has not yet become effective, and already we detect the symptoms of a great attention paid to neoprimitive languages, to the extent that we have had to make a selection among the many possible examples of that latent condition."
+            }
+          ],
+          "concept_ids": [
+            "CON-PILOT-LEX-BOOK-0417-01",
+            "CON-PILOT-LEX-BOOK-0417-02",
+            "CON-PILOT-LEX-BOOK-0417-03",
+            "CON-PILOT-LEX-BOOK-0417-04",
+            "CON-PILOT-LEX-BOOK-0417-05"
+          ],
+          "concept_labels": [
+            "critical",
+            "designing",
+            "development",
+            "history",
+            "human"
+          ],
+          "relation_ids": [
+            "REL-PILOT-MENTION-BOOK-0417-01",
+            "REL-PILOT-MENTION-BOOK-0417-02",
+            "REL-PILOT-MENTION-BOOK-0417-03"
+          ],
+          "debate_ids": [
+            "DBT-PILOT-OPEN-BOOK-0417"
+          ],
+          "review_state": "candidate_evidence_packet_not_semantically_reviewed"
+        }
+      ],
+      "answer_status": "not_answered_pending_semantic_review",
+      "use_boundary": "该数据包只复现候选证据链，不自动生成历史比较结论。"
+    },
+    {
+      "query_id": "CMP-GLOBAL-MATERIAL-CIRCULATION",
+      "label": "全球物质与传播组",
+      "research_question": "印刷传播、商品链、劳动、殖民和区域网络如何形成不同的全球史尺度？",
+      "members": [
+        {
+          "source_id": "SRC-PILOT-BOOK-0019",
+          "label": "The Arabic Print Revolution: Cultural Production and Mass Readership（2016）",
+          "publication_year": "2016",
+          "evidence_ids": [
+            "EVD-PILOT-COMP-BOOK-0019-01",
+            "EVD-PILOT-COMP-BOOK-0019-02",
+            "EVD-PILOT-COMP-BOOK-0019-03",
+            "EVD-PILOT-COMP-BOOK-0019-04",
+            "EVD-PILOT-COMP-BOOK-0019-05",
+            "EVD-PILOT-COMP-BOOK-0019-06"
+          ],
+          "evidence_previews": [
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0019-01",
+              "section": "comparison focus: printing",
+              "anchor": "Until then, the region’s rulers and societies had shown little interest in Gutenberg’s invention: The existing political order, sociocultural norms, and time-honored writing practices seemed to render printing redundant."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0019-02",
+              "section": "comparison focus: circulation",
+              "anchor": "Egyptian and Lebanese publishers, for their part, worked to distribute their products in the region’s faraway places, appointed circulation agents in remote locations, and delivered books and journals to shops there."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0019-03",
+              "section": "comparison focus: reading",
+              "anchor": "Among them were some of the mechanisms already considered above, which were based on collective acquisition and individual use, that is, buying a stock of books or journals jointly and reading them solitarily, for a fee."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0019-04",
+              "section": "comparison focus: bookshop",
+              "anchor": "The front cover of an 1889 book by Nasıf al-Yazijı, published in Cairo, reveals that its making had been carried out by “The Egyptian Bookshop (al-maktaba al-misriyya), owned by ᶜAzız Zand and his partners, where [the book] is sold."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0019-05",
+              "section": "comparison focus: license",
+              "anchor": "Typically, a bookseller would locate a text with a promising vending potential, obtain a license to publish it, enlist an editor and copyeditor if necessary, have the text printed and bound, and then advertise and sell it."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0019-06",
+              "section": "comparison focus: postal",
+              "anchor": "After mid-century, several foreign postal systems were granted concessions to operate in its territories: French, Austrian, Russian, Italian, and German, competing with the Ottoman system and with each other in service speed and quality."
+            }
+          ],
+          "claim_ids": [
+            "CLM-PILOT-MODEL-BOOK-0019-01",
+            "CLM-PILOT-MODEL-BOOK-0019-02",
+            "CLM-PILOT-MODEL-BOOK-0019-03",
+            "CLM-PILOT-MODEL-BOOK-0019-04"
+          ],
+          "claim_previews": [
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0019-01",
+              "description": "Recent studies have reminded us that we still do not know enough about the role of Ottoman guilds to reach such conclusions, and that the little we do know seems to indicate that copyists might not have been thus organized.<sup>27</sup> Similarly, the idea that Muslim reverence for the scriptures and the sacred language led them to object to printing has come under attack."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0019-02",
+              "description": "The suspicion often proved to be surmountable, but it was a hurdle all the same (needless to say, such distrust of things foreign was hardly a unique Middle Eastern trait)."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0019-03",
+              "description": "Similar changes took place simultaneously in the Turkish-speaking parts, which are not included in the present exploration.<sup>3</sup> In both places, printing gradually became a routine tool of state bureaucracy and the community’s political, social, and cultural life."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0019-04",
+              "description": "Another channel was circulating pious books and tracts, a practice employed by evangelists in Muslim countries and elsewhere from the late sixteenth century onward.<sup>16</sup> It was also used in Ottoman territories, where the government, tolerantly if not quite enthusiastically, permitted their circulation.<sup>17</sup> In the more technologically advanced nineteenth century, however, there were important new features to this endeavor."
+            }
+          ],
+          "concept_ids": [
+            "CON-PILOT-LEX-BOOK-0019-01",
+            "CON-PILOT-LEX-BOOK-0019-02",
+            "CON-PILOT-LEX-BOOK-0019-03",
+            "CON-PILOT-LEX-BOOK-0019-04",
+            "CON-PILOT-LEX-BOOK-0019-05"
+          ],
+          "concept_labels": [
+            "books",
+            "often",
+            "reading",
+            "journals",
+            "printed"
+          ],
+          "relation_ids": [
+            "REL-PILOT-MENTION-BOOK-0019-01",
+            "REL-PILOT-MENTION-BOOK-0019-02",
+            "REL-PILOT-MENTION-BOOK-0019-03"
+          ],
+          "debate_ids": [
+            "DBT-PILOT-OPEN-BOOK-0019"
+          ],
+          "review_state": "candidate_evidence_packet_not_semantically_reviewed"
+        },
+        {
+          "source_id": "SRC-PILOT-BOOK-0039",
+          "label": "Empire of Cotton: A Global History（2014）",
+          "publication_year": "2014",
+          "evidence_ids": [
+            "EVD-PILOT-COMP-BOOK-0039-01",
+            "EVD-PILOT-COMP-BOOK-0039-02",
+            "EVD-PILOT-COMP-BOOK-0039-03",
+            "EVD-PILOT-COMP-BOOK-0039-04",
+            "EVD-PILOT-COMP-BOOK-0039-05",
+            "EVD-PILOT-COMP-BOOK-0039-06"
+          ],
+          "evidence_previews": [
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0039-01",
+              "section": "comparison focus: cotton",
+              "anchor": "Just as in Africa, the spread of Islam played a major role in transmitting the skills to grow, spin, and weave cotton across the Middle East, as religious demands for modesty made cotton an “ordinary article of clothing."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0039-02",
+              "section": "comparison focus: slavery",
+              "anchor": "French geographer Élisée Reclus, writing in the Revue des Deux Mondes, for example, came to essentially the same conclusion: “The industrial prosperity of England appears to be intimately tied to the progress of slavery."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0039-03",
+              "section": "comparison focus: labor",
+              "anchor": "By deserting plantations, withdrawing their labor power, giving intelligence to federal troops, and eventually taking up arms as Union soldiers, American slaves pressed to make a sectional war into a war of emancipation."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0039-04",
+              "section": "comparison focus: colonial",
+              "anchor": "As The Economist put it, “in the tropics Nature has given man the benefit, or the curse, of a perpetual poor law, a prodigality of food which of itself established a minimum of wages.”57 For British colonial official W."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0039-05",
+              "section": "comparison focus: supply",
+              "anchor": "In 1838, the Glasgow Chamber of Commerce and Manufactures shrilly warned of the “alarming fact that Britain is almost entirely dependant on foreign supply for this article, which is now scarcely less necessary than bread."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0039-06",
+              "section": "comparison focus: global",
+              "anchor": "Beginning in the seventeenth century, Indian cottons, in fact, were what historian Beverly Lemire has called the “first global consumer commodity.”31 As demand grew, cotton took its first tentative steps out of the home."
+            }
+          ],
+          "claim_ids": [
+            "CLM-PILOT-MODEL-BOOK-0039-01",
+            "CLM-PILOT-MODEL-BOOK-0039-02",
+            "CLM-PILOT-MODEL-BOOK-0039-03",
+            "CLM-PILOT-MODEL-BOOK-0039-04"
+          ],
+          "claim_previews": [
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0039-01",
+              "description": "By the early seventeenth century, the Dutch and British were replacing the Portuguese in violently regulating the trade in Gujarati textiles, seizing Gujarati ships, and limiting local merchants’ access to the markets of Arabia and, increasingly, Southeast Asia, which were supplied from factories in southern India, along the Coromandel coast, with Madras at its center.2 France was the last of the great European powers to launch trade with the East."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0039-02",
+              "description": "The Indian cotton goods not subject to these bans, such as plain chintz and muslins, were subject to heavy tariffs."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0039-03",
+              "description": "While Edmund Cartwright had patented a water-powered loom as early as 1785, productivity improvements in weaving at first proved modest, and technical problems with power looms great.14 Britain’s growing class of manufacturers, despite issues with looms, were acutely aware that these new machines allowed them to increasingly dominate the one node in the global cotton complex whose control had eluded them: manufacturing."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0039-04",
+              "description": "On the mystery of the “connection between American Slavery and the British Cotton Manufacture,” he noted that “there is not, and never has been, any considerable source of supply for cotton, excepting the East-Indies, which is not obviously and exclusively maintained by slave-labour."
+            }
+          ],
+          "concept_ids": [
+            "CON-PILOT-LEX-BOOK-0039-01",
+            "CON-PILOT-LEX-BOOK-0039-02",
+            "CON-PILOT-LEX-BOOK-0039-03",
+            "CON-PILOT-LEX-BOOK-0039-04",
+            "CON-PILOT-LEX-BOOK-0039-05"
+          ],
+          "concept_labels": [
+            "cotton",
+            "American",
+            "Egyptian",
+            "Textile",
+            "colonial"
+          ],
+          "relation_ids": [
+            "REL-PILOT-MENTION-BOOK-0039-01",
+            "REL-PILOT-MENTION-BOOK-0039-02",
+            "REL-PILOT-MENTION-BOOK-0039-03"
+          ],
+          "debate_ids": [
+            "DBT-PILOT-OPEN-BOOK-0039"
+          ],
+          "review_state": "candidate_evidence_packet_not_semantically_reviewed"
+        }
+      ],
+      "answer_status": "not_answered_pending_semantic_review",
+      "use_boundary": "该数据包只复现候选证据链，不自动生成历史比较结论。"
+    },
+    {
+      "query_id": "CMP-DESIGN-KNOWLEDGE-PROBLEMS",
+      "label": "设计知识与问题结构组",
+      "research_question": "designerly ways of knowing与wicked problems的原始规划理论语境应如何区分？",
+      "members": [
+        {
+          "source_id": "SRC-PILOT-PAPER-0019",
+          "label": "Designerly Ways of Knowing: Design Discipline Versus Design Science（2001）",
+          "publication_year": "2001",
+          "evidence_ids": [
+            "EVD-PILOT-COMP-PAPER-0019-01",
+            "EVD-PILOT-COMP-PAPER-0019-02",
+            "EVD-PILOT-COMP-PAPER-0019-03",
+            "EVD-PILOT-COMP-PAPER-0019-04",
+            "EVD-PILOT-COMP-PAPER-0019-05",
+            "EVD-PILOT-COMP-PAPER-0019-06"
+          ],
+          "evidence_previews": [
+            {
+              "id": "EVD-PILOT-COMP-PAPER-0019-01",
+              "section": "comparison focus: designerly",
+              "anchor": "Designerly Ways of Knowing: Design Discipline versus Design Science\n\nAuthor(s): Nigel Cross\n\nSource: Design Issues, Vol."
+            },
+            {
+              "id": "EVD-PILOT-COMP-PAPER-0019-02",
+              "section": "comparison focus: design science",
+              "anchor": "There remains some confusion between concepts of design science and of a science of design, since a \"science of design\" seems to imply (or, for some people, has the goal of) the development of a \"design science."
+            },
+            {
+              "id": "EVD-PILOT-COMP-PAPER-0019-03",
+              "section": "comparison focus: scientific",
+              "anchor": "Despite the apparent scientific basis (and bias) of much of their work, design methodologists also sought from the earliest days to make distinctions between design and science, as reflected in the following quotations."
+            },
+            {
+              "id": "EVD-PILOT-COMP-PAPER-0019-04",
+              "section": "comparison focus: discipline",
+              "anchor": "This discipline seeks to develop domain-independent approaches to theory and research in design.32 The underlying axiom of this discipline is that there are forms of knowledge special to the awareness and ability of a designer, independent of the different professional domains of design practice."
+            },
+            {
+              "id": "EVD-PILOT-COMP-PAPER-0019-05",
+              "section": "comparison focus: methods",
+              "anchor": "So let me suggest here that the science of design refers to that body of work which attempts to improve our understanding of design through \"scientific\" (i.e., systematic, reliable) methods of investigation."
+            },
+            {
+              "id": "EVD-PILOT-COMP-PAPER-0019-06",
+              "section": "comparison focus: knowledge",
+              "anchor": "One view of the design-science relationship is that, through this reliance of modern design upon scientific knowledge, and through the application of scientific knowledge in practical tasks, design \"makes science visible."
+            }
+          ],
+          "claim_ids": [
+            "CLM-PILOT-MODEL-PAPER-0019-01",
+            "CLM-PILOT-MODEL-PAPER-0019-02",
+            "CLM-PILOT-MODEL-PAPER-0019-03",
+            "CLM-PILOT-MODEL-PAPER-0019-04"
+          ],
+          "claim_previews": [
+            {
+              "id": "CLM-PILOT-MODEL-PAPER-0019-01",
+              "description": "A desire to \"scientise\" design can be traced back to ideas in the twentieth century modern movement of design."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-PAPER-0019-02",
+              "description": "1 A little later, the architect Le Corbusier wrote about the house as an objectively designed \"machine for living:\" \"The use of the house consists of a regular sequence of definite functions."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-PAPER-0019-03",
+              "description": "These aspirations to scientise design surfaced strongly again in the \"design methods movement\" of the 1960s."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-PAPER-0019-04",
+              "description": "The origins of this emergence of new design methods in the 1960s lay in the application of novel, scientific, and computational methods to the novel and pressing problems of the Second World War—from which came civilian developments such as operations research and management decision-making techniques."
+            }
+          ],
+          "concept_ids": [
+            "CON-PILOT-LEX-PAPER-0019-01",
+            "CON-PILOT-LEX-PAPER-0019-02",
+            "CON-PILOT-LEX-PAPER-0019-03",
+            "CON-PILOT-LEX-PAPER-0019-04",
+            "CON-PILOT-LEX-PAPER-0019-05"
+          ],
+          "concept_labels": [
+            "science",
+            "methods",
+            "scientific",
+            "practice",
+            "application"
+          ],
+          "relation_ids": [
+            "REL-PILOT-MENTION-PAPER-0019-01",
+            "REL-PILOT-MENTION-PAPER-0019-02",
+            "REL-PILOT-MENTION-PAPER-0019-03"
+          ],
+          "debate_ids": [
+            "DBT-PILOT-OPEN-PAPER-0019"
+          ],
+          "review_state": "candidate_evidence_packet_not_semantically_reviewed"
+        },
+        {
+          "source_id": "SRC-PILOT-PAPER-0034",
+          "label": "Dilemmas in a General Theory of Planning（1973）",
+          "publication_year": "1973",
+          "evidence_ids": [
+            "EVD-PILOT-COMP-PAPER-0034-01",
+            "EVD-PILOT-COMP-PAPER-0034-02",
+            "EVD-PILOT-COMP-PAPER-0034-03",
+            "EVD-PILOT-COMP-PAPER-0034-04",
+            "EVD-PILOT-COMP-PAPER-0034-05",
+            "EVD-PILOT-COMP-PAPER-0034-06"
+          ],
+          "evidence_previews": [
+            {
+              "id": "EVD-PILOT-COMP-PAPER-0034-01",
+              "section": "comparison focus: wicked",
+              "anchor": "We use the term \"wicked\" in a meaning akin to that of \"malignant\" (in contrast to \"benign\") or \"vicious\" (like a circle) or \"tricky\" (like a leprechaun) or \"aggressive\" (like a lion, in contrast to the docility of a lamb)."
+            },
+            {
+              "id": "EVD-PILOT-COMP-PAPER-0034-02",
+              "section": "comparison focus: tame",
+              "anchor": "But then, you may agree that it becomes morally objectionable for the planner to treat a wicked problem as though it were a tame one, or to tame a wicked problem prematurely, or to refuse to recognize the inherent wickedness of social problems."
+            },
+            {
+              "id": "EVD-PILOT-COMP-PAPER-0034-03",
+              "section": "comparison focus: stopping rule",
+              "anchor": "Wicked problems have no stopping rule"
+            },
+            {
+              "id": "EVD-PILOT-COMP-PAPER-0034-04",
+              "section": "comparison focus: planner",
+              "anchor": "In such fields of ill-defined problems and hence ill-definable solutions, the set of feasible plans of action relies on realistic judgment, the capability to appraise \"exotic\" ideas and on the amount of trust and credibility between planner and clientele that will lead to the conclusion, \"OK let's try that."
+            },
+            {
+              "id": "EVD-PILOT-COMP-PAPER-0034-05",
+              "section": "comparison focus: planning",
+              "anchor": "On the one hand, there is the belief in the \"makeability,\" or unrestricted malleability, of future history by means of the planning intellect—by reasoning, rational discourse, and civilized negotiation."
+            },
+            {
+              "id": "EVD-PILOT-COMP-PAPER-0034-06",
+              "section": "comparison focus: problem",
+              "anchor": "Our point, rather, is that diverse values are held by different groups of individuals— that what satisfies one may be abhorrent to another, that what comprises problemsolution for one is problem-generation for another."
+            }
+          ],
+          "claim_ids": [
+            "CLM-PILOT-MODEL-PAPER-0034-01",
+            "CLM-PILOT-MODEL-PAPER-0034-02",
+            "CLM-PILOT-MODEL-PAPER-0034-03",
+            "CLM-PILOT-MODEL-PAPER-0034-04"
+          ],
+          "claim_previews": [
+            {
+              "id": "CLM-PILOT-MODEL-PAPER-0034-01",
+              "description": "The anti-professional movement stems in part from a reconceptualization of the professional's task."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-PAPER-0034-02",
+              "description": "But now that these relatively easy problems have been dealt with, we have been turning our attention to others that are much more stubborn."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-PAPER-0034-03",
+              "description": "Goal Formulation The search for explicit goals was initiated in force with the opening of the 1960s."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-PAPER-0034-04",
+              "description": "were the efforts to install PPBS, which requires explication of desired outcomes; and then the more recent attempts to build systems of social indicators, which are in effect surrogates for statements of desired conditions."
+            }
+          ],
+          "concept_ids": [
+            "CON-PILOT-LEX-PAPER-0034-01",
+            "CON-PILOT-LEX-PAPER-0034-02",
+            "CON-PILOT-LEX-PAPER-0034-03",
+            "CON-PILOT-LEX-PAPER-0034-04",
+            "CON-PILOT-LEX-PAPER-0034-05"
+          ],
+          "concept_labels": [
+            "Problem",
+            "systems",
+            "cannot",
+            "common",
+            "process"
+          ],
+          "relation_ids": [
+            "REL-PILOT-MENTION-PAPER-0034-01",
+            "REL-PILOT-MENTION-PAPER-0034-02",
+            "REL-PILOT-MENTION-PAPER-0034-03"
+          ],
+          "debate_ids": [
+            "DBT-PILOT-OPEN-PAPER-0034"
+          ],
+          "review_state": "candidate_evidence_packet_not_semantically_reviewed"
+        }
+      ],
+      "answer_status": "not_answered_pending_semantic_review",
+      "use_boundary": "该数据包只复现候选证据链，不自动生成历史比较结论。"
+    },
+    {
+      "query_id": "CMP-DIGITAL-NORMATIVE-DESIGN",
+      "label": "数字设计与规范组",
+      "research_question": "交互设计操作规则、用户模型、规范性技术主张和AI治理判断应如何区分？",
+      "members": [
+        {
+          "source_id": "SRC-PILOT-BOOK-0010",
+          "label": "About Face: The Essentials of Interaction Design（2014）",
+          "publication_year": "2014",
+          "evidence_ids": [
+            "EVD-PILOT-COMP-BOOK-0010-01",
+            "EVD-PILOT-COMP-BOOK-0010-02",
+            "EVD-PILOT-COMP-BOOK-0010-03",
+            "EVD-PILOT-COMP-BOOK-0010-04",
+            "EVD-PILOT-COMP-BOOK-0010-05",
+            "EVD-PILOT-COMP-BOOK-0010-06"
+          ],
+          "evidence_previews": [
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0010-01",
+              "section": "comparison focus: persona",
+              "anchor": "Typically, an accessibility persona would be considered a secondary persona—someone with needs similar to your primary personas, but with some special needs that must be addressed without compromising their experience."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0010-02",
+              "section": "comparison focus: goal",
+              "anchor": "To understand the process of Goal-Directed Design, we first need to understand the nature of user goals, the mental models from which they arise, and how they are the key to designing appropriate interactive behavior."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0010-03",
+              "section": "comparison focus: scenario",
+              "anchor": "This phase employs scenario-based design methods with the important innovation of focusing the scenarios not on user tasks in the abstract, but first and foremost on meeting the goals and needs of specific user personas."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0010-04",
+              "section": "comparison focus: control",
+              "anchor": "If the product development team finds it convenient to use a confusing tree control containing nested, hierarchical folders to provide access to information, they might define the user as a computer-literate “power user."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0010-05",
+              "section": "comparison focus: undo",
+              "anchor": "This singular observation should immediately tell us that of all the facilities in an app, Undo should be modeled the least like its construction methods its implementation model—and the most like the user’s mental model."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0010-06",
+              "section": "comparison focus: user",
+              "anchor": "Although this may get the job done, it won’t produce much more than an incremental improvement: It won’t provide a solution that differentiates your product in the market, and very often it won’t really satisfy the user."
+            }
+          ],
+          "claim_ids": [
+            "CLM-PILOT-MODEL-BOOK-0010-01",
+            "CLM-PILOT-MODEL-BOOK-0010-02",
+            "CLM-PILOT-MODEL-BOOK-0010-03",
+            "CLM-PILOT-MODEL-BOOK-0010-04"
+          ],
+          "claim_previews": [
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0010-01",
+              "description": "Brand and experience requirements reflect attributes of the experience you want users and customers to associate with your product, company, or organization."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0010-02",
+              "description": "The point of this collaboration is to ensure that all aspects of the user experience are in harmony."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0010-03",
+              "description": "From the designer’s point of view, this often means that the application should be optimized for use by intermediates and not be aimed primarily at beginners (or experts)."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0010-04",
+              "description": "A bar or pie chart showing the used and unused portions would make it much easier to comprehend the scale and proportion of hard disk use."
+            }
+          ],
+          "concept_ids": [
+            "CON-PILOT-LEX-BOOK-0010-01",
+            "CON-PILOT-LEX-BOOK-0010-02",
+            "CON-PILOT-LEX-BOOK-0010-03",
+            "CON-PILOT-LEX-BOOK-0010-04",
+            "CON-PILOT-LEX-BOOK-0010-05"
+          ],
+          "concept_labels": [
+            "application",
+            "experience",
+            "possible",
+            "users",
+            "change"
+          ],
+          "relation_ids": [
+            "REL-PILOT-MENTION-BOOK-0010-01",
+            "REL-PILOT-MENTION-BOOK-0010-02",
+            "REL-PILOT-MENTION-BOOK-0010-03"
+          ],
+          "debate_ids": [
+            "DBT-PILOT-OPEN-BOOK-0010"
+          ],
+          "review_state": "candidate_evidence_packet_not_semantically_reviewed"
+        },
+        {
+          "source_id": "SRC-PILOT-BOOK-0040",
+          "label": "Human-Centered AI（2022）",
+          "publication_year": "2022",
+          "evidence_ids": [
+            "EVD-PILOT-COMP-BOOK-0040-01",
+            "EVD-PILOT-COMP-BOOK-0040-02",
+            "EVD-PILOT-COMP-BOOK-0040-03",
+            "EVD-PILOT-COMP-BOOK-0040-04",
+            "EVD-PILOT-COMP-BOOK-0040-05",
+            "EVD-PILOT-COMP-BOOK-0040-06"
+          ],
+          "evidence_previews": [
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0040-01",
+              "section": "comparison focus: human control",
+              "anchor": "A human-centered design for the upper left quadrant (higher human control, with low computer automation) allows patients to squeeze a trigger to control the dosing, frequency, and total amount of pain control medication."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0040-02",
+              "section": "comparison focus: autonomy",
+              "anchor": "These authors also make the devastating remark that believers in full computer autonomy “have succumbed to myths of autonomy that are not only damaging in their own right but are also damaging by their continued propagation ."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0040-03",
+              "section": "comparison focus: governance",
+              "anchor": "The fifteen recommendations for governance structures to create reliable, safe, and trustworthy systems will enable designers to translate widely discussed ethical principles into professional practices in large organizations with clear schedules."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0040-04",
+              "section": "comparison focus: trust",
+              "anchor": "It believes that independent audit of AI systems, covering trust, ethics, bias, privacy, and cybersecurity at the corporate and public-policy levels, is a crucial path to building an infrastructure of trust."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0040-05",
+              "section": "comparison focus: oversight",
+              "anchor": "The categories roughly indicate attributes of the system, how it performs in practice, how the stakeholders perceive it, how aligned it is with independent oversight, and how compliant it is with accepted practices."
+            },
+            {
+              "id": "EVD-PILOT-COMP-BOOK-0040-06",
+              "section": "comparison focus: human-centered",
+              "anchor": "Journalists, headline writers, graphic designers, and Hollywood producers are entranced by the possibilities of robots and AI, so it will take a generation to change attitudes and expectations towards a human-centered view."
+            }
+          ],
+          "claim_ids": [
+            "CLM-PILOT-MODEL-BOOK-0040-01",
+            "CLM-PILOT-MODEL-BOOK-0040-02",
+            "CLM-PILOT-MODEL-BOOK-0040-03",
+            "CLM-PILOT-MODEL-BOOK-0040-04"
+          ],
+          "claim_previews": [
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0040-01",
+              "description": "Many AI thinkers continue to imagine a future where social robots will become our teammates, partners, and collaborators."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0040-02",
+              "description": "Even as computers become more powerful, the notion of computers being intelligent will be seen as naïve and quaint, just as alchemy and astrology are seen now."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0040-03",
+              "description": "For other tasks, like sensor-based pattern recognition for flushing a toilet in a bathroom, incorrect activations or failure to activate are minor annoyances."
+            },
+            {
+              "id": "CLM-PILOT-MODEL-BOOK-0040-04",
+              "description": "An influential contribution was political scientist Francis Fukuyama’s book Trust: The Social Virtues and the Creation of Prosperity, which focused on social trust “within a community of regular, honest, and cooperative behavior, based on commonly shared norms, on the part of the members of that community.”<sup>4</sup> He focused on human communities, but there are lessons for design of trust in technology."
+            }
+          ],
+          "concept_ids": [
+            "CON-PILOT-LEX-BOOK-0040-01",
+            "CON-PILOT-LEX-BOOK-0040-02",
+            "CON-PILOT-LEX-BOOK-0040-03",
+            "CON-PILOT-LEX-BOOK-0040-04",
+            "CON-PILOT-LEX-BOOK-0040-05"
+          ],
+          "concept_labels": [
+            "systems",
+            "control",
+            "ethics",
+            "learning",
+            "social"
+          ],
+          "relation_ids": [
+            "REL-PILOT-MENTION-BOOK-0040-01",
+            "REL-PILOT-MENTION-BOOK-0040-02",
+            "REL-PILOT-MENTION-BOOK-0040-03"
+          ],
+          "debate_ids": [
+            "DBT-PILOT-OPEN-BOOK-0040"
+          ],
+          "review_state": "candidate_evidence_packet_not_semantically_reviewed"
+        }
+      ],
+      "answer_status": "not_answered_pending_semantic_review",
+      "use_boundary": "该数据包只复现候选证据链，不自动生成历史比较结论。"
+    }
+  ]
+}

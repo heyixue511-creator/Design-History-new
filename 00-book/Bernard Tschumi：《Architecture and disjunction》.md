@@ -1,0 +1,9 @@
+## 1. Disjunction and Culture
+
+The paradigm of the architect passed down to us through the modern period is that of the form-giver, the creator of hierarchical and symbolic structures characterized, on the one hand, by their unity of parts and, on the other, by the transparency of form to meaning. (The modern, rather than modernist, subject of architecture is referred to here so as to indicate that this unified perspective far exceeds our recent past.) A number of well-known correlatives elaborate these terms: the fusion of form and function, program and context, structure and meaning. Underlying these is a belief in the unified, centered, and self-generative subject, whose own autonomy is reflected in the formal autonomy of the work. Yet, at a certain point, this long-standing practice, which accentuates synthesis, harmony, the composition of elements and the seamless coincidence of potentially disparate parts, becomes estranged from its external culture, from contemporary cultural conditions.
+
+## 2. Dis-structuring
+
+In its disruptions and disjunctions, its characteristic fragmentation and dissociation, today's cultural circumstances suggest the need to discard established categories of meaning and contextual histories. It might be worthwhile, therefore, to abandon any notion of a postmodern architecture in favor of a "posthumanist" architecture, one thàt would stress not only the dispersion of the subject and the force of social regulation, but also the effect of such decentering on the entire notion of unified, coherent architectural form. It also seems important to think, not in terms of principles of formal composition, but rather of questioning structures—that is, the order, techniques, and procedures that are entailed by any architectural work
+
+Such a project is far removed from formalism in that it stresses the historical motivation of the sign, em-

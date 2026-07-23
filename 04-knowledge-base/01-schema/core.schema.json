@@ -1,0 +1,331 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/heyixue511-creator/Design-History/04-knowledge-base/01-schema/core.schema.json",
+  "title": "Design History Knowledge Infrastructure Core Record",
+  "description": "设计史研究知识基础设施的统一核心记录模式。不同对象共享来源、证据、范围、成熟度和复核字段。",
+  "type": "object",
+  "required": [
+    "id",
+    "object_type",
+    "label",
+    "status",
+    "maturity_level",
+    "record_version",
+    "created_at",
+    "updated_at"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^(SRC|EVD|ENT|CON|EVT|CLM|REL|DBT|POS|MTH)-[A-Z0-9-]+$"
+    },
+    "object_type": {
+      "type": "string",
+      "enum": [
+        "source",
+        "evidence",
+        "entity",
+        "concept",
+        "event",
+        "claim",
+        "relation",
+        "debate",
+        "position",
+        "method"
+      ]
+    },
+    "label": {
+      "type": "string",
+      "minLength": 1
+    },
+    "original_label": {
+      "type": ["string", "null"]
+    },
+    "aliases": {
+      "type": "array",
+      "items": {"type": "string"},
+      "uniqueItems": true,
+      "default": []
+    },
+    "description": {
+      "type": ["string", "null"]
+    },
+    "knowledge_type": {
+      "type": ["string", "null"]
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {"type": "string", "pattern": "^SRC-"},
+      "uniqueItems": true,
+      "default": []
+    },
+    "evidence_ids": {
+      "type": "array",
+      "items": {"type": "string", "pattern": "^EVD-"},
+      "uniqueItems": true,
+      "default": []
+    },
+    "entity_ids": {
+      "type": "array",
+      "items": {"type": "string", "pattern": "^ENT-"},
+      "uniqueItems": true,
+      "default": []
+    },
+    "concept_ids": {
+      "type": "array",
+      "items": {"type": "string", "pattern": "^CON-"},
+      "uniqueItems": true,
+      "default": []
+    },
+    "scope": {
+      "$ref": "#/$defs/scope"
+    },
+    "claim_owner": {
+      "type": ["string", "null"],
+      "description": "作者主张、观点或解释的明确持有者。"
+    },
+    "subject_id": {
+      "type": ["string", "null"]
+    },
+    "predicate": {
+      "type": ["string", "null"]
+    },
+    "object_id": {
+      "type": ["string", "null"]
+    },
+    "relation_type": {
+      "type": ["string", "null"]
+    },
+    "relation_status": {
+      "type": ["string", "null"],
+      "enum": ["observed", "supported", "candidate", "disputed", null]
+    },
+    "evidence_strength": {
+      "type": "string",
+      "enum": ["E0", "E1", "E2", "E3", "E4"],
+      "default": "E0"
+    },
+    "confidence": {
+      "type": "string",
+      "enum": ["unknown", "low", "medium", "high", "contested", "not_applicable"],
+      "default": "unknown"
+    },
+    "uncertainty": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "metadata_uncertain",
+          "source_incomplete",
+          "ocr_corruption",
+          "image_missing",
+          "entity_ambiguous",
+          "edition_ambiguous",
+          "scope_ambiguous",
+          "causality_unverified",
+          "interpretive_dispute",
+          "rights_unverified",
+          "machine_generated"
+        ]
+      },
+      "uniqueItems": true,
+      "default": []
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "candidate",
+        "review_required",
+        "verified",
+        "published",
+        "disputed",
+        "deprecated",
+        "superseded",
+        "restricted"
+      ]
+    },
+    "maturity_level": {
+      "type": "string",
+      "enum": ["L0", "L1", "L2", "L3", "L4", "L5", "L6"]
+    },
+    "rights_status": {
+      "type": ["string", "null"],
+      "enum": [
+        "UNVERIFIED",
+        "VERIFIED_OPEN_LICENSE",
+        "VERIFIED_PUBLIC_DOMAIN",
+        "PERMISSION_GRANTED",
+        "RESTRICTED_BY_PERMISSION",
+        null
+      ]
+    },
+    "distribution_status": {
+      "type": ["string", "null"],
+      "enum": ["PUBLIC", "RESTRICTED", "INTERNAL_ONLY", null]
+    },
+    "provenance": {
+      "$ref": "#/$defs/provenance"
+    },
+    "review": {
+      "$ref": "#/$defs/review"
+    },
+    "record_version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "created_by": {
+      "type": ["string", "null"]
+    },
+    "change_note": {
+      "type": ["string", "null"]
+    },
+    "superseded_by": {
+      "type": ["string", "null"]
+    },
+    "deprecated_reason": {
+      "type": ["string", "null"]
+    },
+    "extra": {
+      "type": "object",
+      "additionalProperties": true,
+      "default": {}
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {"object_type": {"const": "evidence"}}
+      },
+      "then": {
+        "required": ["source_ids", "provenance", "evidence_strength"],
+        "properties": {
+          "source_ids": {"minItems": 1}
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {"object_type": {"const": "claim"}}
+      },
+      "then": {
+        "required": ["knowledge_type", "evidence_ids"],
+        "properties": {
+          "evidence_ids": {"minItems": 1}
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {"object_type": {"const": "relation"}}
+      },
+      "then": {
+        "required": [
+          "subject_id",
+          "predicate",
+          "object_id",
+          "relation_type",
+          "relation_status",
+          "evidence_ids"
+        ],
+        "properties": {
+          "evidence_ids": {"minItems": 1}
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {"object_type": {"const": "debate"}}
+      },
+      "then": {
+        "required": ["description"],
+        "properties": {
+          "status": {
+            "enum": ["draft", "review_required", "verified", "published", "disputed", "deprecated", "superseded"]
+          }
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "scope": {
+      "type": "object",
+      "properties": {
+        "time_start": {"type": ["string", "null"]},
+        "time_end": {"type": ["string", "null"]},
+        "time_note": {"type": ["string", "null"]},
+        "place_ids": {
+          "type": "array",
+          "items": {"type": "string", "pattern": "^ENT-PLACE-"},
+          "uniqueItems": true,
+          "default": []
+        },
+        "regions": {
+          "type": "array",
+          "items": {"type": "string"},
+          "uniqueItems": true,
+          "default": []
+        },
+        "media": {
+          "type": "array",
+          "items": {"type": "string"},
+          "uniqueItems": true,
+          "default": []
+        },
+        "conditions": {
+          "type": "array",
+          "items": {"type": "string"},
+          "default": []
+        }
+      },
+      "additionalProperties": false
+    },
+    "provenance": {
+      "type": "object",
+      "properties": {
+        "repository_path": {"type": ["string", "null"]},
+        "section": {"type": ["string", "null"]},
+        "anchor": {"type": ["string", "null"]},
+        "char_start": {"type": ["integer", "null"], "minimum": 0},
+        "char_end": {"type": ["integer", "null"], "minimum": 0},
+        "page": {"type": ["string", "null"]},
+        "extractor": {"type": ["string", "null"]},
+        "extraction_method": {
+          "type": ["string", "null"],
+          "enum": ["manual", "rule_based", "model_assisted", "imported", null]
+        },
+        "source_sha256": {"type": ["string", "null"]}
+      },
+      "additionalProperties": false
+    },
+    "review": {
+      "type": "object",
+      "properties": {
+        "schema_checked": {"type": "boolean", "default": false},
+        "anchor_checked": {"type": "boolean", "default": false},
+        "semantic_checked": {"type": "boolean", "default": false},
+        "entity_checked": {"type": "boolean", "default": false},
+        "relation_checked": {"type": "boolean", "default": false},
+        "rights_checked": {"type": "boolean", "default": false},
+        "reviewers": {
+          "type": "array",
+          "items": {"type": "string"},
+          "uniqueItems": true,
+          "default": []
+        },
+        "reviewed_at": {"type": ["string", "null"], "format": "date-time"},
+        "review_note": {"type": ["string", "null"]}
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
