@@ -2083,3 +2083,45 @@ Madge把三者视为20世纪80—90年代不断扩展又相互重叠的争议词
 ### Technoethics／技术伦理
 
 Findeli用于把伦理判断纳入设计的初始状态、介入过程和目标状态，并联系微观／宏观后果。该理论入口不能替代医学、法律、AI或环境领域的现行伦理规范。来源：[book-0058](summaries/book-0058.summary.md)；第27章。
+
+## book-0059新增术语：设计话语、修辞与史学批评
+
+### Design discourse／设计话语
+
+Margolin用来组织设计历史、理论、批评、实践和教育之间争论的学科性概念。它不是设计师言论的汇编，也不是立场统一的理论；须定位作者、机构、刊物、翻译和历史争议。来源：[book-0059](summaries/book-0059.summary.md)；导言与全书结构。
+
+### Design studies／设计研究
+
+跨越对象、传播、服务、组织和环境，连接历史、理论、批评及社会文化研究的知识领域。1989年的表述属于学科建设方案，不能写成全球设计学已经同步形成的事实。来源：[book-0059](summaries/book-0059.summary.md)；Margolin导言与结语。
+
+### Declaration by design／以设计作宣示
+
+Buchanan用来说明产品通过技术推理、可信品格、情感吸引和生活价值形成实践论证。它提供解释设计主张的方法，但不能证明受众接受，更不能把说服等同于民主参与。来源：[book-0059](summaries/book-0059.summary.md)；第二部分第1篇。
+
+### Rhetoric of neutrality／中性修辞
+
+Kinross对时刻表、字体、网格和公共信息的分析：宣称无修辞、客观或透明的形式本身仍在建立机构权威和读者关系。“中性”应作为历史范畴研究。来源：[book-0059](summaries/book-0059.summary.md)；第二部分第5篇。
+
+### Isotype／国际图画教育系统
+
+Otto Neurath团队发展的图形统计与教育传播方法，以统一图形、数量重复和转换者制度组织信息。其“普遍视觉语言”理想须由文化约定、语言依赖和再现政治校正；本项目不复制地图式图示。来源：[book-0059](summaries/book-0059.summary.md)；第二部分第6篇。
+
+### Polysemy of design／设计意义的多义性
+
+设计意义由生产、传播、广告、消费和使用中的不同文化代码共同生成，不由设计师意图单独决定。多义性不表示所有解释在事实或伦理上等价。来源：[book-0059](summaries/book-0059.summary.md)；Buckley及第二部分各篇。
+
+### Rules of the game／史学“游戏规则”
+
+Buckley借此指设计史选择姓名、专业、媒介、场所、创新和保存对象的隐含规则。补入女性姓名不足以解决问题，还须检查家庭生产、集体劳动、使用损耗和档案形成。来源：[book-0059](summaries/book-0059.summary.md)；第三部分第3篇。
+
+### Use-value／exchange-value in design history／设计史中的使用价值与交换价值
+
+家庭生产和日常器物常因服务使用、缺少市场交换且容易损耗而被史学贬低；可收藏、可署名、可交换对象更易进入经典。该区分必须结合具体社会和制度，不能成为单一决定论。来源：[book-0059](summaries/book-0059.summary.md)；Buckley。
+
+### Narrative bibliography／叙事书目
+
+把文献按历史时刻、地区、机构、翻译和论争关系编排，使书目成为知识传播史，而非题名清单。适合教材配置“主要材料入口”，但受语言与出版可得性限制。来源：[book-0059](summaries/book-0059.summary.md)；Margolin结语。
+
+### Comprehensive guarantee／全面保证
+
+Moles把维护、维修、服务、寿命和用户行动计划纳入产品价值的概念。它是消费理论提案，不直接证明特定售后制度、公平性或环境成效。来源：[book-0059](summaries/book-0059.summary.md)；第一部分第7篇。

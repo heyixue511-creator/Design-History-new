@@ -663,3 +663,19 @@ book-0034的全文校读没有新增独立历史时间点；其增量是确认�
 | 1995 | 荷兰Eternally Yours计划成立，推动产品寿命、维修、服务和情感依恋讨论。 | [book-0058](summaries/book-0058.summary.md)第7章；实际项目、采用和结果另核。 |
 | 1996—2001 | 情景、物质性、技术驯化、环境系统、数字参与、排印、工程话语、生态与伦理论文集中发表于`Design Issues`。 | [book-0058](summaries/book-0058.summary.md)第2—27章；这是英语学术网络的时期性材料，不代表全球同步转向。 |
 | 2010 | Buchanan、Doordan、Margolin以“概念化—制造—评价”重编27篇论文为《The Designed World》。 | [book-0058](summaries/book-0058.summary.md)总导言与全书；编者学科分期不是全球设计学史定论。 |
+
+## book-0059增量：设计话语、修辞解释与学科建构
+
+> 下列节点主要来自Margolin编《Design Discourse》的1980年代论文和战后文献地图。具体成立日期、课程、出版、国际传播及“首次”判断须回查原刊、机构档案和本地语言研究。
+
+| 年代 | 事件／论述节点 | 证据入口与边界 |
+|---|---|---|
+| 1944—1947 | 新包豪斯／芝加哥设计学院与Paul Theobald出版网络把Moholy-Nagy、Kepes的视觉、艺术与科学论述带入美国战后设计教育。 | [book-0059](summaries/book-0059.summary.md)Margolin结语；机构沿革、任职与版次回查校史和原书。 |
+| 1951起 | Aspen国际设计会议从面向商业的“设计质量”论坛逐渐成为包含社会批评的争论场。 | [book-0059](summaries/book-0059.summary.md)Margolin结语；会议录和录音档案须逐届核验。 |
+| 1955—1968 | 乌尔姆设计学院由Max Bill的艺术—工业路线转向Maldonado等人的科学、技术、方法、符号学和修辞研究，1968年关闭后仍通过教师和出版传播。 | [book-0059](summaries/book-0059.summary.md)Margolin结语；本书是书目地图，机构史以专题档案主证。 |
+| 1957／1963 | ICSID与ICOGRADA先后成立，以国际会议组织工业设计和视觉传达专业交流。 | [book-0059](summaries/book-0059.summary.md)Margolin结语；名称沿革、章程、成员与会议出版另核。 |
+| 1969 | 柏林国际设计中心成立，成为理性主义、环境、社会设计、时尚和政治经济批评的争论场。 | [book-0059](summaries/book-0059.summary.md)Margolin结语；具体项目与影响回查IDZ档案。 |
+| 1972 | MoMA“意大利：新家庭景观”展使意大利激进设计国际化，也把政治性方案置入博物馆展示机制。 | [book-0059](summaries/book-0059.summary.md)Margolin结语；展览清单、策展与接受史另核。 |
+| 1982 | University of Illinois Chicago相关群体创办《Design Issues》，为设计历史、理论和批评提供跨学科论坛。 | [book-0059](summaries/book-0059.summary.md)导言、致谢与封底；创刊组织、资助和编辑责任回查期刊档案。 |
+| 1984—1986 | 本书20篇主体论文主要发表于《Design Issues》前六期，涵盖现代主义批评、修辞／符号学解释和设计史学反思。 | [book-0059](summaries/book-0059.summary.md)来源说明与三部分正文；卷期页码逐篇回原刊。 |
+| 1989 | Victor Margolin编《Design Discourse: History, Theory, Criticism》出版，以导言、20篇论文和战后文献地图提出设计研究学科议程。 | [book-0059](summaries/book-0059.summary.md)题名页、版权页、目录与封底；仓库原文件题名、编者和年份误标已校正。 |
