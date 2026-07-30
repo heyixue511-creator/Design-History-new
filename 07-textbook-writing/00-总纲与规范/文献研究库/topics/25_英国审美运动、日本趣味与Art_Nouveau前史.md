@@ -123,3 +123,10 @@
 
 - [book-0036详细结构化摘要](../summaries/book-0036.summary.md)
 - [book-0036原始Markdown](../../../../00-book/Aslin,%20Elizabeth：《The%20aesthetic%20movement%20prelude%20to%20Art%20Nouveau》.md)
+
+## book-0053增量：审美运动进入真实家庭与商品系统
+
+- [book-0053《Victorian Things》](../summaries/book-0053.summary.md)通过Eastlake、Haweis、Morris、Wightwick Manor、壁纸、地毯、家具、蓝白瓷和日本趣味，补充审美运动如何进入家政建议、零售和混合室内。
+- 原书强调日本、Queen Anne、Louis XV、Aesthetic与简洁白墙并存，反对把“维多利亚繁杂”突然替换为Art Nouveau／现代简洁。
+- `Morris look`和`Eastlake furniture`可脱离作者意图成为市场标签；须区分原厂对象、模仿品、媒体传播、客户组合和后世复兴。
+- 日本物与“异域”材料的进入仍需补贸易、殖民权力、当地生产者和接受史，不能只作为英国风格更新资源。

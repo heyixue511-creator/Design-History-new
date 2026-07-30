@@ -559,3 +559,86 @@ book-0034的全文校读没有新增独立历史时间点；其增量是确认�
 | 2016 | `American Psycho` Broadway版演出含预演共81场并未收回约1400万美元；美国大选推文显示名人账号放大政治可见性。 | [book-0052](summaries/book-0052.summary.md)`liking`、`post-empire`；演出与投资数字、选举统计须分别核验。 |
 | 2018 | 跨性别舞厅电视剧、`#WalkAway`、Kanye账号与竞选帽饰、Barr／Gunn旧推文处置把亚文化、标签运动、穿戴政治符号和企业档案治理推到同一媒介场。 | [book-0052](summaries/book-0052.summary.md)`these days`；本书仅为争议性行动者文本，须参与者史料、平台数据和公司文件互证；不使用旗帜、徽章、地图或竞选物件图像。 |
 | 2019 | Alfred A. Knopf出版《White》，把1980年代电影／出版经验与2010年代社交媒体论战编为随笔集。 | [book-0052](summaries/book-0052.summary.md)版权页与全书。 |
+
+## book-0053增量：维多利亚物质文化、通信与技术系统
+
+> 下列节点来自1988年综合史，涉及“第一”、产量、数量和优先权时必须回查专利、议会／机构档案及更新研究。
+
+| 年代 | 事件 | 证据入口与边界 |
+|---|---|---|
+| 1837 | Hill发表邮政改革文本；Cooke／Wheatstone电报和Pitman速记分别进入制度／公共传播。 | [book-0053](summaries/book-0053.summary.md)第九、十章；不是单一起点，需并列Chalmers、Ronalds、Schilling等。 |
+| 1839—1840 | 邮政改革立法，一便士邮资先实施，Penny Black与Mulready封套随后发行。 | [book-0053](summaries/book-0053.summary.md)第九章；公开征集未直接产生成品，图像依规则不采用。 |
+| 1851 | Great Exhibition在Crystal Palace开幕，模块建筑、展品分类、评奖和国际制造传播汇合。 | [book-0053](summaries/book-0053.summary.md)第二章；参观人数、成本、构件和殖民分类另核。 |
+| 1854 | 邮票机械穿孔进入正式使用，减少邮局剪票工序。 | [book-0053](summaries/book-0053.summary.md)第九章；Archer试验、补偿与设备合同回查Post Office档案。 |
+| 1856—1868 | Jones、Dresser、Redgrave、Eastlake等设计／家居文本与South Kensington教育机构持续形成改革网络。 | [book-0053](summaries/book-0053.summary.md)第二、六章；作者观点不同，不归并为单一现代主义纲领。 |
+| 1866 | 稳定的大西洋电缆连接建立，新闻、证券与帝国通信速度改变。 | [book-0053](summaries/book-0053.summary.md)第十章；“消灭距离”是修辞，须补接入、控制与殖民不平等。 |
+| 1868—1870 | 英国电报国有化进程与Post Office接管展开；欧洲多地推出postcard。 | [book-0053](summaries/book-0053.summary.md)第九、十章；收购、财政与跨国优先权须档案核验。 |
+| 1873—1878 | Remington接手Sholes机器并推出改进型打字机，机械书写进入商品化扩展。 | [book-0053](summaries/book-0053.summary.md)第十章；须补女性打字员与办公室劳动史。 |
+| 1876—1879 | Bell电话在Philadelphia演示，英国出现早期演示／交换局，Western Union与Bell利益重组。 | [book-0053](summaries/book-0053.summary.md)第十章；专利、公司和用户数量另核。 |
+| 1878—1881 | Swan与Edison分别推进白炽灯，英国企业合并；灯泡开始嵌入发电、线路和维护系统。 | [book-0053](summaries/book-0053.summary.md)第十章；发明优先权、团队与专利回查原件。 |
+| 1882—1888 | 英国电气照明立法及修法改变地方政府、私人公司与收购期限关系。 | [book-0053](summaries/book-0053.summary.md)第十章；政策效果不能只归因民族性。 |
+| 1885—1889 | Welsbach煤气罩、安全自行车、Institution of Electrical Engineers改名等显示旧照明、新交通和专业组织同时变化。 | [book-0053](summaries/book-0053.summary.md)第七、十章；石棉、动物材料和劳动风险须补。 |
+| 1888 | Matchgirls strike把工资、罚款、白磷职业病和女性集体行动带入公共争论。 | [book-0053](summaries/book-0053.summary.md)第五章；原书承认资料不足，需工会、医学和参与者材料主证。 |
+| 1893—1894 | Chicago展览演示交流电；Budapest电话节目服务与London Electrophone把电话用于新闻、音乐和戏剧。 | [book-0053](summaries/book-0053.summary.md)第二、十章；广播制度史须补版权、节目与用户档案。 |
+| 1895—1896 | Marconi在英国演示无线；汽车法规调整；电影放映和安全自行车／汽车文化扩展。 | [book-0053](summaries/book-0053.summary.md)第三、十章；所有“首次”另核。 |
+| 1898—1901 | Imperial Penny Post、磁记录实验、明信片版式规则变化与电话／电车扩张进入世纪转换。 | [book-0053](summaries/book-0053.summary.md)第九、十章；帝国统一须与殖民不平等并写，不采用国家象征图像。 |
+| 1950年代以后 | `Victoriana`复兴使原本日常、廉价或废弃物变成古董与`vintage`收藏。 | [book-0053](summaries/book-0053.summary.md)第一、十章；后世价格不能倒推原始价值。 |
+| 1988—1989 | B. T. Batsford首版《Victorian Things》，University of Chicago Press次年出版美国版。 | [book-0053](summaries/book-0053.summary.md)版权页。 |
+
+## book-0054增量：设计管理专业化、品牌与创新
+
+> 下列节点来自2003年管理教材的机构史与案例压缩；成立年份、项目范围、样本和绩效须回查机构／企业档案及原始研究。
+
+| 年代 | 事件 | 证据入口与边界 |
+|---|---|---|
+| 1966 | Michael Farr以`Design Management`为题出版著作，成为本书追溯设计管理术语的重要节点。 | [book-0054](summaries/book-0054.summary.md)第一章；“首创术语”须用更早出版物和档案复核。 |
+| 1975 | Design Management Institute据其机构叙述在Massachusetts College of Art相关网络中成立。 | [book-0054](summaries/book-0054.summary.md)第一章／DMI序言；创办人、法定机构和项目沿革须回查DMI档案。 |
+| 1987 | Gorb与Dumas发表`Silent Design`，把非专业设计师所作的分散设计决定纳入组织研究。 | [book-0054](summaries/book-0054.summary.md)第一、八章及书目；卷期、页码和概念原文须回查。 |
+| 1989 | DMI据书中叙述创办`Design Management Journal`，专业共同体以期刊持续组织案例与方法。 | [book-0054](summaries/book-0054.summary.md)第一章；刊史与连续出版信息须回查机构档案。 |
+| 1997—1998 | Borja de Mozota围绕European Design Prize的33家获奖／提名企业开展研究，后形成差异者／协调者／转化者与三层设计管理框架。 | [book-0054](summaries/book-0054.summary.md)前言、第五章、结论；书内1997／1998表述需消歧，样本具有成功案例筛选偏差。 |
+| 2001 | Prada Epicenter等RFID零售实验把商品识别、空间体验和客户数据连接。 | [book-0054](summaries/book-0054.summary.md)第四、六章；须补项目合同、实际部署、用户知情、隐私和后续成效。 |
+| 2003 | 《Design Management: Using Design to Build Brand Value and Corporate Innovation》英文版出版，把品牌、创新、企业身份、设计部门和绩效工具整合为行动教材。 | [book-0054](summaries/book-0054.summary.md)版权页与全书；这是当时管理话语的历史证据，不是当代企业或AI设计现状。 |
+
+## book-0055增量：软件设计职业化、界面与参与式工作系统
+
+> 下列节点来自1996年行动者论文／访谈合集；“首次”、项目范围、团队作者性、采用和成效须回查代码、版本、专利、公司／院校／工会档案与更新研究。
+
+| 年代 | 事件 | 证据入口与边界 |
+|---|---|---|
+| 1970—1972 | Xerox PARC建立，Alto个人计算机项目随后推进，为后来Star概念模型与图形界面叙述提供机构背景。 | [book-0055](summaries/book-0055.summary.md)第二章／人物专访；成立与项目日期、团队和“首次”判断须回查PARC档案。 |
+| 1970年代初 | 挪威工会与研究者围绕工作场所计算机化开展早期参与式设计合作。 | [book-0055](summaries/book-0055.summary.md)第十四章；具体项目、权利范围和参与者须用工会及项目档案主证。 |
+| 1978—1981 | Xerox Star的开发与推出把桌面、对象、命令和一致反馈组织为较完整的用户概念模型。 | [book-0055](summaries/book-0055.summary.md)第二章／人物专访；版本、商业影响和团队作者性另核。 |
+| 1984—1987 | Intuit／Quicken、Macintosh界面规范与HyperCard分别显示家庭软件、平台标准和终端用户制作进入新阶段。 | [book-0055](summaries/book-0055.summary.md)第四、十、十三章；成立、发行和版本日期须逐项核验。 |
+| 1989 | Royal College of Art相关计算机／交互设计项目进入书中所述制度形成期。 | [book-0055](summaries/book-0055.summary.md)第三章及人物专访；课程名称、组织沿革与招生须回查RCA档案。 |
+| 1990 | Kapor的`Software Design Manifesto`把软件设计专业身份、建筑类比和教育问题公开提出。 | [book-0055](summaries/book-0055.summary.md)第一章；原始发表版本、日期与传播范围须回查。 |
+| 1991 | Apple教育软件设计项目被用来讨论行动中反思、团队表征与问题重构。 | [book-0055](summaries/book-0055.summary.md)第九章；项目范围、参与者、原型和后续结果须回查项目档案。 |
+| 1992 | Stanford举行软件设计工作坊，成为本书十四章及人物专访的主要编辑起点。 | [book-0055](summaries/book-0055.summary.md)前言、导论；名单、资助、会议材料和编辑过程须核。 |
+| 1993—1994 | Mosaic与公共Web扩散进入作者关于消费者、网络、多媒体和自适应系统的讨论；`interactions`等专业媒介参与共同体组织。 | [book-0055](summaries/book-0055.summary.md)第五章／人物专访；具体日期、采用与因果另查，不能外推当前平台。 |
+| 1995 | Microsoft Bob与Intuit相关收购事件成为消费软件、帮助界面与公司竞争案例。 | [book-0055](summaries/book-0055.summary.md)第七、十三章及人物专访；市场表现、交易过程与用户反应须独立材料。 |
+| 1996 | 《Bringing Design to Software》出版，把概念模型、设计语言、原型、组织支持与参与式设计并置为软件设计专业化议程。 | [book-0055](summaries/book-0055.summary.md)版权页与全书；这是1990年代话语史，不是当代UX或AI现状。 |
+
+## book-0056增量：现代宪法、科学技术研究与物的议会
+
+> 下列节点主要是思想史／版本史入口。《We Have Never Been Modern》刻意少用经验案例，Boyle／Hobbes、Archimedes、1989和环境判断须回查主要来源与专项历史。
+
+| 年代 | 事件 | 证据入口与边界 |
+|---|---|---|
+| 17世纪中叶 | Boyle空气泵实验与Hobbes政治／自然哲学争论被Latour用作科学代表与政治代表分立的历史模型。 | [book-0056](summaries/book-0056.summary.md)第二章；主要依据Shapin／Schaffer，须回Royal Society、通信、仪器和技师档案。 |
+| 1661 | Boyle把Clarendon Treason Act的双重见证规则用于实验见证类比。 | [book-0056](summaries/book-0056.summary.md)2.5；具体法律文本、适用和Boyle原文须核。 |
+| 1970年代—1980年代 | 科学知识社会学、实验室研究、技术社会建构与行动者网络相关研究形成对称性、转译、网络和稳定化方法背景。 | [book-0056](summaries/book-0056.summary.md)第一、三、四章及书目；各学派不能合并，须读Bloor、Callon、Latour／Woolgar、Bijker／Hughes／Pinch等原文。 |
+| 1985 | Shapin与Schaffer出版《Leviathan and the Air-Pump》，成为本书Boyle／Hobbes论证的主要历史基础。 | [book-0056](summaries/book-0056.summary.md)第二章与书目；Latour的延伸不同于原书结论。 |
+| 1989 | 柏林墙倒塌与全球环境会议被Latour并置为社会主义／自然主义双重危机的象征。 | [book-0056](summaries/book-0056.summary.md)第一章1.4、第五章5.5；这是高度概括的哲学分期，须地区政治史和环境制度史。 |
+| 1991 | 法文《Nous n'avons jamais été modernes》由La Découverte出版，提出现代宪法、混合体、非现代与物的议会。 | [book-0056](summaries/book-0056.summary.md)版权页和全书。 |
+| 1993 | Catherine Porter英文译本由Harvard University Press出版；作者修改图表、加入3.2并作若干限定。 | [book-0056](summaries/book-0056.summary.md)题名页、致谢；英法版本差异须逐节校对。 |
+
+## book-0057增量：Branzi困境、四阶设计与组织学习
+
+> 下列节点主要依据Buchanan文章正文及仓库同文书目信息建立。当前转写缺期刊题名页、尾注和参考文献；1995、1998与2010版本关系必须回查原刊和会议文集。
+
+| 年代 | 事件 | 证据入口与边界 |
+|---|---|---|
+| 1985 | Andrea Branzi发表《We Are the Primitives》，以现代主义不再统一设计和世界文化为问题起点。 | [book-0057](summaries/book-0057.summary.md)引言；题名、刊物、页码、文本与语境须回查Branzi原文。 |
+| 约1988 | Branzi《Learning from Milan》被Buchanan用于说明其“第二现代性”方案。 | [book-0057](summaries/book-0057.summary.md)第一主体部分；当前文本称在1985文章“三年后”，正式出版年、版本和概念原文须核。 |
+| 1995 | 《Branzi’s Dilemma》早期版本收入Helsinki会议文集《Design Pleasure or Responsibility?》。 | [book-0057](summaries/book-0057.summary.md)仓库《The Designed World》书目说明；编者、页码及与1998版差异须回查原书。 |
+| 1998 | `Design Issues` 14(1)刊载《Branzi’s Dilemma: Design in Contemporary Culture》，以好／用／正义／愉悦、四阶设计和组织学习回应现代主义文化危机。 | [book-0057](summaries/book-0057.summary.md)仓库交叉书目；正式页码、尾注和图表须回查期刊原版。 |
+| 2010 | 文章重刊于Richard Buchanan、Dennis P. Doordan与Victor Margolin编《The Designed World》。 | [book-0057](summaries/book-0057.summary.md)仓库同文；这是同一文本实体的重刊，不能作为独立互证。 |

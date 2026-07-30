@@ -1,5 +1,5 @@
 ﻿{
-    "audited_at_utc":  "2026-07-30T07:07:22.4816646Z",
+    "audited_at_utc":  "2026-07-30T09:38:58.4520567Z",
     "full_read_scopes":  [
                              "00-book",
                              "00-paper"
@@ -15,10 +15,10 @@
                        "scope":  "00-book",
                        "files":  517,
                        "hash_ok":  517,
-                       "complete":  52,
-                       "read_chars":  31809333,
+                       "complete":  57,
+                       "read_chars":  34942311,
                        "total_chars":  343504294,
-                       "coverage_percent":  9.260243,
+                       "coverage_percent":  10.172307,
                        "inconsistent":  0
                    },
                    {

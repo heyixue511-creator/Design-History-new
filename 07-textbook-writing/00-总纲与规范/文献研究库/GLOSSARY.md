@@ -390,7 +390,7 @@ Vladimir Arkhipov对不为出售、没有标准复制、由具体需要和偶发
 
 ### Parliament of Things／Pub of Things（万物议会／万物酒馆）
 
-前者借Latour设想人、物、自然、科学和制度共同参与公共讨论；后者由Lane DeNicola提出，用以提醒物联网同样充满广告、监控、投机、琐碎交流和滥用。来源：[book-0018](summaries/book-0018.summary.md)；Chapter 11。
+前者借Latour把科学代表非人与政治代表公民视为同一个授权、转译和可能背叛的问题；它要求混合体进入公共讨论，但属于规范性宪法隐喻，不是已经验证的治理制度。后者由Lane DeNicola提出，用以提醒物联网同样充满广告、监控、投机、琐碎交流和滥用。来源：[book-0018](summaries/book-0018.summary.md)；Chapter 11；[book-0056](summaries/book-0056.summary.md)；第五章5.5。
 
 ### Ontological design（本体论设计）
 
@@ -1396,7 +1396,7 @@ Hillier为Art Deco喷泉、水柱和放射式母题提出的描述性名称，�
 
 ### Stabilization／稳定化
 
-对象名称、性能、结构、标准和用法逐渐减少限定语并成为常规的过程。它以程度表达，可与闭合重叠但不完全相同；安全自行车约1879—1897年的形成是书中主要例子。来源：[book-0046](summaries/book-0046.summary.md)；第2、5章。
+对象名称、性能、结构、标准和用法逐渐减少限定语并成为常规的过程。它以程度表达，可与闭合重叠但不完全相同；Latour进一步把实体写成从“热”事件／争议到“冷却”本质的轨迹。稳定化不表示虚假，真实有效对象仍有制作、测试和制度史。来源：[book-0046](summaries/book-0046.summary.md)；第2、5章；[book-0056](summaries/book-0056.summary.md)；第三章3.14。
 
 ### Technological frame／技术框架
 
@@ -1741,3 +1741,279 @@ Ellis把二战后至9·11前后的美国集中大众媒介、模拟物质性和�
 ### Corporate moderation／企业内容与劳动治理
 
 平台或文化企业通过账号规则、品牌标准、雇佣合同、IP控制和项目处分处理争议表达。它可能集中权力，也不等同国家审查；分析时须区分内容删除、活动撤邀、劳动处分、公共批评、法律惩罚和申诉机制。来源入口：[book-0052](summaries/book-0052.summary.md)；`post-sex`、`these days`。
+
+## book-0053增量：物质文化、公共服务与技术系统
+
+### Thing as emissary／物作为使者
+
+物通过材料、工序、使用痕迹、流通和收藏，把制造者、制度与价值关系带入历史研究；这不表示物能脱离档案和解释者自行“说话”。来源：[book-0053](summaries/book-0053.summary.md)；第一章。
+
+### Victoriana／维多利亚物
+
+后世对Victoria时代物件的选择性分类，二十世纪五十年代以后随复古、博物馆、古董市场和价格指南扩展。它不是物在十九世纪的原生类别。来源：[book-0053](summaries/book-0053.summary.md)；第一、十章。
+
+### Rubbish theory／垃圾理论
+
+Michael Thompson用于解释物在短命商品、暂时无价值“垃圾”和耐久收藏品之间转换的价值模型。本书借其分析Stevengraph、邮票、旧电话等后世升值；不能据现价倒推原始社会意义。来源：[book-0053](summaries/book-0053.summary.md)；第一、四、九、十章。
+
+### Great Victorian Collection／维多利亚大收藏
+
+Briggs对Great Exhibition、后续博览会、South Kensington博物馆与分类制度的概括，强调建筑、展陈、评奖、教育和帝国知识秩序的结合。该术语须加引号并批判殖民等级。来源：[book-0053](summaries/book-0053.summary.md)；第二章。
+
+### False principles／“错误原则”
+
+十九世纪英国设计改革者对材料欺骗、结构遮蔽、装饰滥用和自然图像机械复制等问题的规范性批评。不同改革者定义不一，不能作为超历史的统一设计法则。来源：[book-0053](summaries/book-0053.summary.md)；第二、六章。
+
+### Kodak product–service system／Kodak产品—服务系统
+
+用户只需拍摄，再将相机交回集中冲洗、印相和重新装片的组织模式。它说明简化前端操作往往依靠后台专业劳动与物流，而非器件本身完全易用。来源：[book-0053](summaries/book-0053.summary.md)；第三章。
+
+### Carboniferous capitalism／石炭资本主义
+
+Lewis Mumford提出、Briggs用于连接煤、蒸汽、铁钢、铁路、城市、资本和工业劳动的概念。它适合揭示能源依赖，不能把英国煤产量写成文明尺度或忽略矿区环境与全球不平等。来源：[book-0053](summaries/book-0053.summary.md)；第八章。
+
+### Postage stamp as service interface／邮票作为服务界面
+
+邮票把预付、面值、识别、防伪、销戳和分拣要求集中在微型版面，但只有与地址、邮局、线路、投递和资费制度结合才有作用。来源：[book-0053](summaries/book-0053.summary.md)；第九章。
+
+### Mulready envelope／Mulready邮资封套
+
+1840年英国预印邮资封套，以复杂寓意宣传邮政，被公众讽刺并迅速撤回。其失败涉及地址空间、图像密度、媒介用途和公共反馈，不能概括为大众拒绝美术。来源：[book-0053](summaries/book-0053.summary.md)；第九章。
+
+### Telephone culture／电话文化
+
+电话器件、交换网络、号码、资费、接听礼仪、商业／住宅用途和关于隐私／烦扰的态度共同形成的社会技术文化。其扩散因城市、阶级、组织和法规而异。来源：[book-0053](summaries/book-0053.summary.md)；第十章。
+
+### Radio concept of telephony／电话的广播式构想
+
+早期以电话向订户传送音乐、戏剧、新闻和布道的模式，见Paris theatrephone、Budapest `Telefon Hírmondó`和London Electrophone。它证明节目、版权、广告等广播问题早于无线广播。来源：[book-0053](summaries/book-0053.summary.md)；第十章。
+
+### Systemic innovation／系统性创新
+
+单一器件只有与制造、资本、标准、维护、基础设施、服务和习惯结合才形成可持续社会用途。灯泡—供电网、电话—交换网、邮票—邮政流程是本书主要实例。来源入口：[book-0053](summaries/book-0053.summary.md)；第九、十章；术语须由技术系统史进一步主证。
+
+### New–old coexistence／新旧共存
+
+新技术不会自动淘汰旧系统：煤气灯在电灯出现后继续改进，马车与汽车并行，旧家具容纳新管道，历史风格包裹新装置。共存仍受资本、法规、阶级和维护成本支配。来源：[book-0053](summaries/book-0053.summary.md)；第六、十章。
+
+## book-0054增量：设计管理、品牌与创新组织
+
+### Design management／设计管理
+
+把设计任务、人员、知识、资源和评价纳入组织决策的实践领域。Borja de Mozota将其分为运营、职能和战略层，并强调差异、协调与转化作用；这是一套2003年的行动框架，不是设计必然创造绩效的因果定律。来源：[book-0054](summaries/book-0054.summary.md)；第一、五至十一章及结论。
+
+### Differentiator—coordinator—transformer／差异者—协调者—转化者
+
+作者归纳的设计三种组织作用：形成市场差异、连接跨职能知识、推动组织与愿景改变。三者可并存，也受预算、权力和绩效制度影响；不能写成企业自然进化阶段。来源：[book-0054](summaries/book-0054.summary.md)；前言、第五至九章、结论。
+
+### Operational—functional—strategic design management／运营—职能—战略设计管理
+
+设计管理的三个决策层级：项目执行，设计职能与资源组合，以及企业方向与治理。层级边界随组织结构变化，不表示战略层天然优于运营劳动。来源：[book-0054](summaries/book-0054.summary.md)；第八至十一章、结论。
+
+### Designence
+
+Borja de Mozota用以强调设计知识与管理科学结合的自造词。不是学界稳定术语，教材只在解释作者框架时加引号使用。来源：[book-0054](summaries/book-0054.summary.md)；前言、第一章。
+
+### Silent design／无声设计
+
+Gorb与Dumas所称未由专业设计师命名、却在工程、营销、运营等活动中发生的设计决定。概念有助于发现分散作者性，也可能模糊责任与专业劳动，须回查具体项目。来源入口：[book-0054](summaries/book-0054.summary.md)；第一、八章；原始文献须另查。
+
+### Design champion／设计冠军
+
+在组织内部持续争取设计资源、权限与高层支持的行动者。个人倡导可能改变项目，但不能替代正式治理、参与机制和劳动权利。来源：[book-0054](summaries/book-0054.summary.md)；第八、十一章。
+
+### Design audit／设计审计
+
+系统检查产品、传播、空间、服务、流程和组织能力之间的一致、差距与风险。有效审计需保留范围、证据、评价者、异议和后续行动，不能只是品牌统一化清单。来源：[book-0054](summaries/book-0054.summary.md)；第五、十一章。
+
+### Design brief／设计任务书
+
+规定问题、用户、目标、约束、预算、时间、交付物和评价条件的协商文件。它既协调项目，也体现谁有权定义问题；历史研究须比较版本、批注和变更记录。来源：[book-0054](summaries/book-0054.summary.md)；第八、十章。
+
+### Brand architecture／品牌架构
+
+组织企业品牌、产品品牌、子品牌和背书关系的管理框架。它可解释跨产品传播结构，但品牌一致性不等于公众认同或公共价值。来源：[book-0054](summaries/book-0054.summary.md)；第四、九章。
+
+### Knowledge broker／知识经纪
+
+在不同产业、专业或项目之间识别、转译和重组知识的角色或机制。应同时追问知识来源、署名、利益、地方经验与供应商劳动是否被企业占有。来源：[book-0054](summaries/book-0054.summary.md)；第六章。
+
+### Stage-Gate／阶段—关口流程
+
+把新产品开发分成若干活动阶段与决策关口的管理模型。它可明确资源和责任，也可能过早排除模糊方案或难以量化的公共价值；具体成效须回查项目档案。来源入口：[book-0054](summaries/book-0054.summary.md)；第六、八章；Cooper原始文献须另查。
+
+### Dominant design／主导设计
+
+产业竞争中逐渐稳定并成为后续改进参照的产品架构或技术配置。主导不等于技术最优、社会共识或伦理正当；标准、资本、法规和组织权力均可能参与稳定化。来源入口：[book-0054](summaries/book-0054.summary.md)；第六章；原始创新研究须另查。
+
+### Modularity／模块化
+
+以相对独立而接口明确的部件组织产品、开发和供应网络。模块化有助于复用和协调，也可能转移维修、供应链劳动与环境成本。来源：[book-0054](summaries/book-0054.summary.md)；第六、九章。
+
+### Software design／软件设计
+
+把软件视为供人理解、行动和协作的世界，而不只是功能说明的程序实现。1996年的职业化倡议试图协调计算机科学、工程、视觉／工业设计、人机交互和组织研究，但当时尚未形成单一稳定的职业边界。来源：[book-0055](summaries/book-0055.summary.md)；导论、第一章。
+
+### Virtuality／虚拟性
+
+软件对象由程序规则维持并能回应行动的性质。它提醒研究者同时分析可见形式与不可见状态、约束、数据和权限，不能把界面仅当作物理对象的屏幕复制。来源：[book-0055](summaries/book-0055.summary.md)；第一、二章。
+
+### User conceptual model／用户概念模型
+
+使用者根据对象、动作、反馈和规则形成的系统理解。模型可能不同于实现结构和设计者意图，并会在错误、学习和变通中变化；“直观”须以具体人群、任务和版本验证。来源：[book-0055](summaries/book-0055.summary.md)；第二章。
+
+### Transparent-box／black-box design（透明盒／黑盒设计）
+
+分别强调设计者能否理解并重组系统内部结构，或主要通过既定输入、输出和界面使用系统。二者涉及知识、修改权与责任分配，不构成固定的善恶二分。来源：[book-0055](summaries/book-0055.summary.md)；第四章。
+
+### Threshold of indignation／愤慨阈值
+
+Rheinfrank与Evenson用来描述使用者在不一致、妨碍或错误积累到何种程度时不再容忍系统的行动者概念。它是设计讨论中的启发式说法，不是未经测量即可引用的普遍心理定律。来源：[book-0055](summaries/book-0055.summary.md)；第四章。
+
+### Genre, border and periphery／体裁、边界与周缘
+
+软件意义不仅由中心内容形成，也由媒介惯例、窗口边框、工具区、提示、邻接对象和使用场景共同组织。概念可帮助超越“形式／内容”二分，但须由具体界面史料验证。来源：[book-0055](summaries/book-0055.summary.md)；第三章。
+
+### Reflection-in-action／行动中反思
+
+Schön用于描述设计者在行动过程中通过表征、试作和重新命名问题来调整判断。它反对线性问题求解模型，但不能替代项目版本、参与者和结果证据。来源入口：[book-0055](summaries/book-0055.summary.md)；第九章；原始理论文献须另查。
+
+### Backtalk／回话
+
+草图、模型、代码或情境在操作后呈现意外性质，迫使设计者重新理解问题的现象。所谓“回话”是反思性实践比喻，不表示物自身拥有独立意图。来源：[book-0055](summaries/book-0055.summary.md)；第九章。
+
+### Prototyping culture／原型文化
+
+组织通过快速制作、展示、比较与迭代来协调设计判断的实践环境。原型可支持学习，也可被用于争取资源、冻结范围或表演进度；须保存失败标准、未采用方案和部署后果。来源：[book-0055](summaries/book-0055.summary.md)；第十章。
+
+### Design foothold／设计抓手
+
+让团队在不确定设计过程中暂时站稳、比较并继续发展的局部结构或表征。抓手不是最终正确答案，其价值取决于是否保持修改、异议和替代路径。来源：[book-0055](summaries/book-0055.summary.md)；第十一章。
+
+### Action-centered design／行动中心设计
+
+以人们在组织中提出请求、作出承诺、完成任务和协调行动为设计对象的方法。它可显化流程关系，也可能把照护、拒绝、冲突和权力差异压缩为中性图式。来源：[book-0055](summaries/book-0055.summary.md)；第六章。
+
+### ActionWorkflow／行动工作流
+
+基于语言／行动观点组织业务承诺与流程的历史性软件和方法案例。具体成效、组织影响和商业主张须回查版本、项目与使用者材料。来源：[book-0055](summaries/book-0055.summary.md)；第六章。
+
+### Participatory design／参与式设计
+
+让受技术影响的人获得信息、独立组织位置、足够范围与持续时间，并拥有真实设计决策权的传统。观察、访谈、可用性测试或收集反馈若不改变权力配置，不能直接等同参与式设计。来源：[book-0055](summaries/book-0055.summary.md)；第十四章及人物专访。
+
+### Industrial democracy／工业民主
+
+劳动者通过工会、协商制度和共同决定参与工作组织与技术选择的政治原则。它是北欧参与式设计的重要制度背景，不能在企业方法转译中被缩减为一般团队合作。来源：[book-0055](summaries/book-0055.summary.md)；第十四章。
+
+### Codetermination／共同决定
+
+劳动者代表对组织和技术决策拥有制度化参与权的安排。共同决定的法律范围、代表机制和实际效果因地区、时期与组织而异，须回查劳动法和工会档案。来源：[book-0055](summaries/book-0055.summary.md)；第十四章。
+
+### Workaround／变通办法
+
+使用者为维持实际工作而绕开、补充或重组正式系统的做法。它可能揭示设计遗漏的情境知识与协作，也可能产生安全和责任风险，不能一概写成抵抗或错误操作。来源：[book-0055](summaries/book-0055.summary.md)；第十四章Big Bank案例。
+
+### End-user programming／终端用户编程
+
+非专业程序员借电子表格、脚本或可组合工具创建和修改计算行为。它扩大局部制作能力，也带来隐藏规则、错误传播、审计、维护和责任问题。来源：[book-0055](summaries/book-0055.summary.md)；第十一章及相关人物专访。
+
+## book-0056新增术语：非现代、混合体与物的公共代表
+
+### Hybrid／混合体
+
+同时关联人、非人、科学、技术、制度、法律和话语的具体实体或争议。它不是一般“跨界”或形式混搭；每项关联须由项目、材料、文件和行动者证据说明。来源：[book-0056](summaries/book-0056.summary.md)；第一章1.1、1.5。
+
+### Purification／纯化
+
+把自然／社会、人／非人、事实／价值等划分为彼此独立领域的制度和话语工作。纯化既可能建立必要责任与标准，也会遮蔽实际中介；应研究其分类、仪器、机构和专业边界。来源：[book-0056](summaries/book-0056.summary.md)；第一章1.5、第二章。
+
+### Translation／mediation／转译／中介
+
+连接过程中改变所传递内容以及参与实体的实践。它不同于中性运输隐喻；中介效应须由版本、行为、材料测试和关系变化证明。来源：[book-0056](summaries/book-0056.summary.md)；第一章1.2、第三章3.11—3.12。
+
+### Collective／联合体
+
+人类与非人类共同形成的关联集合。Latour用它区别于只由人际关系构成的“社会”；概念不能取消群体内部权力、法律责任或人类受害者地位。来源：[book-0056](summaries/book-0056.summary.md)；第一章1.2。
+
+### Modern Constitution／现代宪法
+
+Latour对自然、社会、上帝、科学代表和政治代表怎样被分配的分析隐喻。它同时允许纯化与被遮蔽的混合体生产，不是一部真实成文法，也不应替代具体国家制度史。来源：[book-0056](summaries/book-0056.summary.md)；第二章。
+
+### Quasi-object／quasi-subject／准客体／准主体
+
+不能预先归入纯自然或纯社会、并在流通中共同配置对象与主体的实体。它不是“主客观各一半”，也不表示物具有与人相同的法律和道德责任。来源：[book-0056](summaries/book-0056.summary.md)；第三章3.2。
+
+### Intermediary／mediator／中间传递者／中介者
+
+前者被设想为输送已经存在的力量或意义；后者会转译、重组并改变关联双方。设计史应把二者作为待检验区分，而非预先给每件器物赋予能动性。来源：[book-0056](summaries/book-0056.summary.md)；第三章3.11—3.12。
+
+### Generalized symmetry／广义对称性
+
+在同一分析空间追踪人和非人的属性如何被共同分配，不预设自然或社会为唯一原因。它是方法起点，不等于真伪、权力、责任和伤害彼此等价。来源：[book-0056](summaries/book-0056.summary.md)；第四章4.1—4.2。
+
+### Nature-culture／自然—文化
+
+用于反对“一个普遍自然／多个地方文化”默认框架的比较单位。概念要求研究具体联合体，却不能否认语言、身份、制度、殖民历史与共同体自称。来源：[book-0056](summaries/book-0056.summary.md)；第四章4.3—4.6。
+
+### Relationism／关系主义
+
+研究可比性、尺度和相对普遍性怎样通过仪器、计量链、词典、标准、机构、争议和谈判形成。它既不同于预设单一尺度的普遍主义，也不同于封闭世界的绝对相对主义。来源：[book-0056](summaries/book-0056.summary.md)；第四章4.8。
+
+### Polytemporality／多重时间
+
+同一联合体并置来自不同时期的材料、动作、制度和解释。它可分析维护、复兴和再利用，但不能用来否认工业化、殖民、战争或数字化的真实断裂。来源：[book-0056](summaries/book-0056.summary.md)；第三章3.7—3.10。
+
+### Metrological chain／计量链
+
+通过仪器、单位、校准、人员、文件和机构使测量结果跨地点保持可比的连续连接。普遍效果依赖计量链的建设和维护，研究应同时记录断点、成本、权力和被排除对象。来源：[book-0056](summaries/book-0056.summary.md)；第四章4.8、4.10。
+
+## book-0057新增术语：四阶设计、价值审议与组织学习
+
+### Branzi’s dilemma／Branzi困境
+
+Buchanan对现代主义统一文化瓦解后两种危险选择的概括：一端是个人编码、弱身份与缺少共同标准的多元主义，另一端是以“第二现代性”等新总体意识形态取代旧现代主义。作者提出以审议、项目和可修订协议构成第三种选择。该术语是Buchanan对Branzi的解释，须回查Branzi原文。来源：[book-0057](summaries/book-0057.summary.md)；引言与“身份和道德目的的困境”。
+
+### Second modernity／第二现代性
+
+Branzi用于回应现代主义危机的方案，在Buchanan的批评中可能把欧洲中心的现代性包装为可国际输出的文化和商业产品。不能与社会学中其他“第二现代性”概念自动等同。来源：[book-0057](summaries/book-0057.summary.md)；第一主体部分。
+
+### Weak identity／弱身份
+
+Branzi相关论述中以临时、个人化和非总体编码回应固定身份的倾向。它可支持多元表达，也可能在缺少公共判断程序时被Buchanan批评为权力竞争。教材不能用该术语贬损亚文化或少数群体。来源：[book-0057](summaries/book-0057.summary.md)；第一主体部分。
+
+### Culture as cultivation／作为教化活动的文化
+
+把文化理解为持续培养、整序、失序与再整序的活动，而非固定风格、民族性格或意识形态实体。实际使用须补制度、行动者、资源、冲突和被排除群体材料。来源：[book-0057](summaries/book-0057.summary.md)；文化哲学部分。
+
+### Good—useful—just—pleasurable／好—用—正义—愉悦
+
+Buchanan用于组织设计审议的四个价值终点。它们彼此可能冲突，是需要公开说明的共同问题，不是跨文化固定评分表；愉悦也不能覆盖剥削、排除和环境代价。来源：[book-0057](summaries/book-0057.summary.md)；审议部分与图表。
+
+### Essentially contested values／本质上有争议的价值
+
+其含义、适用和优先次序会持续争论、不能只靠定义一次解决的价值。设计项目应说明谁参与判断、采用何种证据、如何处理冲突及何时修订。来源：[book-0057](summaries/book-0057.summary.md)；审议部分。
+
+### Third-order design／第三阶设计
+
+以行动、服务、流程和战略计划为主要对象的设计范围。它不高于符号或物质对象设计，也不能免除对角色、权限、劳动和服务分配的具体核验。来源：[book-0057](summaries/book-0057.summary.md)；“设计、审议和组织学习”。
+
+### Fourth-order design／四阶设计
+
+以系统整合、组织学习、环境、观念和价值为问题范围的设计。四阶是非线性理论图式，不是行业普遍事实、职业等级或设计者代表所有人的授权。来源：[book-0057](summaries/book-0057.summary.md)；“设计、审议和组织学习”。
+
+### Strategic design planning／战略设计计划
+
+把设计判断与组织目标、资源和行动协调相连接的规划活动。Buchanan认为规划可以协调，却不能凭自身创造共同愿景；其权力范围和成效须由组织档案与受影响者材料核验。来源：[book-0057](summaries/book-0057.summary.md)；组织学习部分。
+
+### Systemic integration／系统整合
+
+把传播、物、服务、流程、组织、环境、观念和价值放入共同学习过程的第四阶目标。整合不能抹去异议，必须说明系统边界、遗漏者、后果承担者与修改权。来源：[book-0057](summaries/book-0057.summary.md)；第四阶论述。
+
+### Mediated middle／中介化的中间
+
+在个人主义多元与总体意识形态之间，通过不确定性、假设、合作、项目和可修订协议形成的实践空间。它不是价值中立或折中主义，仍须检验审议权与结构性不平等。来源：[book-0057](summaries/book-0057.summary.md)；第三种选择与结论。
+
+### Learning organization／学习型组织
+
+让不同成员持续发现问题、比较后果并修改组织实践的规范性组织观。培训、反馈或量化改进不自动构成学习；须核查劳动者的时间、信息、独立性、决定权和申诉权。来源：[book-0057](summaries/book-0057.summary.md)；组织学习部分。
