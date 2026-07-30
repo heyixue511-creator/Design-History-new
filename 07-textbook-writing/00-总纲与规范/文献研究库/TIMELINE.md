@@ -642,3 +642,24 @@ book-0034的全文校读没有新增独立历史时间点；其增量是确认�
 | 1995 | 《Branzi’s Dilemma》早期版本收入Helsinki会议文集《Design Pleasure or Responsibility?》。 | [book-0057](summaries/book-0057.summary.md)仓库《The Designed World》书目说明；编者、页码及与1998版差异须回查原书。 |
 | 1998 | `Design Issues` 14(1)刊载《Branzi’s Dilemma: Design in Contemporary Culture》，以好／用／正义／愉悦、四阶设计和组织学习回应现代主义文化危机。 | [book-0057](summaries/book-0057.summary.md)仓库交叉书目；正式页码、尾注和图表须回查期刊原版。 |
 | 2010 | 文章重刊于Richard Buchanan、Dennis P. Doordan与Victor Margolin编《The Designed World》。 | [book-0057](summaries/book-0057.summary.md)仓库同文；这是同一文本实体的重刊，不能作为独立互证。 |
+
+## book-0058增量：设计研究的概念化、制造与评价
+
+> 下列节点来自2010年重编的《Design Issues》论文文集。机构事件、技术优先权和成效须回原刊、档案、技术记录和更新研究；同文重刊不构成独立证据。
+
+| 年代 | 事件／论述节点 | 证据入口与边界 |
+|---|---|---|
+| 1940年代 | OSS Visual Presentation Branch把研究、设计、工程、电影和展示组织为战争信息系统，后延伸到旧金山联合国会议与Nuremberg法庭。 | [book-0058](summaries/book-0058.summary.md)第11章；回查RG226档案，保持情报／宣传／法庭权力批判，不使用地图、旗帜和徽记。 |
+| 1955 | 乌尔姆设计学院在Inge Scholl、Otl Aicher等人的战后民主教育计划中建立，Max Bill推动设计方向。 | [book-0058](summaries/book-0058.summary.md)第24章；创校过程和角色回查Ulm档案、校刊及政策文件。 |
+| 1958前后 | 乌尔姆课程更系统地纳入科学、数学、符号学、社会科学与方法，Bill／Maldonado路线分歧深化。 | [book-0058](summaries/book-0058.summary.md)第24章；不是艺术向科学的单线替代。 |
+| 1968 | 乌尔姆在州政府压力、财政、内部派别、理论／实践矛盾和功能主义危机中关闭。 | [book-0058](summaries/book-0058.summary.md)第24章；不得单因归责。 |
+| 1983 | Thinking Machines Corporation成立，开始围绕大规模并行计算形成技术与产品设计网络。 | [book-0058](summaries/book-0058.summary.md)第13章；属于参与者记述，企业与技术档案另核。 |
+| 1984后 | Macintosh、ImageWriter、LaserWriter、PostScript、PageMaker和数字字体共同推动桌面出版与屏幕排印。 | [book-0058](summaries/book-0058.summary.md)第15章；发行日期、团队、市场与非拉丁文字史分别核验。 |
+| 1986 | CM-1推出，以黑色立方体和红色状态灯表达并行计算架构。 | [book-0058](summaries/book-0058.summary.md)第13章；不能由参与者文本独立证明首创、性能或观众理解。 |
+| 1987 | CM-2推出，延续早期Connection Machine的产品视觉语言。 | [book-0058](summaries/book-0058.summary.md)第13章；规格与版本回技术档案。 |
+| 1991 | CM-5取代早期视觉体系；Benetton资助的《Colors》创刊。 | [book-0058](summaries/book-0058.summary.md)第13、21章；后者的多元主义须从企业传播与再现政治分析。 |
+| 1992 | Anceschi在ICOGRADA讨论可见／不可见；Findeli在Lyon会议提出设计技术伦理研究。 | [book-0058](summaries/book-0058.summary.md)第18、27章；演讲与研究札记是行动者思想材料。 |
+| 1994 | Buchanan在Helsinki会议发表〈Branzi’s Dilemma〉早期版本；多篇环境、计算与伦理文章在`Design Issues`刊出。 | [book-0058](summaries/book-0058.summary.md)第1、13、22、27章；版本关系和原刊页码须核。 |
+| 1995 | 荷兰Eternally Yours计划成立，推动产品寿命、维修、服务和情感依恋讨论。 | [book-0058](summaries/book-0058.summary.md)第7章；实际项目、采用和结果另核。 |
+| 1996—2001 | 情景、物质性、技术驯化、环境系统、数字参与、排印、工程话语、生态与伦理论文集中发表于`Design Issues`。 | [book-0058](summaries/book-0058.summary.md)第2—27章；这是英语学术网络的时期性材料，不代表全球同步转向。 |
+| 2010 | Buchanan、Doordan、Margolin以“概念化—制造—评价”重编27篇论文为《The Designed World》。 | [book-0058](summaries/book-0058.summary.md)总导言与全书；编者学科分期不是全球设计学史定论。 |

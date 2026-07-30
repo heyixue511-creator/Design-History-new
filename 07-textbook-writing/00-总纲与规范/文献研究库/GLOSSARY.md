@@ -2017,3 +2017,69 @@ Buchanan用于组织设计审议的四个价值终点。它们彼此可能冲突
 ### Learning organization／学习型组织
 
 让不同成员持续发现问题、比较后果并修改组织实践的规范性组织观。培训、反馈或量化改进不自动构成学习；须核查劳动者的时间、信息、独立性、决定权和申诉权。来源：[book-0057](summaries/book-0057.summary.md)；组织学习部分。
+
+## book-0058新增术语：概念化、制造、评价与设计研究
+
+### Conceptualization—fabrication—evaluation／概念化—制造—评价
+
+《The Designed World》编者用于重组设计研究的三环框架：界定人工物与问题、在材料和组织协作中形成形式、通过后果显露价值。它不是线性流程，也不是统一学科定论。来源：[book-0058](summaries/book-0058.summary.md)；总导言与三部分导言。
+
+### Prometheus syndrome／Icarus syndrome／普罗米修斯综合征／伊卡洛斯综合征
+
+Negrotti分别用来指顺应／支配自然规律的常规技术，以及以不同材料和程序再现自然范例的人工技术。这是西方神话框架下的理论分类，不能替代具体技术史或安全评估。来源：[book-0058](summaries/book-0058.summary.md)；第2章。
+
+### Observation level／观察层级
+
+人工系统设计时，从一个复杂范例中选择要观察和再现的尺度、边界与性能。层级选择受知识、历史和目的影响；没有有限装置能复现全部层级。来源：[book-0058](summaries/book-0058.summary.md)；第2章。
+
+### Transfiguration／转形
+
+材料、装置、宿主与环境相互作用后，人工物产生超出原范例或设计意图的新性质与副作用。概念可提示非预期后果，不等同某项技术一定失败。来源：[book-0058](summaries/book-0058.summary.md)；第2章。
+
+### Information about／for／as reality／关于现实／用以实现现实／作为现实的信息
+
+Borgmann对信息作用的三分：描述现实、指导现实化实践，以及由信号直接构成经验。该区分属于1995年技术哲学，不能直接证明当前数字平台或AI的社会效果。来源：[book-0058](summaries/book-0058.summary.md)；第4章。
+
+### Script／脚本
+
+人工物对行动者、使用顺序和角色关系的预设。脚本既可能来自明确设计，也可能在材料关系中产生非意图后果；识别脚本不能替代使用者和受影响者研究。来源：[book-0058](summaries/book-0058.summary.md)；第7章。
+
+### Multistability／多稳态
+
+同一技术在不同使用关系、文化和情境中可能形成多种相对稳定的意义与行动方式。多稳态不表示所有解释同等安全、正义或可行。来源：[book-0058](summaries/book-0058.summary.md)；第7章。
+
+### Technological intentionality／技术意向性
+
+技术—使用关系对行动方向的诱导能力。它不表示物具有人的意图、权利和责任；设计史仍须定位机构、法律与可追责决定。来源：[book-0058](summaries/book-0058.summary.md)；第7章。
+
+### Domestication of technology／技术驯化
+
+技术由玩具、奢侈或新奇物转变为工具、必需品和日常惯例的历史过程。该概念强调商品、基础设施和生活实践共同塑造需要；“驯化”只是比喻，不能自然化控制与扩散。来源：[book-0058](summaries/book-0058.summary.md)；第8章。
+
+### Promiscuous vision／混杂视觉
+
+Doordan用来描述水族馆把活体观看、X光、扫描、模型、说明和生命维持设施组合为多路径理解。它不能证明参观者学习或保护行为，且须补动物福利与展示伦理。来源：[book-0058](summaries/book-0058.summary.md)；第10章。
+
+### Philosophy of presentation／展示哲学
+
+OSS设计团队将展示定义为针对特定事实和受众选择、生产并组合媒介的机构方法。该方法形成于战争和情报体制，不能脱离政治目的而被中性化。来源：[book-0058](summaries/book-0058.summary.md)；第11章。
+
+### Ornament without decorating／没有贴饰的装饰
+
+Thiel对Connection Machine黑色立方体与状态灯的行动者概括：形式从计算架构、构造与沟通目的中产生，并赋予不可见系统象征性。它不能证明观众理解或技术绩效。来源：[book-0058](summaries/book-0058.summary.md)；第13章。
+
+### Design-conscious／design-aware／设计知名意识／设计关系意识
+
+Whiteley用前者指熟悉设计师、风格和专业话语，后者指能分析物怎样进入生活、身份、价值和权力。中文译名为工作性对译，正式写作宜保留英文。来源：[book-0058](summaries/book-0058.summary.md)；第17章。
+
+### Verbal sketching／言语草图
+
+设计会议中通过描述空间、动作、零件和条件来共享尚未形成图纸的方案模型。其有效性来自单一小案例，须结合录音、图纸、版本和参与者核验。来源：[book-0058](summaries/book-0058.summary.md)；第19章。
+
+### Green design／ecodesign／sustainable design／绿色设计／生态设计／可持续设计
+
+Madge把三者视为20世纪80—90年代不断扩展又相互重叠的争议词汇。它们不是自动升级的线性阶段；每个项目仍须核查边界、生命周期、总量和公平。来源：[book-0058](summaries/book-0058.summary.md)；第25章。
+
+### Technoethics／技术伦理
+
+Findeli用于把伦理判断纳入设计的初始状态、介入过程和目标状态，并联系微观／宏观后果。该理论入口不能替代医学、法律、AI或环境领域的现行伦理规范。来源：[book-0058](summaries/book-0058.summary.md)；第27章。
