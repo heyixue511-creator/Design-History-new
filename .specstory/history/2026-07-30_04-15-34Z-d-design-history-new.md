@@ -7901,3 +7901,2042 @@ _**Agent (gpt-5.6-sol 2026-07-30 10:24:44Z)**_
 [03-正文.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md>)与[04-图像与图注.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\04-图像与图注.md>)继续锁定。
 
 本轮未读取或修改“文献研究库”。下一步应在 `01`、`02` 中建立第一条真实的 G1-A 或 G1-B 证据链。
+
+---
+
+_**User (2026-07-30 11:02:33Z)**_
+
+# 批判性审查官第三轮审查
+
+## 一、审查结论
+
+### 裁决：框架修订通过，可继续证据核验
+
+最新版本已经实质解决第二轮提出的大部分问题。当前第一章框架可以作为正式的**证据核验方案**使用，不再需要整体重构。
+
+但仍不能：
+
+```text
+冻结六节结构
+确定具体主锚点
+解锁正文
+建立正式图像清单
+```
+
+原因没有变化：`G1-A`和`G1-B`仍为空表，候选文献仍未完成全文匹配与精确定位。
+
+### 评分
+
+| 项目      | 第二轮 | 第三轮 |
+| ------- | --: | --: |
+| 核心问题    | 9.0 | 9.0 |
+| 概念操作化   | 8.0 | 9.0 |
+| 证据程序    | 8.0 | 9.0 |
+| 时间结构    | 7.0 | 8.5 |
+| 案例控制    | 7.0 | 8.5 |
+| 区域比较设计  | 7.0 | 8.5 |
+| 章节边界    | 9.0 | 9.0 |
+| 当前证据完成度 | 1.0 | 1.0 |
+
+**框架质量：8.8/10。**
+**证据完成度：仍约1/10。**
+
+---
+
+# 二、第二轮问题的处理结果
+
+## 1. 活动层级混淆：已解决
+
+原有三级分类已经改成四级：
+
+```text
+I　产品形成劳动
+II　形式—工艺判断
+III　组织化形式决定
+IV　制度识别的设计活动
+```
+
+新版本明确将“跨工序外化”与“制度识别”分开，也明确指出四级不是必然进化阶段。
+
+这一修改有效阻断了：
+
+```text
+参与生产
+→具有判断
+→组织化传递
+→制度化职业
+```
+
+被写成自然连续过程的风险。
+
+## 2. 权限数量机械化：已解决
+
+生死门不再要求找到“至少三种权限”，而是要求证明：
+
+* 至少一项权限发生转移、分离、冲突或重组；
+* 涉及两种不同类型行动者；
+* 权限变化实际进入生产；
+* 存在执行偏差、现场解释、修改、拒绝或检验记录。
+
+这比权限计数更接近历史因果分析。
+
+## 3. 连续档案偏向大企业：基本解决
+
+新版本同时设置：
+
+* `G1-A`：主锚点连续链；
+* `G1-B`：对照性三角核验链。
+
+对于家庭劳动、外包体系、女性劳动、殖民地生产和匿名熟练劳动，可以通过实物痕迹、制度材料和实际执行记录进行直接关联的三角核验，而不再要求所有案例都有完整企业档案。
+
+证据表还增加了“保存偏差”字段，明确规定无记录不能自动解释为无活动。
+
+## 4. 英国分期覆盖其他地区：已解决
+
+现在采用：
+
+```text
+英国锚点时间轴
+＋比较地区自身时间轴
+＋机制—时间矩阵
+```
+
+比较地区不再机械套入英国的1750—1800、1800—1850和1850—1914三个阶段，只有存在具体人员、商品、技术、样品、政策或市场联系时才建立同步节点。
+
+正文也不再要求六节反复复制“早期—中期—后期”，而只在证据显示机制变化的节点切换时间。
+
+## 5. 两个锚点负担过重：已解决
+
+原来的“两条完整生产链”已经改为：
+
+```text
+一个主锚点
+＋一个对照锚点
+```
+
+主锚点承担完整链条；对照锚点只检验一个关键差异，不再重复全部历史。
+
+案例总结构也改为：
+
+```text
+1个主锚点
+＋1个对照锚点
+＋2个支持案例
+＋1个反例
+```
+
+这一规模基本可以装入16,000字。
+
+## 6. 印花棉布软冻结：已解决
+
+印花棉布现在只是“第一优先候选方向”，不是预定案例。若其证据链不能通过准入门槛，可以整体替换生产类型，不得通过降低门槛来保留。
+
+1.2也明确规定区域比较对象“不预设为棉纺／印花体系”。
+
+## 7. 第1.6节功能过载：已解决
+
+历史词语与职业身份已经分散到：
+
+* 1.1：历史词语与后设身份；
+* 1.3：制图、制模、样品管理岗位；
+* 1.5：署名权、法律权与实际权限错位。
+
+1.6现在只负责跨区域综合与非阶段化结论，不再新增职业制度史。
+
+## 8. 市场反馈与权限混为一谈：基本解决
+
+中心论点已经改为：
+
+> 权限由劳动分工、表述媒介、企业岗位和法律权利重组；订单、销售、维修和使用反馈只是改变下一轮选择的条件。
+
+市场反馈也区分为直接定制、商家转述、销量筛选、维修反馈和企业内部再解释。
+
+## 9. 权限总表压平差异：已解决
+
+证据文件不再使用一张全章总表，而要求每个案例、时期和生产阶段分别记录：
+
+* 正式权限；
+* 实际权限；
+* 默会知识形成的事实影响；
+* 制约条件；
+* 变化节点；
+* 证据位置。
+
+## 10. 区域比较缺少来源位置：已解决
+
+区域比较新增了：
+
+* 来源位置；
+* 当地术语；
+* 证据对称性；
+* 保存偏差；
+* 自身时间轴；
+* 真实关系节点。
+
+---
+
+# 三、仍需处理的三个问题
+
+这些问题不需要再次整体重写提纲，但必须在实际填充证据前修正。
+
+## 1. “市场筛选权”不应继续放在权限矩阵内
+
+权限矩阵仍把“市场筛选权”与提议权、批准权、修改权和法律权并列。
+
+但市场筛选与其他九项并非同一种概念：
+
+* 提议、选择、批准、解释、修改和检验是**生产操作权限**；
+* 署名权和法律权是**归属与产权关系**；
+* 市场筛选是**外部反馈机制**，通常不是某个行动者被授予的权限。
+
+### 建议拆成三组
+
+#### A. 生产操作权限
+
+```text
+提议
+选择
+批准
+表述
+解释
+修改
+检验
+```
+
+#### B. 归属和法律关系
+
+```text
+署名
+专利／注册／企业产权
+```
+
+#### C. 外部选择与反馈机制
+
+```text
+订单
+销售
+投诉
+维修
+使用
+```
+
+将“市场筛选权”改为“市场筛选与反馈机制”。否则正文可能再次出现“市场拥有某种权力”这种主体模糊的表达。
+
+---
+
+## 2. 主锚点准入条件仍然过度要求市场反馈
+
+主锚点当前必须具有：
+
+> 销售、订单、使用或维修中的一种反馈材料。
+
+但中心机制的核心是：
+
+```text
+形式判断如何被外化
+→怎样跨工序传递
+→如何进入生产
+→怎样被检验和修正
+```
+
+市场或使用反馈只是下一轮选择的条件，并不是证明生产权限重新分配的必要条件。
+
+一个对象可能拥有非常完整的：
+
+```text
+图样
+→生产
+→检验
+→返工
+→修改
+```
+
+证据，却没有保存销售或使用记录。若因此被排除，会把一个强主锚点误判为不合格。
+
+### 建议改为
+
+主锚点必须具有：
+
+* 生产内部的检验、返工、解释或修改材料；
+* **市场、订单、维修或使用反馈为优先项，不作为绝对准入条件。**
+
+若没有外部反馈，可由1.5的支持案例补充反馈机制。
+
+---
+
+## 3. G1-B的名称容易与“对照锚点”混淆
+
+目前同时存在：
+
+* `G1-B 对照性三角核验链`；
+
+* `对照锚点`。
+
+二者实际上不是同一概念：
+
+* G1-B是**证据组织方法**；
+* 对照锚点是**案例的论证角色**。
+
+某个主锚点也可能通过G1-B，而对照锚点也可能使用连续证据。
+
+### 建议改名
+
+将：
+
+```text
+G1-B 对照性三角核验链
+```
+
+改为：
+
+```text
+G1-B 关联性三角互证链
+```
+
+或：
+
+```text
+G1-B 非连续档案三角核验链
+```
+
+这样不会让执行者误以为G1-B专门用于对照锚点。
+
+---
+
+# 四、一项程序性风险
+
+## 区域比较不宜成为正文解锁的绝对前提
+
+`03-正文.md`规定，只有“一个区域比较对通过同指标可比性检查”后才能解锁全部正文。
+
+这个要求有利于防止英国中心叙事，但也可能产生反效果：
+
+> 若区域材料暂时不足，研究者可能为了启动正文而强行制造对称比较。
+
+更符合证据主导原则的方式是设置两个结果：
+
+### 结果A：完整比较成立
+
+保留现有1.6，进行一个区域比较对。
+
+### 结果B：完整比较不成立
+
+仍可解锁1.1—1.5中已经证实的生产机制，但必须：
+
+* 删除对称比较表述；
+* 将1.6改为“英国路径的边界与当前不可比之处”；
+* 明确说明哪些地区因材料不对称尚不能比较；
+* 不得把缺乏比较材料改写为英国路径的普遍性。
+
+也就是说：
+
+> 区域比较失败应当触发结构降级，而不一定导致全部正文无限期锁死。
+
+---
+
+# 五、六文件同步情况
+
+| 文件             | 第三轮判断               |
+| -------------- | ------------------- |
+| `00-章节提纲.md`   | 已完成第二轮概念修正，基本通过     |
+| `01-本章文献映射.md` | 与四级分类、双证据链和区域来源门槛同步 |
+| `02-证据与注释.md`  | 结构完整，可开始填充真实证据      |
+| `03-正文.md`     | 继续锁定是正确决定           |
+| `04-图像与图注.md`  | 继续暂缓具体图像是正确决定       |
+| `05-审校记录.md`   | 第二轮意见及修改均已准确登记      |
+
+审校记录已完整记录四级分类、双证据路径、双时间轴、主／对照锚点分工和区域来源门槛的修改结果。
+
+---
+
+# 六、当前最终裁定
+
+```text
+目录与版本：通过
+核心问题：通过
+四级活动分类：通过
+时间结构：通过
+第一章／第二章边界：通过
+案例规模控制：通过
+区域比较方法：有条件通过
+证据记录模板：通过
+中心机制G1-A：尚未通过
+中心机制G1-B：尚未通过
+具体主锚点：尚未确定
+具体对照锚点：尚未确定
+正文解锁：不通过
+正式图像清单：不通过
+```
+
+## 最终判词
+
+当前版本已经不再需要继续扩写框架。第三轮之后，提纲层面只需进行三项小修：
+
+1. 将市场筛选从权限矩阵中分离；
+2. 把市场／使用反馈从主锚点的绝对准入条件改为优先条件；
+3. 将G1-B改名，避免与对照锚点混淆。
+
+完成这三项后，应停止继续修改抽象规则，直接进入`01-本章文献映射.md`和`02-证据与注释.md`的真实取证。下一次具有实质意义的审查节点，不应是提纲再次改写，而应是第一条G1-A或G1-B证据链填写完成之后。
+
+
+
+---
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:02:38Z)**_
+
+第三轮结论已进入“小修后停止改框架”的阶段。我会只落实三项概念修正和区域比较的降级路径，不再扩写提纲；随后把下一工作节点明确锁定为第一条真实证据链。
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:02:41Z)**_
+
+<tool-use data-tool-type="task" data-tool-name="update_plan"><details>
+<summary>Tool use: **update_plan**</summary>
+**Agent task list:**
+- [⚡] 定位六文件中的G1-B、市场筛选权与正文解锁条件
+- [ ] 修订00与02中的权限分组、反馈条件和G1-B名称
+- [ ] 修订03的区域比较双结果解锁路径
+- [ ] 追加第三轮审校记录
+- [ ] 复核小修同步并停止框架扩写
+
+```
+Plan updated
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:02:45Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$chapter = 'D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成'
+rg -n --glob '*.md' 'G1-B|市场筛选权|市场筛选与反馈|销售、订单、使用或维修|区域比较对|区域比较失败|完整比较' $chapter
+```
+```
+Exit code: 0
+Wall time: 1.4 seconds
+Output:
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md:21:| A | 材料和区域范围超载 | 改为两条生产链，只选一个区域比较对 | 00 |
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md:69:| A | 完整连续链偏向档案保存充分的大企业 | 建立G1-A主锚点连续链与G1-B对照性三角核验链；增加档案保存偏差说明 | 00、01、02、03 |
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md:89:G1-B对照性三角核验链：未通过
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md:99:1. 尝试建立第一条G1-A或G1-B真实证据链；
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md:103:5. G1-A和G1-B均失败时，撤销当前中心论点并重构六节结构。
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md:53:1. 是否能够建立G1-A主锚点连续链，或以直接关系建立G1-B对照性三角核验链；
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md:57:5. 是否存在一个能够使用相同指标的区域比较对；
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md:9:1. `02-证据与注释.md` 的G1-A或G1-B通过，且中心机制生死门通过；
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md:11:3. 一个区域比较对通过同指标可比性检查；
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md:120:| 市场筛选权 | 订单、销售、投诉和使用怎样影响下一轮生产 | 直接参与当次形式决定 |
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md:182:#### G1-B　对照性三角核验链
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md:196:| G1-A成立，或G1-B以已证明的直接关系成立；同时至少证明一项权限发生转移、分离、冲突或重新组合，涉及两个不同类型行动者，并进入实际生产且显示其边界 | 可以暂时保留“权限重新分配”为中心主线，继续核定主锚点和对照锚点 |
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md:200:| G1-A与G1-B均不能成立 | 放弃当前中心论点，重新设计章节结构 |
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md:268:选定的区域比较对贯穿本节，使用相同指标比较机器进入工序、劳动组合、市场距离和样品权限。比较对象不预设为棉纺／印花体系。
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md:313:- 其他主锚点候选：能够通过G1-A或G1-B的具体生产链；
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md:386:| 主锚点 | 1 | 完整贯穿材料、媒介、权限、生产、修正和反馈 | 具有对象身份；通过G1-A或G1-B；能够承担中心机制 |
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md:432:2. 在 `02-证据与注释.md` 分别尝试G1-A主锚点连续链和G1-B对照性三角核验链；
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md:433:3. 生死门通过后，确定一个主锚点、一个对照锚点及一个区域比较对；
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md:32:### G1-B　对照性三角核验链
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md:62:| 判定日期 | G1-A结果 | G1-B结果 | G2结果 | 中心论点保留／降级／撤销 | 结构影响 | 经办说明 |
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md:89:- [ ] 通过G1-A或G1-B；
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md:91:- [ ] 有销售、订单、使用或维修中的一种反馈材料；
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:03:00Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning synchronized renaming and historical notes**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:03:01Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning synchronized renaming and historical notes**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:03:01Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Reworking tables and regional comparison logic**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:04:01Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md`**
+
+```diff
+@@
+-### 3.4 “形式决定权”的权限矩阵
+-
+-| 权限 | 核心问题 | 不能替代它的材料 |
+-|---|---|---|
+-| 提议权 | 谁能提出形式或工艺方案 | 仅证明受雇的工资册 |
+-| 选择权 | 谁能在多个方案中选择 | 只有一个成品的图像 |
+-| 批准权 | 谁能使决定进入生产 | 单独的署名或企业归属 |
+-| 表述权 | 谁把决定转化为图样、模型、样品或规格 | 不能证明实际使用的图样存世 |
+-| 解释权 | 谁在现场解释不完整或不可执行的指令 | 无现场关系的岗位名称 |
+-| 修改权 | 谁能根据材料、误差或成本改变方案 | 仅有产品差异 |
+-| 检验权 | 谁判断产品是否合格并要求返工 | 企业宣传中的质量声明 |
+-| 署名权 | 谁被公开承认为作者 | 实际形式决定权限 |
+-| 法律权 | 谁拥有专利、注册或企业产权 | 实际发明、制作或修正行为 |
+-| 市场筛选权 | 订单、销售、投诉和使用怎样影响下一轮生产 | 直接参与当次形式决定 |
+-
+-正文每次使用“权力”“控制”“决定”时，必须指明其中一种或数种具体权限。
++### 3.4 生产权限、归属关系与反馈机制
++
++三组关系必须分开记录，不能把市场当作拥有生产权限的行动者。
++
++#### A. 生产操作权限
++
++| 权限 | 核心问题 | 不能替代它的材料 |
++|---|---|---|
++| 提议权 | 谁能提出形式或工艺方案 | 仅证明受雇的工资册 |
++| 选择权 | 谁能在多个方案中选择 | 只有一个成品的图像 |
++| 批准权 | 谁能使决定进入生产 | 单独的署名或企业归属 |
++| 表述权 | 谁把决定转化为图样、模型、样品或规格 | 不能证明实际使用的图样存世 |
++| 解释权 | 谁在现场解释不完整或不可执行的指令 | 无现场关系的岗位名称 |
++| 修改权 | 谁能根据材料、误差或成本改变方案 | 仅有产品差异 |
++| 检验权 | 谁判断产品是否合格并要求返工 | 企业宣传中的质量声明 |
++
++#### B. 归属和法律关系
++
++| 关系 | 核心问题 | 不能替代它的材料 |
++|---|---|---|
++| 署名关系 | 谁被公开承认为作者 | 实际形式决定权限 |
++| 专利／注册／企业产权 | 谁依法或依合同占有相关权利 | 实际发明、制作或修正行为 |
++
++#### C. 外部选择与反馈机制
++
++| 机制 | 核心问题 | 不能直接推出的结论 |
++|---|---|---|
++| 订单 | 是否提出定制条件，由谁转译为生产要求 | 用户直接拥有生产权限 |
++| 销售 | 销量怎样改变下一轮产品选择 | 市场主动设计产品 |
++| 投诉 | 投诉由谁解释，是否进入修改程序 | 使用者直接决定形式 |
++| 维修 | 故障或磨损是否触发结构调整 | 维修记录本身就是设计 |
++| 使用 | 使用结果怎样被观察、记录和转译 | 使用等于共同设计 |
++
++正文每次使用“权力”“控制”“决定”时，必须指明具体生产权限或归属关系；订单、销售、投诉、维修和使用统一写作反馈机制及其转译过程，不称为“市场筛选权”。
+@@
+-#### G1-B　对照性三角核验链
++#### G1-B　关联性三角互证链
+@@
+-| G1-A成立，或G1-B以已证明的直接关系成立；同时至少证明一项权限发生转移、分离、冲突或重新组合，涉及两个不同类型行动者，并进入实际生产且显示其边界 | 可以暂时保留“权限重新分配”为中心主线，继续核定主锚点和对照锚点 |
++| G1-A成立，或G1-B以已证明的直接关系成立；同时至少证明一项权限发生转移、分离、冲突或重新组合，涉及两个不同类型行动者，并进入实际生产且显示其边界 | 可以暂时保留“权限重新分配”为中心主线，继续核定主锚点和对照锚点 |
+@@
+ **章末功能：**
+ 
+ 本节得出的应是“不均衡分化”的条件性判断，不是从英国向世界扩散的阶段模型。
++
++**区域证据的两种结果：**
++
++- **结果A：完整比较成立。** 保留本节的区域比较，以同一核心问题和可比指标形成条件性结论。
++- **结果B：完整比较不成立。** 本节降级为“英国路径的边界与当前不可比之处”，删除对称比较表述，说明证据不对称和不可比原因；不得把缺少比较材料改写成英国路径具有普遍性。
+@@
+-| 主锚点 | 1 | 完整贯穿材料、媒介、权限、生产、修正和反馈 | 具有对象身份；通过G1-A或G1-B；能够承担中心机制 |
++| 主锚点 | 1 | 完整贯穿材料、媒介、权限、生产、检验和修正；外部反馈为优先项 | 具有对象身份；通过G1-A或G1-B；能够承担中心机制 |
+@@
+-6. 比较地区不能使用相同问题和指标；
++6. 区域比较未通过，却仍保留对称比较表述或把英国路径写成普遍模型；
+@@
+-2. 在 `02-证据与注释.md` 分别尝试G1-A主锚点连续链和G1-B对照性三角核验链；
+-3. 生死门通过后，确定一个主锚点、一个对照锚点及一个区域比较对；
++2. 在 `02-证据与注释.md` 分别尝试G1-A主锚点连续链和G1-B关联性三角互证链；
++3. 生死门通过后，确定一个主锚点、一个对照锚点，并判定区域材料进入结果A或结果B；
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md`**
+
+```diff
+@@
+-1. 是否能够建立G1-A主锚点连续链，或以直接关系建立G1-B对照性三角核验链；
++1. 是否能够建立G1-A主锚点连续链，或以直接关系建立G1-B关联性三角互证链；
+@@
+-5. 是否存在一个能够使用相同指标的区域比较对；
++5. 区域材料能否形成同指标比较；若不能，是否足以说明英国路径的边界和当前不可比之处；
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-### G1-B　对照性三角核验链
++### G1-B　关联性三角互证链
+@@
+ - [ ] 能观察并解释材料、工序、误差、修正或使用痕迹；
+ - [ ] 通过G1-A或G1-B；
+ - [ ] 至少证明一项权限关系变化，涉及两个不同类型行动者并进入生产；
+-- [ ] 有销售、订单、使用或维修中的一种反馈材料；
++- [ ] 有生产内部的检验、返工、解释、拒绝或修改材料；
+ - [ ] 若承担跨区域关系，该关系由具体原料、商品、人员、样品或制度联系建立。
+ 
+ 印花棉布只是第一优先候选方向。若不能通过门槛，可整体替换生产类型，不得降低门槛。
++
++销售、订单、投诉、维修或使用反馈是主锚点的优先材料，不是绝对准入条件。主锚点缺少外部反馈时，可以由1.5的支持案例补充反馈机制，但不得用外部反馈替代生产内部的检验和修正证据。
+@@
+ 若只有一方拥有可核材料，不能以背景概述填补另一方，也不能进入正文作对称比较。
+@@
+ | 关系节点 | 只有人员、商品、技术、样品、政策或市场关系可建立同步节点 | 待核 | 待核 | 未通过 |
++
++### 区域比较结果
++
++| 结果 | 判定条件 | 结构处理 | 状态 |
++|---|---|---|---|
++| A　完整比较成立 | 两地能够回答同一核心问题，关键指标可比，来源位置和保存偏差已说明 | 保留1.6跨区域比较 | 未判定 |
++| B　完整比较不成立 | 材料不足、不对称或关键指标不可比 | 1.6降级为“英国路径的边界与当前不可比之处”；删除对称比较；不得宣称英国路径普遍 | 未判定 |
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md`**
+
+```diff
+@@
+-3. 一个区域比较对通过同指标可比性检查；
+-4. `01-本章文献映射.md` 已记录核心材料的全文读取、精确页段和跨章边界；
+-5. 六节结构经过重大修改后的复审；
+-6. 第一章与第二章的边界没有未解决冲突。
++3. `01-本章文献映射.md` 已记录核心材料的全文读取、精确页段和跨章边界；
++4. 六节结构经过重大修改后的复审；
++5. 第一章与第二章的边界没有未解决冲突；
++6. 区域材料已经作出结果A或结果B判定。
++
++区域比较采用两条解锁路径：
++
++- **结果A：完整比较成立。** 保留1.6的跨区域比较。
++- **结果B：完整比较不成立。** 可以解锁证据已经成立的1.1—1.5；1.6必须降级为“英国路径的边界与当前不可比之处”，删除对称比较表述，明确材料不对称，不得把英国路径写成普遍模型。
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md`**
+
+```diff
+@@
+-| A | 完整连续链偏向档案保存充分的大企业 | 建立G1-A主锚点连续链与G1-B对照性三角核验链；增加档案保存偏差说明 | 00、01、02、03 |
++| A | 完整连续链偏向档案保存充分的大企业 | 建立G1-A主锚点连续链与G1-B关联性三角互证链（建立时暂称“对照性三角核验链”）；增加档案保存偏差说明 | 00、01、02、03 |
+@@
+-G1-B对照性三角核验链：未通过
++G1-B关联性三角互证链：未通过
+@@
+ 5. G1-A和G1-B均失败时，撤销当前中心论点并重构六节结构。
+ 
+ 本轮继续排除 `00-总纲与规范/文献研究库/`，没有判断任何候选编号对应文献的实际内容。
++
++---
++
++## 审校轮次 03：证据核验方案确认
++
++### 审查结论
++
++- 裁决：框架修订通过，可继续证据核验；
++- 框架质量：8.8／10；
++- 证据完成度：仍约1／10；
++- 限制：不得冻结六节结构、确定具体主锚点、解锁正文或建立正式图像清单。
++
++### 本轮小修
++
++| 审查意见 | 处理结果 | 对应文件 |
++|---|---|---|
++| “市场筛选权”与生产权限混列 | 拆为生产操作权限、归属与法律关系、外部选择与反馈机制三组；删除“市场筛选权” | 00 |
++| 主锚点强制要求市场／使用反馈 | 改为生产内部检验、返工、解释或修改是必要条件；外部反馈为优先项，可由1.5支持案例补充 | 00、02 |
++| G1-B名称与对照锚点混淆 | 统一改名为“G1-B关联性三角互证链”，明确它是证据组织方法，不对应固定案例角色 | 00、01、02、03、05 |
++| 区域比较成为全部正文解锁的绝对前提 | 建立结果A／B：比较成立则保留1.6；比较不成立则1.6降级为英国路径边界与不可比说明，已成立的1.1—1.5可以解锁 | 00、01、02、03 |
++
++### 当前裁定
++
++```text
++框架作为证据核验方案：通过
++抽象规则继续扩写：停止
++G1-A主锚点连续链：未通过
++G1-B关联性三角互证链：未通过
++区域比较结果A／B：未判定
++具体主锚点：尚未确定
++具体对照锚点：尚未确定
++正文解锁：不通过
++正式图像清单：不通过
++```
++
++### 下一审查节点
++
++下一次具有实质意义的审查应在第一条G1-A或G1-B真实证据链填写完成后进行。此前不再扩写抽象提纲。
++
++本轮继续排除 `00-总纲与规范/文献研究库/`，没有判断任何候选编号对应文献的实际内容。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:04:09Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Verifying and clarifying permission naming**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:04:10Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+ - 证据功能：
+ - 对应权限：
++- 对应归属／法律关系：
++- 对应外部反馈机制：
+ - 正式权限／实际权限／事实影响：
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:04:16Z)**_
+
+三项小修和区域降级路径已经落盘。框架规则到此停止扩写：如果区域比较材料不足，不再强行制造对称案例，而是把1.6降级为“英国路径的边界与当前不可比之处”，其余已获证的1.1—1.5可单独进入写作。
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:04:30Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$chapter = 'D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成'\n$normative = @(\n  (Join-Path $chapter '00-章
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:04:37Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command** `rg -n '市场筛选权' 'D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成'`</summary>
+```
+Exit code: 0
+Wall time: 1 seconds
+Output:
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md:122:| “市场筛选权”与生产权限混列 | 拆为生产操作权限、归属与法律关系、外部选择与反馈机制三组；删除“市场筛选权” | 00 |
+D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md:140:正文每次使用“权力”“控制”“决定”时，必须指明具体生产权限或归属关系；订单、销售、投诉、维修和使用统一写作反馈机制及其转译过程，不称为“市场筛选权”。
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:04:45Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md`**
+
+```diff
+@@
+-正文每次使用“权力”“控制”“决定”时，必须指明具体生产权限或归属关系；订单、销售、投诉、维修和使用统一写作反馈机制及其转译过程，不称为“市场筛选权”。
++正文每次使用“权力”“控制”“决定”时，必须指明具体生产权限或归属关系；订单、销售、投诉、维修和使用统一写作反馈机制及其转译过程，不把反馈机制命名为一种生产权限。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:04:50Z)**_
+
+<tool-use data-tool-type="task" data-tool-name="update_plan"><details>
+<summary>Tool use: **update_plan**</summary>
+**Agent task list:**
+- [X] 定位六文件中的G1-B、市场筛选权与正文解锁条件
+- [X] 修订00与02中的权限分组、反馈条件和G1-B名称
+- [X] 修订03的区域比较双结果解锁路径
+- [X] 追加第三轮审校记录
+- [X] 复核小修同步并停止框架扩写
+
+```
+Plan updated
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:05:03Z)**_
+
+第三轮小修已完成，框架停止继续扩写。
+
+主要调整：
+
+- 将生产操作权限、归属与法律关系、外部反馈机制彻底分开；
+- 主锚点只强制要求生产内部的检验、返工、解释或修改材料，市场／使用反馈降为优先项；
+- `G1-B`统一改名为“关联性三角互证链”；
+- 区域比较增加A／B双路径：比较失败时，1.6降级为“英国路径的边界与当前不可比之处”，不阻塞已有证据支持的1.1—1.5；
+- 第三轮裁决已写入审校记录。
+
+更新文件：
+
+- [00-章节提纲.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md>)
+- [01-本章文献映射.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md>)
+- [02-证据与注释.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md>)
+- [03-正文.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md>)
+- [05-审校记录.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md>)
+
+正文和正式图像清单仍然锁定。本轮未读取“文献研究库”。下一步应直接填写第一条真实的 G1-A 或 G1-B 证据链。
+
+---
+
+_**User (2026-07-30 11:23:28Z)**_
+
+框架已经达到稳定状态，继续下一步
+
+
+---
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:23:47Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Assessing evidence chain reading approach**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:23:47Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning evidence candidate screening in reports**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:23:50Z)**_
+
+下一步进入证据核验，不再修改抽象框架。我会先在 `01-book-report`、`01-paper-report`、`03-enhanced-report` 中定位第一章候选材料，优先寻找能够组成“提出／外化—传递—执行—检验—修正”的同一生产关系；暂不读取长篇原文，也不会因此把报告线索升为A／B级证据。
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:23:54Z)**_
+
+<tool-use data-tool-type="task" data-tool-name="update_plan"><details>
+<summary>Tool use: **update_plan**</summary>
+**Agent task list:**
+- [⚡] 清点三个报告目录并定位第一章19项候选及相关增强报告
+- [ ] 读取高优先候选报告的相关章节与证据锚点
+- [ ] 比较主锚点方向并选择首条G1-A或G1-B候选链
+- [ ] 更新01-本章文献映射与02-证据与注释
+- [ ] 复核证据等级、缺口与下一轮原文回查清单
+
+```
+Plan updated
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:24:07Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$roots = @(\n  'D:\\Design-history-new\\01-book-report',\n  'D:\\Design-history-new\\01-paper-report',\n  'D:\\Design-history-new\\03-enhanced-report'\n)\
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:24:15Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$roots = @('D:\Design-history-new\01-book-report','D:\Design-history-new\01-paper-report','D:\Design-history-new\03-enhanced-report')
+foreach ($root in $roots) {
+  Write-Output "ROOT=$root"
+  Get-ChildItem -LiteralPath $root -File | Sort-Object Name | Select-Object -First 25 -ExpandProperty Name
+}
+```
+```
+Exit code: 0
+Wall time: 2.1 seconds
+Output:
+ROOT=D:\Design-history-new\01-book-report
+0001 - 1860-1914：《Learning to Consume Early Department Stores and the Shaping of the Mo.深度报告.md
+0002 - [日]良品計畫株式會社：《MUJI 無印良品》，朱锷 译，2004.深度报告.md
+0003 - A. H. Munsell：《A color notation》.深度报告.md
+0004 - Adam, Peter：Eileen Gray：Architect, Designer, 1987.深度报告.md
+0005 - Adburgham, Alison：《Libertys a biography of a shop》.深度报告.md
+0006 - Ades：《Photomontage》.深度报告.md
+0007 - Adolf Loos：《Ornament and Crime》，2019.深度报告.md
+0008 - Alain Weill：《Graphic Design A History》，2004.深度报告.md
+0009 - Alain Weill：《The Poster A Worldwide Survey and History》，1985.深度报告.md
+0010 - Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》.深度报告.md
+0011 - Alastair Duncan：《American Art Deco (1986)》，1986.深度报告.md
+0012 - Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》.深度报告.md
+0013 - Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha.深度报告.md
+0014 - Alice Rawsthorn：《Hello World Where Design Meets Life》，2013.深度报告.md
+0015 - Alison Black：《Information Design. Research and practice》.深度报告.md
+0016 - Alison J. Clarke (ed.)：《Design Anthropology Object Cultures in Transition》.深度报告.md
+0017 - Alla Kholmatova：《Design Systems》.深度报告.md
+0018 - Almquist：《Affording Meaning Design-Oriented Research from the Humanities and Social Sciences》.深度报告.md
+0019 - Ami Ayalon：《The Arabic Print Revolution Cultural Production and Mass Readership》.深度报告.md
+0020 - Andrew Feenberg：《Transforming Technology A Critical Theory Revisited》.深度报告.md
+0021 - Anne Massey：《Interior Design of the 20th Century》，1990.深度报告.md
+0022 - Anthony Dunne, Fiona Raby：《Design Noir The Secret Life of Electronic Objects》.深度报告.md
+0023 - Anthony Dunne, Fiona Raby：《Speculative Everything Design, Fiction, and Social Dreaming》，2013.深度报告.md
+0024 - Anthony Dunne：《Hertzian Tales Electronic Products, Aesthetic Experience, and Critical Design》，2005.深度报告.md
+0025 - Anthony Dunne：《Speculative Everything Design, Fiction, and Social Dreaming》.深度报告.md
+ROOT=D:\Design-history-new\01-paper-report
+0001 - [ACM Press the conference - Ft_ Lauderdale, Florida, USA -- Gaver, William W_; B.论文深度报告.md
+0002 - Alan C. Birnholz (review)：《Bauhaus and Bauhaus Peopleby Eckhard NeumannPainters of the Bauhausby Eberhard Roters_c575ab3c.论文深度报告.md
+0003 - Allison, Brian：Research in Art and Design, 1993_paged.论文深度报告.md
+0004 - Alternatives：《exploring information appliances through Bill Gaver; Heather Marti.论文深度报告.md
+0005 - Anne-Marie Willis：《Ontological Designing》，2006_paged.论文深度报告.md
+0006 - Avant-Garde as Method Vkhutemas and the Pedagogy of Space, 1920-1930.论文深度报告.md
+0007 - Bauhaus Imaginista Haus der Kulturen der Welt, Berlin, -- Basu, Priyanka -- West.论文深度报告.md
+0008 - Book Review：《Michael Twyman, Printing 1770-1970 An Illustrated History of Its De.论文深度报告.md
+0009 - Brew, Angela：The Nature of Research：Inquiry into Academic Contexts, 2001_paged.论文深度报告.md
+0010 - Bruno Latour (as Jim Johnson)：《Mixing Humans and Nonhumans Together The Sociology of a Door-Closer》，1988_paged.论文深度报告.md
+0011 - Buchanan, Richard：Design Research and the New Learning, 2001_paged.论文深度报告.md
+0012 - Buchanan：《Discovering design explorations in design studies》.论文深度报告.md
+0013 - Cameron Tonkinwise：《Design for Transitions ‒ from and to what》_paged.论文深度报告.md
+0014 - Cameron Tonkinwise：《How We Intend to Future Review of Speculative Everything》，2014_paged.论文深度报告.md
+0015 - Cameron Tonkinwise：《Is Design Finished Dematerialisation and Changing Things》，2004_paged.论文深度报告.md
+0016 - Capkova, Helena; et al.：History of Design：Decorative Arts and Material Culture, 1400-2000, 2015_paged.论文深度报告.md
+0017 - Catherine Harper：《Rethinking Decoration Pleasure and Ideology in the Visual Arts》_paged.论文深度报告.md
+0018 - Cross, Nigel：Designerly Ways of Knowing, 2006_paged.论文深度报告.md
+0019 - Cross, Nigel：Designerly Ways of Knowing：Design Discipline versus Design Science, 2001_paged.论文深度报告.md
+0020 - Design and the Construction of Publics -- DiSalvo, Carl -- Design Issues, #1, 25.论文深度报告.md
+0021 - Design history _ an anthology -- Doordan, Dennis P -- A Design issues reader, Ca.论文深度报告.md
+0022 - Design Issues：Editors (2004-2013), 2014_paged.论文深度报告.md
+002
+... (truncated)
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:24:28Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$bookRoot='D:\Design-history-new\01-book-report'
+$paperRoot='D:\Design-history-new\01-paper-report'
+$enhRoot='D:\Design-history-new\03-enhanced-report'
+$bookIds=@('0039','0163','0127','0186','0206','0144','0322','0253','0125','0366','0143','0292','0051','0097','0313','0079','0511','0507')
+foreach($id in $bookIds){
+  $m=Get-ChildItem -LiteralPath $bookRoot -File | Where-Object {$_.Name -like "$id -*"}
+  foreach($f in $m){Write-Output "B$id`t$($f.FullName)`t$($f.Length)"}
+}
+$m2=Get-ChildItem -LiteralPath $paperRoot -File | Where-Object {$_.Name -like '0072 -*'}
+foreach($f in $m2){Write-Output "P0072`t$($f.FullName)`t$($f.Length)"}
+Write-Output 'ENHANCED MATCHES'
+$terms=@('0039','0163','0127','0186','0206','0144','0322','0253','0125','0366','0143','0292','0051','0097','0313','0079','0511','0507','0072','Empire of Cotton','Age of Manufactures','Great Divergence','Ottoman Manufacturing','Pioneers of Modern Design')
+Get-ChildItem -LiteralPath $enhRoot -Recurse -File -Filter '*.md' | Where-Object {
+ $n=$_.FullName
+ foreach($term in $terms){if($n -like "*$term*"){return $true}}
+ return $false
+} | ForEach-Object {"$($_.FullName)`t$($_.Length)"}
+```
+```
+Exit code: 0
+Wall time: 2.7 seconds
+Output:
+B0039	D:\Design-history-new\01-book-report\0039 - Beckert, Sven：Empire of Cotton：A Global History, 2014.深度报告.md	24261
+B0163	D:\Design-history-new\01-book-report\0163 - Giorgio Riello：《Cotton The Fabric That Made the Modern World》.深度报告.md	24161
+B0127	D:\Design-history-new\01-book-report\0127 - Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.深度报告.md	23619
+B0186	D:\Design-history-new\01-book-report\0186 - Hounshell：《From the American system to mass production, 1800-1932 the developmen.深度报告.md	22689
+B0206	D:\Design-history-new\01-book-report\0206 - Joel Mokyr：《The lever of riches - technological creativity and economic progress (1990)》.深度报告.md	20950
+B0144	D:\Design-history-new\01-book-report\0144 - Epstein, Stephan R.; Prak, Maarten：Guilds, Innovation, and the European Economy, 1400-1800, 2008.深度报告.md	22318
+B0322	D:\Design-history-new\01-book-report\0322 - Parthasarathi, Prasannan：Why Europe Grew Rich and Asia Did Not：Global Economic Divergence, 1600-1850, 2011.深度报告.md	22674
+B0253	D:\Design-history-new\01-book-report\0253 - Kenneth Pomeranz：《The Great Divergence China, Europe, and the Making of the Modern World Economy》.深度报告.md	20550
+B0125	D:\Design-history-new\01-book-report\0125 - Donald Quataert：《Ottoman Manufacturing in the Age of the Industrial Revolution》.深度报告.md	20443
+B0366	D:\Design-history-new\01-book-report\0366 - Roy, Tirthankar：The Economic History of India, 1857-1947, 2000.深度报告.md	22284
+B0143	D:\Design-history-new\01-book-report\0143 - Emmanuel Cooper：《Ten Thousand Years of Pottery》，2000.深度报告.md	23321
+B0292	D:\Design-history-new\01-book-report\0292 - Maxine Berg：《Luxury and Pleasure in Eighteenth-Century Britain (2007)》.深度报告.md	21861
+B0051	D:\Design-history-new\01-book-report\0051 - Briggs, Asa：《Victorian things》.深度报告.md	23755
+B0097	D:\Design-history-new\01-book-report\0097 - David Raizman：《History of Modern Design》，2023.深度报告.md	23714
+B0313	D:\Design-history-new\01-book-report\0313 - Nikolaus Pevsner：《Pioneers of modern design from William Morris to Walter Gropius》.深度报告.md	20370
+B0079	D:\Design-history-new\01-book-report\0079 - Clive Dilnot：《A John Heskett Reader Design, History, Economics》.深度报告.md	22527
+B0511	D:\Design-history-new\01-book-report\0511 - World History of Design，Volume 1（2015）.深度报告.md	33938
+B0507	D:\Design-history-new\01-book-report\0507 - A World History of Design and the History of the World（2005）.深度报告.md	18203
+P0072	D:\Design-history-new\01-paper-report\0072 - Wiebe E. Bijker, Thomas P. Hughes：《The Social Construction of Technological Systems》，1987_paged.论文深度报告.md	24937
+ENHANCED MATCHES
+D:\Design-history-new\03-enhanced-report\book-enhanced\0039-Sven-Beckert-Empire-of-Cotton-enhanced.md	8758
+D:\Design-history-new\03-enhanced-report\book-enhanced\0097-David-Raizman-History-of-Modern-Design-2023-enhanced.md	6658
+D:\Design-history-new\03-enhanced-report\book-enhanced\0163-Giorgio-Riello-Cotton-The-Fabric-That-Made-the-Modern-World-enhanced.md	7658
+D:\Design-history-new\03-enhanced-report\book-enhanced\0186-Hounshell-From-the-American-System-to-Mass-Production-enhanced.md	9108
+D:\Design-history-new\03-enhanced-report\book-enhanced\0206-Joel-Mokyr-The-Lever-of-Riches-enhanced.md	8314
+D:\Design-history-new\03-enhanced-report\book-enhanced\0253-Kenneth-Pomeranz-The-Great-Divergence-enhanced.md	9167
+D:\Design-history-new\03-enhanced-report\book-enhanced\0292-Maxine-Berg-Luxury-and-Pleasure-in-Eighteenth-Century-Britain-enhanced.md	8613
+D:\Design-history-new\03-enhanced-report\book-enhanced\0322-Prasannan-Parthasarathi-Why-Europe-Grew-Rich-and-Asia-Did-Not-enhanced.md	8672
+D:\Design-history-new\03-enhanced-report\book-enhanced\0507-Victor-Margolin-A-World-History-of-Design-and-the-History-of-the-World-enhanced.md	15297
+D:\Design-history-new\03-enhanced-report\book-enhanced\0511-Victor-Margolin-World-History-of-Design-Volume-1-enhanced.md	13748
+D:\Design-history-new\03-enhanced-report\paper-enhanced\0051-Jesse-ONeill-The-Transformer-Principles-of-Making-Isotype-Charts-enhanced.md	6525
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:24:40Z)**_
+
+候选文件已定位完整：18份书籍深度报告、1份论文深度报告，其中10项另有增强报告。首轮筛选会重点比较制造体系报告与棉纺、陶瓷报告；判断标准不是主题相关，而是谁能提供“表述媒介实际进入生产并被检验或修正”的连续线索。
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:24:46Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$paths = @(\n'D:\\Design-history-new\\01-book-report\\0186 - Hounshell：《From the American system to mass production, 1800-1932 the developmen.深度�
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:24:52Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning targeted multi-file reading**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:24:55Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$files=@(\n'D:\\Design-history-new\\01-book-report\\0186 - Hounshell：《From the American system to mass production, 1800-1932 the developmen.深度报�
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:25:08Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Assessing G1-A candidate evidence**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:25:10Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$files=@(\n'D:\\Design-history-new\\01-book-report\\0039 - Beckert, Sven：Empire of Cotton：A Global History, 2014.深度报告.md',\n'D:\\Design-histor
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:25:17Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$files=@(\n'D:\\Design-history-new\\01-book-report\\0163 - Giorgio Riello：《Cotton The Fabric That Made the Modern World》.深度报告.md',\n'D:\\Des
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:25:25Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"Get-Content -LiteralPath 'D:\\Design-history-new\\01-book-report\\0127 - Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:25:30Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"Get-Content -LiteralPath 'D:\\Design-history-new\\01-book-report\\0144 - Epstein, Stephan R.; Prak, Maarten：Guilds, Innovation, and the European Economy
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:25:36Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"Get-Content -LiteralPath 'D:\\Design-history-new\\01-book-report\\0143 - Emmanuel Cooper：《Ten Thousand Years of Pottery》，2000.深度报告.md' -En
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:25:53Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Assessing candidate evidence chains**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:06Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Assessing candidate evidence chains**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:06Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning verification of armory evidence**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:21Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Assessing candidate evidence chains**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:21Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning verification of armory evidence**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:21Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Compiling candidate chain scorecard**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:33Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Assessing candidate evidence chains**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:33Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning verification of armory evidence**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:33Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Compiling candidate chain scorecard**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:33Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Finalizing partial G1-A chain mapping**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:47Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Assessing candidate evidence chains**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:47Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning verification of armory evidence**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:47Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Compiling candidate chain scorecard**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:47Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Finalizing partial G1-A chain mapping**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:47Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating report metadata and candidate status**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:52Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Assessing candidate evidence chains**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:52Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning verification of armory evidence**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:52Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Compiling candidate chain scorecard**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:52Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Finalizing partial G1-A chain mapping**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:52Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating report metadata and candidate status**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:26:59Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$files=@(
+'D:\Design-history-new\01-book-report\0186 - Hounshell：《From the American system to mass production, 1800-1932 the developmen.深度报告.md',
+'D:\Design-history-new\03-enhanced-report\book-enhanced\0186-Hounshell-From-the-American-System-to-Mass-Production-enhanced.md',
+'D:\Design-history-new\01-book-report\0039 - Beckert, Sven：Empire of Cotton：A Global History, 2014.深度报告.md',
+'D:\Design-history-new\03-enhanced-report\book-enhanced\0039-Sven-Beckert-Empire-of-Cotton-enhanced.md',
+'D:\Design-history-new\01-book-report\0163 - Giorgio Riello：《Cotton The Fabric That Made the Modern World》.深度报告.md',
+'D:\Design-history-new\03-enhanced-report\book-enhanced\0163-Giorgio-Riello-Cotton-The-Fabric-That-Made-the-Modern-World-enhanced.md',
+'D:\Design-history-new\01-book-report\0127 - Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.深度报告.md',
+'D:\Design-history-new\01-book-report\0144 - Epstein, Stephan R.; Prak, Maarten：Guilds, Innovation, and the European Economy, 1400-1800, 2008.深度报告.md',
+'D:\Design-history-new\01-book-report\0143 - Emmanuel Cooper：《Ten Thousand Years of Pottery》，2000.深度报告.md'
+)
+$patterns='11\.0%|14\.1%|39\.0%|41\.4%|24\.9%|互换性是测量和组织问题|标准化会重新分配劳动权力|印花棉布连接平面图案与工业系统|标准、分类和信息|65\.7%|21\.4%|62\.7%|66\.1%'
+foreach($f in $files){
+  $m=Select-String -LiteralPath $f -Pattern $patterns
+  if($m){Write-Output "FILE=$f"; $m | ForEach-Object {"$($_.LineNumber):$($_.Line)"}}
+}
+```
+```
+Exit code: 0
+Wall time: 1.8 seconds
+Output:
+FILE=D:\Design-history-new\01-book-report\0186 - Hounshell：《From the American system to mass production, 1800-1932 the developmen.深度报告.md
+91:2. **41.4%**：" Leander rejected Cyrus's desire for expansion not only because he thought an unproved reaper might jeopardize the standing of the company but also because he had begun to build a production system that could no longer easily accommodate changes.
+93:4. **11.0%**：Roswell Lee became a pivotal figure in the armory's history not because of his own particular know-how but because he cultivated productive relationships between the armory and private arms contractors and because he was captivated by the idea of interchangeability of parts.
+94:5. **24.9%**：For example, when Singer officials suggested that the Singer factory, rather than Providence, make the hemmer attachment for the Domestic because Singer could make it five cents cheaper, John Anthony had protested, ‘It seems to me the hemmer should be made where the machine is made.
+175:- **14.1%**：From 1830 until the beginning of the Civil War, Springfield Armory played a critical role not only in the development of a workable, mechanized system of uniform firearms manufacture but also in the widespread diffusion of informa
+177:- **39.0%**：Cyrus was obviously pleased by the 1856 design and advocated few changes except a heavier reliance on malleable castings rather than the more brittle cast iron.
+237:> **全文位置 11.0%**　Roswell Lee became a pivotal figure in the armory's history not because of his own particular know-how but because he cultivated productive relationships between the armory and private arms contractors and because he was captivated by the idea of interchangeability of parts.
+241:> **全文位置 24.9%**　For example, when Singer officials suggested that the Singer factory, rather than Providence, make the hemmer attachment for the Domestic because Singer could make it five cents cheaper, John Anthony had protested, ‘It seems to me the hemmer should be made where the machine is made.
+245:> **全文位置 41.4%**　" Leander rejected Cyrus's desire for expansion not only because he thought an unproved reaper might jeopardize the standing of the company but also because he had begun to build a production system that could no longer easily accommodate changes.
+FILE=D:\Design-history-new\03-enhanced-report\book-enhanced\0186-Hounshell-From-the-American-System-to-Mass-Production-enhanced.md
+42:### 3. 互换性是测量和组织问题
+104:### 11. 标准化会重新分配劳动权力
+FILE=D:\Design-history-new\01-book-report\0039 - Beckert, Sven：Empire of Cotton：A Global History, 2014.深度报告.md
+84:5. **41.4%**：uld be equal to that which placed the skilled European at the top, and made him despotic master of the half-skilled black or copper-coloured labourer below…” But slavery had also “moral and social consequences which are not beneficial.” And for that reason, “A new organization therefore must be commenced, and the only one as yet found to work effectively is…
+231:> **全文位置 41.4%**　uld be equal to that which placed the skilled European at the top, and made him despotic master of the half-skilled black or copper-coloured labourer below…” But slavery had also “moral and social consequences which are not beneficial.” And for that reason, “A new organization therefore must be commenced, and the only one as yet found to work effectively is…
+FILE=D:\Design-history-new\03-enhanced-report\book-enhanced\0039-Sven-Beckert-Empire-of-Cotton-enhanced.md
+76:### 5. 标准、分类和信息是棉花帝国的设计工具
+FILE=D:\Design-history-new\03-enhanced-report\book-enhanced\0163-Giorgio-Riello-Cotton-The-Fabric-That-Made-the-Modern-World-enhanced.md
+62:### 4. 印花棉布连接平面图案与工业系统
+FILE=D:\Design-history-new\01-book-report\0127 - Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.深度报告.md
+92:3. **65.7%**：What is remarkable is that textiles, the group of industries always singled out as the leader of the Industrial Revolution, and the prototype of advanced factory organization, should not only have started with multifarious forms of work organization, but should have retained these throughout the period of industrialization.
+242:> **全文位置 65.7%**　What is remarkable is that textiles, the group of industries always singled out as the leader of the Industrial Revolution, and the prototype of advanced factory organization, should not only have started with multifarious forms of work organization, but should have retained these throughout the period of industrialization.
+FILE=D:\Design-history-new\01-book-report\0144 - Epstein, Stephan R.; Prak, Maarten：Guilds, Innovation, and the European Economy, 1400-1800, 2008.深度报告.md
+77:2. **21.4%**：The guilds’ contribution to te
+... (truncated)
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:27:08Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$files=@(
+'D:\Design-history-new\03-enhanced-report\book-enhanced\0186-Hounshell-From-the-American-System-to-Mass-Production-enhanced.md',
+'D:\Design-history-new\03-enhanced-report\book-enhanced\0163-Giorgio-Riello-Cotton-The-Fabric-That-Made-the-Modern-World-enhanced.md',
+'D:\Design-history-new\03-enhanced-report\book-enhanced\0039-Sven-Beckert-Empire-of-Cotton-enhanced.md'
+)
+$ranges=@(@(41,55),@(61,75),@(75,89))
+for($i=0;$i -lt $files.Count;$i++){
+  Write-Output "FILE=$($files[$i])"
+  $c=Get-Content -LiteralPath $files[$i] -Encoding UTF8
+  $start=$ranges[$i][0]-1; $end=$ranges[$i][1]-1
+  for($j=$start;$j -le $end;$j++){"$($j+1):$($c[$j])"}
+}
+```
+```
+Exit code: 0
+Wall time: 1.9 seconds
+Output:
+FILE=D:\Design-history-new\03-enhanced-report\book-enhanced\0186-Hounshell-From-the-American-System-to-Mass-Production-enhanced.md
+41:
+42:### 3. 互换性是测量和组织问题
+43:
+44:部件可互换需要统一尺寸、公差、材料和检验。量规把工匠的经验判断转化为可复制的测量系统。
+45:
+46:```text
+47:设计尺寸
+48:→ 量规与公差
+49:→ 机床和夹具
+50:→ 分散加工
+51:→ 检验与装配
+52:```
+53:
+54:标准化提高协调能力，也可能将判断权从熟练工转移给工程师、管理者和检验系统。
+55:
+FILE=D:\Design-history-new\03-enhanced-report\book-enhanced\0163-Giorgio-Riello-Cotton-The-Fabric-That-Made-the-Modern-World-enhanced.md
+61:
+62:### 4. 印花棉布连接平面图案与工业系统
+63:
+64:印花棉布把图案设计、雕版／滚筒、染色配方、重复单元和批量生产结合。花样不只是表面装饰，而影响工序、成本和市场定位。
+65:
+66:```text
+67:市场样品
+68:→ 图案拆解
+69:→ 重复单元
+70:→ 印版或滚筒
+71:→ 套色和媒染
+72:→ 批量复制
+73:```
+74:
+75:这为现代平面设计、纺织设计和品牌差异化提供了早期制度基础。
+FILE=D:\Design-history-new\03-enhanced-report\book-enhanced\0039-Sven-Beckert-Empire-of-Cotton-enhanced.md
+75:
+76:### 5. 标准、分类和信息是棉花帝国的设计工具
+77:
+78:跨洲贸易需要对原棉品质、长度、颜色、含杂和产地进行分类。样品、等级、价格信息和合同使异地交易成为可能。
+79:
+80:```text
+81:地方作物差异
+82:→ 商业分类
+83:→ 样品与等级
+84:→ 价格和信用
+85:→ 工厂配棉与产品规格
+86:```
+87:
+88:这些看似中性的标准决定哪些地区获得高价、哪些农民承担风险，也是信息设计和制度设计的一部分。
+89:
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:27:16Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"Get-Content -LiteralPath 'D:\\Design-history-new\\03-enhanced-report\\book-enhanced\\0206-Joel-Mokyr-The-Lever-of-Riches-enhanced.md' -Encoding UTF8","wor
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:27:23Z)**_
+
+报告级筛选已经得出明确排序：Hounshell 的军械库—互换性制造方向最接近 G1-A；印花棉布方向虽有完整机制叙述，但目前主要来自增强报告的综合链，缺少具体对象、行动者和检验记录；陶瓷报告更适合作为对象背景，尚不能承担权限链。接下来会按这个结论填表，但不会把军械库方向冻结为主锚点。
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:27:28Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$f='D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md'
+Select-String -LiteralPath $f -Pattern '^> 状态','^\| B0039','^\| B0163','^\| B0127','^\| B0186','^\| B0206','^\| B0144','^\| B0143','^## ' | ForEach-Object {"$($_.LineNumber):$($_.Line)"}
+$f2='D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md'
+Select-String -LiteralPath $f2 -Pattern '^> 状态','^### G1-A','^\| 提出','^\| 外化','^\| 传递','^\| 执行','^\| 检验','^\| 修正','^\*\*当前判定','^### G2','^### G3','^\| 待填 \| 未通过','^## ' | ForEach-Object {"$($_.LineNumber):$($_.Line)"}
+```
+```
+Exit code: 0
+Wall time: 1.7 seconds
+Output:
+3:> 状态：待建立  
+7:## 一、使用边界
+23:## 二、候选入口登记
+29:| B0039 | *Empire of Cotton* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
+30:| B0163 | *Cotton: The Fabric That Made the Modern World* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
+31:| B0127 | *The Age of Manufactures, 1700–1820* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
+32:| B0186 | *From the American System to Mass Production* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
+33:| B0206 | *The Lever of Riches* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
+34:| B0144 | *Guilds, Innovation, and the European Economy* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
+39:| B0143 | *Ten Thousand Years of Pottery* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
+49:## 三、优先匹配问题
+60:## 四、待新增专题
+73:## 五、跨章边界记录模板
+3:> 状态：中心机制核验未开始  
+6:## 一、中心机制生死门
+8:### G1-A　主锚点连续链
+14:| 提出 | 谁提出何种形式或工艺可能性 | 待填 | 待填 | 待填 | 待定 | 缺 |
+15:| 外化 | 决定如何进入图样、模型、样品、规格或语言 | 待填 | 待填 | 待填 | 待定 | 缺 |
+16:| 传递 | 媒介如何到达其他工序、劳动者或地点 | 待填 | 待填 | 待填 | 待定 | 缺 |
+17:| 执行 | 生产现场怎样理解和实施 | 待填 | 待填 | 待填 | 待定 | 缺 |
+18:| 检验 | 谁以什么标准判断结果 | 待填 | 待填 | 待填 | 待定 | 缺 |
+19:| 修正 | 谁修改、拒绝或反馈到下一轮 | 待填 | 待填 | 待填 | 待定 | 缺 |
+30:**当前判定：未通过。**
+50:**当前判定：未通过。**
+52:### G2　活动层级判定
+60:### G3　中心论点处置
+64:| 待填 | 未通过 | 未通过 | 未判定 | 暂不冻结 | 正文锁定 | 待核验 |
+66:## 二、分案例权限工作表
+83:## 三、主锚点与对照锚点的准入门槛
+109:## 四、区域比较准入门槛
+142:## 五、证据独立性核验
+152:## 六、单条证据记录模板
+180:## 七、第一章与第二章边界核验
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:27:45Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating reading status and paths**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:27:54Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating reading status and paths**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:27:54Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Patching report sections and status updates**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:29:46Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md`**
+
+```diff
+@@
+-> 状态：待建立  
+-> 当前用途：登记旧框架留下的候选入口，不表示已经完成全文读取、章节匹配或内容核验  
++> 状态：报告级初筛进行中  
++> 当前用途：登记候选入口和报告级相关性；不表示已经完成原文全文读取、精确定位或内容核验  
+@@
+-| B0039 | *Empire of Cotton* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
+-| B0163 | *Cotton: The Fabric That Made the Modern World* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
+-| B0127 | *The Age of Manufactures, 1700–1820* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
+-| B0186 | *From the American System to Mass Production* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
+-| B0206 | *The Lever of Riches* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
+-| B0144 | *Guilds, Innovation, and the European Economy* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
++| B0039 | *Empire of Cotton* | 原文未读；深度、增强报告已读 | `D:\Design-history\00-book\Beckert, Sven：Empire of Cotton：A Global History, 2014.md` | 未核；报告锚点14.7%、22.2%、27.5%、34.6%、61.2% | 1.1、1.2、1.6 | 全球原料、劳动与区域关系候选 | 公共消费与治理留第二章 | C级检索线索 |
++| B0163 | *Cotton: The Fabric That Made the Modern World* | 原文未读；深度、增强报告已读 | `D:\Design-history\00-book\Giorgio Riello：《Cotton The Fabric That Made the Modern World》.md` | 未核；报告第8章入口36.6%，增强报告“印花棉布连接平面图案与工业系统” | 1.2、1.3、1.4、1.6 | 印花棉布候选链、跨区域比较候选 | 消费文化只作反馈，不展开公共审美 | C级检索线索 |
++| B0127 | *The Age of Manufactures, 1700–1820* | 原文未读；深度报告已读 | `D:\Design-history\00-book\Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.md` | 未核；报告锚点22.1%、28.0%、51.2%、65.7% | 1.1、1.2、1.5 | 混合生产、女性与家庭劳动、反工厂线性叙事 | 不承担第二章公共改革 | C级检索线索 |
++| B0186 | *From the American System to Mass Production* | 原文未读；深度、增强报告已读 | `D:\Design-history\00-book\Hounshell：《From the American system to mass production, 1800-1932 the developmen.md` | 未核；报告锚点11.0%、14.1%、24.9%、39.0%、41.4%；增强报告“互换性是测量和组织问题” | 1.2、1.3、1.4、1.5 | G1-A第一优先候选；军械库互换性、量规、检验与权限重组 | 1914年后的Ford材料不进入本章主论证 | C级候选链，未通过 |
++| B0206 | *The Lever of Riches* | 原文、深度报告未读；增强报告已读 | `D:\Design-history\00-book\Joel Mokyr：《The lever of riches - technological creativity and economic progress (1990)》.md` | 未核；增强报告“高精度机床”“宏观／微观发明” | 1.2、1.3、1.5 | 技术变化与渐进改良的解释框架 | 不承担具体案例事实 | C级背景线索 |
++| B0144 | *Guilds, Innovation, and the European Economy* | 原文未读；深度报告已读 | `D:\Design-history\00-book\Epstein, Stephan R.; Prak, Maarten：Guilds, Innovation, and the European Economy, 1400-1800, 2008.md` | 未核；报告锚点6.2%、21.4%、34.4%、53.2% | 1.1、1.5 | 行会、学徒、迁移和非系统性改良的前工业基线 | 不承担19世纪职业制度 | C级检索线索 |
+@@
+-| B0143 | *Ten Thousand Years of Pottery* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
++| B0143 | *Ten Thousand Years of Pottery* | 原文未读；深度报告已读 | `D:\Design-history\00-book\Emmanuel Cooper：《Ten Thousand Years of Pottery》，2000.md` | 未核；报告“Craft into Industry”入口62.2%，锚点66.1% | 1.4 | 陶瓷对照对象的背景候选 | 工艺美术改革留后续章节 | C级背景线索；不足以成链 |
+@@
+-## 五、跨章边界记录模板
++## 五、报告级主锚点方向初筛
++
++> 初筛日期：2026-07-30  
++> 材料边界：只读深度报告与增强报告，未读长篇原文  
++
++| 候选方向 | 报告级链条完整度 | 可用入口 | 主要缺口 | 初筛决定 |
++|---|---|---|---|---|
++| 美国联邦军械库的互换性制造 | 最高：报告同时指向互换性目标、军械库—承包商网络、机械化均一生产、量规与检验 | B0186深度报告11.0%、14.1%；增强报告“互换性是测量和组织问题” | 缺同一枪械／订单的图样或规格、实际量规记录、检验拒收与返工记录、精确页码 | 建立`CAND-G1A-01`候选链；不冻结为主锚点 |
++| McCormick收割机的产品修改与生产刚性 | 中等：有1856年设计修改和生产体系拒绝变化的线索 | B0186深度报告39.0%、41.4% | 缺表述媒介、跨工序传递、检验和修正闭环 | 保留为备选或支持案例 |
++| 印花棉布的样品—图案—印版—套色链 | 中等偏低：增强报告给出完整机制模型 | B0163增强报告“印花棉布连接平面图案与工业系统”；B0039增强报告“标准、分类和信息” | 链条主要是增强报告综合；缺具体对象、行动者、订单、生产执行、检验和修正 | 保留第一优先候选方向，但暂不进入G1-A |
++| 陶瓷工业化 | 低：报告能提供材料、产地和批量生产背景 | B0143“Craft into Industry”及66.1%锚点 | 缺模型／图样进入生产、岗位权限、检验和返工材料 | 暂只作对照对象检索方向 |
++| 行会、外包与混合生产 | 不适合主链，但适合反例 | B0127 65.7%；B0144 21.4%、34.4% | 缺同一对象的连续权限材料 | 进入1.1、1.5及反例池 |
++
++### 当前选择
++
++先核验`CAND-G1A-01：美国联邦军械库互换性制造`。选择理由是它最接近“目标—测量媒介—跨组织传递—生产—检验”的中心机制，不是因为它代表工业化的一般道路。
++
++该方向当前仍是C级候选：
++
++- 深度报告与增强报告依赖同一原书，不能算两条独立证据；
++- 报告百分比和报告行号不能代替出版页码；
++- 增强报告中的机制链是综合判断，未提供同一对象的完整引文；
++- 不能据此把军械库方向写入正文或冻结为主锚点。
++
++## 六、跨章边界记录模板
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-> 状态：中心机制核验未开始  
++> 状态：报告级候选链已建立，原文核验未开始  
+ > 当前结论：正文不可写  
+@@
+-| 提出 | 谁提出何种形式或工艺可能性 | 待填 | 待填 | 待填 | 待定 | 缺 |
+-| 外化 | 决定如何进入图样、模型、样品、规格或语言 | 待填 | 待填 | 待填 | 待定 | 缺 |
+-| 传递 | 媒介如何到达其他工序、劳动者或地点 | 待填 | 待填 | 待填 | 待定 | 缺 |
+-| 执行 | 生产现场怎样理解和实施 | 待填 | 待填 | 待填 | 待定 | 缺 |
+-| 检验 | 谁以什么标准判断结果 | 待填 | 待填 | 待填 | 待定 | 缺 |
+-| 修正 | 谁修改、拒绝或反馈到下一轮 | 待填 | 待填 | 待填 | 待定 | 缺 |
++| 提出 | 谁提出何种形式或工艺可能性 | B0186深度报告11.0%（报告第93、237行）：Roswell Lee与互换性目标、军械库—私人承包商关系 | 可定位“互换性”作为组织目标及协调者候选 | 不能证明正式提案、具体枪械、设计尺寸或批准权限 | C | 候选 |
++| 外化 | 决定如何进入图样、模型、样品、规格或语言 | B0186增强报告第42—54行：设计尺寸—量规与公差—机床和夹具 | 只可形成量规／公差作为表述媒介的检索假设 | 不能证明同一对象实际使用的图样、规格或量规 | C | 候选，关系未核 |
++| 传递 | 媒介如何到达其他工序、劳动者或地点 | B0186深度报告11.0%、14.1%（第93、175、237行）：军械库与私人承包商关系；Springfield的信息扩散 | 可定位跨组织传递与制度网络 | 不能证明某项尺寸或量规怎样传到具体承包商和工序 | C | 候选，关系未核 |
++| 执行 | 生产现场怎样理解和实施 | B0186深度报告14.1%及增强报告第44—52行：机械化均一制造、机床／夹具和分散加工 | 可定位互换性目标进入生产体系的可能路径 | 不能证明具体工序、行动者及现场解释 | C | 候选，关系未核 |
++| 检验 | 谁以什么标准判断结果 | B0186增强报告第44—52行：量规、公差、检验与装配 | 可定位检验制度和装配结果的检索方向 | 没有实际检验表、拒收记录、量规读数或具体检验者 | C | 候选，直接证据缺 |
++| 修正 | 谁修改、拒绝或反馈到下一轮 | 当前报告未找到军械库同一对象的返工、拒收、现场解释或修正规则 | 无 | 不能证明权限边界和反馈闭环 | — | 缺 |
+@@
+-**当前判定：未通过。**
++**当前判定：未通过。** `CAND-G1A-01`已覆盖五个候选环节，但均停留在同一原书的报告级综合；修正环节为空，同一对象和环节关系未被证明。
+@@
+ **当前判定：未通过。**
++
++当前不能把B0186深度报告与其增强报告作为G1-B的两个独立支点，因为二者依赖同一原书和同一报告链。印花棉布的增强报告链同样不能单独构成三角互证。
+@@
+-| 待填 | 待核 | 待核 | 待核 | 待核 | 待核 | 待核 | 待核 | 未判定 | 待填 |
++| 军械库互换性制造（CAND-G1A-01） | 报告指向均一部件生产 | 报告指向互换性目标，未核具体方案 | 未核是否存在多个方案 | 协调、批准、检验权限均待原文识别 | 量规／公差为候选 | 军械库—承包商传递为候选 | 联邦军械库制度环境存在，但岗位／程序未核 | III或IV待证 | 只达到C级检索线索 |
+@@
+-| 待填 | 未通过 | 未通过 | 未判定 | 暂不冻结 | 正文锁定 | 待核验 |
++| 2026-07-30 | 部分候选，未通过 | 未通过 | III或IV待证 | 暂不冻结 | 正文锁定 | 已完成报告级初筛；须回查原文 |
++
++### G4　报告级候选方向比较
++
++| 候选 | G1-A潜力 | G1-B潜力 | 关键优势 | 决定性缺口 | 当前用途 |
++|---|---|---|---|---|---|
++| 联邦军械库互换性制造 | 高 | 中 | 量规、公差、跨组织协调、机械化均一生产、检验形成同一机制组 | 同一对象、具体媒介、检验拒收和修正记录未核 | 第一核验方向 |
++| McCormick收割机 | 中 | 低 | 报告有产品修改与生产刚性冲突 | 外化、传递和检验环节缺失 | 备选／支持案例 |
++| 印花棉布 | 中 | 中 | 样品、图案拆解、印版／滚筒、套色构成清晰机制模型 | 主要来自增强报告综合，无具体对象和执行／修正记录 | 保留候选，不进入当前G1 |
++| 陶瓷 | 低 | 低 | 有材料、工艺和批量生产对象背景 | 权限和连续生产记录不足 | 对照对象检索 |
++| 行会／混合生产 | 低 | 中 | 能限制工厂线性叙事和恢复迁移、家庭、外包劳动 | 缺完整对象链 | 反例与G1-B支点候选 |
+@@
+-| 待填 | 待填 | 待填 | 待填 | 待核 | 待核 | 待核 | 待填 | 待填 | 待填 | 待填 |
++| 联邦军械库互换性制造／19世纪前期 | 组织协调 | Roswell Lee | 提议／批准／协调关系待区分 | 未核 | 报告称其维持互换性目标与承包商关系 | “实际协调”仅是候选推断 | B0186深度报告11.0% | 缺岗位、命令和决策文件 | 1830年前后待核 | E-C001 |
++| 联邦军械库互换性制造／19世纪前期 | 测量与检验 | 工程师、管理者、检验人员、熟练工（均未具名） | 表述／解释／检验／修改待区分 | 未核 | 未核 | 增强报告推测判断可能从熟练工转向工程师、管理者和检验系统 | B0186增强报告第42—54行 | 同一对象、岗位和实际操作缺失 | 待核 | E-C003 |
+@@
+-## 六、单条证据记录模板
++## 六、报告级证据记录
++
++### E-C001　Roswell Lee、互换性目标与军械库—承包商关系
++
++- 来源身份：B0186深度报告；
++- 作者／机构：项目深度报告，源著作者David A. Hounshell；
++- 形成时间与场合：项目报告，生成时间未登记；
++- 原文路径：`D:\Design-history\00-book\Hounshell：《From the American system to mass production, 1800-1932 the developmen.md`；
++- 精确页码／位置：原文页码未核；报告全文位置11.0%，报告第93、237行；
++- 全文读取状态：长篇原文未读；深度报告与增强报告已读；
++- 内容准确转述：报告把Roswell Lee的重要性归于其维持军械库与私人承包商的生产关系，以及其对部件互换目标的推动；
++- 可观察事实：无对象级观察；
++- 证据功能：提出、组织协调和跨机构传递的候选入口；
++- 对应权限：提议、批准和协调关系待区分；
++- 对应归属／法律关系：联邦军械库与私人承包关系待核；
++- 对应外部反馈机制：无；
++- 正式权限／实际权限／事实影响：均待核；
++- 支持的具体判断：只能支持“原文可能包含互换性目标及组织网络”的检索判断；
++- 不能支持的判断：不能证明Roswell Lee拥有具体形式批准权，也不能证明某项图样或尺寸进入生产；
++- 与其他材料的依赖关系：与E-C002、E-C003同源，不构成独立证据；
++- 竞争性解释：其作用可能是行政协调，而非形式决定；
++- 当前等级：C；
++- 升档条件：核对原文页码、角色、命令／通信、具体对象和承包关系；
++- 时间轴位置：英国时间轴不适用；美国19世纪前期节点待建；
++- 来源位置与保存偏差：管理者和军械库档案可能过度可见，工人经验不足；
++- 跨章边界：只用于生产组织，不延伸至公共审美；
++- 备注：CAND-G1A-01入口。
++
++### E-C002　Springfield机械化均一制造与信息扩散
++
++- 来源身份：B0186深度报告；
++- 作者／机构：项目深度报告，源著作者David A. Hounshell；
++- 原文路径：同E-C001；
++- 精确页码／位置：原文页码未核；报告全文位置14.1%，报告第175行；
++- 全文读取状态：长篇原文未读；深度报告与增强报告已读；
++- 内容准确转述：报告称1830年至美国内战前，Springfield Armory在可行的机械化均一枪械制造和相关信息扩散中具有作用；
++- 可观察事实：无对象级观察；
++- 证据功能：执行和传递的候选入口；
++- 对应权限：表述、执行、检验权限待核；
++- 正式权限／实际权限／事实影响：待核；
++- 支持的具体判断：只能定位机械化均一制造和信息扩散的原文段落；
++- 不能支持的判断：不能证明信息以图样、量规或人员中的哪种媒介传递；
++- 与其他材料的依赖关系：与E-C001、E-C003同源；
++- 竞争性解释：扩散的可能是机器知识或管理方法，不一定是产品形式决定；
++- 当前等级：C；
++- 升档条件：回查原文、图表、具体工序、信息载体和承包商材料；
++- 时间轴位置：美国约1830年至1860年代初；
++- 来源位置与保存偏差：机构档案视角；
++- 跨章边界：第一章1.2、1.3；
++- 备注：链条关系未证。
++
++### E-C003　量规、公差、分散加工、检验与装配的综合链
++
++- 来源身份：B0186增强报告；
++- 作者／机构：项目增强报告；
++- 原文路径：同E-C001；
++- 精确页码／位置：原文页码未核；增强报告第42—54行；
++- 全文读取状态：长篇原文未读；增强报告已读；
++- 内容准确转述：增强报告用“设计尺寸—量规与公差—机床和夹具—分散加工—检验与装配”概括互换性制造；
++- 可观察事实：无；
++- 证据功能：外化、执行和检验的检索模型；
++- 对应权限：表述、解释、检验及修改权限待核；
++- 正式权限／实际权限／事实影响：增强报告推测判断权可能重新分配，原文依据未定位；
++- 支持的具体判断：只支持设置原文检索词和关系问题；
++- 不能支持的判断：不能作为同一对象的连续证据，也不能证明判断权已经转移；
++- 与其他材料的依赖关系：依赖B0186原书，与E-C001、E-C002不独立；
++- 竞争性解释：量规也可能辅助熟练工，而非单向剥夺其判断；
++- 当前等级：C；
++- 升档条件：分别找到设计尺寸、量规、加工、检验和装配的原文位置及同一对象关系；
++- 时间轴位置：待核；
++- 来源位置与保存偏差：技术—管理综合可能压缩工人实际操作；
++- 跨章边界：第一章1.3；
++- 备注：不能直接进入正文。
++
++### E-C004　McCormick收割机的修改与生产刚性
++
++- 来源身份：B0186深度报告；
++- 精确页码／位置：原文页码未核；报告全文位置39.0%、41.4%，报告第91、177、245行；
++- 全文读取状态：长篇原文未读；深度报告已读；
++- 内容准确转述：报告一方面指出1856年设计中提出以可锻铸件更多替代较脆铸铁，另一方面记录Leander因既有生产体系难以容纳变化并担忧未经验证的收割机而拒绝扩张／变化；
++- 证据功能：方案修改、生产刚性和拒绝的备选入口；
++- 对应权限：提议、选择、批准和否决待区分；
++- 正式权限／实际权限／事实影响：待核；
++- 支持的具体判断：可定位产品改变与生产路径依赖的冲突；
++- 不能支持的判断：缺图样、传递、检验和最终执行，不能构成G1-A；
++- 与其他材料的依赖关系：与B0186同源；
++- 竞争性解释：争议可能主要围绕扩张和商业风险，而非形式权限；
++- 当前等级：C；
++- 升档条件：回查1856年设计、通信、生产记录和产品版本；
++- 时间轴位置：美国1856年前后；
++- 来源位置与保存偏差：企业家通信可能遮蔽工人与检验人员；
++- 跨章边界：第一章1.3、1.5；
++- 备注：备选／支持案例。
++
++### E-C005　印花棉布的样品—图案—印版／滚筒机制模型
++
++- 来源身份：B0163增强报告；
++- 精确页码／位置：原文页码未核；增强报告第62—75行；深度报告第8章入口36.6%；
++- 全文读取状态：长篇原文未读；深度报告与增强报告已读；
++- 内容准确转述：增强报告用“市场样品—图案拆解—重复单元—印版或滚筒—套色和媒染—批量复制”概括印花棉布机制；
++- 证据功能：印花棉布主锚点候选的检索模型；
++- 对应权限：样品选择、图案表述、制版解释和套色检验均未识别；
++- 正式权限／实际权限／事实影响：待核；
++- 支持的具体判断：只支持继续寻找具体对象和生产档案；
++- 不能支持的判断：不能证明任何一个具体对象完成这条链，也不能证明检验或修正；
++- 与其他材料的依赖关系：深度报告与增强报告同源；
++- 竞争性解释：链条可能是后设概括，不同印花工场的媒介与权限未必相同；
++- 当前等级：C；
++- 升档条件：取得具体样品、订单、制版／滚筒、染印记录、检验和变更材料；
++- 时间轴位置：待具体对象确定；
++- 来源位置与保存偏差：商人和博物馆样品可能比染工、制版工记录更可见；
++- 跨章边界：第一章生产机制；消费审美留第二章；
++- 备注：尚不进入当前G1-A。
++
++### E-C006　纺织工业长期保留多种劳动组织
++
++- 来源身份：B0127深度报告；
++- 精确页码／位置：原文页码未核；报告全文位置65.7%，报告第92、242行；
++- 全文读取状态：长篇原文未读；深度报告已读；
++- 内容准确转述：报告指出纺织业虽常被视为先进工厂组织的原型，却在工业化过程中持续保留多种劳动组织形式；
++- 证据功能：反例和范围限定；
++- 对应权限：未提供；
++- 正式权限／实际权限／事实影响：未提供；
++- 支持的具体判断：只支持寻找手工、家庭、外包与工厂并存的原文论证；
++- 不能支持的判断：不能证明某类劳动者拥有形式—工艺判断；
++- 与其他材料的依赖关系：独立著作候选，但原文尚未核；
++- 竞争性解释：劳动组织多样性不必然意味着权限结构多样性；
++- 当前等级：C；
++- 升档条件：核对原文页码并补充具体行业、对象和行动者；
++- 时间轴位置：英国1700—1820；
++- 来源位置与保存偏差：综合经济史可能缺对象与现场细节；
++- 跨章边界：第一章1.1、1.5；
++- 备注：反工厂线性叙事。
++
++## 七、单条证据记录模板
+ 
+ ### E-待编号　材料简名
+@@
+-## 七、第一章与第二章边界核验
++## 八、第一章与第二章边界核验
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:30:01Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Verifying content accuracy and heading updates**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:30:06Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Verifying content accuracy and heading updates**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:30:06Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning audit recording and backcheck list**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:30:09Z)**_
+
+第一条候选链已填入：军械库互换性制造目前覆盖“目标、外化、传递、执行、检验”五个报告级环节，但“修正”为空，而且深度报告与增强报告同源，仍未通过G1-A或G1-B。我会再在三个报告目录中查找独立的军械库、量规、互换性和检验材料，避免下一步直接依赖同一著作自证。
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:30:13Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$roots=@('D:\\Design-history-new\\01-book-report','D:\\Design-history-new\\01-paper-report','D:\\Design-history-new\\03-enhanced-report')\n$terms='Springf
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:30:24Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$roots=@('D:\\Design-history-new\\01-book-report','D:\\Design-history-new\\01-paper-report','D:\\Design-history-new\\03-enhanced-report')\n$terms='firearm
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:30:41Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating G1-B notes and auditing rounds**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:30:41Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Adding independent report cross-search section**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:30:46Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating G1-B notes and auditing rounds**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:30:46Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Adding independent report cross-search section**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:31:11Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+ ### G4　报告级候选方向比较
+@@
+ | 陶瓷 | 低 | 低 | 有材料、工艺和批量生产对象背景 | 权限和连续生产记录不足 | 对照对象检索 |
+ | 行会／混合生产 | 低 | 中 | 能限制工厂线性叙事和恢复迁移、家庭、外包劳动 | 缺完整对象链 | 反例与G1-B支点候选 |
++
++### G5　独立报告横向检索
++
++已在 `01-book-report`、`01-paper-report` 和 `03-enhanced-report` 中检索：
++
++```text
++Springfield Armory
++Harpers Ferry
++Roswell Lee
++interchangeability／互换性
++gauges／gauging／量规
++jigs／夹具
++firearms／musket／small arms
++```
++
++检索结果：
++
++- 直接涉及军械库、互换性、量规和夹具的系统材料仍集中于B0186及其增强报告；
++- B0206增强报告提供高精度机床、量规、维修和渐进改良的独立理论入口，但没有形成同一军械库对象的连续材料；
++- B0169、B0219等增强报告只提供图纸、量规或互换性的概括性设计史关联，不能补足军械库同一对象；
++- 其他命中主要来自词义不同的“可互换性”或无关枪械语境，已排除。
++
++**判定：** 当前三个报告目录中尚未找到能够与B0186组成G1-B的独立同对象来源。G1-B继续判定未通过，不能用多份同源报告凑成三角互证。
+@@
+ ## 八、第一章与第二章边界核验
+@@
+ | 课程、学校和协会 | 仅在证明企业岗位来源不可缺少时最小使用 | 系统教育改革与专业制度 | 原则上移交 |
+ | 展览、博物馆和公共报告 | 不承担第一章主论证 | 审美评价、国家竞争、消费治理 | 移交 |
++
++## 九、下一轮定向回查清单
++
++在不进行长篇原文全文阅读的前提下，下一轮若获准定向回查原文，只核对B0186中与`CAND-G1A-01`直接相关的有限范围：
++
++1. 军械库体系、Simeon North、Eli Whitney、Springfield和Harpers Ferry相关章节；
++2. `design dimensions`、`drawing`、`specification`、`pattern`、`gauge`、`tolerance`、`inspection`、`rejected parts`、`rework`、`contractor`等词的原文位置；
++3. 是否存在同一枪械、同一订单或同一批次从尺寸表述到加工、检验和修正的关系；
++4. Roswell Lee、军械库管理者、承包商、制模／制具人员、检验人员和熟练工的正式与实际权限；
++5. 原书图表中是否有量规、夹具、机床、部件或工厂工序能够承担对象证据；
++6. 所有可用段落的出版页码、图号、上下文和版本信息。
++
++若定向回查仍找不到“修正”环节，则：
++
++- 不把军械库方向冻结为主锚点；
++- 转查McCormick收割机的设计修改—生产刚性材料；
++- 或放弃G1-A，改用具有异质材料支点的G1-B方向。
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md`**
+
+```diff
+@@
+ 本轮继续排除 `00-总纲与规范/文献研究库/`，没有判断任何候选编号对应文献的实际内容。
++
++---
++
++## 证据核验记录 01：报告级主锚点初筛
++
++### 工作范围
++
++- 已读：B0186、B0039、B0163、B0127、B0144、B0143深度报告；
++- 已读：B0186、B0039、B0163、B0206增强报告；
++- 横向检索：`01-book-report`、`01-paper-report`、`03-enhanced-report`；
++- 未读：上述著作的长篇原文；
++- 证据等级：全部保持C级。
++
++### 初筛结果
++
++| 方向 | 判定 |
++|---|---|
++| 联邦军械库互换性制造 | 最接近G1-A，建立`CAND-G1A-01`候选链；不冻结主锚点 |
++| McCormick收割机 | 有修改与生产刚性冲突，保留为备选／支持案例 |
++| 印花棉布 | 增强报告的机制链清晰，但缺具体对象、行动者、执行、检验和修正 |
++| 陶瓷 | 可作对象背景，不能承担当前权限链 |
++| 行会、外包与混合生产 | 适合反例和G1-B支点，不适合当前主链 |
++
++### CAND-G1A-01当前覆盖
++
++```text
++提出：C级候选
++外化：C级候选，关系未核
++传递：C级候选，关系未核
++执行：C级候选，关系未核
++检验：C级候选，直接记录缺失
++修正：缺
++```
++
++### 裁定
++
++- G1-A：未通过；
++- G1-B：未通过；
++- 原因一：修正环节为空；
++- 原因二：深度报告与增强报告依赖同一原书，不具证据独立性；
++- 原因三：尚无同一对象、订单或批次的连续关系；
++- 正文与图像继续锁定。
++
++### 下一节点
++
++停止增加抽象框架。下一步是对B0186的军械库相关有限范围进行原文定向回查；若继续维持“不读取长篇原文”的约束，则只能扩大报告级候选检索，不能把G1-A或G1-B判定为通过。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:31:25Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$chapter='D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成'\nWrite-Output 'MAPPING VALIDATION'\n$map=Join-Pat
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:31:54Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md`**
+
+```diff
+@@
+----
+-
+-## 证据核验记录 01：报告级主锚点初筛
+-
+-### 工作范围
+-
+-- 已读：B0186、B0039、B0163、B0127、B0144、B0143深度报告；
+-- 已读：B0186、B0039、B0163、B0206增强报告；
+-- 横向检索：`01-book-report`、`01-paper-report`、`03-enhanced-report`；
+-- 未读：上述著作的长篇原文；
+-- 证据等级：全部保持C级。
+-
+-### 初筛结果
+-
+-| 方向 | 判定 |
+-|---|---|
+-| 联邦军械库互换性制造 | 最接近G1-A，建立`CAND-G1A-01`候选链；不冻结主锚点 |
+-| McCormick收割机 | 有修改与生产刚性冲突，保留为备选／支持案例 |
+-| 印花棉布 | 增强报告的机制链清晰，但缺具体对象、行动者、执行、检验和修正 |
+-| 陶瓷 | 可作对象背景，不能承担当前权限链 |
+-| 行会、外包与混合生产 | 适合反例和G1-B支点，不适合当前主链 |
+-
+-### CAND-G1A-01当前覆盖
+-
+-```text
+-提出：C级候选
+-外化：C级候选，关系未核
+-传递：C级候选，关系未核
+-执行：C级候选，关系未核
+-检验：C级候选，直接记录缺失
+-修正：缺
+-```
+-
+-### 裁定
+-
+-- G1-A：未通过；
+-- G1-B：未通过；
+-- 原因一：修正环节为空；
+-- 原因二：深度报告与增强报告依赖同一原书，不具证据独立性；
+-- 原因三：尚无同一对象、订单或批次的连续关系；
+-- 正文与图像继续锁定。
+-
+-### 下一节点
+-
+-停止增加抽象框架。下一步是对B0186的军械库相关有限范围进行原文定向回查；若继续维持“不读取长篇原文”的约束，则只能扩大报告级候选检索，不能把G1-A或G1-B判定为通过。
+-
+ ---
+ 
+ ## 审校轮次 03：证据核验方案确认
+@@
+ 本轮继续排除 `00-总纲与规范/文献研究库/`，没有判断任何候选编号对应文献的实际内容。
++
++---
++
++## 证据核验记录 01：报告级主锚点初筛
++
++### 工作范围
++
++- 已读：B0186、B0039、B0163、B0127、B0144、B0143深度报告；
++- 已读：B0186、B0039、B0163、B0206增强报告；
++- 横向检索：`01-book-report`、`01-paper-report`、`03-enhanced-report`；
++- 未读：上述著作的长篇原文；
++- 证据等级：全部保持C级。
++
++### 初筛结果
++
++| 方向 | 判定 |
++|---|---|
++| 联邦军械库互换性制造 | 最接近G1-A，建立`CAND-G1A-01`候选链；不冻结主锚点 |
++| McCormick收割机 | 有修改与生产刚性冲突，保留为备选／支持案例 |
++| 印花棉布 | 增强报告的机制链清晰，但缺具体对象、行动者、执行、检验和修正 |
++| 陶瓷 | 可作对象背景，不能承担当前权限链 |
++| 行会、外包与混合生产 | 适合反例和G1-B支点，不适合当前主链 |
++
++### CAND-G1A-01当前覆盖
++
++```text
++提出：C级候选
++外化：C级候选，关系未核
++传递：C级候选，关系未核
++执行：C级候选，关系未核
++检验：C级候选，直接记录缺失
++修正：缺
++```
++
++### 裁定
++
++- G1-A：未通过；
++- G1-B：未通过；
++- 原因一：修正环节为空；
++- 原因二：深度报告与增强报告依赖同一原书，不具证据独立性；
++- 原因三：尚无同一对象、订单或批次的连续关系；
++- 正文与图像继续锁定。
++
++### 下一节点
++
++停止增加抽象框架。下一步是对B0186的军械库相关有限范围进行原文定向回查；若继续维持“不读取长篇原文”的约束，则只能扩大报告级候选检索，不能把G1-A或G1-B判定为通过。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:32:01Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating plan to finalize audit**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:32:12Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$chapter='D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成'\n$map=Join-Path $chapter '01-本章文献映射.m
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:32:21Z)**_
+
+<tool-use data-tool-type="task" data-tool-name="update_plan"><details>
+<summary>Tool use: **update_plan**</summary>
+**Agent task list:**
+- [X] 清点三个报告目录并定位第一章19项候选及相关增强报告
+- [X] 读取高优先候选报告的相关章节与证据锚点
+- [X] 比较主锚点方向并选择首条G1-A或G1-B候选链
+- [X] 更新01-本章文献映射与02-证据与注释
+- [X] 复核证据等级、缺口与下一轮原文回查清单
+
+```
+Plan updated
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:32:29Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Summarizing verification status and next steps**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 11:32:37Z)**_
+
+已进入证据核验阶段并完成第一轮报告级筛选。
+
+当前最强方向是：
+
+> `CAND-G1A-01：美国联邦军械库的互换性制造`
+
+报告级覆盖情况：
+
+```text
+提出：C级候选
+外化：C级候选，关系未核
+传递：C级候选，关系未核
+执行：C级候选，关系未核
+检验：C级候选，缺直接记录
+修正：缺失
+```
+
+已完成：
+
+- 读取6份高优先深度报告和4份增强报告；
+- 比较军械库、McCormick收割机、印花棉布、陶瓷和混合生产方向；
+- 建立6条C级证据记录；
+- 横向检索三个报告目录，尚未找到能与B0186构成独立三角互证的同对象来源；
+- 明确印花棉布仍是可替换候选，没有被冻结；
+- 制定B0186军械库相关内容的定向回查清单。
+
+更新文件：
+
+- [01-本章文献映射.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md>)
+- [02-证据与注释.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md>)
+- [05-审校记录.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md>)
+
+G1-A、G1-B仍未通过，正文和图像继续锁定。下一步需要定向回查B0186中军械库相关的有限章节和关键词，而不是通读整部长篇原文；若继续完全排除原文，只能扩大C级报告检索，不能完成证据升档。
+
+---
+
+_**User (2026-07-30 12:20:45Z)**_
+
+在撰写正文时，可以回溯对应的原文并要注意围绕章节提纲展开

@@ -679,3 +679,84 @@ book-0034的全文校读没有新增独立历史时间点；其增量是确认�
 | 1982 | University of Illinois Chicago相关群体创办《Design Issues》，为设计历史、理论和批评提供跨学科论坛。 | [book-0059](summaries/book-0059.summary.md)导言、致谢与封底；创刊组织、资助和编辑责任回查期刊档案。 |
 | 1984—1986 | 本书20篇主体论文主要发表于《Design Issues》前六期，涵盖现代主义批评、修辞／符号学解释和设计史学反思。 | [book-0059](summaries/book-0059.summary.md)来源说明与三部分正文；卷期页码逐篇回原刊。 |
 | 1989 | Victor Margolin编《Design Discourse: History, Theory, Criticism》出版，以导言、20篇论文和战后文献地图提出设计研究学科议程。 | [book-0059](summaries/book-0059.summary.md)题名页、版权页、目录与封底；仓库原文件题名、编者和年份误标已校正。 |
+
+## book-0060增量：设计思维、产品意义与文化多元主义
+
+> 下列节点来自《The Idea of Design》所收论文和编者前言。学院、期刊、博物馆、专业组织和国家设计制度的精确沿革须回查机构档案；地区概括和“首次”判断不得由选集独立证明。
+
+| 年代 | 事件／论述节点 | 证据入口与边界 |
+|---|---|---|
+| 1937-10-18 | Chicago New Bauhaus开学，Moholy-Nagy试图延续并重组Bauhaus的基础教育、工坊、摄影、电影和科学课程。 | [book-0060](summaries/book-0060.summary.md)Findeli；日期和组织沿革回查Association of Arts and Industries及校史档案。 |
+| 1938-08 | Association of Arts and Industries撤回支持，New Bauhaus关闭。 | 同上；经费、校董会决定和师生经历须以机构材料互证。 |
+| 1939-02 | Moholy-Nagy以私立School of Design重开教学。 | 同上；课程、招生、教师和财务另核。 |
+| 1944 | School of Design改称Institute of Design，Walter Paepcke任董事会主席。 | 同上；具体法人、治理与赞助关系回查档案。 |
+| 1946-11 | Moholy-Nagy去世；Findeli称此前学校日夜间学生接近600、教职员约28人。 | 同上；数量属于二手机构史线索，须回招生与人事记录。 |
+| 1949 | Institute of Design并入Illinois Institute of Technology。 | 同上；合并条款、学位制度与课程延续回查IIT档案。 |
+| 1987—1988 | Margolin提出“产品环境”和“新用户”，把说明书、服务、零件、维修和处置纳入设计边界；Moles讨论非物质化。 | [book-0060](summaries/book-0060.summary.md)第三部分第8—9篇；只作当时数字／服务思想史，不支撑当前AI结论。 |
+| 1988—1989 | Frascara、Papanek、Krampen、Balaram、Krippendorff等在《Design Issues》讨论视觉传播责任、生态未来、可供性、文化象征和产品语义。 | 同书第一部分第4—5篇、第二部分第1、5、7篇；各文证据强度不同，Papanek多项伪科学／种族化判断不采用。 |
+| 1989 | 《Design Issues》6卷1期集中刊发亚洲发展、澳大利亚边缘性、日本现代设计和中国“线”等地区论述。 | 同书第三部分第1—4篇；这是英语期刊中的时期性文化论述，不是各地区设计史主证。 |
+| 1990—1993 | 草图心理、受众修辞、礼物伦理、设计会议及学科成熟等文章继续扩展设计研究的对象与方法。 | 同书第一部分第6—7篇、第二部分第2、6篇；规范理论和教学解释须与实证结果区分。 |
+| 1992 | Buchanan在《Design Issues》发表〈Wicked Problems in Design Thinking〉，以四种定位场域和棘手问题论重述设计思维。 | 同书第一部分第1篇；Rittel／Webber概念史和具体项目采用须回原刊及相关文献。 |
+| 1995 | Margolin、Buchanan编《The Idea of Design》初版，将23篇文章分为“反思设计”“产品的意义”“设计与文化”三部分。 | [book-0060](summaries/book-0060.summary.md)题名页、版权页、目录与来源表；当前扫描件为1996年第二次印刷。 |
+
+## book-0061增量：AEG、贝伦斯与工业文化
+
+> 下列节点以企业档案研究、同期文字和作品目录为入口。公司统计、“首创”、社会效果和影响谱系须以独立档案与后续研究互证；地图／总平面图和国家／政党象征不进入教材。
+
+| 年代 | 事件／论述节点 | 证据入口与边界 |
+|---|---|---|
+| 1883 | Deutsche Edison-Gesellschaft成立，成为AEG前身。 | [book-0061](summaries/book-0061.summary.md)企业史主论；资本、人员和业务规模回查年报与政府统计。 |
+| 1887 | 公司采用Allgemeine Elektricitäts-Gesellschaft（AEG）名称。 | 同上；法律登记和组织变化另核。 |
+| 1900 | Otto Eckmann参与AEG巴黎世界博览会视觉展示，说明企业视觉在贝伦斯之前已有积累。 | 同书宣传材料专题；不得据此或贝伦斯时期材料宣称唯一“首创”。 |
+| 1903 | AEG与General Electric达成市场／专利安排。 | 同书主论；协议条款、地域范围和经济效果须回原件。 |
+| 1907-10-01 | Peter Behrens正式担任AEG艺术顾问，此前已处理图形和弧光灯。 | 同书主论及年表；任命推动者可能为Paul Jordan，档案散佚使过程仍有不确定性。 |
+| 1909 | AEG涡轮机厂建成，贝伦斯、结构工程师Karl Bernhard、Oskar Lasche及承包机构共同参与。 | 同书工厂建筑专题、Bernhard评论和A组目录；不得只署贝伦斯。 |
+| 1910 | 贝伦斯字体和AEG视觉系统用于布鲁塞尔世界博览会德国官方材料。 | 同书宣传材料专题；“民族字体”是当时国家修辞，不是中性形式判断。 |
+| 1911 | Hennigsdorf工人住宅实施，兼有材料／采光实验与采暖、平面、储藏等问题。 | 同书工人住宅专题；福利效果须补租金、收入和住户资料。 |
+| 1912 | Dolivo-Dobrowolsky发表大量生产演讲；AEG快速铁路订立合同。 | 同书同期文献与铁路专题；量规控制是管理目标，实际劳动效果另核。 |
+| 1914 | 贝伦斯主要AEG任期结束；快速铁路获许可但因战争等未建；贝伦斯签署“九十三人宣言”。 | 同书年表、铁路专题及文献；置于战争动员和民族主义语境。 |
+| 1914—1915 | AEG开发柴油电力动车，以材料与陈设区分二、三等空间。 | 同书铁路专题；技术性能与实际运营另核，阶级区分须说明。 |
+| 1915—1916 | Oberschöneweide住宅及NAG、军火、航空、战略供电等项目展开。 | 同书住宅、工厂专题和A组目录；工业现代主义不得脱离战争生产。 |
+| 1918 | 贝伦斯与Heinrich de Fries出版／提出《Vom sparsamen Bauen》，讨论工人住宅、标准构件、紧凑空间及公共设施。 | 同书工人住宅专题；集体设施和节约空间的住户后果另核。 |
+| 1918—1919 | Paul-Jordan-Strasse住宅实施并引发土地利用、通风和朝向批评。 | 同上；保留Weishaupt批评与贝伦斯回应，不把失败从作品史删除。 |
+| 1929 | 贝伦斯回顾AEG厂房、产品与Paul Jordan协作。 | 同书贝伦斯文选；后见性自述须与同期档案区分。 |
+| 1939 | 贝伦斯与Eugen Himmel合作AEG总部方案。 | 同书A组目录；必须置于纳粹“新帝国”委托环境，不作无背景形式延续。 |
+| 1979／1984 | 德文原版《Industriekultur》出版；Iain Boyd Whyte英译版随后由MIT Press出版。 | 同书版权页、出版说明；1979年后的研究须继续补充。 |
+
+## book-0062增量：MoMA现代设计教育与室内经典
+
+> 下列节点主要说明MoMA及Kaufmann在1950年代怎样组织现代设计知识。作品“首创”、社会普及、地区影响和实际使用须回查项目、企业、用户与住房档案。
+
+| 年代 | 事件／论述节点 | 证据入口与边界 |
+|---|---|---|
+| 1836 | 文本把Michel Thonet弯木技术的起点置于此年。 | [book-0062](summaries/book-0062.summary.md)家具图注；技术优先权、专利和生产时间另核。 |
+| 1850—1950 | Kaufmann把现代设计／室内设计组织为回应工业化的一百年传统。 | 同书两册导言；这是1950年代MoMA分期，不是全球同步历史。 |
+| 1870—1880年代 | Whistler及E. S. Morse的日本住宅／版画接受被用于解释欧美室内“轻盈”。 | 同书第二册“lightness”；只作欧美接受史，须补日本行动者、贸易与误读。 |
+| 1919—1939 | Bauhaus、De Stijl、l’Esprit nouveau及相关作品被归入“Machine Style”。 | 同书第二册“the machine”；压缩分期不能替代各机构史，也不支持呼捷玛斯。 |
+| 1925 | Le Corbusier与Pierre Jeanneret的Pavillon de l’Esprit nouveau被设为巴黎博览会的现代反例。 | 同书图30；作者把展览其余部分过度概括为繁饰，须以专题24材料修正。 |
+| 1940 | Eero Saarinen与Charles Eames赢得MoMA家具竞赛；书中多件后续作品与竞赛、制造商相连。 | 同书产品图注；评审、参赛、制造合同与销售回查MoMA和企业档案。 |
+| 1947 | MoMA小型展览《Modern Rooms of the Last Fifty Years》成为第二册基础。 | 同书第二册导言；展览清单、策展、观众、巡展和照片另核。 |
+| 1950 | MoMA出版Kaufmann《What Is Modern Design?》，提出十二条现代设计准则，并批评装饰流线与人为换型。 | 同书第一册题名、正文与书目；准则是机构话语，不是普遍定律。 |
+| 1953 | MoMA出版《What Is Modern Interior Design?》，以舒适、品质、轻盈、和谐、机器／自然和美国地区案例组织现代室内。 | 同书第二册版权页与正文；地区性格、舒适起源和社会代表性须另证。 |
+
+## book-0063增量：新闻图形、互动可视化与职业网络
+
+> 下列节点主要来自Cairo教程与从业者访谈。软件、作品、部门和“先锋／最早”判断须由网页存档、机构档案、署名和数字新闻史互证；新闻案例事实不由本书独立证明。
+
+| 年代 | 事件／论述节点 | 证据入口与边界 |
+|---|---|---|
+| 1925前后 | Otto Neurath的维也纳社会经济博物馆与Gerd Arntz、Marie Reidemeister／Neurath协作发展后来称为Isotype的公共教育图形。 | [book-0063](summaries/book-0063.summary.md)第3章；机构名、日期、transformer角色和跨文化传播由Isotype档案核验，书中Vienna Circle叙述不直接采用。 |
+| 1984 | Cleveland与McGill发表图形感知实验，比较位置、长度、角度、面积、体积和色彩等判断任务。 | 同书第6章；回查原论文、实验任务和后续复现，不把序列写成普遍图表等级。 |
+| 1988 | Donald Norman《The Design of Everyday Things》原版出版；其可见性、映射、反馈、约束等后来被Cairo用于互动新闻。 | 同书第9章；书名版本与概念沿革回查Norman原著和HCI研究。 |
+| 1996 | South Florida Sun-Sentinel发布Fire Ant Attack等早期互动新闻图形，以Director／Web多媒体实验；Shneiderman同年提出视觉信息查找箴言。 | 同书第9章；“最早”与链接状态须网页存档、机构和HCI原文互证。 |
+| 1997 | Cairo开始从事信息图；New York Times印刷图形部门在转向彩色前后继续扩展。 | 同书导论及Profiles；均属职业回忆，具体日期、部门规模和项目回机构档案。 |
+| 2000 | Cairo进入El Mundo组织互动信息图；Geoff McGhee进入New York Times网页图形工作。 | 同书第9章、Profile 6；职责、团队与项目回作品署名和人事记录。 |
+| 2001 | Ben Fry与Casey Reas发展Processing，为视觉设计与数据编程提供工具。 | 同书Profiles与书目网络；版本和开发史回Processing档案。 |
+| 2004 | Steve Duenes任New York Times graphics director；相关团队逐渐整合报道、统计、设计、开发和动画。 | 同书Profile 3；人员规模、职位与制度效果须机构材料互证。 |
+| 2005 | Cairo称El Mundo早期互动阶段延续至此；Gapminder由Hans Rosling、Ola Rosling和Anna Rosling Rönnlund共同创办。 | 同书第9章、Profile 7；组织成立、软件与公共影响回基金会档案及独立研究。 |
+| 2006 | Hans Rosling首次TED演示以动态图形、语言、动作和声音组织人口／健康叙事。 | 同书Profile 7；演示可作传播形式材料，具体人口与政策断言须当前数据核验。 |
+| 2007 | Cairo参与New York Times Nadal互动项目前期研究和故事板；制作由Joe Ward、Graham Roberts、Shan Carter、John Branch等继续完成。 | 同书第9章；保存分布式署名，不将项目归于单一设计师。 |
+| 2008 | Xaquín G.V.在北京奥运会期间进入New York Times图形团队。 | 同书Profile 3；属于从业者履历，具体职位与项目回机构材料。 |
+| 2009—2011 | Schwochow柏林墙、Aisch政治捐款／剽窃、Stefaner OECD／网络、Posavec《物种起源》版本等项目显示自由职业、公共数据与互动展览扩展。 | 同书Profiles 5、8—10；政治、历史、人口和科学内容分别核验，不采用地图或徽记。 |
+| 2010—2012 | Hannah Fairfield主持Washington Post图形部门改革，从被动服务转向自主报道、跨平台规划和协作署名，后回New York Times。 | 同书Profile 4；管理成效是行动者自述，须组织档案和其他员工材料互证。 |
+| 2013 | New Riders出版Alberto Cairo《The Functional Art》，将“功能艺术”、认知教学、六步流程、互动原则和十组职业访谈组织成信息图教育体系。 | [book-0063](summaries/book-0063.summary.md)题名页、正文与Profiles；不支持2013年后的生成式AI或当前平台判断。 |

@@ -2125,3 +2125,151 @@ Buckley借此指设计史选择姓名、专业、媒介、场所、创新和保�
 ### Comprehensive guarantee／全面保证
 
 Moles把维护、维修、服务、寿命和用户行动计划纳入产品价值的概念。它是消费理论提案，不直接证明特定售后制度、公平性或环境成效。来源：[book-0059](summaries/book-0059.summary.md)；第一部分第7篇。
+
+## book-0060新增术语：设计思维、产品意义与文化多元主义
+
+### Placements／定位场域
+
+Buchanan用以组织设计问题的四个非固定场域：符号与视觉传播、物质对象、活动与服务、系统与环境。它们是重新定位问题的发明位置，不是职业领地、对象分类、历史阶段或价值等级。来源：[book-0060](summaries/book-0060.summary.md)；第一部分第1篇。
+
+### Wicked problems／棘手问题
+
+问题表述、评价标准、相关行动者和后果无法预先封闭的设计问题。概念不等于“难题”或“复杂项目”，也不能证明所有设计均无检验标准；教材须具体说明问题由谁构造、谁承担一次性后果。来源：[book-0060](summaries/book-0060.summary.md)；第一部分第1篇。
+
+### Radical systematic pluralism／激进的系统多元主义
+
+编者主张让不相容观点围绕共同经验问题持续对话，而不以单一学派消除差异。它是学术规范，不表示参与者权力对等，也不自动解决代表、排除和制度责任。来源：[book-0060](summaries/book-0060.summary.md)；编者导言。
+
+### Product semantics／产品语义学
+
+研究人工物的象征性质如何在认知、社会和使用情境中形成，并把这类知识用于设计。它不等于造型风格或营销符号；设计者形式、设计者意图和用户意义必须区分。来源：[book-0060](summaries/book-0060.summary.md)；第二部分第7篇。
+
+### Making sense (of things)／使事物有意义
+
+Krippendorff对设计的双重表述：既制造人工物，也使人能够在关系和情境中理解、使用及重新解释它。括号提示“事物”本身也是意义区分的结果。该命题是理论程序，不是用户自然理解设计的保证。来源：[book-0060](summaries/book-0060.summary.md)；第二部分第7篇。
+
+### Concrete other／具体他者
+
+有身体、历史、身份、情感、需要、动机和能力的具体人，而非统计平均、经济单位或抽象普遍人。Dilnot借此建立设计关怀伦理；设计者的想象性同理心仍不能替代参与、权利、共同决定和可拒绝性。来源：[book-0060](summaries/book-0060.summary.md)；第二部分第6篇。
+
+### Product environment／产品环境
+
+由产品、说明书、销售、服务、零件、维修、升级、处置和用户知识共同构成的使用与维护条件。概念把设计责任延伸到出厂和购买之后；实际保修、维修权和环境成效须由制度与经验材料验证。来源：[book-0060](summaries/book-0060.summary.md)；第三部分第9篇。
+
+### Immateriality／非物质化
+
+服务、信息、程序、远程通信和软件使设计对象不再只表现为单件实体的历史论述。所谓非物质经验仍依赖设备、线路、能源、材料、劳动和维护；1988年的机器智能与网络想象不能直接支持当代AI判断。来源：[book-0060](summaries/book-0060.summary.md)；第三部分第8篇。
+
+### Geography of power／权力地理
+
+Fry用于批评设计史把中心国家的经典当作普遍标准、再把其他地区写成迟到或模仿的概念。边缘性由资本、生产、机构和知识权威共同制造，不是自然地理属性。本项目不复制相关地图或地图式图示。来源：[book-0060](summaries/book-0060.summary.md)；第三部分第2篇。
+
+### Comfort／舒适
+
+由身体便利、家庭私密、技术系统、阶级、性别分工和消费规范共同形成的历史观念。舒适既可能改善健康与自主，也可能提高服务期待、隔离和能源依赖；不能被写成普遍生理常量或单向社会控制。来源：[book-0060](summaries/book-0060.summary.md)；第三部分第6篇。
+
+## book-0061新增术语：AEG、贝伦斯与工业文化
+
+### Industriekultur／工业文化
+
+把企业组织、技术、生产、劳动、产品、广告、销售空间、建筑、住房和公共话语作为相互关联制度研究的概念。它有助于超越孤立名作史，但在本书中带有对资产阶级工业文化的同情，须补阶级、性别、战争和全球关系。来源：[book-0061](summaries/book-0061.summary.md)；Buddensieg主论。
+
+### Artistic adviser／艺术顾问
+
+贝伦斯1907—1914年在AEG的正式角色，负责或协调部分产品、图形、展示和建筑问题。职位不表示他拥有全部项目决策权或作者权；工程师、管理者、工作室和制造部门须分别确认。来源：[book-0061](summaries/book-0061.summary.md)；任命、产品及建筑章节。
+
+### Type product／标准类型产品
+
+以标准部件、容量、材质和饰面组合形成可重复生产又保持品种差异的产品。AEG水壶、灯具和开关显示“类型”同时关系生产、库存、备件、价格和识别，并非只指几何风格。来源：[book-0061](summaries/book-0061.summary.md)；产品目录P组。
+
+### Gauge control／量规控制
+
+用量规、工具间、检验员和校准程序保证互换件精度的生产制度。它提高一致性，也把工人判断转入设备和规程；实际生产率、工资和劳动体验须由独立档案核验。来源：[book-0061](summaries/book-0061.summary.md)；Dolivo-Dobrowolsky 1912年演讲。
+
+### Corporate identity／企业识别（历史分析用语）
+
+产品、字体、广告、商店、建筑和组织行为共同形成企业可识别性的分析概念。AEG是早期系统化案例，但在贝伦斯之前已有商标和视觉工作，且当时并未以今日术语自称，故不采用“贝伦斯发明企业识别”。来源：[book-0061](summaries/book-0061.summary.md)；Heidecker宣传材料专题及G组目录。
+
+### Distributed authorship／分布式作者性
+
+作品由艺术顾问、工程师、管理者、生产部门、工作室成员、广告机构与承包者共同形成，不能只按最著名者署名。涡轮机厂和AEG视觉系统均要求保留分工及不确定归属。来源：[book-0061](summaries/book-0061.summary.md)；工厂建筑、宣传材料及作品目录。
+
+### “Beauty = social peace”／“美＝社会和平”
+
+雇主住宅改革把环境美化与工人满意、忠诚和社会秩序连接的同期公式。它反映企业与改革者的目标，不证明住户获得公平、健康或自主；须补租金、租约、收入、工会和家庭生活资料。来源：[book-0061](summaries/book-0061.summary.md)；Neumeyer工人住宅专题。
+
+### Structural truth／结构真实性
+
+关于建筑可见形式是否如实表达承重与材料的历史争论。Karl Bernhard赞许涡轮机厂钢—玻璃长立面，却批评山墙覆层掩盖结构，证明同一建筑内部存在多种表达逻辑。来源：[book-0061](summaries/book-0061.summary.md)；Bernhard同期评论。
+
+## book-0062新增术语：MoMA现代设计规范与室内经典
+
+### Precepts of modern design／现代设计准则
+
+Kaufmann 1950年为MoMA归纳的十二条规范，围绕需要、时代、艺术／科学、材料、技术、用途、生产方法、简单结构、机器服务于人和广泛公众。它是一套历史性的博物馆教学／筛选语言，不是跨时代评分标准。来源：[book-0062](summaries/book-0062.summary.md)；第一册“TWELVE PRECEPTS”。
+
+### Intrinsic beauty of design／设计的内在美
+
+把功能与表达有意融合为平衡整体所形成的美。概念试图区分设计、工程和自由艺术，但“自然中形式与效率统一”只是美学类比，不能证明某一形式客观最美。来源：[book-0062](summaries/book-0062.summary.md)；第一册设计定义。
+
+### Democratic design／民主设计
+
+服务自由个人、广泛公众、普通需要和有限成本的规范主张。1950年文本把它与美国冷战自由主义和工业化相连；实际民主性须由价格、工资、分配、可用性、维修、权利和参与证明。来源：[book-0062](summaries/book-0062.summary.md)；第一册民主生活与第十二条准则。
+
+### Artificial changes of style／人为换型
+
+商业通过季节性或年度外观变化使产品显得过时的做法。Kaufmann认为它可能刺激交易，却扰乱设计基本价值，可作为计划性淘汰的历史批评入口。来源：[book-0062](summaries/book-0062.summary.md)；第一册同名小节。
+
+### Machine Style／机器式
+
+Kaufmann用来概括1920—1930年代Bauhaus、De Stijl、l’Esprit nouveau及相关设计的术语，强调钢管、玻璃、张力、透明、照明和工业生产。它是1953年的策展性分期，不是这些学派共同自称或完整制度史。来源：[book-0062](summaries/book-0062.summary.md)；第二册“the machine”。
+
+### Comfort–quality–lightness–harmony／舒适—品质—轻盈—和谐
+
+Kaufmann组织现代室内历史和鉴赏的四项特征。它们分别涉及放松／社交、事物特有构成、光／开放结构和整体协调；各自的起源、文化范围和实际效果均需专项证据。来源：[book-0062](summaries/book-0062.summary.md)；第二册前半。
+
+### Museum canonization／博物馆经典化
+
+博物馆通过竞赛、展览、赞助、收藏、图像、出版、书目和制造商关系，使部分对象成为“现代设计”代表的制度过程。入选或获奖证明机构判断，不自动证明普及、社会价值或技术首创。来源：[book-0062](summaries/book-0062.summary.md)；两册结构、图注与书目。
+
+### Photographic availability bias／照片可得性偏差
+
+历史叙述因某些作品拥有可出版照片、另一些缺少合适图像而发生选择偏差。Kaufmann明确承认据此删去室内；可摄影的精英住宅和样板房因此更易进入经典。来源：[book-0062](summaries/book-0062.summary.md)；第二册导言。
+
+## book-0063新增术语：功能艺术、新闻图形与可视化
+
+### Functional art／功能艺术
+
+Cairo对信息图和数据可视化的规范性定义：图形像工具一样服务认识目的，又可像多层对象一样产生审美经验。核心尺度是是否产生洞见，而非是否形成“漂亮图片”。这是2013年前后的职业话语，不是所有设计对象的普遍分类。来源：[book-0063](summaries/book-0063.summary.md)；导论。
+
+### Function constrains form／功能约束形式
+
+特定读者任务、数据与媒介会排除部分表达形式，却通常不产生唯一正确形式。该表述修正脱离Sullivan原文的“形式追随功能”口号，也反对把图表规则绝对化。来源：[book-0063](summaries/book-0063.summary.md)；第2章。
+
+### Presentation–exploration continuum／呈现—探索连续谱
+
+设计者引导读者理解重点与读者自行筛选、缩放和发现之间的连续关系。annotation layer、入口摘要和details on demand可连接两端；其配比取决于知识、任务风险和数据复杂度。来源：[book-0063](summaries/book-0063.summary.md)；导论、第4、9章及Profiles。
+
+### Visualization wheel／可视化轮
+
+由抽象／具象、功能／装饰、密集／轻盈、多维／单维、原创／熟悉、新奇／冗余六轴组成的方案描述工具。作者明确说它是主观启发式，没有科学测量效度。来源：[book-0063](summaries/book-0063.summary.md)；第3章。
+
+### Onion structure／洋葱结构
+
+以入口摘要／重点、内部信息层和层间导航组织复杂图形的方法。它强调澄清与深度并存，不表示所有内容都应隐藏在交互层。来源：[book-0063](summaries/book-0063.summary.md)；第4章。
+
+### Graphical perception／图形感知
+
+读者判断位置、长度、角度、面积、体积和颜色等编码的知觉过程。Cleveland—McGill序列可作图形选择研究入口，适用范围须结合任务、样本和后续研究，不能变成固定等级表。来源：[book-0063](summaries/book-0063.summary.md)；第6章。
+
+### Annotation layer／标注层
+
+图形中提供语境、重点、解释和阅读提示的一层。Grimwade用它避免把编辑责任全部转给非专业读者，同时允许更深的数据探索。来源：[book-0063](summaries/book-0063.summary.md)；Profile 1。
+
+### Visual Information-Seeking Mantra／视觉信息查找箴言
+
+Shneiderman提出“先总览，再缩放和过滤，最后按需查看细节”。Cairo把它用于互动新闻结构；它是组织启发式，仍须处理必要信息可见性、无障碍和不同任务路径。来源：[book-0063](summaries/book-0063.summary.md)；第9章。
+
+### Data illustrator／数据插画者
+
+Stefanie Posavec用来区分自身文学图形与以分析效率为主的数据可视化的职业称谓，强调准确材料、主观阐释、节奏和敬畏。人工主题编码仍需规则、版本和复核。来源：[book-0063](summaries/book-0063.summary.md)；Profile 10。

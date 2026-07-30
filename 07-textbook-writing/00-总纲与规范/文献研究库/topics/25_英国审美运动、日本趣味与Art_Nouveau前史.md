@@ -130,3 +130,8 @@
 - 原书强调日本、Queen Anne、Louis XV、Aesthetic与简洁白墙并存，反对把“维多利亚繁杂”突然替换为Art Nouveau／现代简洁。
 - `Morris look`和`Eastlake furniture`可脱离作者意图成为市场标签；须区分原厂对象、模仿品、媒体传播、客户组合和后世复兴。
 - 日本物与“异域”材料的进入仍需补贸易、殖民权力、当地生产者和接受史，不能只作为英国风格更新资源。
+## book-0062增量：MoMA叙事中的日本“轻盈”
+
+- [book-0062](../summaries/book-0062.summary.md)把Whistler、19世纪日本木版画接受及E. S. Morse 1885年《Japanese Homes and their Surroundings》连接到浅色、细线、少量家具、开放结构和光。
+- 该材料最适合研究欧美如何观看、翻译和利用日本设计，不支持“日本本质上轻盈／稀疏”。须补日本作者、住宅使用、版画生产、收藏贸易、跨文化中介和误读。
+- “Oriental curios”“Chinatown”等措辞保留为1953年异域化话语的证据，不作为教材的描述语言。
