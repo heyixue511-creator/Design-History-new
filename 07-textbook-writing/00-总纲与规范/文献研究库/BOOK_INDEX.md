@@ -7,12 +7,12 @@
 | book-0001 | [日]良品計畫株式會社：《MUJI 無印良品》，朱锷 译，2004 | [日]良品計畫株式會社 | 2004 | complete | curated-needs-evidence-locators | [book-0001](summaries/book-0001.summary.md) |
 | book-0002 | _MGL_to_Design-History_补充索引 |  |  | complete | curated-needs-evidence-locators | [book-0002](summaries/book-0002.summary.md) |
 | book-0003 | 1860-1914：《Learning to Consume Early Department Stores and the Shaping of the Mo |  |  | complete | curated-needs-evidence-locators | [book-0003](summaries/book-0003.summary.md) |
-| book-0004 | A Color Notation | Albert H. Munsell | 1967 | complete | curated-complete-full-file-chapter-edition-layer-and-evidence-locators-image-and-ocr-loss-recorded | [book-0004](summaries/book-0004.summary.md) |
-| book-0005 | Adam, Peter：Eileen Gray：Architect, Designer, 1987 | Adam, Peter | 1987 | complete | curated-needs-evidence-locators | [book-0005](summaries/book-0005.summary.md) |
-| book-0006 | Adamson, Glenn; Riello, Giorgio; Teasley, Sarah (eds.), Global Design History, 2011 |  | 2011 | complete | curated-needs-evidence-locators | [book-0006](summaries/book-0006.summary.md) |
-| book-0007 | Adburgham, Alison：《Libertys a biography of a shop》 | Adburgham, Alison |  | complete | curated-needs-evidence-locators | [book-0007](summaries/book-0007.summary.md) |
-| book-0008 | Ades：《Photomontage》 | Ades |  | complete | curated-needs-evidence-locators | [book-0008](summaries/book-0008.summary.md) |
-| book-0009 | Adolf Loos：《Ornament and Crime》，2019 | Adolf Loos | 2019 | complete | curated-needs-evidence-locators | [book-0009](summaries/book-0009.summary.md) |
+| book-0004 | A Color Notation | Albert H. Munsell | 1967 | complete | curated-complete-reread-rebuilt-with-edition-layer-evidence-locators-and-image-ocr-audit | [book-0004](summaries/book-0004.summary.md) |
+| book-0005 | Eileen Gray: Architect/Designer | Peter Adam | 1987 | complete | curated-complete-full-file-biography-catalogue-raisonne-chapter-argument-evidence-locators-authorship-gender-cross-cultural-and-image-loss-recorded | [book-0005](summaries/book-0005.summary.md) |
+| book-0006 | Global Design History | Glenn Adamson、Giorgio Riello、Sarah Teasley（编） | 2011 | complete | curated-complete-full-file-introduction-fourteen-essay-response-pairs-resource-guide-bibliography-index-argument-evidence-locators-and-critical-use-recorded | [book-0006](summaries/book-0006.summary.md) |
+| book-0007 | Liberty's: A Biography of a Shop | Alison Adburgham | 1975 | complete | curated-complete-full-file-chapter-and-evidence-locators-image-and-ocr-loss-recorded | [book-0007](summaries/book-0007.summary.md) |
+| book-0008 | Photomontage | Dawn Ades | 1993 | complete | curated-complete-full-file-section-and-evidence-locators-image-and-ocr-loss-recorded | [book-0008](summaries/book-0008.summary.md) |
+| book-0009 | Ornament and Crime: Thoughts on Design and Materials | Adolf Loos | 2019 | complete | curated-complete-full-file-twenty-three-essay-epilogue-bibliography-notes-evidence-locators-and-critical-use-recorded | [book-0009](summaries/book-0009.summary.md) |
 | book-0010 | Alain Weill：《Graphic Design A History》，2004 | Alain Weill | 2004 | complete | curated-needs-evidence-locators | [book-0010](summaries/book-0010.summary.md) |
 | book-0011 | Alain Weill：《The Poster A Worldwide Survey and History》，1985 | Alain Weill | 1985 | complete | curated-needs-evidence-locators | [book-0011](summaries/book-0011.summary.md) |
 | book-0012 | Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》 | Alan Cooper; Robert Reimann; David Cronin; Christopher Noessel | 2014 | complete | curated-needs-page-locators | [book-0012](summaries/book-0012.summary.md) |

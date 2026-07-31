@@ -16481,3 +16481,146 @@ _**Agent (gpt-5.6-sol 2026-07-31 05:57:00Z)**_
 Plan updated
 ```
 </details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:57:17Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$targets = @(
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/00-章节提纲.md',
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/03-正文.md',
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md'
+)
+git diff --check -- $targets
+$path='07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md'
+$text=Get-Content -LiteralPath $path -Raw -Encoding UTF8
+$refs=[regex]::Matches($text,'\[\^([0-9]+)\](?!:)') | ForEach-Object {$_.Groups[1].Value} | Sort-Object -Unique
+$defs=[regex]::Matches($text,'(?m)^\[\^([0-9]+)\]:') | ForEach-Object {$_.Groups[1].Value} | Sort-Object -Unique
+"脚注引用=$($refs -join ','); 脚注定义=$($defs -join ',')"
+"正文字符数=$($text.Length)"
+$bodyOnly=($text -split '(?m)^## 1\.2')[0]
+$sentences=[regex]::Split($bodyOnly,'(?<=[。！？])')
+$long=@($sentences | ForEach-Object {$_.Trim()} | Where-Object {$_.Length -gt 90})
+"开篇及1.1超90字句数=$($long.Count)"
+$long | ForEach-Object {"[$($_.Length)] $_"}
+rg -n "解锁条件|G1-A|G1-B|证据等级|第一优先候选|研究者指出|马克辛·伯格|唐纳德·夸特尔特" -- $path
+```
+```
+Exit code: 1
+Wall time: 2.3 seconds
+Output:
+脚注引用=1,2,3,4,5; 脚注定义=1,2,3,4,5
+正文字符数=3549
+开篇及1.1超90字句数=1
+[92] 1987年，罗伯特·戈登（Robert B. Gordon）拆检一支1832年由西缅·诺思（Simeon North）制造的M1819步枪，以及一支1838年在哈珀斯费里制造的同型枪。
+warning: in the working copy of '07-textbook-writing/第01章-工业化劳动分工与设计的生成/00-章节提纲.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '07-textbook-writing/第01章-工业化劳动分工与设计的生成/03-正文.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md', LF will be replaced by CRLF the next time Git touches it
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:57:31Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Adjusting body character limits and inspecting paragraphs**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:57:36Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md`**
+
+```diff
+@@
+-这项试验后来成为美国互换性制造叙述中的著名事件，却不能只被理解为机器取得了胜利。1987年，罗伯特·戈登（Robert B. Gordon）拆检一支1832年由西缅·诺思（Simeon North）制造的M1819步枪，以及一支1838年在哈珀斯费里制造的同型枪。两支枪的后膛块可以交换，动作却不如原配部件顺畅。配合面留下的加工痕迹还显示，机床完成粗加工以后，熟练工仍需借助量规、锉刀和夹具调整最终尺寸。[^2]
++这项试验后来成为美国互换性制造叙述中的著名事件，却不能只被理解为机器取得了胜利。1987年，罗伯特·戈登（Robert B. Gordon）拆检两支M1819步枪。一支由西缅·诺思（Simeon North）制造于1832年，另一支于1838年制成于哈珀斯费里。两支枪的后膛块可以交换，动作却不如原配部件顺畅。配合面留下的加工痕迹还显示，机床完成粗加工以后，熟练工仍需借助量规、锉刀和夹具调整最终尺寸。[^2]
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:57:48Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$targets = @(
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/00-章节提纲.md',
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/03-正文.md',
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md'
+)
+git diff --check -- $targets
+$path='07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md'
+$text=Get-Content -LiteralPath $path -Raw -Encoding UTF8
+$bodyOnly=($text -split '(?m)^## 1\.2')[0]
+$long=@([regex]::Split($bodyOnly,'(?<=[。！？])') | ForEach-Object {$_.Trim()} | Where-Object {$_.Length -gt 90})
+$paragraphs=@(($bodyOnly -split "(\r?\n){2,}") | Where-Object {$_ -and $_ -notmatch '^#'})
+"开篇及1.1：字符数=$($bodyOnly.Length); 正文段数=$($paragraphs.Count); 超90字句数=$($long.Count)"
+"脚注引用数=$([regex]::Matches($text,'\[\^[0-9]+\](?!:)').Count); 脚注定义数=$([regex]::Matches($text,'(?m)^\[\^[0-9]+\]:').Count)"
+git diff --stat -- $targets
+```
+```
+Exit code: 0
+Wall time: 1.5 seconds
+Output:
+开篇及1.1：字符数=2528; 正文段数=34; 超90字句数=0
+脚注引用数=5; 脚注定义数=5
+ ...253\240\350\212\202\346\217\220\347\272\262.md" | 116 +++++++----
+ .../03-\346\255\243\346\226\207.md"                |  68 +++++--
+ ...256\241\346\240\241\350\256\260\345\275\225.md" | 214 +++++++++++++++++++++
+ 3 files changed, 338 insertions(+), 60 deletions(-)
+warning: in the working copy of '07-textbook-writing/第01章-工业化劳动分工与设计的生成/00-章节提纲.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '07-textbook-writing/第01章-工业化劳动分工与设计的生成/03-正文.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '07-textbook-writing/第01章-工业化劳动分工与设计的生成/00-章节提纲.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '07-textbook-writing/第01章-工业化劳动分工与设计的生成/03-正文.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md', LF will be replaced by CRLF the next time Git touches it
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:58:01Z)**_
+
+<tool-use data-tool-type="task" data-tool-name="update_plan"><details>
+<summary>Tool use: **update_plan**</summary>
+**Agent task list:**
+- [X] 完整读取写作样例并提取第一章适用规则
+- [X] 诊断第一章现稿与样例的具体偏差
+- [X] 重写第一章专用写作模式及开篇、1.1
+- [X] 校验结构、引注和证据边界
+
+```
+Plan updated
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:58:16Z)**_
+
+已根据《艺术与观念》规则重新调整第一章写作模式，并重写开篇与1.1。
+
+核心变化：
+
+- 从“证据表转写”改为“历史现场—对象动作—生产机制—证据限定—条件性结论”。
+- 删除正文中的解锁条件、证据等级和内部工作说明。
+- 开篇聚焦1827年步枪拆装试验，不再提前给出整章答案。
+- 1.1从一匹约克郡毛织物的生产路径进入，使概念从具体劳动关系中产生。
+- 四级活动分类改为作者分析工具，不再列表式灌输给读者。
+- 特拉布宗印花生产改为限制案例，不再与英国构成机械对称比较。
+- 研究者姓名、来源批判和未核事项主要退至脚注及工作文件。
+- 已检查脚注对应和句长；开篇与1.1没有超过90字的句子。
+
+调整后的文件：
+
+- [第一章正文](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md>)
+- [第一章章节提纲](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md>)
+- [审校记录](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md>)
+
+证据裁定和锚点选择没有改变。后续1.2—1.6将统一按这一模式写作。
