@@ -11816,3 +11816,4668 @@ Hall—North链至少补齐以下四项后，才适合重新判断其证据等�
 1827年国会调查报告如果能够取得原始扫描并精确定位，将是第五项、也是最有价值的制度性A级证据。
 
 American Precision Museum简介、NPS人物页面、商业枪械网站以及Fuller的转录，可以作为检索入口，但不能代替上述独立研究与A级原件。
+
+---
+
+_**User (2026-07-31 03:43:03Z)**_
+
+不是大量补充，而是支撑写作的内容，列出参考书籍或文献，我下载后补充进即可
+
+
+---
+
+_**Agent (gpt-5.6-sol 2026-07-31 03:43:15Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning curated downloadable literature list**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 03:43:16Z)**_
+
+明白。我把范围压缩为“能直接支撑第一章 Hall—North 段落”的少量核心书目，只保留值得下载全文并录入参考目录的文献。
+
+_**Agent (gpt-5.6-sol 2026-07-31 03:43:18Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- response_length: `long`
+- search_query: `[map[q:John Hall Simeon North mechanized manufacturing bibliography interchangeable parts scholarly] map[q:Hall North rifle interchangeable parts Merritt Roe Smith Robert Gordon Donald Hoke] map[q:site:jstor.org Hall North mechanized manufacturing arms technology culture] map[q:Hall's Military Breechloaders Peter Schmidt bibliography]]`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 03:43:28Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- response_length: `medium`
+- search_query: `[map[q:Diana Muir Reflections in Bullough's Pond Simeon North Hall chapter publication year] map[q:Robert B Gordon Simeon North John Hall mechanized manufacturing PDF] map[q:Merritt Roe Smith John Hall Simeon North milling machine PDF] map[q:Hall's Breechloaders R.T. Huntington 1972 bibliographic]]`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 03:43:38Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning core and optional references**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 03:43:39Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- response_length: `medium`
+- search_query: `[map[q:"Harpers Ferry Armory and the New Technology" Internet Archive] map[q:"Hall's Breechloaders" Internet Archive 1972] map[q:"Hall's Military Breechloaders" PDF] map[q:"John H. Hall, Simeon North, and the Milling Machine" 573 591 PDF]]`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 03:43:54Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Finalizing core document list**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 03:43:54Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Defining minimal reference bibliography**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 03:44:14Z)**_
+
+明白。无需大量扩充，下载下面6项就足够支撑 Hall—North 段落写作。
+
+## 核心下载清单
+
+1. Robert B. Gordon, “Simeon North, John Hall, and Mechanized Manufacturing,” *Technology and Culture* 30, no. 1 (1989): 179–188.  
+   DOI: `10.2307/3105469`
+
+   - 最优先下载。
+   - 属于Hounshell出版后的独立同对象研究。
+   - 用于核验Hall与North之间的技术关系、铣削加工、手工修配与机械化程度。
+   - 全文仅10页，适合直接支撑正文。[JSTOR](https://www.jstor.org/stable/3105469)
+
+2. Merritt Roe Smith, “John H. Hall, Simeon North, and the Milling Machine: The Nature of Innovation among Antebellum Arms Makers,” *Technology and Culture* 14, no. 4 (1973): 573–591.  
+   DOI: `10.2307/3102444`
+
+   - 直接讨论Hall—North—铣床关系。
+   - 用于写“机器并未取消现场判断”“创新来自多名制造者和机构协作”。
+   - 因Hounshell使用过Smith研究，它主要用于回溯Hounshell的证据来源，不能单独算作独立核验。[JSTOR](https://www.jstor.org/stable/3102444)
+
+3. Merritt Roe Smith, *Harpers Ferry Armory and the New Technology: The Challenge of Change*. Ithaca: Cornell University Press, 1977.
+
+   - 重点下载第7章“John H. Hall”和第8章“Hall and the American System”，约第184—251页。
+   - 支撑Hall工场组织、机械设备、劳动管理、军械署关系以及North合同背景。
+   - 可通过Open Library／Internet Archive借阅。[Open Library](https://openlibrary.org/books/OL4894668M/Harpers_Ferry_armory_and_the_new_technology)
+
+4. R. T. Huntington, *Hall’s Breechloaders: John H. Hall’s Invention and Development of a Breechloading Rifle with Precision-Made Interchangeable Parts, and Its Introduction into the United States Service*. Edited by Nancy Bagby. York, PA: George Shumway, 1972.
+
+   - 早于Smith和Hounshell，具有较强的独立对象研究价值。
+   - 用于补充Hall枪械结构、型号、生产过程、政府采用和历史文件。
+   - 适合支撑教材中的具体物品描述，避免只写抽象的“互换性”。[书目信息与学术评论](https://academic.oup.com/ahr/article/79/4/1260/75199)
+
+5. Peter A. Schmidt, *Hall’s Military Breechloaders*. Lincoln, RI: Andrew Mowbray, 1996.
+
+   - Hall枪械实物、型号、制造标记和文献汇编的重要专著。
+   - 用于核验Harpers Ferry产品与North承制产品的实物差异。
+   - 适合支撑“标准模型—生产执行—产品检验”部分。
+   - 书目信息获NPS参考目录确认。[NPS书目](https://www.nps.gov/museum/publications/mhii/mh2appl.pdf)
+
+6. Claud E. Fuller, *The Breech-Loader in the Service, 1816–1917*. Topeka: Arms Reference Club of America, 1933.
+
+   - 作为历史文件汇编使用。
+   - 重点查看第29—32页附近收录的1827年Hall制造体系调查报告。
+   - 可支撑官方检验、制造精度和军方评价；引用时最好注明“转录自政府报告”，不要把Fuller当作原始报告本身。[Google Books](https://books.google.com/books/about/The_Breech_loader_in_the_Service_1816_19.html?id=GHDfAAAAMAAJ)
+
+## 可选补充一项
+
+Diana Muir, *Reflections in Bullough’s Pond: Economy and Ecosystem in New England*. University Press of New England, 2000，重点读第10章。
+
+该书提出North可能通过康涅狄格钟表制造网络形成其机械加工方法，可用于呈现与“Hall单向传授North”不同的解释。只有正文需要加入史学争议时再下载。[Open Library](https://openlibrary.org/books/OL8383374M/Reflections_in_Bullough%27s_Pond)
+
+实际最低组合是：
+
+```text
+Gordon 1989
+＋ Smith 1973
+＋ Smith 1977
+＋ Huntington 1972
+＋ Schmidt 1996
+```
+
+Fuller作为官方报告入口补入。以上已经足够，不需要继续铺陈一般性的美国制造史文献。
+
+---
+
+_**User (2026-07-31 05:02:03Z)**_
+
+已补充"D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\_paper1.md" 
+"D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\_paper2.md"
+
+
+---
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:02:10Z)**_
+
+收到。我会先核对两篇补充文献的书目信息、论证与可定位证据，再判断它们分别能否作为 Hall—North 链的独立研究路线，并同步到第一章的文献映射和证据表；不会直接把整篇报告当作A级材料。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:02:12Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"Get-ChildItem -Force; rg --files -g \"AGENTS.md\" -g \"README.md\" -g \"_paper1.md\" -g \"_paper2.md\" -g \"00-章节提纲.md\" -g \"01-本章文献映�
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:02:21Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"Get-ChildItem -LiteralPath 'D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\补充文献' -Force | Format-L
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:02:36Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$files = @('D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\补充文献\\_paper1.md','D:\\Design-history-n
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:02:43Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"Get-Content -LiteralPath 'D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\补充文献\\_paper1.md' -Encodi
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:02:49Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"Get-Content -LiteralPath 'D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\补充文献\\_paper2.md' -Encodi
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:02:56Z)**_
+
+两篇已经形成互补关系：Smith重建“人员—机构—机床”扩散网络，Gordon则用实物测量和加工痕迹修正“机器直接制造互换精度”的解释。后者不是简单重复，能够直接改变第一章对机器、量规与熟练劳动关系的表述。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:02:59Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$a='D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\01-本章文献映射.md'; $b='D:\\Design-history-new\\
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:03:14Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning evidence mapping and audit additions**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:03:14Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Analyzing independent artifact evidence**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:03:19Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning evidence mapping and audit additions**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:03:19Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Analyzing independent artifact evidence**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:03:22Z)**_
+
+下一步我会把它们登记为两个独立条目，并新增两条原文证据记录。关键修正是：Hall—North案例仍可作为主锚点候选，但“机器直接替代熟练判断”的说法必须撤回，改成“机器粗加工＋量规体系＋高水平手工锉削共同实现互换”。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:03:23Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$pdf1 = Get-ChildItem -LiteralPath 'D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\补充文献' -Filter '
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:03:38Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$files=@('01-本章文献映射.md','02-证据与注释.md','05-审校记录.md'); $base='D:\\Design-history-new\\07-textbook-writing\\第01章-工业化�
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:03:51Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning patch for paper entries and evidence updates**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:03:51Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating evidence tables and independence assessments**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:05:56Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md`**
+
+```diff
+@@
+-> 状态：报告级初筛完成，定向原文核验进行中  
++> 状态：第二轮定向原文核验完成，Hall—North链已有独立实物研究互检  
+@@
+ | B0127 | *The Age of Manufactures, 1700–1820* | 原文未读；深度报告已读 | `D:\Design-history\00-book\Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.md` | 未核；报告锚点22.1%、28.0%、51.2%、65.7% | 1.1、1.2、1.5 | 混合生产、女性与家庭劳动、反工厂线性叙事 | 不承担第二章公共改革 | C级检索线索 |
+ | B0186 | *From the American System to Mass Production* | 深度、增强报告已读；原文定向读取第1章pp. 33–45，重点pp. 38–45；整部未通读 | `D:\Design-history\00-book\Hounshell：《From the American system to mass production, 1800-1932 the developmen.md` | pp. 33–45；Hall—North链重点pp. 38–43；Springfield扩散与Model 1841量规pp. 43–45；项目文本行760–839 | 1.2、1.3、1.4、1.5 | G1-A主用候选；Hall后装步枪、标准模型、三类量规、夹具、检验与跨机构权限重组 | 1914年后的Ford材料不进入本章主论证 | B级；G1-A连续链暂时通过，待独立来源复核 |
++| S1973 | “John H. Hall, Simeon North, and the Milling Machine” | 全文已定向精读 | `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\_paper1.md`；同目录PDF | pp. 573–591；重点pp. 578–591 | 1.2、1.3、1.5 | 重建North—Hall—Springfield之间由机构、来访者和流动机械师组成的技术扩散网络；限制单一发明者叙事 | 不延伸为公共教育或职业制度史 | B级原文；与Hounshell存在来源依赖，不能单独算独立复核路线 |
++| G1989 | “Simeon North, John Hall, and Mechanized Manufacturing” | 全文已精读 | `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\_paper2.md`；同目录PDF | pp. 179–188；实物与互换性重点pp. 182–188 | 1.3、1.4、1.5 | 独立实物研究；以两支M1819步枪的互换测试、尺寸测量和加工痕迹核验生产方法 | 不承担Hall—Bomford行政纠错细节 | B级原文；形成独立互检并修正机器决定论 |
+ | B0206 | *The Lever of Riches* | 原文、深度报告未读；增强报告已读 | `D:\Design-history\00-book\Joel Mokyr：《The lever of riches - technological creativity and economic progress (1990)》.md` | 未核；增强报告“高精度机床”“宏观／微观发明” | 1.2、1.3、1.5 | 技术变化与渐进改良的解释框架 | 不承担具体案例事实 | C级背景线索 |
+@@
+-该对象在B0186第1章pp. 38–43形成“提出—外化—传递—执行—检验—修正”的连续链，证据由C级升为B级。它可以让中心机制生死门暂时通过，但仍有三项限制：
++该对象在B0186第1章pp. 38–43形成“提出—外化—传递—执行—检验—修正”的连续链，证据由C级升为B级。S1973补入人员与机床扩散网络，G1989以同型实物的互换测试、尺寸测量和加工痕迹提供独立核验。中心机制生死门继续暂时通过，但仍有三项限制：
+ 
+ - B0186是研究著作，不是Hall、Bomford或军械库原始档案；定稿前仍须将至少一个核心环节升为A级；
+-- 当前项目报告中没有第二项与该对象独立、且能直接互检的来源；
++- G1989能够独立核验互换结果和实际加工方法，但不能独立证实“误发生产枪—补发正确模型与量规”的行政纠错细节；
+ - 对照锚点和区域路径尚未成立，因此不能据此解锁正文或正式冻结主锚点。
+@@
+ 上述页段只服务于既定小节问题。B0186中1914年后的Ford、市场样式更新与第二章公共审美问题暂不回溯。
++
++### 定向回查结果 02
++
++| 文献 | 原文位置 | 核验结果 | 对既有叙述的影响 |
++|---|---|---|---|
++| S1973 | pp. 578–591 | Hall的机床体系不是孤立发明；North、Carrington、Ordnance Department、Nathaniel French等来访者、机构和流动机械师共同构成技术传递网络 | 保留“跨组织传递”，撤销将扩散归因于Hall单人设计输出的写法 |
++| G1989 | pp. 182–185 | 1832年North步枪与1838年Harpers Ferry步枪的后膛块可以互换，但操作顺畅度下降；关键尺寸差异可测 | 独立支持两地产品达到实际互换，同时把“互换”写成有程度差异的结果 |
++| G1989 | pp. 185–188 | 两支步枪只有少数表面留下铣削痕迹；达到量规尺寸的关键表面主要由熟练工手工锉削完成 | 机器负责减少粗重去料，量规与高水平手工判断共同形成精度；不得写成机器消灭技能 |
++
++两篇文章可以进入正文取证，但其证据身份不同：S1973与Hounshell有明显文献继承关系；G1989的实物检验路线具有实质独立性。两者均不是A级一手档案。
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-> 状态：第一轮定向原文核验完成，G1-A形成B级连续链  
++> 状态：第二轮定向原文核验完成，G1-A形成B级连续链，G1-B形成B级关联互证  
+@@
+-| 外化 | 决定如何进入图样、模型、样品、规格或语言 | Hounshell, pp. 40–42；项目原文行802–808 | “既定模型”、专用机床、夹具及工作／检验／母量规把互换目标转成可传递、可检查的生产基准 | 原文未给尺寸图或逐项公差表；不能把量规等同于全部产品设计 | B | 已核 |
+-| 传递 | 媒介如何到达其他工序、劳动者或地点 | Hounshell, pp. 42–43；项目原文行812–814 | Hall体系向Simeon North承包体系转移；错误的生产样枪与后来补发的正确模型、量规显示了具体传递媒介 | 尚未直接读取Bomford—Hall—North原始通信 | B | 已核 |
+-| 执行 | 生产现场怎样理解和实施 | Hounshell, pp. 40–43；项目原文行802–814 | Hall以专用机床、夹具和量规制造；North在得到正确模型与量规后，与Harpers Ferry于1834年实现部件互换 | 未提供逐个工人的操作记录；现场默会调整仍不可见 | B | 已核 |
+-| 检验 | 谁以什么标准判断结果 | Hounshell, pp. 41–43；项目原文行806、812 | 工作、检验、母量规构成分层核验；Hall明确把不能与Harpers Ferry产品互换的承包商武器视为应被拒收 | 拒收在此为Hall提出的后果，不是已发生的整批拒收统计 | B | 已核，须保留措辞边界 |
++| 外化 | 决定如何进入图样、模型、样品、规格或语言 | Hounshell, pp. 40–42；Gordon (1989), pp. 183–188 | “既定模型”、夹具和量规把互换目标转成可检查基准；实物痕迹说明机器只承担部分粗加工，量规尺寸仍依赖熟练锉削 | 原文未给逐项公差表；不能把量规等同于全部产品设计，也不能写成机器直接产生最终精度 | B | 已独立互检并修正解释 |
++| 传递 | 媒介如何到达其他工序、劳动者或地点 | Hounshell, pp. 42–43；Smith (1973), pp. 582–591 | 除模型和量规外，军械署、工场来访、Carrington及Nathaniel French等流动机械师共同传递生产知识 | “误发生产枪—补发模型与量规”细节仍未获独立材料复核；Smith与Hounshell存在来源继承 | B | 传递网络已核，纠错细节待A源 |
++| 执行 | 生产现场怎样理解和实施 | Hounshell, pp. 40–43；Gordon (1989), pp. 182–188 | North与Harpers Ferry产品达到实际互换；生产现场以机器粗加工，再由熟练工借助锉刀、量规和锉削夹具达到关键尺寸 | 无逐个工人姓名与操作日志；不能写成判断被机床完全取代 | B | 已获独立实物核验 |
++| 检验 | 谁以什么标准判断结果 | Hounshell, pp. 41–43；Gordon (1989), pp. 183–185 | 工作、检验和母量规构成分层核验；两支异地生产的M1819步枪可交换后膛块并保持功能，但操作顺畅度有所下降 | 拒收仍是标准／风险而非整批拒收统计；两件实物不能代表全部批次 | B | 已获独立实物核验，须保留样本边界 |
+@@
+-**当前判定：B级暂时通过。** `CAND-G1A-01`已收缩为“Hall后装步枪生产体系向Simeon North承包体系的转移（1819—1834）”。六个环节属于同一产品体系和直接相连的政府—军械库—承包商关系；错误传递与补发正确模型、量规构成修正节点。该链足以保留“权限重新分配”为中心机制，但不能替代独立来源核验，也不自动使主锚点冻结或正文解锁。
++**当前判定：B级暂时通过。** `CAND-G1A-01`已收缩为“Hall后装步枪生产体系向Simeon North承包体系的转移（1819—1834）”。Gordon以两支同型实物独立核验互换结果和生产痕迹，并迫使本章把执行机制改写为“机器粗加工—量规控制—熟练锉削”。但行政纠错节点仍主要依赖Hounshell，尚未升为A级；该链不自动使主锚点冻结或正文解锁。
+@@
+-| 实物或生产痕迹 | 对象中留下了什么工序、误差、修正或使用痕迹 | 待填 | 待填 | 待填 | 待填 | 待填 | 缺 |
+-| 制度／企业材料 | 组织怎样规定岗位、媒介、质量或权利 | 待填 | 待填 | 待填 | 待填 | 待填 | 缺 |
+-| 工人、订单、维修、使用或外部记录 | 实际执行、反馈或外部观察怎样修正制度自述 | 待填 | 待填 | 待填 | 待填 | 待填 | 缺 |
++| 实物或生产痕迹 | 对象中留下了什么工序、误差、修正或使用痕迹 | Gordon (1989), pp. 182–188：1832年North与1838年Harpers Ferry两支M1819步枪的拆检、互换测试、尺寸测量与刀痕分析 | 同型号、同一互换目标，分别由North与Harpers Ferry生产 | 两支枪可交换后膛块；关键表面多为手工锉削，少数内腔有铣削痕迹 | 不能外推至全部批次，不能证明每名工人的操作 | 存世优品可能高估一般生产水平 | 已核 |
++| 制度／企业材料 | 组织怎样规定岗位、媒介、质量或权利 | Hounshell (1984), pp. 38–43；Smith (1973), pp. 578–584：合同、Carrington报告、Hall体系和军械署扩散关系的研究性转述 | 均直接指向M1819、Harpers Ferry、North合同与互换目标 | 政府合同和组织媒介使跨地点互换成为明确生产目标 | 尚未直接读1827报告、1828合同与Hall—Bomford通信 | 管理者与军械署记录高度可见 | B级已核，待A源 |
++| 工人、订单、维修、使用或外部记录 | 实际执行、反馈或外部观察怎样修正制度自述 | Smith (1973), pp. 584–591：工资表、通信及Nathaniel French等流动机械师；Gordon (1989), pp. 185–188：实物刀痕对机器能力的反证 | 机械师在Hall、North和Springfield之间流动；刀痕显示知识由现场手工执行完成 | 技术传播依赖人员迁移，最终精度依赖未被制度自述充分记录的熟练劳动 | 不能恢复多数匿名工人的具体决定，也不能证明每条人员路线 | 管理档案保存姓名不均，实物不保存劳动者身份 | 已核 |
+@@
+-**当前判定：未通过。**
+-
+-当前不能把B0186深度报告与其增强报告作为G1-B的两个独立支点，因为二者依赖同一原书和同一报告链。印花棉布的增强报告链同样不能单独构成三角互证。
++**当前判定：B级条件通过。**
++
++Gordon的工业考古材料与Hounshell／Smith的文献研究在材料类型、形成目的和核心观察上具有实质差异，能够互检“互换结果”和“实际加工方法”。Smith提供人员迁移与扩散网络，但Hounshell明显继承其研究，因此二者不能算两条完全独立路线。G1-B通过不等于取得A级档案，也不替代对照锚点和区域路径。
+@@
+ | 2026-07-30 | 部分候选，未通过 | 未通过 | III或IV待证 | 暂不冻结 | 正文锁定 | 已完成报告级初筛；须回查原文 |
+ | 2026-07-30 | B级连续链暂时通过 | 未通过 | III | 保留中心机制，进入主锚点与对照锚点核定 | 正文仍锁定 | 已定向读取B0186 pp. 38–43；待独立来源、对照锚点和区域路径 |
++| 2026-07-31 | B级连续链经实物研究修正后继续通过 | B级条件通过 | III | 保留中心机制；明确机器、量规与熟练劳动共同作用 | 正文仍锁定 | 已全文核验Smith 1973与Gordon 1989；仍待A级档案、对照锚点和区域路径 |
+@@
+-| Hall—North后装步枪互换性制造 | 已形成B级G1-A | 中 | 同一产品体系中具有既定模型、三类量规、夹具、跨组织传递、检验与纠错 | 缺独立来源和A级原始材料；工人实际操作仍弱 | 主锚点首选，暂不冻结 |
++| Hall—North后装步枪互换性制造 | 已形成B级G1-A | B级条件通过 | 同一产品体系中具有模型、量规、跨组织传递与检验；Gordon提供异地同型实物的互换测试和加工痕迹 | 行政纠错细节缺独立复核和A级原始材料；实物样本仅两件 | 主锚点首选，暂不冻结 |
+@@
+-**判定：** 当前三个报告目录中尚未找到能够与B0186组成G1-B的独立同对象来源。G1-B继续判定未通过，不能用多份同源报告凑成三角互证。
++**补充结果（2026-07-31）：** 项目新增Smith 1973与Gordon 1989原文。Smith与Hounshell存在明显来源继承，不能作为完全独立路线；Gordon通过1987年对两支M1819步枪的拆检、互换测试、尺寸测量和刀痕分析形成独立材料路线。由此，Hall—North案例的G1-B升为B级条件通过，但“误发生产枪—补发正确模型与量规”的修正节点仍待Hall—Bomford通信、1827年报告或1828年合同等A级材料。
+@@
+-| 待填 | 待填 | 待核 | 待核 | 待核 | 待核 | 待核 | 待核 | 未通过 |
++| 两地M1819产品达到实际互换，但最终精度不是机床单独造成 | Hounshell (1984), pp. 38–43 | Gordon (1989), pp. 182–188 | 是 | 是 | 是：文献综合／实物拆检 | 是 | Gordon的实物观察不依赖Hounshell叙述 | 是；Gordon支持互换结果并修正其加工解释 | B级通过 |
++| Hall体系经模型、量规、机构和人员向North扩散 | Hounshell (1984), pp. 42–43 | Smith (1973), pp. 582–591 | 否：共享军械署与军械库档案体系 | 否：Hounshell明确继承Smith研究 | 部分不同 | 部分不同 | 否 | 可补充细节，不能构成完全独立双源 | 不计独立通过 |
+@@
+ ### E-B003　错误传递、检验风险与Hall—North链的修正
+@@
+ - 当前等级：B；升A条件为回查Hall致Bomford通信和North合同执行材料；
+ - 对应提纲：1.3、1.5。
++
++### E-B004　机床知识通过机构与流动机械师扩散
++
++- 来源身份：同行评议技术史论文；
++- 规范书目：Merritt Roe Smith, “John H. Hall, Simeon North, and the Milling Machine: The Nature of Innovation among Antebellum Arms Makers,” *Technology and Culture* 14, no. 4 (1973): 573–591；
++- 原文路径：`D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\_paper1.md`；同目录保存PDF；
++- 精确页码／位置：pp. 578–591，重点为Hall体系与Carrington报告pp. 578–584、Nathaniel French等流动机械师pp. 584–587、综合结论pp. 589–591；
++- 读取状态：全文已读，并按1.2、1.3、1.5定向复核；
++- 内容准确转述：North、Hall与Springfield的铣削技术通过军械署开放的规格和图样、工场来访、调查人员及流动机械师反复传递；Nathaniel French先后在Hall、North与Springfield工作，体现技术知识由人员携带；
++- 可观察事实：Smith引用Carrington报告、军械库工资表、通信及机械师回忆，辨认出若干跨工场人员与机器传播节点；
++- 证据功能：修正“单一发明者—单向技术输出”的叙述，支持1.3的多媒介传递和1.5的被遮蔽行动者；
++- 对应权限：军械署控制规格与设施开放，工场主持者组织采用，机械师在实际建造和调整中拥有不可忽略的解释与修改能力；
++- 不能支持的判断：不能证明所有机床均由Hall设计，也不能单独核实Hounshell所写的错误样枪与补发量规细节；
++- 与其他材料的依赖关系：Hounshell明显利用Smith研究，本条不能与Hounshell计为两个完全独立来源；
++- 竞争性解释：技术传播既可能是制度性授权，也可能是人员迁移造成的非正式扩散，正文应并置；
++- 当前等级：B；
++- 升档条件：回查Smith脚注所指工资表、通信和Carrington报告原件；
++- 对应提纲：1.2、1.3、1.5。
++
++### E-B005　M1819实物互换测试与手工锉削痕迹
++
++- 来源身份：同行评议技术史论文；工业考古与实物测量研究；
++- 规范书目：Robert B. Gordon, “Simeon North, John Hall, and Mechanized Manufacturing,” *Technology and Culture* 30, no. 1 (1989): 179–188；
++- 原文路径：`D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\_paper2.md`；同目录保存PDF；
++- 精确页码／位置：历史背景pp. 179–182；实物、互换与尺寸测量pp. 182–185；加工痕迹与解释pp. 185–188；
++- 读取状态：全文已读；
++- 内容准确转述：Gordon在1987年拆检Springfield Armory Museum收藏的一支1838年Harpers Ferry M1819步枪和一支1832年North M1819步枪；两者交换后膛块后仍能工作，但顺畅度下降。除少数内表面外，关键配合面保留手工锉削痕迹，说明机床主要粗加工，熟练工借助量规和锉削夹具完成最终尺寸；
++- 可观察事实：后膛块与枪管间隙分别为0.009英寸和0.006英寸；其余十项关键尺寸平均差异为0.0027英寸；同批实物只构成两件样本；
++- 证据功能：独立核验两地产品的实际互换程度；直接修正机器决定论，并把匿名熟练工的判断重新放回生产链；
++- 对应权限：Hall与North体系规定目标和量规，现场工人通过锉削决定关键配合面的最终尺寸，检验者以互换和功能判断结果；
++- 不能支持的判断：不能由两件保存良好的枪推断全部批次质量；不能证明机器不重要，也不能核实行政纠错的全部步骤；
++- 来源位置与保存偏差：馆藏实物可能偏向保存状态较好或较具代表性的产品，且刀痕不能恢复工人姓名；
++- 与其他材料的依赖关系：背景部分引用Smith等研究，但互换实验、尺寸测量和刀痕观察为Gordon独立取得，能够与Hounshell互检；
++- 竞争性解释：互换性来自机器、量规与手工技能的组合，而非机器或手工任何一方单独造成；
++- 当前等级：B；
++- 升档条件：取得藏品登录号、完整测量记录及更多同批次样本；A级仍需合同、检验记录或原始通信；
++- 对应提纲：1.3、1.4、1.5。
+@@
+-已按提纲问题定向回查B0186第1章pp. 33–45，没有通读全书。结果如下：
++已按提纲问题定向回查B0186第1章pp. 33–45，并全文核验S1973与G1989。结果如下：
+@@
+-- G1-A达到B级暂时通过，G1-B仍未通过。
++- G1-A继续达到B级暂时通过；G1-B因Gordon的独立实物路线达到B级条件通过；
++- Hall—North案例的核心写法已从“机器产生互换精度”修正为“机器粗加工、量规控制与熟练锉削共同实现互换”；
++- Hounshell所述行政纠错细节尚未被Smith或Gordon独立证实。
+@@
+-1. 寻找能够独立复核Hall—North链的来源，优先Hall—Bomford通信、1827年调查报告、North合同或可靠影印本；
+-2. 核定一个只检验单一机制差异的对照锚点，不重复主链全部历史；
+-3. 对照锚点优先从“现场判断没有被量规体系同等集中”的生产关系中选择；
+-4. 区域材料作结果A或结果B判定；
+-5. 正文启动后，每写一个关键判断均回溯其对应原文页段，并严格归入1.1—1.6的既定问题。
++1. 不再继续增加Hall—North二手研究；只追索一项能核实合同、标准传递或行政纠错的A级材料；
++2. 核定一个只检验单一机制差异的对照锚点，不重复主链全部历史；
++3. 对照锚点优先从“现场判断没有被量规体系同等集中”的生产关系中选择；
++4. 区域材料作结果A或结果B判定；
++5. 正文启动后，每写一个关键判断均回溯其对应原文页段，并严格归入1.1—1.6的既定问题。
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md`**
+
+```diff
+@@
+ 下一轮优先补充Hall—North链的独立来源；若项目内没有，再核定对照锚点，并继续保持正文锁定。
++
++---
++
++## 证据核验记录 03：Smith 1973与Gordon 1989补充原文
++
++### 回查范围
++
++- Merritt Roe Smith, “John H. Hall, Simeon North, and the Milling Machine,” *Technology and Culture* 14, no. 4 (1973): 573–591；
++- Robert B. Gordon, “Simeon North, John Hall, and Mechanized Manufacturing,” *Technology and Culture* 30, no. 1 (1989): 179–188；
++- 项目内Markdown转写与同目录PDF均已保存；
++- 两篇短文均已全文读取，未读取本轮排除的文献研究库。
++
++### 实质结果
++
++Smith重建了North、Hall、军械署、Carrington、Nathaniel French及Springfield之间的人员—机构—机床扩散网络，支持技术传递不是单一发明者的线性输出。但Hounshell明显继承Smith的研究，因此二者不能作为两条完全独立的来源。
++
++Gordon通过两支M1819步枪的拆检、后膛块互换测试、十一项关键尺寸测量和加工痕迹分析，形成与Hounshell不同的实物证据路线。其结果一方面支持North与Harpers Ferry产品确实达到实际互换，另一方面证明关键配合面主要以手工锉削达到量规尺寸。第一章不得再把互换精度归因于机床单独作用。
++
++### 修正后的机制表达
++
++```text
++机器承担粗加工并减少重体力去料
++→量规和夹具规定可检验的尺寸关系
++→熟练工通过锉削解释材料状态并达到最终尺寸
++→异地产品接受互换与功能检验
++```
++
++### 裁定
++
++```text
++G1-A：B级暂时通过
++G1-B：B级条件通过
++活动层级：III（组织化形式决定）
++机器决定论表述：撤销
++熟练劳动的实际判断：已由实物痕迹补强
++A级原始材料：仍缺
++对照锚点：未确定
++区域路径：未判定
++正文解锁：仍不通过
++```
++
++下一步停止增加Hall—North二手书目，只追索一项能够核实合同、标准传递或行政纠错的A级材料；同时进入对照锚点和区域路径核定。
+```
+
+
+```
+apply_patch verification failed: Failed to find expected lines in D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md:
+| 待填 | 待填 | 待核 | 待核 | 待核 | 待核 | 待核 | 待核 | 未通过 |
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:06:27Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md`**
+
+```diff
+@@
+-> 状态：报告级初筛完成，定向原文核验进行中  
++> 状态：第二轮定向原文核验完成，Hall—North链已有独立实物研究互检  
+@@
+ | B0127 | *The Age of Manufactures, 1700–1820* | 原文未读；深度报告已读 | `D:\Design-history\00-book\Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.md` | 未核；报告锚点22.1%、28.0%、51.2%、65.7% | 1.1、1.2、1.5 | 混合生产、女性与家庭劳动、反工厂线性叙事 | 不承担第二章公共改革 | C级检索线索 |
+ | B0186 | *From the American System to Mass Production* | 深度、增强报告已读；原文定向读取第1章pp. 33–45，重点pp. 38–45；整部未通读 | `D:\Design-history\00-book\Hounshell：《From the American system to mass production, 1800-1932 the developmen.md` | pp. 33–45；Hall—North链重点pp. 38–43；Springfield扩散与Model 1841量规pp. 43–45；项目文本行760–839 | 1.2、1.3、1.4、1.5 | G1-A主用候选；Hall后装步枪、标准模型、三类量规、夹具、检验与跨机构权限重组 | 1914年后的Ford材料不进入本章主论证 | B级；G1-A连续链暂时通过，待独立来源复核 |
++| S1973 | “John H. Hall, Simeon North, and the Milling Machine” | 全文已定向精读 | `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\_paper1.md`；同目录PDF | pp. 573–591；重点pp. 578–591 | 1.2、1.3、1.5 | 重建North—Hall—Springfield之间由机构、来访者和流动机械师组成的技术扩散网络；限制单一发明者叙事 | 不延伸为公共教育或职业制度史 | B级原文；与Hounshell存在来源依赖，不能单独算独立复核路线 |
++| G1989 | “Simeon North, John Hall, and Mechanized Manufacturing” | 全文已精读 | `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\_paper2.md`；同目录PDF | pp. 179–188；实物与互换性重点pp. 182–188 | 1.3、1.4、1.5 | 独立实物研究；以两支M1819步枪的互换测试、尺寸测量和加工痕迹核验生产方法 | 不承担Hall—Bomford行政纠错细节 | B级原文；形成独立互检并修正机器决定论 |
+ | B0206 | *The Lever of Riches* | 原文、深度报告未读；增强报告已读 | `D:\Design-history\00-book\Joel Mokyr：《The lever of riches - technological creativity and economic progress (1990)》.md` | 未核；增强报告“高精度机床”“宏观／微观发明” | 1.2、1.3、1.5 | 技术变化与渐进改良的解释框架 | 不承担具体案例事实 | C级背景线索 |
+@@
+-该对象在B0186第1章pp. 38–43形成“提出—外化—传递—执行—检验—修正”的连续链，证据由C级升为B级。它可以让中心机制生死门暂时通过，但仍有三项限制：
++该对象在B0186第1章pp. 38–43形成“提出—外化—传递—执行—检验—修正”的连续链，证据由C级升为B级。S1973补入人员与机床扩散网络，G1989以同型实物的互换测试、尺寸测量和加工痕迹提供独立核验。中心机制生死门继续暂时通过，但仍有三项限制：
+@@
+-- 当前项目报告中没有第二项与该对象独立、且能直接互检的来源；
++- G1989能够独立核验互换结果和实际加工方法，但不能独立证实“误发生产枪—补发正确模型与量规”的行政纠错细节；
+@@
+ 上述页段只服务于既定小节问题。B0186中1914年后的Ford、市场样式更新与第二章公共审美问题暂不回溯。
++
++### 定向回查结果 02
++
++| 文献 | 原文位置 | 核验结果 | 对既有叙述的影响 |
++|---|---|---|---|
++| S1973 | pp. 578–591 | Hall的机床体系不是孤立发明；North、Carrington、Ordnance Department、Nathaniel French等来访者、机构和流动机械师共同构成技术传递网络 | 保留“跨组织传递”，撤销将扩散归因于Hall单人设计输出的写法 |
++| G1989 | pp. 182–185 | 1832年North步枪与1838年Harpers Ferry步枪的后膛块可以互换，但操作顺畅度下降；关键尺寸差异可测 | 独立支持两地产品达到实际互换，同时把“互换”写成有程度差异的结果 |
++| G1989 | pp. 185–188 | 两支步枪只有少数表面留下铣削痕迹；达到量规尺寸的关键表面主要由熟练工手工锉削完成 | 机器负责减少粗重去料，量规与高水平手工判断共同形成精度；不得写成机器消灭技能 |
++
++两篇文章可以进入正文取证，但其证据身份不同：S1973与Hounshell有明显文献继承关系；G1989的实物检验路线具有实质独立性。两者均不是A级一手档案。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:07:08Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-> 状态：第一轮定向原文核验完成，G1-A形成B级连续链  
++> 状态：第二轮定向原文核验完成，G1-A形成B级连续链，G1-B形成B级关联互证  
+@@
+-| 外化 | 决定如何进入图样、模型、样品、规格或语言 | Hounshell, pp. 40–42；项目原文行802–808 | “既定模型”、专用机床、夹具及工作／检验／母量规把互换目标转成可传递、可检查的生产基准 | 原文未给尺寸图或逐项公差表；不能把量规等同于全部产品设计 | B | 已核 |
+-| 传递 | 媒介如何到达其他工序、劳动者或地点 | Hounshell, pp. 42–43；项目原文行812–814 | Hall体系向Simeon North承包体系转移；错误的生产样枪与后来补发的正确模型、量规显示了具体传递媒介 | 尚未直接读取Bomford—Hall—North原始通信 | B | 已核 |
+-| 执行 | 生产现场怎样理解和实施 | Hounshell, pp. 40–43；项目原文行802–814 | Hall以专用机床、夹具和量规制造；North在得到正确模型与量规后，与Harpers Ferry于1834年实现部件互换 | 未提供逐个工人的操作记录；现场默会调整仍不可见 | B | 已核 |
+-| 检验 | 谁以什么标准判断结果 | Hounshell, pp. 41–43；项目原文行806、812 | 工作、检验、母量规构成分层核验；Hall明确把不能与Harpers Ferry产品互换的承包商武器视为应被拒收 | 拒收在此为Hall提出的后果，不是已发生的整批拒收统计 | B | 已核，须保留措辞边界 |
++| 外化 | 决定如何进入图样、模型、样品、规格或语言 | Hounshell, pp. 40–42；Gordon (1989), pp. 183–188 | “既定模型”、夹具和量规把互换目标转成可检查基准；实物痕迹说明机器只承担部分粗加工，量规尺寸仍依赖熟练锉削 | 原文未给逐项公差表；不能把量规等同于全部产品设计，也不能写成机器直接产生最终精度 | B | 已独立互检并修正解释 |
++| 传递 | 媒介如何到达其他工序、劳动者或地点 | Hounshell, pp. 42–43；Smith (1973), pp. 582–591 | 除模型和量规外，军械署、工场来访、Carrington及Nathaniel French等流动机械师共同传递生产知识 | “误发生产枪—补发模型与量规”细节仍未获独立材料复核；Smith与Hounshell存在来源继承 | B | 传递网络已核，纠错细节待A源 |
++| 执行 | 生产现场怎样理解和实施 | Hounshell, pp. 40–43；Gordon (1989), pp. 182–188 | North与Harpers Ferry产品达到实际互换；生产现场以机器粗加工，再由熟练工借助锉刀、量规和锉削夹具达到关键尺寸 | 无逐个工人姓名与操作日志；不能写成判断被机床完全取代 | B | 已获独立实物核验 |
++| 检验 | 谁以什么标准判断结果 | Hounshell, pp. 41–43；Gordon (1989), pp. 183–185 | 工作、检验和母量规构成分层核验；两支异地生产的M1819步枪可交换后膛块并保持功能，但操作顺畅度有所下降 | 拒收仍是标准／风险而非整批拒收统计；两件实物不能代表全部批次 | B | 已获独立实物核验，须保留样本边界 |
+@@
+-**当前判定：B级暂时通过。** `CAND-G1A-01`已收缩为“Hall后装步枪生产体系向Simeon North承包体系的转移（1819—1834）”。六个环节属于同一产品体系和直接相连的政府—军械库—承包商关系；错误传递与补发正确模型、量规构成修正节点。该链足以保留“权限重新分配”为中心机制，但不能替代独立来源核验，也不自动使主锚点冻结或正文解锁。
++**当前判定：B级暂时通过。** `CAND-G1A-01`已收缩为“Hall后装步枪生产体系向Simeon North承包体系的转移（1819—1834）”。Gordon以两支同型实物独立核验互换结果和生产痕迹，并迫使本章把执行机制改写为“机器粗加工—量规控制—熟练锉削”。但行政纠错节点仍主要依赖Hounshell，尚未升为A级；该链不自动使主锚点冻结或正文解锁。
+@@
+-| 实物或生产痕迹 | 对象中留下了什么工序、误差、修正或使用痕迹 | 待填 | 待填 | 待填 | 待填 | 待填 | 缺 |
+-| 制度／企业材料 | 组织怎样规定岗位、媒介、质量或权利 | 待填 | 待填 | 待填 | 待填 | 待填 | 缺 |
+-| 工人、订单、维修、使用或外部记录 | 实际执行、反馈或外部观察怎样修正制度自述 | 待填 | 待填 | 待填 | 待填 | 待填 | 缺 |
++| 实物或生产痕迹 | 对象中留下了什么工序、误差、修正或使用痕迹 | Gordon (1989), pp. 182–188：1832年North与1838年Harpers Ferry两支M1819步枪的拆检、互换测试、尺寸测量与刀痕分析 | 同型号、同一互换目标，分别由North与Harpers Ferry生产 | 两支枪可交换后膛块；关键表面多为手工锉削，少数内腔有铣削痕迹 | 不能外推至全部批次，不能证明每名工人的操作 | 存世优品可能高估一般生产水平 | 已核 |
++| 制度／企业材料 | 组织怎样规定岗位、媒介、质量或权利 | Hounshell (1984), pp. 38–43；Smith (1973), pp. 578–584：合同、Carrington报告、Hall体系和军械署扩散关系的研究性转述 | 均直接指向M1819、Harpers Ferry、North合同与互换目标 | 政府合同和组织媒介使跨地点互换成为明确生产目标 | 尚未直接读1827报告、1828合同与Hall—Bomford通信 | 管理者与军械署记录高度可见 | B级已核，待A源 |
++| 工人、订单、维修、使用或外部记录 | 实际执行、反馈或外部观察怎样修正制度自述 | Smith (1973), pp. 584–591：工资表、通信及Nathaniel French等流动机械师；Gordon (1989), pp. 185–188：实物刀痕对机器能力的反证 | 机械师在Hall、North和Springfield之间流动；刀痕显示知识由现场手工执行完成 | 技术传播依赖人员迁移，最终精度依赖未被制度自述充分记录的熟练劳动 | 不能恢复多数匿名工人的具体决定，也不能证明每条人员路线 | 管理档案保存姓名不均，实物不保存劳动者身份 | 已核 |
+@@
+-**当前判定：未通过。**
+-
+-当前不能把B0186深度报告与其增强报告作为G1-B的两个独立支点，因为二者依赖同一原书和同一报告链。印花棉布的增强报告链同样不能单独构成三角互证。
++**当前判定：B级条件通过。**
++
++Gordon的工业考古材料与Hounshell／Smith的文献研究在材料类型、形成目的和核心观察上具有实质差异，能够互检“互换结果”和“实际加工方法”。Smith提供人员迁移与扩散网络，但Hounshell明显继承其研究，因此二者不能算两条完全独立路线。G1-B通过不等于取得A级档案，也不替代对照锚点和区域路径。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:07:27Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+ | 2026-07-30 | 部分候选，未通过 | 未通过 | III或IV待证 | 暂不冻结 | 正文锁定 | 已完成报告级初筛；须回查原文 |
+ | 2026-07-30 | B级连续链暂时通过 | 未通过 | III | 保留中心机制，进入主锚点与对照锚点核定 | 正文仍锁定 | 已定向读取B0186 pp. 38–43；待独立来源、对照锚点和区域路径 |
++| 2026-07-31 | B级连续链经实物研究修正后继续通过 | B级条件通过 | III | 保留中心机制；明确机器、量规与熟练劳动共同作用 | 正文仍锁定 | 已全文核验Smith 1973与Gordon 1989；仍待A级档案、对照锚点和区域路径 |
+@@
+-| Hall—North后装步枪互换性制造 | 已形成B级G1-A | 中 | 同一产品体系中具有既定模型、三类量规、夹具、跨组织传递、检验与纠错 | 缺独立来源和A级原始材料；工人实际操作仍弱 | 主锚点首选，暂不冻结 |
++| Hall—North后装步枪互换性制造 | 已形成B级G1-A | B级条件通过 | 同一产品体系中具有模型、量规、跨组织传递与检验；Gordon提供异地同型实物的互换测试和加工痕迹 | 行政纠错细节缺独立复核和A级原始材料；实物样本仅两件 | 主锚点首选，暂不冻结 |
+@@
+-**判定：** 当前三个报告目录中尚未找到能够与B0186组成G1-B的独立同对象来源。G1-B继续判定未通过，不能用多份同源报告凑成三角互证。
++**补充结果（2026-07-31）：** 项目新增Smith 1973与Gordon 1989原文。Smith与Hounshell存在明显来源继承，不能作为完全独立路线；Gordon通过1987年对两支M1819步枪的拆检、互换测试、尺寸测量和刀痕分析形成独立材料路线。由此，Hall—North案例的G1-B升为B级条件通过，但“误发生产枪—补发正确模型与量规”的修正节点仍待Hall—Bomford通信、1827年报告或1828年合同等A级材料。
+@@
+-| 待填 | 待填 | 待填 | 待核 | 待核 | 待核 | 待核 | 待核 | 待核 | 未通过 |
++| 两地M1819产品达到实际互换，但最终精度不是机床单独造成 | Hounshell (1984), pp. 38–43 | Gordon (1989), pp. 182–188 | 是 | 是 | 是：文献综合／实物拆检 | 是 | Gordon的实物观察不依赖Hounshell叙述 | 是；Gordon支持互换结果并修正其加工解释 | B级通过 |
++| Hall体系经模型、量规、机构和人员向North扩散 | Hounshell (1984), pp. 42–43 | Smith (1973), pp. 582–591 | 否：共享军械署与军械库档案体系 | 否：Hounshell明确继承Smith研究 | 部分不同 | 部分不同 | 否 | 可补充细节，不能构成完全独立双源 | 不计独立通过 |
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:07:55Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+ ### E-B003　错误传递、检验风险与Hall—North链的修正
+@@
+ - 当前等级：B；升A条件为回查Hall致Bomford通信和North合同执行材料；
+ - 对应提纲：1.3、1.5。
++
++### E-B004　机床知识通过机构与流动机械师扩散
++
++- 来源身份：同行评议技术史论文；
++- 规范书目：Merritt Roe Smith, “John H. Hall, Simeon North, and the Milling Machine: The Nature of Innovation among Antebellum Arms Makers,” *Technology and Culture* 14, no. 4 (1973): 573–591；
++- 原文路径：`D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\_paper1.md`；同目录保存PDF；
++- 精确页码／位置：pp. 578–591，重点为Hall体系与Carrington报告pp. 578–584、Nathaniel French等流动机械师pp. 584–587、综合结论pp. 589–591；
++- 读取状态：全文已读，并按1.2、1.3、1.5定向复核；
++- 内容准确转述：North、Hall与Springfield的铣削技术通过军械署开放的规格和图样、工场来访、调查人员及流动机械师反复传递；Nathaniel French先后在Hall、North与Springfield工作，体现技术知识由人员携带；
++- 可观察事实：Smith引用Carrington报告、军械库工资表、通信及机械师回忆，辨认出若干跨工场人员与机器传播节点；
++- 证据功能：修正“单一发明者—单向技术输出”的叙述，支持1.3的多媒介传递和1.5的被遮蔽行动者；
++- 对应权限：军械署控制规格与设施开放，工场主持者组织采用，机械师在实际建造和调整中拥有不可忽略的解释与修改能力；
++- 不能支持的判断：不能证明所有机床均由Hall设计，也不能单独核实Hounshell所写的错误样枪与补发量规细节；
++- 与其他材料的依赖关系：Hounshell明显利用Smith研究，本条不能与Hounshell计为两个完全独立来源；
++- 竞争性解释：技术传播既可能是制度性授权，也可能是人员迁移造成的非正式扩散，正文应并置；
++- 当前等级：B；
++- 升档条件：回查Smith脚注所指工资表、通信和Carrington报告原件；
++- 对应提纲：1.2、1.3、1.5。
++
++### E-B005　M1819实物互换测试与手工锉削痕迹
++
++- 来源身份：同行评议技术史论文；工业考古与实物测量研究；
++- 规范书目：Robert B. Gordon, “Simeon North, John Hall, and Mechanized Manufacturing,” *Technology and Culture* 30, no. 1 (1989): 179–188；
++- 原文路径：`D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\_paper2.md`；同目录保存PDF；
++- 精确页码／位置：历史背景pp. 179–182；实物、互换与尺寸测量pp. 182–185；加工痕迹与解释pp. 185–188；
++- 读取状态：全文已读；
++- 内容准确转述：Gordon在1987年拆检Springfield Armory Museum收藏的一支1838年Harpers Ferry M1819步枪和一支1832年North M1819步枪；两者交换后膛块后仍能工作，但顺畅度下降。除少数内表面外，关键配合面保留手工锉削痕迹，说明机床主要粗加工，熟练工借助量规和锉削夹具完成最终尺寸；
++- 可观察事实：后膛块与枪管间隙分别为0.009英寸和0.006英寸；其余十项关键尺寸平均差异为0.0027英寸；同批实物只构成两件样本；
++- 证据功能：独立核验两地产品的实际互换程度；直接修正机器决定论，并把匿名熟练工的判断重新放回生产链；
++- 对应权限：Hall与North体系规定目标和量规，现场工人通过锉削决定关键配合面的最终尺寸，检验者以互换和功能判断结果；
++- 不能支持的判断：不能由两件保存良好的枪推断全部批次质量；不能证明机器不重要，也不能核实行政纠错的全部步骤；
++- 来源位置与保存偏差：馆藏实物可能偏向保存状态较好或较具代表性的产品，且刀痕不能恢复工人姓名；
++- 与其他材料的依赖关系：背景部分引用Smith等研究，但互换实验、尺寸测量和刀痕观察为Gordon独立取得，能够与Hounshell互检；
++- 竞争性解释：互换性来自机器、量规与手工技能的组合，而非机器或手工任何一方单独造成；
++- 当前等级：B；
++- 升档条件：取得藏品登录号、完整测量记录及更多同批次样本；A级仍需合同、检验记录或原始通信；
++- 对应提纲：1.3、1.4、1.5。
+ 
+ ### E-C001　Roswell Lee、互换性目标与军械库—承包商关系
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:08:05Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-已按提纲问题定向回查B0186第1章pp. 33–45，没有通读全书。结果如下：
++已按提纲问题定向回查B0186第1章pp. 33–45，并全文核验S1973与G1989。结果如下：
+@@
+-- G1-A达到B级暂时通过，G1-B仍未通过。
++- G1-A继续达到B级暂时通过；G1-B因Gordon的独立实物路线达到B级条件通过；
++- Hall—North案例的核心写法已从“机器产生互换精度”修正为“机器粗加工、量规控制与熟练锉削共同实现互换”；
++- Hounshell所述行政纠错细节尚未被Smith或Gordon独立证实。
+@@
+-1. 寻找能够独立复核Hall—North链的来源，优先Hall—Bomford通信、1827年调查报告、North合同或可靠影印本；
++1. 不再继续增加Hall—North二手研究；只追索一项能核实合同、标准传递或行政纠错的A级材料；
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:08:19Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md`**
+
+```diff
+@@
+ 下一轮优先补充Hall—North链的独立来源；若项目内没有，再核定对照锚点，并继续保持正文锁定。
++
++---
++
++## 证据核验记录 03：Smith 1973与Gordon 1989补充原文
++
++### 回查范围
++
++- Merritt Roe Smith, “John H. Hall, Simeon North, and the Milling Machine,” *Technology and Culture* 14, no. 4 (1973): 573–591；
++- Robert B. Gordon, “Simeon North, John Hall, and Mechanized Manufacturing,” *Technology and Culture* 30, no. 1 (1989): 179–188；
++- 项目内Markdown转写与同目录PDF均已保存；
++- 两篇短文均已全文读取，未读取本轮排除的文献研究库。
++
++### 实质结果
++
++Smith重建了North、Hall、军械署、Carrington、Nathaniel French及Springfield之间的人员—机构—机床扩散网络，支持技术传递不是单一发明者的线性输出。但Hounshell明显继承Smith的研究，因此二者不能作为两条完全独立的来源。
++
++Gordon通过两支M1819步枪的拆检、后膛块互换测试、十一项关键尺寸测量和加工痕迹分析，形成与Hounshell不同的实物证据路线。其结果一方面支持North与Harpers Ferry产品确实达到实际互换，另一方面证明关键配合面主要以手工锉削达到量规尺寸。第一章不得再把互换精度归因于机床单独作用。
++
++### 修正后的机制表达
++
++```text
++机器承担粗加工并减少重体力去料
++→量规和夹具规定可检验的尺寸关系
++→熟练工通过锉削解释材料状态并达到最终尺寸
++→异地产品接受互换与功能检验
++```
++
++### 裁定
++
++```text
++G1-A：B级暂时通过
++G1-B：B级条件通过
++活动层级：III（组织化形式决定）
++机器决定论表述：撤销
++熟练劳动的实际判断：已由实物痕迹补强
++A级原始材料：仍缺
++对照锚点：未确定
++区域路径：未判定
++正文解锁：仍不通过
++```
++
++下一步停止增加Hall—North二手书目，只追索一项能够核实合同、标准传递或行政纠错的A级材料；同时进入对照锚点和区域路径核定。
+```
+
+
+```
+apply_patch verification failed: Failed to find expected lines in D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md:
+下一轮优先补充Hall—North链的独立来源；若项目内没有，再核定对照锚点，并继续保持正文锁定。
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:08:23Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"Get-Content -LiteralPath 'D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\05-审校记录.md' -Encoding UTF
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:08:40Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md`**
+
+```diff
+@@
+-不再重写抽象框架。下一轮优先补充Hall—North链的独立来源；若项目内没有，再核定对照锚点，并继续保持正文锁定。
++不再重写抽象框架。下一轮优先补充Hall—North链的独立来源；若项目内没有，再核定对照锚点，并继续保持正文锁定。
++
++---
++
++## 证据核验记录 03：Smith 1973与Gordon 1989补充原文
++
++### 回查范围
++
++- Merritt Roe Smith, “John H. Hall, Simeon North, and the Milling Machine,” *Technology and Culture* 14, no. 4 (1973): 573–591；
++- Robert B. Gordon, “Simeon North, John Hall, and Mechanized Manufacturing,” *Technology and Culture* 30, no. 1 (1989): 179–188；
++- 项目内Markdown转写与同目录PDF均已保存；
++- 两篇短文均已全文读取，未读取本轮排除的文献研究库。
++
++### 实质结果
++
++Smith重建了North、Hall、军械署、Carrington、Nathaniel French及Springfield之间的人员—机构—机床扩散网络，支持技术传递不是单一发明者的线性输出。但Hounshell明显继承Smith的研究，因此二者不能作为两条完全独立的来源。
++
++Gordon通过两支M1819步枪的拆检、后膛块互换测试、十一项关键尺寸测量和加工痕迹分析，形成与Hounshell不同的实物证据路线。其结果一方面支持North与Harpers Ferry产品确实达到实际互换，另一方面证明关键配合面主要以手工锉削达到量规尺寸。第一章不得再把互换精度归因于机床单独作用。
++
++### 修正后的机制表达
++
++```text
++机器承担粗加工并减少重体力去料
++→量规和夹具规定可检验的尺寸关系
++→熟练工通过锉削解释材料状态并达到最终尺寸
++→异地产品接受互换与功能检验
++```
++
++### 裁定
++
++```text
++G1-A：B级暂时通过
++G1-B：B级条件通过
++活动层级：III（组织化形式决定）
++机器决定论表述：撤销
++熟练劳动的实际判断：已由实物痕迹补强
++A级原始材料：仍缺
++对照锚点：未确定
++区域路径：未判定
++正文解锁：仍不通过
++```
++
++下一步停止增加Hall—North二手书目，只追索一项能够核实合同、标准传递或行政纠错的A级材料；同时进入对照锚点和区域路径核定。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:08:47Z)**_
+
+文献已纳入第一章证据体系。目前不是“又多了两条参考文献”，而是发生了一项实质修订：Gordon使G1-B达到B级条件通过，同时把现场熟练劳动从原叙述的空白处恢复出来；不过Hall—Bomford行政纠错仍没有独立或A级材料。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:08:49Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"git diff --check; git diff --stat; git diff -- '07-textbook-writing/第01章-工业化劳动分工与设计的生成/01-本章文献映射.md' '07-textboo
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:08:58Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md`**
+
+```diff
+@@
+-> 状态：第二轮定向原文核验完成，Hall—North链已有独立实物研究互检  
++> 状态：第二轮定向原文核验完成，Hall—North链已有独立实物研究互检
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-> 状态：第二轮定向原文核验完成，G1-A形成B级连续链，G1-B形成B级关联互证  
++> 状态：第二轮定向原文核验完成，G1-A形成B级连续链，G1-B形成B级关联互证
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:09:05Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"git diff --check -- '07-textbook-writing/第01章-工业化劳动分工与设计的生成/01-本章文献映射.md' '07-textbook-writing/第01章-工业�
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:09:14Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"rg -n \"证据核验记录 03|定向回查结果 02|E-B004|E-B005|当前判定：B级条件通过\" 'D:\\Design-history-new\\07-textbook-writing\\第01章
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:09:28Z)**_
+
+两篇补充文献已全文核验并纳入第一章证据体系：
+
+- Smith 1973：补强机构、人员与机床知识的扩散网络，但与Hounshell存在来源继承，不作为完全独立路线。[文献映射](/D:/Design-history-new/07-textbook-writing/第01章-工业化劳动分工与设计的生成/01-本章文献映射.md:113)
+- Gordon 1989：以两支M1819步枪的互换测试、尺寸测量和加工痕迹形成独立实物路线。[证据记录](/D:/Design-history-new/07-textbook-writing/第01章-工业化劳动分工与设计的生成/02-证据与注释.md:255)
+
+当前裁定：
+
+```text
+G1-A：B级暂时通过
+G1-B：B级条件通过
+机器决定论：撤销
+正文：继续锁定
+```
+
+正文中的机制应写成：
+
+```text
+机器粗加工
+→量规与夹具控制基准
+→熟练工锉削达到最终尺寸
+→异地产品接受互换与功能检验
+```
+
+相关修改已同步至：
+
+- [01-本章文献映射.md](/D:/Design-history-new/07-textbook-writing/第01章-工业化劳动分工与设计的生成/01-本章文献映射.md:33)
+- [02-证据与注释.md](/D:/Design-history-new/07-textbook-writing/第01章-工业化劳动分工与设计的生成/02-证据与注释.md:237)
+- [05-审校记录.md](/D:/Design-history-new/07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:263)
+
+Hall—North二手研究已经够用。下一步只需补一项合同、标准传递或行政纠错的A级材料，然后转入对照锚点与区域路径核定。
+
+---
+
+_**User (2026-07-31 05:13:30Z)**_
+
+继续下一步
+
+
+---
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:13:38Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning source inspection and web search**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:13:40Z)**_
+
+我继续按已确定的顺序推进：先追索一项能直接核实Hall—North合同、标准传递或行政纠错的A级材料；若找到并能精确定位，就写入证据表。随后再核定一个单一机制对照锚点和区域路径，不再扩充Hall—North二手书目。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:13:41Z)**_
+
+<tool-use data-tool-type="task" data-tool-name="update_plan"><details>
+<summary>Tool use: **update_plan**</summary>
+**Agent task list:**
+- [⚡] 追索并核验一项Hall—North链A级原始材料
+- [ ] 把A级材料写入文献映射、证据表和审校记录
+- [ ] 按提纲门槛初筛对照锚点与区域路径
+- [ ] 复核正文解锁条件并给出下一裁定
+
+```
+Plan updated
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:13:49Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$base='D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成'; rg -n -C 4 \"对照锚点|区域路径|区域比较
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:13:56Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- response_length: `long`
+- search_query: `[map[q:site:govinfo.gov Hall rifle works Carrington report 1827 John Hall machinery] map[q:site:loc.gov "John H. Hall" rifle 1827 Carrington] map[q:"James Carrington" "Hall" rifle works 1827 report] map[q:"Report on the Petition of John H. Hall" Congress]]`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:14:04Z)**_
+
+已找到一个可直接下载、足以升级核心环节的官方来源：第24届国会文件收录了1827年Carrington委员会报告的正式摘录，并附军械署对Hall合同、报酬和制度安排的答复。现在要核定其正式题名、文号和页码，避免只凭后世转引升为A级。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:14:05Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- open: `[map[ref_id:turn8search14] map[ref_id:turn8search16] map[ref_id:turn8search13]]`
+- response_length: `long`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:14:13Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- open: `[map[lineno:1 ref_id:turn9view0] map[lineno:360 ref_id:turn9view0] map[lineno:600 ref_id:turn9view0]]`
+- response_length: `long`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:14:29Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning official PDF download**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:14:29Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Clarifying protocol for downloading files**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:14:32Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning official PDF download**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:14:32Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Clarifying protocol for downloading files**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:14:36Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$target = 'D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\补充文献\\U.S. House Report No. 375 - John H
+...
+```
+
+```
+Script running with cell ID 14
+Wall time 11.0 seconds
+Output:
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:14:49Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="wait"><details>
+<summary>Tool use: **wait**</summary>
+
+**Input:**
+
+- cell_id: `14`
+- max_tokens: `2000`
+- yield_time_ms: `30000`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:15:12Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$target = 'D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\补充文献\\U.S. House Report No. 375 - John H
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:15:20Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"curl.exe -L --fail --retry 2 --connect-timeout 20 --max-time 120 -o \"D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计
+...
+```
+
+```
+Script running with cell ID 16
+Wall time 11.0 seconds
+Output:
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:15:34Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="wait"><details>
+<summary>Tool use: **wait**</summary>
+
+**Input:**
+
+- cell_id: `16`
+- max_tokens: `3000`
+- yield_time_ms: `60000`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:15:46Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning PDF signature validation and extraction**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:15:46Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Mapping PDF pages to printed page numbers**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:15:56Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning PDF signature validation and extraction**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:15:56Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Mapping PDF pages to printed page numbers**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:15:57Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning PDF signature validation and extraction**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:15:57Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Mapping PDF pages to printed page numbers**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:15:58Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$p='D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\补充文献\\U.S. House Report No. 375 - John H. Hall 
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:16:10Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$p='D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\补充文献\\U.S. House Report No. 375 - John H. Hall 
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:16:21Z)**_
+
+A级材料已下载并校验为完整PDF。它能直接证明三点：互换性曾以100支枪的拆装混合进行现场检验；“既定模型”具有可检测偏差的约束作用；Hall的合同明确包含指导工人、监督制造和改进生产方法。它不能证明North收到错误样枪后再获补发量规，因此该纠错细节仍保持B级。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:16:48Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md`**
+
+```diff
+@@
+-> 状态：第二轮定向原文核验完成，Hall—North链已有独立实物研究互检
++> 状态：第三轮定向原文核验完成，Hall体系的模型、检验与合同环节已有A级官方文献
+@@
+ | S1973 | “John H. Hall, Simeon North, and the Milling Machine” | 全文已定向精读 | `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\_paper1.md`；同目录PDF | pp. 573–591；重点pp. 578–591 | 1.2、1.3、1.5 | 重建North—Hall—Springfield之间由机构、来访者和流动机械师组成的技术扩散网络；限制单一发明者叙事 | 不延伸为公共教育或职业制度史 | B级原文；与Hounshell存在来源依赖，不能单独算独立复核路线 |
+ | G1989 | “Simeon North, John Hall, and Mechanized Manufacturing” | 全文已精读 | `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\_paper2.md`；同目录PDF | pp. 179–188；实物与互换性重点pp. 182–188 | 1.3、1.4、1.5 | 独立实物研究；以两支M1819步枪的互换测试、尺寸测量和加工痕迹核验生产方法 | 不承担Hall—Bomford行政纠错细节 | B级原文；形成独立互检并修正机器决定论 |
++| A1836 | U.S. House Report No. 375, *John H. Hall* | 官方PDF全文已核；定向精读Document No. 4、军械署答复及合同附件 | `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\U.S. House Report No. 375 - John H. Hall (24th Congress, 1st Session, 1836).pdf` | 报告pp. 8–10：1827年Carrington委员会摘录；pp. 10–12：Bomford答复；pp. 13–15：1819、1827、1828年合同副本 | 1.2、1.3、1.5 | A级官方印本文献；核验100支枪互换试验、既定模型、检验权限、Hall指导工人与政府使用机器的合同关系 | 不承担第二章公共改革；Hall请愿中的自我评价不作中立事实 | A级；不能核实North错误样枪与补发量规细节 |
+@@
+-该对象在B0186第1章pp. 38–43形成“提出—外化—传递—执行—检验—修正”的连续链，证据由C级升为B级。S1973补入人员与机床扩散网络，G1989以同型实物的互换测试、尺寸测量和加工痕迹提供独立核验。中心机制生死门继续暂时通过，但仍有三项限制：
++该对象在B0186第1章pp. 38–43形成“提出—外化—传递—执行—检验—修正”的连续链。S1973补入人员与机床扩散网络，G1989以同型实物的互换测试、尺寸测量和加工痕迹提供独立核验，A1836则把Hall体系的既定模型、互换检验与合同权限提升为A级。中心机制生死门继续通过，但仍有两项限制：
+ 
+-- B0186是研究著作，不是Hall、Bomford或军械库原始档案；定稿前仍须将至少一个核心环节升为A级；
+ - G1989能够独立核验互换结果和实际加工方法，但不能独立证实“误发生产枪—补发正确模型与量规”的行政纠错细节；
+ - 对照锚点和区域路径尚未成立，因此不能据此解锁正文或正式冻结主锚点。
+@@
+ 两篇文章可以进入正文取证，但其证据身份不同：S1973与Hounshell有明显文献继承关系；G1989的实物检验路线具有实质独立性。两者均不是A级一手档案。
++
++### 定向回查结果 03
++
++| A级文献页段 | 可直接支持 | 使用边界 |
++|---|---|---|
++| House Report No. 375, pp. 8–10 | 1827年委员会让工人拆解、混合并重新装配100支1824年Hall步枪，随后逐件检验；报告还明确把偏离“既定模型”写成可被发现的偏差 | 这是委员会在Hall工场进行的检验，不是North工场检验；委员会措辞带有明显赞许倾向 |
++| pp. 9–10 | 既定模型使工人偏差可被检测，检验者据形式、尺寸和相对比例履行职责 | 证明模型—执行—检验关系，不证明机器独立制造最终精度 |
++| pp. 13–15 | 1819年合同要求Hall指导工人；1827与1828年合同授权政府使用Hall的专利及其他机器，并要求Hall监督制造、完善机器和改进生产方法 | 证明正式权限与产权安排，不证明现场实际完全服从合同 |
++| pp. 11–12 | 军械署把政府工场与私人军械厂成本并列，并明确提到North合同价格 | 只能证明North处于同一政府采购和比较框架，不能代替North的1828年合同原件 |
++
++规范书目：U.S. Congress, House, Committee on Military Affairs, *John H. Hall*, H. Rep. No. 375, 24th Cong., 1st sess., February 24, 1836, U.S. Serial Set 294。官方数字化来源：[GovInfo](https://www.govinfo.gov/content/pkg/SERIALSET-00294_00_00-027-0375-0000/pdf/SERIALSET-00294_00_00-027-0375-0000.pdf)。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:16:55Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating evidence table and grading**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:17:22Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-> 状态：第二轮定向原文核验完成，G1-A形成B级连续链，G1-B形成B级关联互证
++> 状态：第三轮定向原文核验完成，G1-A形成A级与B级混合连续链，G1-B形成B级关联互证
+@@
+-| 提出 | 谁提出何种形式或工艺可能性 | Hounshell, *From the American System to Mass Production* (1984), pp. 38–40；项目原文行792–800 | Hall提出让同类部件互换并以机器扩大生产的方案；War Department通过试验和合同决定是否实施 | 不能据此把Hall称为现代“设计师”，也不能证明工人意见 | B | 已核 |
+-| 外化 | 决定如何进入图样、模型、样品、规格或语言 | Hounshell, pp. 40–42；Gordon (1989), pp. 183–188 | “既定模型”、夹具和量规把互换目标转成可检查基准；实物痕迹说明机器只承担部分粗加工，量规尺寸仍依赖熟练锉削 | 原文未给逐项公差表；不能把量规等同于全部产品设计，也不能写成机器直接产生最终精度 | B | 已独立互检并修正解释 |
++| 提出 | 谁提出何种形式或工艺可能性 | House Report No. 375 (1836), pp. 13–15；Hounshell (1984), pp. 38–40 | 合同把Hall的计划／模型、机器使用权、指导工人与改进生产方法写入政府安排；War Department通过合同决定实施范围 | 不能据此把Hall称为现代“设计师”，也不能证明工人意见 | A+B | 正式权限已获A级核验 |
++| 外化 | 决定如何进入图样、模型、样品、规格或语言 | House Report No. 375, pp. 8–10；Hounshell, pp. 40–42；Gordon (1989), pp. 183–188 | 官方报告明确记录“既定模型”、形式、尺寸与相对比例的检验关系；实物痕迹说明机器只承担部分粗加工，量规尺寸仍依赖熟练锉削 | 未给逐项公差表；不能把模型或量规等同于全部产品设计，也不能写成机器直接产生最终精度 | A+B | 模型—检验关系已获A级核验 |
+@@
+-| 执行 | 生产现场怎样理解和实施 | Hounshell, pp. 40–43；Gordon (1989), pp. 182–188 | North与Harpers Ferry产品达到实际互换；生产现场以机器粗加工，再由熟练工借助锉刀、量规和锉削夹具达到关键尺寸 | 无逐个工人姓名与操作日志；不能写成判断被机床完全取代 | B | 已获独立实物核验 |
+-| 检验 | 谁以什么标准判断结果 | Hounshell, pp. 41–43；Gordon (1989), pp. 183–185 | 工作、检验和母量规构成分层核验；两支异地生产的M1819步枪可交换后膛块并保持功能，但操作顺畅度有所下降 | 拒收仍是标准／风险而非整批拒收统计；两件实物不能代表全部批次 | B | 已获独立实物核验，须保留样本边界 |
++| 执行 | 生产现场怎样理解和实施 | House Report No. 375, pp. 8–10、13–15；Hounshell, pp. 40–43；Gordon (1989), pp. 182–188 | 合同要求Hall指导工人、监督制造并改进方法；North与Harpers Ferry产品达到实际互换；实物显示机器粗加工后仍由熟练工借助锉刀、量规和锉削夹具达到关键尺寸 | 合同不能代表全部实际操作；无逐个工人日志，不能写成判断被机床完全取代 | A+B | 正式执行关系与实物结果已互检 |
++| 检验 | 谁以什么标准判断结果 | House Report No. 375, pp. 8–10；Hounshell, pp. 41–43；Gordon (1989), pp. 183–185 | 1827年委员会现场混合、重装并检查100支枪；既定模型使偏差可检测；两支异地M1819实物还能交换后膛块并保持功能 | 1827年测试只针对Hall产品；拒收仍是标准／风险而非整批拒收统计；Gordon样本仅两件 | A+B | Hall检验A级；跨厂互换B级 |
+@@
+-**当前判定：B级暂时通过。** `CAND-G1A-01`已收缩为“Hall后装步枪生产体系向Simeon North承包体系的转移（1819—1834）”。Gordon以两支同型实物独立核验互换结果和生产痕迹，并迫使本章把执行机制改写为“机器粗加工—量规控制—熟练锉削”。但行政纠错节点仍主要依赖Hounshell，尚未升为A级；该链不自动使主锚点冻结或正文解锁。
++**当前判定：A级与B级混合连续链通过。** `CAND-G1A-01`已收缩为“Hall后装步枪生产体系向Simeon North承包体系的转移（1819—1834）”。House Report No. 375把Hall体系的模型、正式权限和现场检验升为A级；Gordon以两支同型实物独立核验跨厂互换结果和生产痕迹，并迫使执行机制改写为“机器粗加工—量规控制—熟练锉削”。但Hall—North标准传递与行政纠错节点仍主要依赖B级研究，不能把整条链统称A级；对照锚点和区域路径未定，正文仍不解锁。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:17:41Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+ | 2026-07-30 | 部分候选，未通过 | 未通过 | III或IV待证 | 暂不冻结 | 正文锁定 | 已完成报告级初筛；须回查原文 |
+ | 2026-07-30 | B级连续链暂时通过 | 未通过 | III | 保留中心机制，进入主锚点与对照锚点核定 | 正文仍锁定 | 已定向读取B0186 pp. 38–43；待独立来源、对照锚点和区域路径 |
+ | 2026-07-31 | B级连续链经实物研究修正后继续通过 | B级条件通过 | III | 保留中心机制；明确机器、量规与熟练劳动共同作用 | 正文仍锁定 | 已全文核验Smith 1973与Gordon 1989；仍待A级档案、对照锚点和区域路径 |
++| 2026-07-31 | A级与B级混合连续链通过 | B级条件通过 | III | 保留中心机制；主锚点证据门槛通过 | 正文仍锁定 | House Report No. 375已核；转入对照锚点与区域路径核定 |
+@@
+-| Hall—North后装步枪互换性制造 | 已形成B级G1-A | B级条件通过 | 同一产品体系中具有模型、量规、跨组织传递与检验；Gordon提供异地同型实物的互换测试和加工痕迹 | 行政纠错细节缺独立复核和A级原始材料；实物样本仅两件 | 主锚点首选，暂不冻结 |
++| Hall—North后装步枪互换性制造 | A+B混合G1-A通过 | B级条件通过 | 官方报告核验模型、合同权限和100支枪检验；Gordon提供异地同型实物互换测试与加工痕迹 | North标准传递与行政纠错仍缺A级原件；Gordon样本仅两件 | 主锚点准入门槛通过，待与对照锚点共同冻结 |
+@@
+ | 两地M1819产品达到实际互换，但最终精度不是机床单独造成 | Hounshell (1984), pp. 38–43 | Gordon (1989), pp. 182–188 | 是 | 是 | 是：文献综合／实物拆检 | 是 | Gordon的实物观察不依赖Hounshell叙述 | 是；Gordon支持互换结果并修正其加工解释 | B级通过 |
+ | Hall体系经模型、量规、机构和人员向North扩散 | Hounshell (1984), pp. 42–43 | Smith (1973), pp. 582–591 | 否：共享军械署与军械库档案体系 | 否：Hounshell明确继承Smith研究 | 部分不同 | 部分不同 | 否 | 可补充细节，不能构成完全独立双源 | 不计独立通过 |
++| 既定模型使生产偏差可被发现，检验者据形式、尺寸和相对比例判断 | House Report No. 375 (1836), pp. 8–10 | Gordon (1989), pp. 182–188 | 是 | 是 | 是：官方报告／工业考古 | 是 | 是 | 是；制度自述与实物精度、刀痕相互限制 | A+B通过 |
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:18:02Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+ ## 六、原文与报告级证据记录
+ 
++### E-A001　既定模型、百枪互换检验与Hall合同权限
++
++- 来源身份：美国众议院军事事务委员会正式报告，附1827年Carrington委员会报告摘录、1836年军械署答复和三份合同副本；
++- 规范书目：U.S. Congress, House, Committee on Military Affairs, *John H. Hall*, H. Rep. No. 375, 24th Cong., 1st sess., February 24, 1836, U.S. Serial Set 294；
++- 官方来源：[GovInfo PDF](https://www.govinfo.gov/content/pkg/SERIALSET-00294_00_00-027-0375-0000/pdf/SERIALSET-00294_00_00-027-0375-0000.pdf)；
++- 原文路径：`D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\U.S. House Report No. 375 - John H. Hall (24th Congress, 1st Session, 1836).pdf`；
++- 文件校验：9,661,958 bytes；SHA-256 `E6EEE146AC11E796132AF43ECFE42CFD8EDA4D5C413F74A1A3B15B838EA8234C`；
++- 精确页码／位置：Document No. 4及Carrington委员会摘录pp. 8–10；Bomford答复pp. 10–12；1819、1827和1828年合同副本pp. 13–15；
++- 读取状态：官方PDF全文核对；与本章直接相关页段已精读；
++- 内容准确转述：1827年委员会要求将100支1824年Hall步枪拆解，把零部件混合后装到100个新枪托上，并在现场逐件检查；委员会认为偏离既定模型会被发现，检验者据形式、尺寸和相对比例履职。1819年合同要求Hall指导和指挥工人；1827、1828年合同授予政府使用Hall专利及其他机器的权利，并要求Hall监督制造、完善机器和改进生产方法；
++- 可观察事实：被检对象、数量、拆装程序、在场人员类型和判断标准均由同时代官方印本文献明确记录；
++- 证据功能：把G1-A的“提出—外化—执行—检验”核心环节提升为A级；证明模型不是观念性说明，而是与生产偏差检测及检验职责相连；
++- 对应权限：政府／军械署拥有合同批准、机器使用、资源配置和检验组织权限；Hall拥有指导工人、监督制造、完善机器和改进方法的正式权限；工人承担拆装与生产执行；
++- 对应归属／法律关系：Hall保有专利身份，合同向美国政府授予限定期限和数量范围内的机器使用权，并规定按枪支付或按节省额补偿；
++- 不能支持的判断：委员会报告具有为Hall请愿和补偿提供依据的形成目的，不能当作无立场观察；它未记录North收到错误生产枪后再获正确模型和量规，也不能证明合同中的正式权限在现场毫无偏差地实现；
++- 来源位置与保存偏差：官方材料突出Hall、委员会和军械署，工人的姓名、异议和个别修正基本不可见；
++- 与其他材料的依赖关系：作为1836年官方重印本，它是1827年报告的摘录而非原始手稿，但其形成时间、责任主体和公开出版链清楚；可与Gordon实物研究独立互检；
++- 竞争性解释：委员会把精度归因于Hall的机器和系统；Gordon的刀痕证据表明最终精度仍依赖熟练锉削。正文必须把两者并置；
++- 当前等级：A，用于文献所直接记录的合同、测试程序、模型和检验关系；
++- 仍需降级的环节：Hall—North标准传递和行政纠错保持B级；
++- 对应提纲：1.2、1.3、1.5。
++
+ ### E-B001　Hall互换目标、政府合同与生产约束
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:18:16Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-已按提纲问题定向回查B0186第1章pp. 33–45，并全文核验S1973与G1989。结果如下：
++已按提纲问题定向回查B0186第1章pp. 33–45，全文核验S1973与G1989，并核对House Report No. 375官方PDF。结果如下：
+@@
+-- G1-A继续达到B级暂时通过；G1-B因Gordon的独立实物路线达到B级条件通过；
++- G1-A达到A级与B级混合连续链通过；G1-B因Gordon的独立实物路线达到B级条件通过；
+ - Hall—North案例的核心写法已从“机器产生互换精度”修正为“机器粗加工、量规控制与熟练锉削共同实现互换”；
+ - Hounshell所述行政纠错细节尚未被Smith或Gordon独立证实。
++- House Report No. 375已把既定模型、百枪互换检验、Hall指导工人和政府使用机器的正式权限提升为A级；主锚点证据准入门槛通过。
+@@
+-1. 不再继续增加Hall—North二手研究；只追索一项能核实合同、标准传递或行政纠错的A级材料；
+-2. 核定一个只检验单一机制差异的对照锚点，不重复主链全部历史；
+-3. 对照锚点优先从“现场判断没有被量规体系同等集中”的生产关系中选择；
+-4. 区域材料作结果A或结果B判定；
+-5. 正文启动后，每写一个关键判断均回溯其对应原文页段，并严格归入1.1—1.6的既定问题。
++1. Hall—North主锚点停止扩充，行政纠错在未获新材料前保持B级措辞；
++2. 核定一个只检验单一机制差异的对照锚点，不重复主链全部历史；
++3. 对照锚点优先从“现场判断没有被量规体系同等集中”的生产关系中选择；
++4. 区域材料作结果A或结果B判定；
++5. 对照锚点和区域路径完成后复核正文解锁条件。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:18:31Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md`**
+
+```diff
+@@
+ 下一步停止增加Hall—North二手书目，只追索一项能够核实合同、标准传递或行政纠错的A级材料；同时进入对照锚点和区域路径核定。
++
++---
++
++## 证据核验记录 04：House Report No. 375官方文献
++
++### 文献身份
++
++U.S. Congress, House, Committee on Military Affairs, *John H. Hall*, H. Rep. No. 375, 24th Cong., 1st sess., February 24, 1836, U.S. Serial Set 294。项目已保存GovInfo官方PDF并完成文件校验。
++
++### 核验页段
++
++- pp. 8–10：1827年Carrington委员会报告摘录；
++- pp. 10–12：George Bomford代表军械署回答军事事务委员会问题；
++- pp. 13–15：1819、1827和1828年Hall合同副本。
++
++### 实质结果
++
++官方报告记录委员会让工人把100支1824年Hall步枪拆解、混合，再把零件装到100个新枪托上，并在现场逐件检查。报告同时明确，既定模型使工人偏差能够被发现，检验者据形式、尺寸与相对比例判断产品。
++
++合同材料则明确了正式权限：Hall负责指导工人、监督制造、完善机器和改进生产方法；美国政府通过合同取得在限定期限和产量内使用Hall机器的权利，并控制生产资源、合同和检验安排。
++
++该材料能够把“提出—外化—执行—检验”提升为A级，但不能证明Hounshell所写的“North收到错误生产枪—Hall警告—补发正确模型和量规”全过程。该修正节点继续保持B级。
++
++### 裁定
++
++```text
++G1-A：A级与B级混合连续链通过
++G1-B：B级条件通过
++Hall—North主锚点证据门槛：通过
++主锚点正式冻结：待对照锚点共同裁定
++行政纠错节点：B级
++正文解锁：仍不通过
++```
++
++下一步不再搜索Hall—North材料，直接进入对照锚点和区域路径核定。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:18:38Z)**_
+
+<tool-use data-tool-type="task" data-tool-name="update_plan"><details>
+<summary>Tool use: **update_plan**</summary>
+**Agent task list:**
+- [X] 追索并核验一项Hall—North链A级原始材料
+- [X] 把A级材料写入文献映射、证据表和审校记录
+- [⚡] 按提纲门槛初筛对照锚点与区域路径
+- [ ] 复核正文解锁条件并给出下一裁定
+
+```
+Plan updated
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:18:46Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$p='D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\02-证据与注释.md'; $q='D:\\Design-history-new\\07-
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:18:58Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"rg --files 'D:\\Design-history-new\\00-book' 'D:\\Design-history-new\\01-book-report' 'D:\\Design-history-new\\03-enhanced-report' | rg -i \"Wedgwood|pott
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:19:13Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$files=@('D:\\Design-history-new\\00-book\\Emmanuel Cooper??Ten Thousand Years of Pottery??2000.md','D:\\Design-history-new\\01-book-report\\0143 - Emmanu
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:19:21Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"Get-ChildItem -LiteralPath 'D:\\Design-history-new\\00-book' -File | Where-Object {$_.Name -match 'Emmanuel|Age of Manufactures|Ottoman Manufacturing|Gior
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:19:30Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$targets=@(); $targets += Get-ChildItem -LiteralPath 'D:\\Design-history-new\\00-book' -File | Where-Object {$_.Name -match 'Emmanuel|Age of Manufactures'
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:19:42Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$files=@(); $files += Get-ChildItem -LiteralPath 'D:\\Design-history-new\\00-book' -File | Where-Object {$_.Name -match 'Emmanuel|Age of Manufactures'}; $
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:20:01Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Identifying Frog Service error plate comparison**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:20:01Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Researching Frog Service plate details**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:20:03Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- response_length: `long`
+- search_query: `[map[q:site:collections.vam.ac.uk Wedgwood Frog Service plate 1774] map[q:site:metmuseum.org Wedgwood Frog Service plate] map[q:site:wedgwoodmuseum.org.uk Frog Service plate oak leaf border error] map[q:Wedgwood Frog Service wrong border plate Castle Acre Catherine Great]]`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:20:14Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- response_length: `medium`
+- search_query: `[map[q:site:collections.vam.ac.uk "Castle-Acre Castle" Wedgwood Frog Service] map[q:site:collections.vam.ac.uk "Frog Service" "oak-leaf border" Wedgwood] map[q:"Castle-Acre Castle" "Frog Service" plate accession] map[q:"Frog Service Plate" "Castle Acre" Wedgwood Museum accession]]`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:20:33Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Assessing PDF for candidate pairing**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:20:33Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Identifying NGV trial piece for contrast**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:20:39Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Assessing PDF for candidate pairing**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:20:39Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Identifying NGV trial piece for contrast**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:20:42Z)**_
+
+对照锚点的首选已收缩为一个具体对象群：1773—1774年Wedgwood“青蛙餐具”中的单件盘。它只检验一个差异——Hall体系以尺寸一致和部件互换为目标；青蛙餐具则以模制器形配合跨地点、分工化手绘，标准化与有意差异并存。接下来核对具体藏品身份和执行证据，不把整个Wedgwood企业史搬进第一章。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:20:42Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- open: `[map[ref_id:turn11search4] map[ref_id:turn11search0] map[ref_id:turn12search11]]`
+- response_length: `long`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:20:54Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"curl.exe -L --fail --connect-timeout 20 --max-time 60 -o \"D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:21:06Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$p='D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\补充文献\\Gaye Blake-Roberts - Wedgwood''s Landscap
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:21:13Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"Get-Content -LiteralPath \"D:\\Design-history-new\\07-textbook-writing\\第01章-工业化劳动分工与设计的生成\\补充文献\\Gaye Blake-Roberts
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:21:18Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Delete: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\Gaye Blake-Roberts - Wedgwood's Landscapes with Frogs.pdf`**
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+D D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\补充文献\Gaye Blake-Roberts - Wedgwood's Landscapes with Frogs.pdf
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:21:32Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Comparing regional source candidates**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:21:34Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command:"$raw=Get-ChildItem -LiteralPath 'D:\\Design-history-new\\00-book' -File | Where-Object {$_.Name -match 'Ottoman Manufacturing'} | Select-Object -First 1; 
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:22:59Z)**_
+
+我继续推进“锚点冻结”这一关：先补齐 Hall—North 主锚点的具体馆藏身份，再把 Wedgwood“青蛙餐具”作为对照锚点写入文献映射和证据表；随后判断区域比较应完整成立，还是按材料不对称降级。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:23:01Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- response_length: `long`
+- search_query: `[map[q:"1832" "Simeon North" "Springfield Armory Museum" rifle] map[q:site:nps.gov/spar "Hall" "Model 1819" rifle] map[q:site:museum.nps.gov Springfield Armory Hall rifle North] map[q:Springfield Armory National Historic Site collection Hall North rifle 1832 accession]]`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:23:09Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- open: `[map[ref_id:turn14search6]]`
+- response_length: `long`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:23:15Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- click: `[map[id:26 ref_id:turn15view0]]`
+- response_length: `long`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:23:23Z)**_
+
+主锚点的最后一个身份缺口已经补到官方馆藏层：NPS 明确记录 M1819 Hall 后装燧发步枪为 Springfield Armory NHS 藏品 `SPAR 952`。它不是 Gordon 拆检的那两支枪之一，因此我会把两者严格分工：`SPAR 952`负责对象身份，Gordon 的1832/1838样枪负责互换与手工修整证据，避免把不同实物偷换成同一件。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:23:26Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "rg -n \"主锚点|对照锚点|G1-B|E-B005|下一步|候选|青蛙|Wedgwood|Hall|SPAR\" \"07-textbook-writing/第01章-工业化劳动分工与设计的�
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:23:36Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$files = @(\n  '07-textbook-writing/第01章-工业化劳动分工与设计的生成/01-本章文献映射.md',\n  '07-textbook-writing/第01章-工业�
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:23:45Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "rg -n -A24 -B6 \"主锚点准入条件|对照锚点准入条件|主锚点候选|对照锚点候选\" \"07-textbook-writing/第01章-工业化劳动分工
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:23:52Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "rg -n -A20 -B3 \"准入\" \"07-textbook-writing/第01章-工业化劳动分工与设计的生成/02-证据与注释.md\"", workdir: "D:\\Design-history-n
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:24:00Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- open: `[map[ref_id:https://www.ngv.vic.gov.au/explore/collection/work/21579/] map[ref_id:https://historywm.com/file/historywm/e08-wedgwoods-landscapes-with-frogs-87995.pdf]]`
+- response_length: `long`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:24:08Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- response_length: `long`
+- search_query: `[map[q:Gaye Blake-Roberts "Wedgwood's Landscapes with Frogs"] map[q:"Landscapes with Frogs" Wedgwood Etruria Chelsea painters] map[q:site:historywm.com "Wedgwood's Landscapes with Frogs"]]`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:24:14Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- open: `[map[ref_id:turn18search0]]`
+- response_length: `long`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:24:18Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- click: `[map[id:16 ref_id:turn19view0]]`
+- response_length: `long`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:24:34Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning bibliography citation**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:24:34Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Adding and updating anchor entries and evidence**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:24:39Z)**_
+
+对照锚点也已达到可核定状态。NGV 的试制甜点盘（约1773，藏品号 `D7-1993`）提供具体对象与“缺少内边饰”的试制痕迹；Wedgwood Museum 馆员的生产说明则把 Etruria 制坯、Chelsea 彩绘及边饰／蛙徽／风景画的分工连成一条可复核关系。它只承担一个差异：Hall 体系以尺寸同一和部件互换为目标，而这套餐具把器形与任务标准化同逐件不同的手绘图景结合起来。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:25:57Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md`**
+
+```diff
+@@
+-> 状态：第三轮定向原文核验完成，Hall体系的模型、检验与合同环节已有A级官方文献
++> 状态：第四轮锚点核定完成；Hall—North主锚点与Wedgwood青蛙餐具对照锚点已有对象级来源
+@@
+ | B0143 | *Ten Thousand Years of Pottery* | 原文未读；深度报告已读 | `D:\Design-history\00-book\Emmanuel Cooper：《Ten Thousand Years of Pottery》，2000.md` | 未核；报告“Craft into Industry”入口62.2%，锚点66.1% | 1.4 | 陶瓷对照对象的背景候选 | 工艺美术改革留后续章节 | C级背景线索；不足以成链 |
++| NGV-D7-1993 | *Trial piece for Frog service, dessert dish* | NGV官方馆藏记录已核 | [National Gallery of Victoria馆藏页](https://www.ngv.vic.gov.au/explore/collection/work/21579/) | 对象说明及Artwork Details；藏品号D7-1993 | 1.3、1.4、1.5 | 约1773年青蛙餐具试制甜点盘的完整身份、材质、装饰与缺失内边饰 | 不由单件推断全部餐具生产质量；不展开宫廷消费史 | A级对象身份；“试制”解释按馆方谨慎措辞使用 |
++| BR-FROG | Gaye Blake-Roberts, “Wedgwood’s ‘Landscapes with Frogs’” | 馆员短文全文已核 | [History West Midlands文章及PDF](https://historywm.com/articles/wedgwoods-landscapes-with-frogs) | PDF p. 33，全文 | 1.2、1.3、1.4、1.5 | 核验Etruria制坯—Chelsea彩绘的跨地点流程，以及边饰、蛙徽、风景画的任务分工 | 不证明每件器物经历完全相同的检验；不替代工场账簿 | B级馆员研究；与NGV对象记录形成对象—生产互证 |
+@@
+-该对象在B0186第1章pp. 38–43形成“提出—外化—传递—执行—检验—修正”的连续链。S1973补入人员与机床扩散网络，G1989以同型实物的互换测试、尺寸测量和加工痕迹提供独立核验，A1836则把Hall体系的既定模型、互换检验与合同权限提升为A级。中心机制生死门继续通过，但仍有两项限制：
++该对象在B0186第1章pp. 38–43形成“提出—外化—传递—执行—检验—修正”的连续链。S1973补入人员与机床扩散网络，G1989以同型实物的互换测试、尺寸测量和加工痕迹提供独立核验，A1836则把Hall体系的既定模型、互换检验与合同权限提升为A级。NPS官方馆藏记录进一步提供M1819 Hall步枪的具体馆藏对象 `SPAR 952`。中心机制生死门继续通过，但必须保持对象分工：
+ 
+-- 对照锚点和区域路径尚未成立，因此不能据此解锁正文或正式冻结主锚点。
++- `SPAR 952`只承担类型、材质体系与现藏身份，不冒充Gordon拆检的1832年North枪和1838年Harpers Ferry枪；
++- Hall—North标准传递与行政纠错仍保持B级，不因取得馆藏身份而升档；
++- 对照锚点已核定，区域路径仍待结果A／B裁定。
+@@
+ 规范书目：U.S. Congress, House, Committee on Military Affairs, *John H. Hall*, H. Rep. No. 375, 24th Cong., 1st sess., February 24, 1836, U.S. Serial Set 294。官方数字化来源：[GovInfo](https://www.govinfo.gov/content/pkg/SERIALSET-00294_00_00-027-0375-0000/pdf/SERIALSET-00294_00_00-027-0375-0000.pdf)。
++
++### 定向回查结果 04
++
++| 来源 | 对象级核验结果 | 论证用途 | 使用边界 |
++|---|---|---|---|
++| National Park Service, Springfield Armory NHS, `SPAR 952` | U.S. Breech-loading Flintlock Rifle M1819 (Hall’s Patent)，.52口径，现藏Springfield Armory NHS | 补齐主锚点的具体类型与现藏来源 | 不是Gordon拆检两枪的已确认登记号，不得把三件实物合并叙述 |
++| National Gallery of Victoria, `D7-1993` | *Trial piece for Frog service, dessert dish*，约1773，creamware，5.6 × 29.2 × 21.5 cm；缺少两种内边饰之一，馆方据此判断可能为试制件 | 对照锚点的对象身份、执行差异与试制痕迹 | “试制”沿用馆方“thought to be”强度；不外推整套服务 |
++| Gaye Blake-Roberts, “Wedgwood’s ‘Landscapes with Frogs’” | Etruria制造Queen’s ware器坯，送往Chelsea彩绘；男女画工分别承担边饰、蛙徽或风景，约33名画工参与 | 证明标准器形、跨地点分工与逐件手绘差异同时存在 | 馆员研究而非工场账簿；人数和总件数只作该文所述，不与其他口径拼接 |
++
++主锚点与对照锚点由此共同核定。两者比较的唯一机制问题是：**生产协调是否以消除部件差异为目标，还是以稳定器形和任务接口为前提保留受控的视觉差异。** 不把枪械与陶瓷写成完整行业对称史。
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-> 状态：第三轮定向原文核验完成，G1-A形成A级与B级混合连续链，G1-B形成B级关联互证
++> 状态：第四轮锚点核定完成；Hall—North主锚点与Wedgwood青蛙餐具对照锚点通过准入，区域路径待裁定
+@@
+-- [ ] 已确定具体对象、时间范围、生产／流通地点和现藏来源；（对象、时间与生产地点已核，现藏实物／馆藏来源未核）
++- [x] 已确定具体对象、时间范围、生产／流通地点和现藏来源；（NPS以 `SPAR 952` 登记M1819 Hall步枪；Gordon拆检两枪的具体登记号仍未取得，二者不混同）
+@@
+-- [x] 通过G1-A或G1-B；（G1-A为B级暂时通过）
++- [x] 通过G1-A或G1-B；（G1-A为A级与B级混合连续链）
+@@
+-- [ ] 若承担跨区域关系，该关系由具体原料、商品、人员、样品或制度联系建立。
++- [x] 若承担跨区域关系，该关系由具体原料、商品、人员、样品或制度联系建立。（本主锚点不承担1.6跨区域比较，记为不适用）
+@@
+-`CAND-G1A-01`目前达到四项实质条件，但因现藏／实物身份和独立来源尚未核，不正式冻结为主锚点。
++`CAND-G1A-01`已达到主锚点准入门槛。正式对象写作采用“Hall M1819生产体系及其向North承包体系的转移”，并以 `SPAR 952` 补足现藏类型身份；Gordon拆检的1832年North枪与1838年Harpers Ferry枪只承担实物互换和加工痕迹证据，未取得登记号前不得与 `SPAR 952` 合并。
+@@
+-- [ ] 已确定具体对象及完整身份；
+-- [ ] 明确针对主锚点的哪一项关键机制形成差异；
+-- [ ] 有足以证明该差异的现场执行、检验、修正或权利材料；
+-- [ ] 不依赖名厂／企业家传记承担全部解释；
+-- [ ] 不要求复制主锚点的完整六环节；
+-- [ ] 选择理由来自证据完整度，不来自材料覆盖欲望。
++- [x] 已确定具体对象及完整身份；（NGV `D7-1993`，*Trial piece for Frog service, dessert dish*，约1773）
++- [x] 明确针对主锚点的哪一项关键机制形成差异；（部件尺寸同一／互换目标，对照器形与任务接口稳定之下保留逐件手绘差异）
++- [x] 有足以证明该差异的现场执行、检验、修正或权利材料；（Etruria制坯—Chelsea彩绘分工；试制盘缺少内边饰的对象痕迹）
++- [x] 不依赖名厂／企业家传记承担全部解释；（官方馆藏对象记录与Wedgwood Museum馆员生产研究互证）
++- [x] 不要求复制主锚点的完整六环节；（只检验“标准化是否必然消除差异”）
++- [x] 选择理由来自证据完整度，不来自材料覆盖欲望。
++
++**对照锚点判定：B级通过。** 对象冻结为“约1773年Wedgwood青蛙餐具试制甜点盘（NGV D7-1993）及其Etruria—Chelsea生产关系”。它只说明标准化的器坯、跨地点传递和分工化彩绘能够与受控的逐件差异并存，不证明画工拥有订单批准权，也不把缺失边饰直接写成正式拒收记录。
+@@
+ | Hall—North后装步枪互换性制造 | A+B混合G1-A通过 | B级条件通过 | 官方报告核验模型、合同权限和100支枪检验；Gordon提供异地同型实物互换测试与加工痕迹 | North标准传递与行政纠错仍缺A级原件；Gordon样本仅两件 | 主锚点准入门槛通过，待与对照锚点共同冻结 |
++| Wedgwood青蛙餐具试制甜点盘（NGV D7-1993） | 不承担G1-A | 对象—生产B级互证通过 | 具体试制对象、跨地点生产和任务分工均有来源；可检验标准化与受控差异并存 | 缺工场账簿和逐件检验记录；“试制”是馆方谨慎判断 | 对照锚点通过，只承担单一机制差异 |
+@@
+ ### E-B005　M1819实物互换测试与手工锉削痕迹
+@@
+ - 对应提纲：1.3、1.4、1.5。
++
++### E-A002　M1819 Hall步枪的官方馆藏身份
++
++- 来源身份：美国国家公园管理局官方馆藏记录；
++- 规范名称：National Park Service, Springfield Armory National Historic Site, *U.S. Breech-loading Flintlock Rifle M1819 (Hall’s Patent)*, .52 caliber, SPAR 952；
++- 在线位置：[NPS “Federal Armories”馆藏页](https://www.nps.gov/spar/learn/historyculture/federal-armories.htm)；
++- 读取状态：官方对象条目已核；
++- 可观察事实：NPS把一支M1819 Hall专利后装燧发步枪以 `SPAR 952` 登记并陈列于Springfield Armory NHS馆藏体系；
++- 证据功能：补齐主锚点的具体历史类型与现藏来源，使正文可以从一件可定位对象进入生产体系；
++- 不能支持的判断：该条目没有证明 `SPAR 952` 就是Gordon于1987年拆检的1832年North枪或1838年Harpers Ferry枪，也不提供加工测量数据；
++- 当前等级：A（对象身份与馆藏登记）；生产机制仍由E-A001、E-B001—E-B005承担；
++- 对应提纲：章首对象、1.3、1.4。
++
++### E-B006　青蛙餐具试制盘的跨地点分工与受控差异
++
++- 来源身份：官方馆藏对象记录＋Wedgwood Museum馆员短篇研究；
++- 对象：Wedgwood, *Trial piece for Frog service, dessert dish*, c. 1773, creamware, 5.6 × 29.2 × 21.5 cm, National Gallery of Victoria, D7-1993；
++- 对象位置：[NGV馆藏记录](https://www.ngv.vic.gov.au/explore/collection/work/21579/)；
++- 研究位置：Gaye Blake-Roberts, “Wedgwood’s ‘Landscapes with Frogs’,” *History West Midlands*, p. 33，[文章与全文PDF](https://historywm.com/articles/wedgwoods-landscapes-with-frogs)；
++- 读取状态：官方对象页与一页馆员文章全文已核；
++- 可观察事实：盘面以sepia和black绘制Orford Castle西景，具有葡萄藤外边饰和绿色蛙徽，但缺少餐具规范中的一种内边饰；NGV因此认为它可能是试制件；
++- 内容准确转述：Queen’s ware器坯在Etruria制造，再送往Chelsea彩绘；男女画工分别承担边饰、蛙徽或风景画等任务，风景中心逐件手绘；
++- 证据功能：作为对照锚点，证明工业化协调未必以消除一切差异为目标；器形和任务接口可以稳定，而图像内容仍逐件变化并依赖分工化手绘；
++- 对应权限：Wedgwood—Bentley体系组织订单、图像征集、地点传递和任务分配；画工拥有具体执行中的手工判断，但现有材料不能证明其拥有选择总图景、批准订单或最终验收的权限；
++- 不能支持的判断：缺失内边饰不是已证实的正式拒收记录；不能由一件试制盘推断952件全部经历同类偏差；不能把参与绘画直接等同于制度识别的设计职业；
++- 保存偏差：名厂、皇室订单和完整馆藏高度可见，普通订单、未署名画工及失败品保存不足；
++- 竞争性解释：差异既可解释为订单要求的逐件景观，也可能来自画工执行和试制过程；正文只使用“标准化与受控差异并存”的最低共同判断；
++- 当前等级：B；官方馆藏事实按A级对象记录使用，生产关系与解释按B级使用；
++- 对应提纲：1.3、1.4、1.5。
+@@
+-下一步不再扩写提纲，按以下顺序推进：
+-
+-1. Hall—North主锚点停止扩充，行政纠错在未获新材料前保持B级措辞；
+-2. 核定一个只检验单一机制差异的对照锚点，不重复主链全部历史；
+-3. 对照锚点优先从“现场判断没有被量规体系同等集中”的生产关系中选择；
+-4. 区域材料作结果A或结果B判定；
+-5. 对照锚点和区域路径完成后复核正文解锁条件。
++下一步不再扩写锚点材料，按以下顺序推进：
++
++1. Hall—North主锚点与Wedgwood对照锚点停止扩充；行政纠错保持B级，试制盘缺失边饰不写成正式拒收；
++2. 只对一个区域比较对做定向核验，并按结果A或结果B裁定；
++3. 区域核验完成后复核正文解锁条件；即使结果B，也允许按既定规则解锁1.1—1.5并降级1.6；
++4. 正文起草时回溯上述精确页段与官方对象记录，始终围绕六节提纲的问题链展开。
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md`**
+
+```diff
+@@
+ 下一步不再搜索Hall—North材料，直接进入对照锚点和区域路径核定。
++
++## 证据核验记录 05：主锚点对象身份与对照锚点核定
++
++### 新增对象级来源
++
++1. National Park Service, Springfield Armory National Historic Site, *U.S. Breech-loading Flintlock Rifle M1819 (Hall’s Patent)*, .52 caliber, `SPAR 952`；
++2. National Gallery of Victoria, Wedgwood, *Trial piece for Frog service, dessert dish*, c. 1773, creamware, `D7-1993`；
++3. Gaye Blake-Roberts, “Wedgwood’s ‘Landscapes with Frogs’,” *History West Midlands*, p. 33。
++
++### 主锚点身份补正
++
++NPS官方馆藏条目补齐了M1819 Hall步枪的具体馆藏身份。但 `SPAR 952` 没有被证实为Gordon于1987年拆检的1832年North枪或1838年Harpers Ferry枪。故三类材料分工如下：
++
++- `SPAR 952`：对象身份与现藏来源；
++- Gordon两枪：互换测试、尺寸和加工痕迹；
++- House Report No. 375：模型、合同权限与1827年百枪检验。
++
++不得把不同实物合写为一件。主锚点由此正式通过准入。
++
++### 对照锚点裁定
++
++对照锚点确定为：
++
++```text
++约1773年Wedgwood青蛙餐具试制甜点盘
++National Gallery of Victoria, D7-1993
++```
++
++NGV对象记录提供完整身份及缺少内边饰的试制痕迹；Blake-Roberts的馆员研究说明器坯在Etruria制造，再送往Chelsea，由男女画工分别承担边饰、蛙徽和风景等任务。
++
++该对象只检验一个机制差异：
++
++```text
++Hall体系：以部件尺寸同一和跨厂互换为协调目标
++Wedgwood体系：以稳定器形和任务接口容纳逐件不同的手绘图景
++```
++
++由此可证明标准化并不必然消除现场手工判断或所有产品差异。现有材料不能证明画工拥有订单批准权，也不能把缺少内边饰写成正式拒收。
++
++### 当前裁定
++
++```text
++G1-A：A级与B级混合连续链通过
++G1-B：B级条件通过
++主锚点：通过并冻结
++对照锚点：B级通过并冻结
++区域比较：待结果A／B裁定
++正文：继续锁定，等待区域路径裁定
++正式图像清单：继续暂缓
++```
++
++下一步只核定一个区域比较对，不再增加锚点书目。正文解锁后的写作必须回溯原文精确页段，并围绕六节提纲展开。
+```
+
+
+```
+apply_patch verification failed: Failed to find expected lines in D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md:
+该对象在B0186第1章pp. 38–43形成“提出—外化—传递—执行—检验—修正”的连续链。S1973补入人员与机床扩散网络，G1989以同型实物的互换测试、尺寸测量和加工痕迹提供独立核验，A1836则把Hall体系的既定模型、互换检验与合同权限提升为A级。中心机制生死门继续通过，但仍有两项限制：
+
+- 对照锚点和区域路径尚未成立，因此不能据此解锁正文或正式冻结主锚点。
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:26:04Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "rg -n -A12 -B3 \"该对象在B0186|中心机制生死门|对照锚点和区域路径\" \"07-textbook-writing/第01章-工业化劳动分工与设计的�
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:26:19Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md`**
+
+```diff
+@@
+-> 状态：第三轮定向原文核验完成，Hall体系的模型、检验与合同环节已有A级官方文献
++> 状态：第四轮锚点核定完成；Hall—North主锚点与Wedgwood青蛙餐具对照锚点已有对象级来源
+@@
+ | B0143 | *Ten Thousand Years of Pottery* | 原文未读；深度报告已读 | `D:\Design-history\00-book\Emmanuel Cooper：《Ten Thousand Years of Pottery》，2000.md` | 未核；报告“Craft into Industry”入口62.2%，锚点66.1% | 1.4 | 陶瓷对照对象的背景候选 | 工艺美术改革留后续章节 | C级背景线索；不足以成链 |
++| NGV-D7-1993 | *Trial piece for Frog service, dessert dish* | NGV官方馆藏记录已核 | [National Gallery of Victoria馆藏页](https://www.ngv.vic.gov.au/explore/collection/work/21579/) | 对象说明及Artwork Details；藏品号D7-1993 | 1.3、1.4、1.5 | 约1773年青蛙餐具试制甜点盘的完整身份、材质、装饰与缺失内边饰 | 不由单件推断全部餐具生产质量；不展开宫廷消费史 | A级对象身份；“试制”解释按馆方谨慎措辞使用 |
++| BR-FROG | Gaye Blake-Roberts, “Wedgwood’s ‘Landscapes with Frogs’” | 馆员短文全文已核 | [History West Midlands文章及PDF](https://historywm.com/articles/wedgwoods-landscapes-with-frogs) | PDF p. 33，全文 | 1.2、1.3、1.4、1.5 | 核验Etruria制坯—Chelsea彩绘的跨地点流程，以及边饰、蛙徽、风景画的任务分工 | 不证明每件器物经历完全相同的检验；不替代工场账簿 | B级馆员研究；与NGV对象记录形成对象—生产互证 |
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:26:39Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md`**
+
+```diff
+@@
+-该对象在B0186第1章pp. 38–43形成“提出—外化—传递—执行—检验—修正”的连续链。S1973补入人员与机床扩散网络，G1989以同型实物的互换测试、尺寸测量和加工痕迹提供独立核验，A1836则把Hall体系的既定模型、互换检验与合同权限提升为A级。中心机制生死门继续通过，但仍有两项限制：
++该对象在B0186第1章pp. 38–43形成“提出—外化—传递—执行—检验—修正”的连续链。S1973补入人员与机床扩散网络，G1989以同型实物的互换测试、尺寸测量和加工痕迹提供独立核验，A1836则把Hall体系的既定模型、互换检验与合同权限提升为A级。NPS官方馆藏记录进一步提供M1819 Hall步枪的具体馆藏对象 `SPAR 952`。中心机制生死门继续通过，但必须保持对象分工：
+ 
+ - G1989能够独立核验互换结果和实际加工方法，但不能独立证实“误发生产枪—补发正确模型与量规”的行政纠错细节；
+-- 对照锚点和区域路径尚未成立，因此不能据此解锁正文或正式冻结主锚点。
++- `SPAR 952`只承担类型、材质体系与现藏身份，不冒充Gordon拆检的1832年North枪和1838年Harpers Ferry枪；
++- 对照锚点已核定，区域路径仍待结果A／B裁定。
+@@
+ 规范书目：U.S. Congress, House, Committee on Military Affairs, *John H. Hall*, H. Rep. No. 375, 24th Cong., 1st sess., February 24, 1836, U.S. Serial Set 294。官方数字化来源：[GovInfo](https://www.govinfo.gov/content/pkg/SERIALSET-00294_00_00-027-0375-0000/pdf/SERIALSET-00294_00_00-027-0375-0000.pdf)。
++
++### 定向回查结果 04
++
++| 来源 | 对象级核验结果 | 论证用途 | 使用边界 |
++|---|---|---|---|
++| National Park Service, Springfield Armory NHS, `SPAR 952` | U.S. Breech-loading Flintlock Rifle M1819 (Hall’s Patent)，.52口径，现藏Springfield Armory NHS | 补齐主锚点的具体类型与现藏来源 | 不是Gordon拆检两枪的已确认登记号，不得把三件实物合并叙述 |
++| National Gallery of Victoria, `D7-1993` | *Trial piece for Frog service, dessert dish*，约1773，creamware，5.6 × 29.2 × 21.5 cm；缺少两种内边饰之一，馆方据此判断可能为试制件 | 对照锚点的对象身份、执行差异与试制痕迹 | “试制”沿用馆方“thought to be”强度；不外推整套服务 |
++| Gaye Blake-Roberts, “Wedgwood’s ‘Landscapes with Frogs’” | Etruria制造Queen’s ware器坯，送往Chelsea彩绘；男女画工分别承担边饰、蛙徽或风景，约33名画工参与 | 证明标准器形、跨地点分工与逐件手绘差异同时存在 | 馆员研究而非工场账簿；人数和总件数只作该文所述，不与其他口径拼接 |
++
++主锚点与对照锚点由此共同核定。两者比较的唯一机制问题是：**生产协调是否以消除部件差异为目标，还是以稳定器形和任务接口为前提保留受控的视觉差异。** 不把枪械与陶瓷写成完整行业对称史。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:27:00Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-> 状态：第三轮定向原文核验完成，G1-A形成A级与B级混合连续链，G1-B形成B级关联互证
++> 状态：第四轮锚点核定完成；Hall—North主锚点与Wedgwood青蛙餐具对照锚点通过准入，区域路径待裁定
+@@
+-- [ ] 已确定具体对象、时间范围、生产／流通地点和现藏来源；（对象、时间与生产地点已核，现藏实物／馆藏来源未核）
++- [x] 已确定具体对象、时间范围、生产／流通地点和现藏来源；（NPS以 `SPAR 952` 登记M1819 Hall步枪；Gordon拆检两枪的具体登记号仍未取得，二者不混同）
+@@
+-- [x] 通过G1-A或G1-B；（G1-A为B级暂时通过）
++- [x] 通过G1-A或G1-B；（G1-A为A级与B级混合连续链）
+@@
+-- [ ] 若承担跨区域关系，该关系由具体原料、商品、人员、样品或制度联系建立。
++- [x] 若承担跨区域关系，该关系由具体原料、商品、人员、样品或制度联系建立。（本主锚点不承担1.6跨区域比较，记为不适用）
+@@
+-`CAND-G1A-01`目前达到四项实质条件，但因现藏／实物身份和独立来源尚未核，不正式冻结为主锚点。
++`CAND-G1A-01`已达到主锚点准入门槛。正式对象写作采用“Hall M1819生产体系及其向North承包体系的转移”，并以 `SPAR 952` 补足现藏类型身份；Gordon拆检的1832年North枪与1838年Harpers Ferry枪只承担实物互换和加工痕迹证据，未取得登记号前不得与 `SPAR 952` 合并。
+@@
+-- [ ] 已确定具体对象及完整身份；
+-- [ ] 明确针对主锚点的哪一项关键机制形成差异；
+-- [ ] 有足以证明该差异的现场执行、检验、修正或权利材料；
+-- [ ] 不依赖名厂／企业家传记承担全部解释；
+-- [ ] 不要求复制主锚点的完整六环节；
+-- [ ] 选择理由来自证据完整度，不来自材料覆盖欲望。
++- [x] 已确定具体对象及完整身份；（NGV `D7-1993`，*Trial piece for Frog service, dessert dish*，约1773）
++- [x] 明确针对主锚点的哪一项关键机制形成差异；（部件尺寸同一／互换目标，对照器形与任务接口稳定之下保留逐件手绘差异）
++- [x] 有足以证明该差异的现场执行、检验、修正或权利材料；（Etruria制坯—Chelsea彩绘分工；试制盘缺少内边饰的对象痕迹）
++- [x] 不依赖名厂／企业家传记承担全部解释；（官方馆藏对象记录与Wedgwood Museum馆员生产研究互证）
++- [x] 不要求复制主锚点的完整六环节；（只检验“标准化是否必然消除差异”）
++- [x] 选择理由来自证据完整度，不来自材料覆盖欲望。
++
++**对照锚点判定：B级通过。** 对象冻结为“约1773年Wedgwood青蛙餐具试制甜点盘（NGV D7-1993）及其Etruria—Chelsea生产关系”。它只说明标准化的器坯、跨地点传递和分工化彩绘能够与受控的逐件差异并存，不证明画工拥有订单批准权，也不把缺失边饰直接写成正式拒收记录。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:27:10Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-| Hall—North后装步枪互换性制造 | A+B混合G1-A通过 | B级条件通过 | 官方报告核验模型、合同权限和100支枪检验；Gordon提供异地同型实物互换测试与加工痕迹 | North标准传递与行政纠错仍缺A级原件；Gordon样本仅两件 | 主锚点准入门槛通过，待与对照锚点共同冻结 |
++| Hall—North后装步枪互换性制造 | A+B混合G1-A通过 | B级条件通过 | 官方报告核验模型、合同权限和100支枪检验；Gordon提供异地同型实物互换测试与加工痕迹；NPS提供 `SPAR 952` 馆藏身份 | North标准传递与行政纠错仍缺A级原件；Gordon样本仅两件且登记号未取得 | 主锚点通过并冻结 |
++| Wedgwood青蛙餐具试制甜点盘（NGV D7-1993） | 不承担G1-A | 对象—生产B级互证通过 | 具体试制对象、跨地点生产和任务分工均有来源；可检验标准化与受控差异并存 | 缺工场账簿和逐件检验记录；“试制”是馆方谨慎判断 | 对照锚点通过，只承担单一机制差异 |
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:27:15Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "rg -n -A30 \"### E-B005\" \"07-textbook-writing/第01章-工业化劳动分工与设计的生成/02-证据与注释.md\"", workdir: "D:\\Design-history-n
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:27:37Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+ - 升档条件：取得藏品登录号、完整测量记录及更多同批次样本；A级仍需合同、检验记录或原始通信；
+ - 对应提纲：1.3、1.4、1.5。
+ 
++### E-A002　M1819 Hall步枪的官方馆藏身份
++
++- 来源身份：美国国家公园管理局官方馆藏记录；
++- 规范名称：National Park Service, Springfield Armory National Historic Site, *U.S. Breech-loading Flintlock Rifle M1819 (Hall’s Patent)*, .52 caliber, SPAR 952；
++- 在线位置：[NPS “Federal Armories”馆藏页](https://www.nps.gov/spar/learn/historyculture/federal-armories.htm)；
++- 读取状态：官方对象条目已核；
++- 可观察事实：NPS把一支M1819 Hall专利后装燧发步枪以 `SPAR 952` 登记并陈列于Springfield Armory NHS馆藏体系；
++- 证据功能：补齐主锚点的具体历史类型与现藏来源，使正文可以从一件可定位对象进入生产体系；
++- 不能支持的判断：该条目没有证明 `SPAR 952` 就是Gordon于1987年拆检的1832年North枪或1838年Harpers Ferry枪，也不提供加工测量数据；
++- 当前等级：A（对象身份与馆藏登记）；生产机制仍由E-A001、E-B001—E-B005承担；
++- 对应提纲：章首对象、1.3、1.4。
++
++### E-B006　青蛙餐具试制盘的跨地点分工与受控差异
++
++- 来源身份：官方馆藏对象记录＋Wedgwood Museum馆员短篇研究；
++- 对象：Wedgwood, *Trial piece for Frog service, dessert dish*, c. 1773, creamware, 5.6 × 29.2 × 21.5 cm, National Gallery of Victoria, D7-1993；
++- 对象位置：[NGV馆藏记录](https://www.ngv.vic.gov.au/explore/collection/work/21579/)；
++- 研究位置：Gaye Blake-Roberts, “Wedgwood’s ‘Landscapes with Frogs’,” *History West Midlands*, p. 33，[文章与全文PDF](https://historywm.com/articles/wedgwoods-landscapes-with-frogs)；
++- 读取状态：官方对象页与一页馆员文章全文已核；
++- 可观察事实：盘面以sepia和black绘制Orford Castle西景，具有葡萄藤外边饰和绿色蛙徽，但缺少餐具规范中的一种内边饰；NGV因此认为它可能是试制件；
++- 内容准确转述：Queen’s ware器坯在Etruria制造，再送往Chelsea彩绘；男女画工分别承担边饰、蛙徽或风景画等任务，风景中心逐件手绘；
++- 证据功能：作为对照锚点，证明工业化协调未必以消除一切差异为目标；器形和任务接口可以稳定，而图像内容仍逐件变化并依赖分工化手绘；
++- 对应权限：Wedgwood—Bentley体系组织订单、图像征集、地点传递和任务分配；画工拥有具体执行中的手工判断，但现有材料不能证明其拥有选择总图景、批准订单或最终验收的权限；
++- 不能支持的判断：缺失内边饰不是已证实的正式拒收记录；不能由一件试制盘推断952件全部经历同类偏差；不能把参与绘画直接等同于制度识别的设计职业；
++- 保存偏差：名厂、皇室订单和完整馆藏高度可见，普通订单、未署名画工及失败品保存不足；
++- 竞争性解释：差异既可解释为订单要求的逐件景观，也可能来自画工执行和试制过程；正文只使用“标准化与受控差异并存”的最低共同判断；
++- 当前等级：B；官方馆藏事实按A级对象记录使用，生产关系与解释按B级使用；
++- 对应提纲：1.3、1.4、1.5。
++
+ ### E-C001　Roswell Lee、互换性目标与军械库—承包商关系
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:27:46Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-下一步不再扩写提纲，按以下顺序推进：
+-
+-1. Hall—North主锚点停止扩充，行政纠错在未获新材料前保持B级措辞；
+-2. 核定一个只检验单一机制差异的对照锚点，不重复主链全部历史；
+-3. 对照锚点优先从“现场判断没有被量规体系同等集中”的生产关系中选择；
+-4. 区域材料作结果A或结果B判定；
+-5. 对照锚点和区域路径完成后复核正文解锁条件。
++下一步不再扩写锚点材料，按以下顺序推进：
++
++1. Hall—North主锚点与Wedgwood对照锚点停止扩充；行政纠错保持B级，试制盘缺失边饰不写成正式拒收；
++2. 只对一个区域比较对做定向核验，并按结果A或结果B裁定；
++3. 区域核验完成后复核正文解锁条件；即使结果B，也允许按既定规则解锁1.1—1.5并降级1.6；
++4. 正文起草时回溯上述精确页段与官方对象记录，始终围绕六节提纲的问题链展开。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:27:53Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "Get-Content -LiteralPath '07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md' -Encoding utf8 | Select-Object -Last 4
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:28:11Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md`**
+
+```diff
+@@
+ 下一步不再搜索Hall—North材料，直接进入对照锚点和区域路径核定。
++
++---
++
++## 证据核验记录 05：主锚点对象身份与对照锚点核定
++
++### 新增对象级来源
++
++1. National Park Service, Springfield Armory National Historic Site, *U.S. Breech-loading Flintlock Rifle M1819 (Hall’s Patent)*, .52 caliber, `SPAR 952`；
++2. National Gallery of Victoria, Wedgwood, *Trial piece for Frog service, dessert dish*, c. 1773, creamware, `D7-1993`；
++3. Gaye Blake-Roberts, “Wedgwood’s ‘Landscapes with Frogs’,” *History West Midlands*, p. 33。
++
++### 主锚点身份补正
++
++NPS官方馆藏条目补齐了M1819 Hall步枪的具体馆藏身份。但 `SPAR 952` 没有被证实为Gordon于1987年拆检的1832年North枪或1838年Harpers Ferry枪。故三类材料分工如下：
++
++- `SPAR 952`：对象身份与现藏来源；
++- Gordon两枪：互换测试、尺寸和加工痕迹；
++- House Report No. 375：模型、合同权限与1827年百枪检验。
++
++不得把不同实物合写为一件。主锚点由此正式通过准入。
++
++### 对照锚点裁定
++
++对照锚点确定为：
++
++```text
++约1773年Wedgwood青蛙餐具试制甜点盘
++National Gallery of Victoria, D7-1993
++```
++
++NGV对象记录提供完整身份及缺少内边饰的试制痕迹；Blake-Roberts的馆员研究说明器坯在Etruria制造，再送往Chelsea，由男女画工分别承担边饰、蛙徽和风景等任务。
++
++该对象只检验一个机制差异：
++
++```text
++Hall体系：以部件尺寸同一和跨厂互换为协调目标
++Wedgwood体系：以稳定器形和任务接口容纳逐件不同的手绘图景
++```
++
++由此可证明标准化并不必然消除现场手工判断或所有产品差异。现有材料不能证明画工拥有订单批准权，也不能把缺少内边饰写成正式拒收。
++
++### 当前裁定
++
++```text
++G1-A：A级与B级混合连续链通过
++G1-B：B级条件通过
++主锚点：通过并冻结
++对照锚点：B级通过并冻结
++区域比较：待结果A／B裁定
++正文：继续锁定，等待区域路径裁定
++正式图像清单：继续暂缓
++```
++
++下一步只核定一个区域比较对，不再增加锚点书目。正文解锁后的写作必须回溯原文精确页段，并围绕六节提纲展开。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:28:16Z)**_
+
+两组锚点现已冻结，正文仍只差“区域比较结果A／B”这一道程序门。我接下来只定向读取奥斯曼制造研究中与六个比较指标直接相关的章节，不通读整书；若英国一侧无法形成同指标证据，我会按既定规则把1.6降级，而不强造对称比较。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:28:17Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "rg --files | rg \"Ottoman Manufacturing|Quataert|Age of Manufactures|Riello|Cotton The Fabric\" ", workdir: "D:\\Design-history-new", timeout_ms: 10000})
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:28:30Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Diagnosing filename encoding issues**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:28:32Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$raw = Get-ChildItem -LiteralPath '00-book' -File | Where-Object { $_.Name -like '*Ottoman Manufacturing*' } | Select-Object -First 1\n$report = Get-Chil
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:28:50Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Selecting Britain-Ottoman comparison pair**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:28:50Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning targeted chapter section extraction**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:28:51Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Selecting Britain-Ottoman comparison pair**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:28:51Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning targeted chapter section extraction**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:28:55Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$f = (Get-ChildItem -LiteralPath '00-book' -File | Where-Object { $_.Name -like '*Ottoman Manufacturing*' } | Select-Object -First 1).FullName\n$t = [IO.
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:29:03Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$f = (Get-ChildItem -LiteralPath '00-book' -File | Where-Object { $_.Name -like '*Ottoman Manufacturing*' } | Select-Object -First 1).FullName\n$t = [IO.
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:29:15Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$f = (Get-ChildItem -LiteralPath '00-book' -File | Where-Object { $_.Name -like '*The Age of Manufactures*' } | Select-Object -First 1).FullName\n\"FILE=
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:29:24Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$f = (Get-ChildItem -LiteralPath '00-book' -File | Where-Object { $_.Name -like '*The Age of Manufactures*' } | Select-Object -First 1).FullName\n$t = [I
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:29:31Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$f = (Get-ChildItem -LiteralPath '00-book' -File | Where-Object { $_.Name -like '*The Age of Manufactures*' } | Select-Object -First 1).FullName\n$t = [I
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:29:43Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Mapping industrial process and authority indicators**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:29:45Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$f = (Get-ChildItem -LiteralPath '00-book' -File | Where-Object { $_.Name -like '*Cotton The Fabric That Made the Modern World*' } | Select-Object -First
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:29:55Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$f = (Get-ChildItem -LiteralPath '00-book' -File | Where-Object { $_.Name -like '*Cotton The Fabric That Made the Modern World*' } | Select-Object -First
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:30:05Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$f = (Get-ChildItem -LiteralPath '00-book' -File | Where-Object { $_.Name -like '*Cotton The Fabric That Made the Modern World*' } | Select-Object -First
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:30:16Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$f = (Get-ChildItem -LiteralPath '00-book' -File | Where-Object { $_.Name -like '*Cotton The Fabric That Made the Modern World*' } | Select-Object -First
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:30:35Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Clarifying market source reliance**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:30:35Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Defining comparative framework for cotton networks**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:30:39Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Clarifying market source reliance**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:30:39Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Defining comparative framework for cotton networks**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:30:44Z)**_
+
+区域材料已经给出清晰但不对称的结果：可以证明英国机制棉纱进入奥斯曼家庭／作坊织造，并被当地织工通过混纱、染色、木版和分散加工重新组织；但现有英国材料停在1820年前后，奥斯曼关键材料集中于19世纪后半叶，而且“图样权限”和合同身份无法六项对称。按框架规则，我将裁定为结果B：不制造完整对称比较，1.6改写为英国路径的边界；这足以解除1.1—1.5的写作锁。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:30:46Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "Get-Content -LiteralPath '07-textbook-writing/第01章-工业化劳动分工与设计的生成/03-正文.md' -Encoding utf8 | Select-Object -First 180\nr
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:31:02Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning targeted reading and regional updates**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:31:02Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Deciding on unlocking and drafting section 1.1**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:31:03Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning targeted reading and regional updates**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:31:03Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Deciding on unlocking and drafting section 1.1**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:31:15Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md`**
+
+```diff
+@@
+-| B0127 | *The Age of Manufactures, 1700–1820* | 原文未读；深度报告已读 | `D:\Design-history\00-book\Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.md` | 未核；报告锚点12.1%、28.0%、31.2%、65.7% | 1.1、1.2、1.5 | 混合生产、女性与家庭劳动、反工厂线性叙事 | 不承担第二章公共改革 | C级检索线索 |
++| B0127 | *The Age of Manufactures, 1700–1820* | 深度报告已读；原文定向读取第10章pp. 180–203、第11章pp. 204–222 | `D:\Design-history-new\00-book\Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.md` | 第10章重点为pp. 208–234的纺织劳动组织；第11章重点为pp. 235–254的纺织技术 | 1.1、1.2、1.3、1.5、1.6 | 英国家庭、作坊、 putting-out与工厂并存；纺纱、织造和印花机械化的工序差异 | 不承担第二章公共改革；不把1700—1820材料外推至19世纪后半叶 | B级定向原文；用于区域比较英国一侧 |
+@@
+-| B0125 | *Ottoman Manufacturing in the Age of the Industrial Revolution* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
++| B0125 | *Ottoman Manufacturing in the Age of the Industrial Revolution* | 深度报告已读；原文定向读取第2章pp. 49–79、第3章pp. 80–104 | `D:\Design-history-new\00-book\Donald Quataert：《Ottoman Manufacturing in the Age of the Industrial Revolution》.md` | 第3章pp. 80–90：家庭、作坊与putting-out；pp. 90–92：私人机制织造工厂；pp. 95–104：国内市场竞争；第2章pp. 49–79：英国／欧洲纱线、染料与地方织造 | 1.1、1.2、1.3、1.5、1.6 | 奥斯曼家庭—作坊—工厂混合生产；英国机制纱进入手织网络；木版、染色与地方织工调整 | 当地术语保留；不套用英国职业阶段；不把混合生产写成落后残余 | B级地区性专著原文；区域结果B核心来源 |
+```
+
+
+```
+apply_patch verification failed: Failed to find expected lines in D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md:
+| B0127 | *The Age of Manufactures, 1700–1820* | 原文未读；深度报告已读 | `D:\Design-history\00-book\Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.md` | 未核；报告锚点12.1%、28.0%、31.2%、65.7% | 1.1、1.2、1.5 | 混合生产、女性与家庭劳动、反工厂线性叙事 | 不承担第二章公共改革 | C级检索线索 |
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:31:22Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "rg -n \"\\| B0127 \\||\\| B0125 \\|\" \"07-textbook-writing/第01章-工业化劳动分工与设计的生成/01-本章文献映射.md\"", workdir: "D:\\D
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:31:42Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md`**
+
+```diff
+@@
+-| B0127 | *The Age of Manufactures, 1700–1820* | 原文未读；深度报告已读 | `D:\Design-history\00-book\Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.md` | 未核；报告锚点22.1%、28.0%、51.2%、65.7% | 1.1、1.2、1.5 | 混合生产、女性与家庭劳动、反工厂线性叙事 | 不承担第二章公共改革 | C级检索线索 |
++| B0127 | *The Age of Manufactures, 1700–1820* | 深度报告已读；原文定向读取第10章pp. 180–203、第11章pp. 204–222 | `D:\Design-history-new\00-book\Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.md` | 第10章重点为纺织劳动组织；第11章重点为纺纱、织造与整理技术 | 1.1、1.2、1.3、1.5、1.6 | 英国家庭、作坊、putting-out与工厂并存；不同工序机械化并不同步 | 不承担第二章公共改革；不把1700—1820材料外推至19世纪后半叶 | B级定向原文；用于区域比较英国一侧 |
+@@
+-| B0125 | *Ottoman Manufacturing in the Age of the Industrial Revolution* | 未核 | 待填 | 待填 | 待匹配 | 待定 | 待核 | 不可引用 |
++| B0125 | *Ottoman Manufacturing in the Age of the Industrial Revolution* | 深度报告已读；原文定向读取第2章pp. 49–79、第3章pp. 80–104 | `D:\Design-history-new\00-book\Donald Quataert：《Ottoman Manufacturing in the Age of the Industrial Revolution》.md` | 第3章pp. 80–90：家庭、作坊与putting-out；pp. 90–92：私人机制织造工厂；pp. 95–104：国内市场竞争；第2章pp. 49–79：英国／欧洲纱线、染料与地方织造 | 1.1、1.2、1.3、1.5、1.6 | 奥斯曼家庭—作坊—工厂混合生产；英国机制纱进入手织网络；木版、染色与地方织工调整 | 保留当地术语；不套用英国职业阶段；不把混合生产写成落后残余 | B级地区性专著原文；区域结果B核心来源 |
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:31:51Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating regional historical tables**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:32:18Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+ | 指标 | 英国材料 | 候选比较地区材料 | 是否可比 | 限制 |
+ |---|---|---|---|---|
+-| 机器进入的具体工序 | 待填 | 待填 | 待判 |  |
+-| 家庭、作坊、工场、工厂组合 | 待填 | 待填 | 待判 |  |
+-| 图样、样品或规格的权限 | 待填 | 待填 | 待判 |  |
+-| 原料和市场联系 | 待填 | 待填 | 待判 |  |
+-| 现场解释与修改 | 待填 | 待填 | 待判 |  |
+-| 岗位、合同或法律识别 | 待填 | 待填 | 待判 |  |
++| 机器进入的具体工序 | Berg，第10—11章：英国棉纺先机械化，手织与印花环节并未同时工厂化 | Quataert，第2—3章：英国／欧洲机制纱进入奥斯曼手织网络；私人机制织厂很晚且数量有限 | 部分可比 | 可比较“机器进入哪一工序”，不能把两地置于同一阶段 |
++| 家庭、作坊、工场、工厂组合 | Berg，pp. 180–234：家庭、putting-out、作坊与工厂并存 | Quataert，pp. 80–92：家庭织机、商人网络、小作坊与少数机制工厂并存 | 可比 | 两书统计口径和时期不同，只比较组织组合 |
++| 图样、样品或规格的权限 | Berg关于印花与商人putting-out说明任务和材料传递，但未给出可与后期奥斯曼对称的权限记录 | Quataert，pp. 84–90、95–104：伊斯坦布尔木版、地方描色／印花与商人供料关系可核 | 不完全可比 | 英国一侧缺同一时期、同类型的图样权限材料 |
++| 原料和市场联系 | 英国机制棉纱与印花棉布生产、出口网络 | Trabzon、Maraş、Aintab、Aleppo使用英国／欧洲纱线、布匹与染料，并与英国制品竞争 | 直接关联 | 商品联系成立，不等于组织制度相同 |
++| 现场解释与修改 | Berg说明机器扩散仍依赖工序技能和家庭／作坊劳动 | 奥斯曼织工混用进口与本地纱线、改变红纱和染料；Harput企业因备件问题以木件和人力调整机器 | 部分可比 | 英国材料早于奥斯曼关键节点，不能作同步变化 |
++| 岗位、合同或法律识别 | 商人、master、outworker、工厂雇员及专利制度可见 | merchant、master、家庭织工、行会、计件工资、军事合同及国家补贴可见 | 部分可比 | 当地术语与法律身份不能翻译为英国职业阶段 |
+@@
+ | 项目 | 要求 | 英国材料 | 比较地区材料 | 判定 |
+ |---|---|---|---|---|
+-| 来源位置 | 比较地区至少有一种内部档案、实物记录或地区性研究 | 待填 | 待填 | 未通过 |
+-| 术语位置 | 不用英国岗位和职业名称覆盖当地行动者 | 待核 | 待核 | 未通过 |
+-| 证据对称性 | 数量可不同，但必须能回答同一核心问题 | 待核 | 待核 | 未通过 |
+-| 保存偏差 | 区分档案保存差异与历史事实差异 | 待核 | 待核 | 未通过 |
+-| 自身时间轴 | 比较地区按当地节点建立序列 | 英国轴待核 | 当地轴待建 | 未通过 |
+-| 关系节点 | 只有人员、商品、技术、样品、政策或市场关系可建立同步节点 | 待核 | 待核 | 未通过 |
++| 来源位置 | 比较地区至少有一种内部档案、实物记录或地区性研究 | Berg为英国制造史综合研究 | Quataert使用奥斯曼档案、领事报告、统计与地区材料 | 通过 |
++| 术语位置 | 不用英国岗位和职业名称覆盖当地行动者 | master、merchant、outworker按英国语境使用 | 保留merchant、master、行会、家庭织工及地方工种，不称“设计师” | 通过 |
++| 证据对称性 | 数量可不同，但必须能回答同一核心问题 | 主要覆盖1700—1820的组织与技术 | 主要覆盖1800—1914，关键细节集中19世纪后半叶 | 不通过 |
++| 保存偏差 | 区分档案保存差异与历史事实差异 | 英国行业研究与统计较密集 | Quataert明确指出农村家庭生产和女性劳动被统计低估 | 通过 |
++| 自身时间轴 | 比较地区按当地节点建立序列 | 英国轴：18世纪putting-out扩张—纺纱机械化—工厂并存 | 奥斯曼轴：家庭／作坊延续—进口机制纱嵌入—晚期少数机制工厂 | 通过 |
++| 关系节点 | 只有人员、商品、技术、样品、政策或市场关系可建立同步节点 | 英国机制纱、布匹与设备出口 | Trabzon、Maraş、Aintab、Aleppo等地明确使用英国纱线或设备 | 通过 |
+@@
+-| A　完整比较成立 | 两地能够回答同一核心问题，关键指标可比，来源位置和保存偏差已说明 | 保留1.6跨区域比较 | 未判定 |
+-| B　完整比较不成立 | 材料不足、不对称或关键指标不可比 | 1.6降级为“英国路径的边界与当前不可比之处”；删除对称比较；不得宣称英国路径普遍 | 未判定 |
++| A　完整比较成立 | 两地能够回答同一核心问题，关键指标可比，来源位置和保存偏差已说明 | 保留1.6跨区域比较 | 不通过：时期和图样／权限证据不对称 |
++| B　完整比较不成立 | 材料不足、不对称或关键指标不可比 | 1.6降级为“英国路径的边界与当前不可比之处”；删除对称比较；不得宣称英国路径普遍 | **通过** |
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:32:26Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+ | 2026-07-31 | B级连续链经实物研究修正后继续通过 | B级条件通过 | III | 保留中心机制；明确机器、量规与熟练劳动共同作用 | 正文仍锁定 | 已全文核验Smith 1973与Gordon 1989；仍待A级档案、对照锚点和区域路径 |
+ | 2026-07-31 | A级与B级混合连续链通过 | B级条件通过 | III | 保留中心机制；主锚点证据门槛通过 | 正文仍锁定 | House Report No. 375已核；转入对照锚点与区域路径核定 |
++| 2026-07-31 | A级与B级混合连续链通过 | B级条件通过 | III | 主锚点与对照锚点冻结；区域比较裁定结果B | 1.1—1.5解锁；1.6降级 | 已定向读取Berg第10—11章与Quataert第2—3章；不制造对称比较 |
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:32:33Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "rg -n -A28 \"### E-B006\" \"07-textbook-writing/第01章-工业化劳动分工与设计的生成/02-证据与注释.md\"", workdir: "D:\\Design-history-n
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:32:45Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Verifying chapter page ranges**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:33:04Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+ - 当前等级：B；官方馆藏事实按A级对象记录使用，生产关系与解释按B级使用；
+ - 对应提纲：1.3、1.4、1.5。
+ 
++### E-B007　英国纺织机械化与混合劳动组织
++
++- 来源身份：制造史学术专著；
++- 规范书目：Maxine Berg, *The Age of Manufactures, 1700–1820: Industry, Innovation and Work in Britain*, 2nd ed. (London and New York: Routledge, 1994)；
++- 原文路径：`D:\Design-history-new\00-book\Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.md`；
++- 精确位置：第10章“Textile Industries: Organizing Work,” pp. 180–203；第11章“Textile Industries: Technologies,” pp. 204–222；
++- 读取状态：上述两章已按六项区域指标定向读取，整书未通读；
++- 内容准确转述：英国纺织工业并非由家庭生产整齐过渡到工厂；家庭、putting-out、作坊和工厂长期并存。纺纱、织造、整理和印花的机械化时间与组织形式不同，商人和master提供原料或订单时，家庭成员与外包劳动仍进入生产；
++- 证据功能：提供区域比较的英国一侧，并限制“机器—工厂—专业化”单线叙事；
++- 不能支持的判断：本书时限主要到1820年，不能直接说明19世纪后半叶英国岗位、图样权限或对奥斯曼出口的全部组织；
++- 当前等级：B；
++- 对应提纲：1.1、1.2、1.3、1.5、降级后的1.6。
++
++### E-B008　英国机制纱进入奥斯曼家庭—作坊织造网络
++
++- 来源身份：以奥斯曼档案、领事报告、统计和地区材料为基础的地区性制造史专著；
++- 规范书目：Donald Quataert, *Ottoman Manufacturing in the Age of the Industrial Revolution* (Cambridge: Cambridge University Press, 1993)；
++- 原文路径：`D:\Design-history-new\00-book\Donald Quataert：《Ottoman Manufacturing in the Age of the Industrial Revolution》.md`；
++- 精确位置：第2章pp. 49–79；第3章pp. 80–104，重点pp. 84–90家庭与作坊、pp. 90–92私人机制织厂、pp. 95–104国内市场竞争；
++- 读取状态：上述范围已按六项区域指标定向读取，整书未通读；
++- 内容准确转述：许多奥斯曼地区的家庭织机、城市小作坊、商人putting-out网络与少数晚期机制工厂并存。Trabzon、Maraş、Aintab和Aleppo等地织工使用英国或其他欧洲纱线、布匹、染料和设备，但仍在地方手织、染色和印花体系中重新组合这些投入；
++- 对象级细节：Trabzon印花关系中，较小作坊先印黑底，再由居家女性描色，并使用伊斯坦布尔送来的木版压印；当地织工还会混用进口与奥斯曼纱线，或因色彩偏好和成本更换红纱、染料与供应来源；
++- 证据功能：建立英国机制纱—奥斯曼手织网络的真实商品关系，同时证明进口机器产品可以嵌入而非立即消灭家庭与作坊劳动；
++- 对应权限：商人控制原料、委托和销售，作坊主分派工序，家庭织工、描色者和染工在执行中保留材料与色彩判断；现有材料不能把这种判断统一称为“设计权”；
++- 保存偏差：Quataert明确指出传统统计偏向城市、行会和工厂，农村家庭生产与女性劳动容易被低估；
++- 不能支持的判断：不能把奥斯曼混合生产写成英国工业化的早期阶段，也不能以商品联系证明两地岗位、图样权限和法律身份对称；
++- 当前等级：B；
++- 对应提纲：1.1、1.2、1.3、1.5、降级后的1.6。
++
+ ### E-C001　Roswell Lee、互换性目标与军械库—承包商关系
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:33:11Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "rg -n \"^>\" \"07-textbook-writing/第01章-工业化劳动分工与设计的生成/02-证据与注释.md\"\nGet-Content -LiteralPath '07-textbook-writin
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:33:34Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-> 状态：第四轮锚点核定完成；Hall—North主锚点与Wedgwood青蛙餐具对照锚点通过准入，区域路径待裁定
+-> 当前结论：正文不可写  
++> 状态：第四轮证据准入完成；主锚点与对照锚点冻结，区域比较裁定为结果B
++> 当前结论：1.1—1.5可写；1.6按“英国路径的边界与当前不可比之处”降级后可写  
+@@
+-已按提纲问题定向回查B0186第1章pp. 33–45，全文核验S1973与G1989，并核对House Report No. 375官方PDF。结果如下：
++已按提纲问题定向回查B0186第1章pp. 33–45，全文核验S1973与G1989，核对House Report No. 375官方PDF，并定向读取Berg第10—11章与Quataert第2—3章。结果如下：
+@@
+ - Hounshell所述行政纠错细节尚未被Smith或Gordon独立证实。
+ - House Report No. 375已把既定模型、百枪互换检验、Hall指导工人和政府使用机器的正式权限提升为A级；主锚点证据准入门槛通过。
++- NPS `SPAR 952`补齐M1819 Hall步枪的官方馆藏身份；Wedgwood青蛙餐具试制盘（NGV D7-1993）通过对照锚点准入；
++- 英国机制棉纱与奥斯曼家庭—作坊织造之间存在真实商品关系，但比较时期、图样权限和制度身份不对称，区域比较裁定为结果B。
+ 
+-下一步不再扩写锚点材料，按以下顺序推进：
++证据准入阶段到此结束。下一步按以下顺序进入正文：
+ 
+ 1. Hall—North主锚点与Wedgwood对照锚点停止扩充；行政纠错保持B级，试制盘缺失边饰不写成正式拒收；
+-2. 只对一个区域比较对做定向核验，并按结果A或结果B裁定；
+-3. 区域核验完成后复核正文解锁条件；即使结果B，也允许按既定规则解锁1.1—1.5并降级1.6；
+-4. 正文起草时回溯上述精确页段与官方对象记录，始终围绕六节提纲的问题链展开。
++2. 解锁1.1—1.5；1.6改为“英国路径的边界与当前不可比之处”，删除对称比较表述；
++3. 从1.1开始分节写作；每段落笔前回溯对应原文页段与官方对象记录；
++4. 正文始终围绕六节提纲的问题链展开，材料不服从提纲预期时收缩判断而非补写推测。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:33:42Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "rg -n -A26 -B4 \"### 1\\.1|### 1\\.2|### 1\\.3|### 1\\.4|### 1\\.5|### 1\\.6|## 六节|正文结构\" \"07-textbook-writing/第01章-工业化劳动分�
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:33:48Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "rg -n \"^#{2,4} \" \"07-textbook-writing/第01章-工业化劳动分工与设计的生成/00-章节提纲.md\"", workdir: "D:\\Design-history-new", timeo
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:33:58Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning title update for result B downgrade**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:34:00Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$lines = Get-Content -LiteralPath '07-textbook-writing/第01章-工业化劳动分工与设计的生成/00-章节提纲.md' -Encoding utf8\nfor ($i=227; 
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:34:16Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating result B presentation and summary**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:34:36Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md`**
+
+```diff
+@@
+-| 1.6 不均衡的分化：跨区域综合 | 综合前文比较，否定单一专业化阶段模型 | 1,800 |
++| 1.6 英国路径的边界与当前不可比之处 | 综合前文的关联材料与证据不对称，否定单一专业化阶段模型 | 1,800 |
+@@
+-4. 比较同类机器进入英国与比较地区不同工序后的差异，但不要求比较地区对应英国阶段。
++4. 追踪英国机制产品进入其他生产网络的真实关系，不把关系材料改写成同阶段对称比较。
+@@
+-选定的区域比较对贯穿本节，使用相同指标比较机器进入工序、劳动组合、市场距离和样品权限。比较对象不预设为棉纺／印花体系。
++以英国机制棉纱进入奥斯曼家庭—作坊织造网络的商品关系说明机器进入不同工序后的组织后果；只在证据可比处并置，不建立完整对称比较。
+@@
+-### 6.7 1.6 不均衡的分化：跨区域综合
++### 6.7 1.6 英国路径的边界与当前不可比之处
+ 
+-**本节问题：** 权限重新分配为何在行业和地区中不同步，为什么不能据此建立单一的专业化阶段模型？
++**本节问题：** 现有证据能够说明英国路径的哪些边界；为什么不能把英国的权限重组写成各地区依次经历的专业化阶段？
+@@
+-1. 综合前五节已经出现的区域材料，不在本节首次添加多个地区；
+-2. 只保留一个有充分证据的比较对；
+-3. 比较能源与机器进入工序、组织组合、表述媒介权限、正式／实际权限和反馈条件；
+-4. 汇总1.1、1.3和1.5已经处理的历史词语、岗位、署名与法律权，不在本节新增职业制度材料；
+-5. 说明为何组织化形式决定、制度识别和专业职业不能被写成普遍的连续阶段；
+-6. 教育、展览、公共审美和国家竞争只作为第二章问题提出。
++1. 综合前五节已经出现的英国—奥斯曼商品联系与组织材料，不在本节新增地区清单；
++2. 明确英国材料主要覆盖1700—1820，奥斯曼关键证据主要集中于19世纪后半叶，两者不是同步阶段；
++3. 只使用可直接关联的机制纱、布匹、染料、设备与市场节点；图样权限和制度身份不作对称比较；
++4. 说明英国机制纱可以嵌入奥斯曼家庭、作坊与商人网络，而没有自动产生同型工厂或职业结构；
++5. 汇总1.1、1.3和1.5已经处理的历史词语、岗位、署名与法律权，不在本节新增职业制度材料；
++6. 教育、展览、公共审美和国家竞争只作为第二章问题提出。
+@@
+-**暂定比较方向：**
+-
+-- 英国棉纺／印花体系与南亚棉纺织和混合生产；或
+-- 英国工厂体系与奥斯曼家庭—作坊—机器混合体系。
+-
+-二者只选其一。选择依据是能否使用同一指标取得连续证据，而不是地区代表性。
++**当前关联方向：**
++
++```text
++英国机制棉纱与纺织技术
++→ 奥斯曼家庭—作坊—商人织造网络中的选择、混用与再组织
++```
++
++该关系只用于显示英国路径的边界，不命名为“英国／奥斯曼完整比较”。
+@@
+-- **结果A：完整比较成立。** 保留本节的区域比较，以同一核心问题和可比指标形成条件性结论。
+-- **结果B：完整比较不成立。** 本节降级为“英国路径的边界与当前不可比之处”，删除对称比较表述，说明证据不对称和不可比原因；不得把缺少比较材料改写成英国路径具有普遍性。
++- **结果A：完整比较成立。** 当前未通过。
++- **结果B：完整比较不成立。** **当前通过。** 已将本节降级为“英国路径的边界与当前不可比之处”，删除对称比较表述；不得把缺少比较材料改写成英国路径具有普遍性。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:34:42Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "(Get-Content -LiteralPath '07-textbook-writing/第01章-工业化劳动分工与设计的生成/03-正文.md' -Encoding utf8).Count\nGet-Content -Literal
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:34:58Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Adding section headings and unlocking content**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:35:00Z)**_
+
+区域结果B已正式落入提纲，正文的程序条件现在全部满足。我会先把 `03-正文.md` 标记为解锁并建立六节写作入口；随后按用户指定的语言样例和统一规范回查写作规则，再开始“开篇＋1.1”，不会按文献顺序堆材料。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:35:08Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md`**
+
+```diff
+@@
+-> 状态：锁定，尚未进入正文写作  
++> 状态：已解锁（结果B路径）；1.1—1.5可写，1.6已降级为“英国路径的边界与当前不可比之处”  
+@@
+ 在解锁前，本文件不存放试写段落、直接引文、情节化开篇或未经核验的事实。
++
++## 解锁裁定（2026-07-31）
++
++- G1-A：A级与B级混合连续链通过；
++- G1-B：B级关联互证通过；
++- 主锚点：Hall M1819生产体系及其向Simeon North承包体系的转移；
++- 对照锚点：约1773年Wedgwood青蛙餐具试制甜点盘（NGV D7-1993）；
++- 区域路径：结果B。英国机制棉纱与奥斯曼织造存在真实商品联系，但时期、图样权限和制度身份不对称；
++- 写作边界：1.6不作完整对称比较，不得把英国路径写成普遍阶段。
+@@
+ 7. 未核材料留在文献映射或证据表，不用占位句写入正文。
++
++## 开篇　从一支可以拆散重装的步枪说起
++
++## 1.1　在“设计”之前：历史词语与分布式造物知识
++
++## 1.2　尺度变化：机器、能源、市场与协调问题
++
++## 1.3　表述媒介与决定权限：图样、模型、样品和规格
++
++## 1.4　主链与对照链：材料如何进入形式
++
++## 1.5　生产现场的判断：具名作者、匿名劳动与市场反馈
++
++## 1.6　英国路径的边界与当前不可比之处
++
++## 结语　从生产权限进入公共治理
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:35:20Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$dir = '07-textbook-writing/00-总纲与规范'\n$names = @('《艺术与观念》写作样例与语言语序规则-v1.0.md','教材统一编写规范-v1
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:35:28Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning chunked document reading**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:35:30Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$p='07-textbook-writing/00-总纲与规范/《艺术与观念》写作样例与语言语序规则-v1.0.md'; $c=Get-Content -LiteralPath $p -Encoding utf8
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:35:38Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$p='07-textbook-writing/00-总纲与规范/《艺术与观念》写作样例与语言语序规则-v1.0.md'; $c=Get-Content -LiteralPath $p -Encoding utf8
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:35:46Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "Get-Content -LiteralPath '07-textbook-writing/00-总纲与规范/教材统一编写规范-v1.0.md' -Encoding utf8", workdir: "D:\\Design-history-new", ti
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:35:54Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "rg -n \"^## 第一章|^## 五、编、章与语言|^### 3\\. 段落论证模板|^### 5\\. 语言语序\" \"07-textbook-writing/00-总纲与规范/教材�
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:36:02Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$p='07-textbook-writing/00-总纲与规范/教材总纲-现当代设计史（设计学理论专业）.md'; $c=Get-Content -LiteralPath $p -Encoding utf8;
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:36:21Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning opening and section 1.1 draft**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:36:21Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Refining historical source citations**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:36:23Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning opening and section 1.1 draft**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:36:23Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Refining historical source citations**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:36:24Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "$f=(Get-ChildItem -LiteralPath '00-book' -File|Where-Object Name -like '*The Age of Manufactures*'|Select-Object -First 1).FullName; $t=[IO.File]::ReadAl
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:36:44Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Identifying page number discrepancies**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:36:44Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning detailed opening narrative**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:36:48Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Identifying page number discrepancies**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:36:48Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning detailed opening narrative**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:36:51Z)**_
+
+写作规范已经回查完毕。它对本轮初稿的直接约束是：开篇按“时间地点—对象—可见事实—冲突—问题”推进；1.1先区分历史称谓、教材分析概念和后设职业身份；每段只承担一个判断，文献自述、实物观察和教材推论分开。现在开始写入“开篇＋1.1”。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:37:50Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md`**
+
+```diff
+@@
+ ## 开篇　从一支可以拆散重装的步枪说起
+ 
++1827年，美国联邦军械署的三名调查委员来到哈珀斯费里步枪工场。他们从约翰·霍尔（John H. Hall）在1824年制造的步枪中抽取一百支，命令工人将枪械拆散，把同类零件混在一起，再装配到一百个新枪托上。委员随后逐支检查。1836年美国众议院报告收录的调查记录称，这些零件能够重新组成完整步枪；记录还把产品的形式、尺寸和相对比例同“既定模型”联系起来，使偏差成为可以发现和检验的对象。[^1]
++
++今天，斯普林菲尔德军械库国家历史遗址仍收藏一支M1819霍尔专利后装燧发步枪，登记号为SPAR 952。它不是已知参与1827年试验的那一百支枪，也没有被证实为后来实物研究拆检的样枪。它的意义首先在于让一种生产问题变得可见：枪托、枪管、后膛块、扳机和连接件构成一件完整武器，但这些部件不必由同一名工匠连续完成。零件一旦能够跨越不同工位，甚至跨越哈珀斯费里与私人承包商西缅·诺思（Simeon North）的工场相互替换，产品形式便不再只存在于制作者手中的某件成品里。模型、量规、夹具、合同和检验程序也开始参与规定“同一种枪”应当是什么。[^2]
++
++不过，部件互换不能被简化为机器精度的胜利。罗伯特·戈登（Robert B. Gordon）在1987年拆检一支1832年诺思制造的M1819步枪和一支1838年哈珀斯费里制造的同型枪。两支枪交换后膛块以后仍能工作，操作却不如交换前顺畅。关键配合面留下的痕迹还显示，机床主要承担粗加工，熟练工借助量规、锉刀和专用夹具完成最终尺寸。[^3] 机器、标准媒介与手工判断并不是先后取代的三种生产方式，而是在同一件产品中共同发生作用。
++
++一百支枪的拆装试验由此提出的，不只是机械制造问题。霍尔能够提出互换目标、改进机器并指导工人，联邦政府却掌握合同、设施和检验安排；工人没有取得公开作者身份，却在关键配合面的加工中决定部件能否实际装合；检验者不制作零件，却可以依据模型和尺寸接受或否定结果。若把这一过程统称为一名发明家的“设计”，不同权限便会重新被压缩到一个名字之下。本章因此不追问工业革命在何时“发明了设计”，而要考察另一项更具体的变化：在工业化条件下，提出、表述、执行、修改和检验形式的权限怎样被重新分配，又为何始终没有完全离开现场知识。
++
+ ## 1.1　在“设计”之前：历史词语与分布式造物知识
+ 
++“设计”不是一枚可以原样放入所有历史时期的标签。本章首先区分三种用法。第一种是历史行动者实际使用的称谓，例如商人、工场主、master、制模工、绘图员、织工和检验员。第二种是教材为了比较不同生产关系而使用的分析概念“设计性活动”。它指制作完成以前，对可能形式作出选择，并通过图样、模型、样品、规格或明确指令把选择传递给他人的活动。第三种是后来形成的专业身份，即岗位、合同、课程、协会或法律把某类活动识别为独立职业。三种用法不能互相替代。织工改变经纬配置，可能具有形式—工艺判断，却不因此自动获得后来意义上的“设计师”身份。
++
++为了避免从“参与制作”直接跳到“从事设计”，本章把造物活动分为四级。第一级是产品形成劳动，包括准备材料、搬运、加工、装配和表面处理。第二级是形式—工艺判断，即劳动者根据材料状态、工具能力和工序误差调整做法。第三级是组织化形式决定：某项决定被外化以后，能够跨越工序、人员或地点进入生产。第四级才是制度识别的设计活动，相关权限被岗位、合同、教育或法律明确命名。这四级不是从低到高的必然进化序列。同一工场可以具有复杂的跨工序决定，却没有独立的设计职业；已经出现设计岗位的企业，也仍依赖未被岗位名称记录的现场判断。
++
++18世纪英国纺织业提供了观察分布式知识的一个入口。马克辛·伯格（Maxine Berg）对纺织劳动组织的研究表明，家庭生产、putting-out、专业作坊和集中工场并非依次退场。以约克郡毛纺为例，小生产者购买羊毛，家庭成员承担梳理和纺纱，织造、染色、缩绒和销售又可能连接学徒、邻近住户、缩绒作坊与公开市场。另一类商人—制造者则在较大范围内发放原料，把纺纱和织造分配给不同住户。[^4] 这些关系已经包含选择材料、安排工序和判断质量，却很难归属于单一作者。某块布的形式，是原料性质、家庭劳动、商人委托、地方技能和市场交易接续形成的结果。
++
++这里尤其需要区分“事实影响”与“正式权限”。家庭中的妇女和儿童承担梳理、纺纱或辅助加工，其劳动当然进入产品；只有当材料显示他们根据纤维、张力、颜色或工具状态调整工序时，才能进一步讨论形式—工艺判断。商人提供原料并不等于他决定了全部形式；但当商人选择纱线、规定品类、分发样品或决定是否收货时，他的决定会跨越多个住户进入生产。作坊主、织工和整理工也可能分别拥有解释和修改空间。与其追问“真正的设计者是谁”，更准确的问题是：哪一项决定由谁提出，借助什么媒介传递，又由谁在现场解释和检验。
++
++奥斯曼纺织业说明，这种分布式结构并不是等待英国工厂模式取代的早期阶段。唐纳德·夸特尔特（Donald Quataert）依据奥斯曼档案、领事报告和地区统计指出，19世纪的许多家庭既从事农业，也纺纱或织布；城市小作坊、商人组织的putting-out网络、行会关系和少数机制工厂长期并存。传统统计往往只记录城市、行会和工厂，因而使农村家庭生产与妇女劳动显得不重要。[^5] 材料的缺席在这里首先是保存和统计方式的结果，不能直接解释为活动不存在。
++
++特拉布宗的印花头巾生产进一步显示，分散并不等于没有协调。夸特尔特记录，一些小作坊先在棉布上印出黑色底层，再把半成品交给居家妇女描出彩色部分；工人随后使用从伊斯坦布尔送来的木版压印图案。进口布匹、德国染料、作坊加工、居家描色和异地木版在同一产品中相接。[^6] 木版使图案能够跨地点重复，作坊主控制工序分派，居家劳动者则必须在具体布面上处理颜色和套印。现有记录不足以证明这些妇女拥有图案选择权或最终验收权，但也不能把她们的工作降为对既定图样的无判断复制。
++
++英国与奥斯曼材料在年代、术语和档案密度上并不对称，因此不能据此建立两条整齐平行的职业发展线。两组材料能够共同说明的，是一种较低强度但更可靠的判断：在专业“设计”身份出现以前，形式知识已经分布在采购、制样、加工、调整、检验和销售等不同环节。工业化没有从空白处创造构思活动。它改变的是决定需要跨越的距离、重复的次数和承担风险的组织。只有当生产规模、机器能力和市场范围发生变化时，分布式判断才更频繁地被转换为模型、规格、样品和可检验的指令。
++
+ ## 1.2　尺度变化：机器、能源、市场与协调问题
+@@
+ ## 结语　从生产权限进入公共治理
++
++[^1]: U.S. Congress, House, Committee on Military Affairs, *John H. Hall*, H. Rep. No. 375, 24th Cong., 1st sess., February 24, 1836, pp. 8–10。该报告服务于霍尔补偿请愿，能够证明委员会如何记录试验和评价体系，不能视为无立场的现场观察。
++[^2]: National Park Service, Springfield Armory National Historic Site, “Federal Armories,” 馆藏条目 *U.S. Breech-loading Flintlock Rifle M1819 (Hall’s Patent)*, .52 caliber, SPAR 952；关于霍尔体系向诺思承包体系的传递，见 David A. Hounshell, *From the American System to Mass Production, 1800–1932* (Baltimore: Johns Hopkins University Press, 1984), pp. 38–43。现有材料未证明SPAR 952即戈登拆检样枪。
++[^3]: Robert B. Gordon, “Simeon North, John Hall, and Mechanized Manufacturing,” *Technology and Culture* 30, no. 1 (1989): 182–188。
++[^4]: Maxine Berg, *The Age of Manufactures, 1700–1820: Industry, Innovation and Work in Britain*, 2nd ed. (London and New York: Routledge, 1994), ch. 10, pp. 180–203。初稿依据项目源文本定向读取；定稿前须复核纸本分页。
++[^5]: Donald Quataert, *Ottoman Manufacturing in the Age of the Industrial Revolution* (Cambridge: Cambridge University Press, 1993), pp. 80–90。
++[^6]: Quataert, *Ottoman Manufacturing*, pp. 84–90。初稿依据项目源文本定向读取；具体页码在定稿前复核纸本。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:38:04Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Verifying footnote placement and file status**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:38:15Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md`**
+
+```diff
+@@
+ 下一步只核定一个区域比较对，不再增加锚点书目。正文解锁后的写作必须回溯原文精确页段，并围绕六节提纲展开。
++
++---
++
++## 证据核验记录 06：区域结果B与正文解锁
++
++### 定向读取
++
++- Maxine Berg, *The Age of Manufactures, 1700–1820*，第10章pp. 180–203、第11章pp. 204–222；
++- Donald Quataert, *Ottoman Manufacturing in the Age of the Industrial Revolution*，第2章pp. 49–79、第3章pp. 80–104。
++
++两书只按区域准入表的六项指标定向读取，未通读长篇原文。
++
++### 区域裁定
++
++英国机制棉纱、布匹、染料和设备进入奥斯曼纺织网络，构成真实商品与技术关系。Quataert的材料能够说明这些投入如何嵌入家庭织机、小作坊、商人putting-out与少数机制工厂，也能识别特拉布宗印花中作坊、居家妇女和伊斯坦布尔木版之间的工序联系。
++
++完整对称比较仍不成立，原因是：
++
++1. Berg的英国材料主要覆盖1700—1820，奥斯曼关键细节集中于19世纪后半叶；
++2. 英国一侧缺少与奥斯曼木版、描色和地方工种同一时期的图样权限记录；
++3. master、merchant、outworker、行会和地方工种不能被压入同一职业阶段。
++
++因此区域比较采用结果B。1.6改名为“英国路径的边界与当前不可比之处”，只追踪商品联系、组织嵌入和不可比原因。
++
++### 正文解锁与首批写作
++
++```text
++1.1—1.5：解锁
++1.6：按结果B降级后解锁
++开篇：已形成初稿
++1.1：已形成初稿
++1.2—结语：待写
++正式图像清单：仍暂缓，待正文对象段稳定
++```
++
++开篇以1827年百枪拆装试验进入，但明确区分House Report中的试验枪、NPS `SPAR 952`和Gordon拆检的两支样枪。1.1先区分历史称谓、分析概念和后设职业身份，再以英国与奥斯曼分布式纺织劳动建立前工业／混合生产基线。脚注回指实际读取的原文和官方对象记录，未核材料未进入正文。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:38:25Z)**_
+
+首批正文已经写入：开篇没有把NPS馆藏、1827年试验枪和Gordon样枪混成一件；1.1则严格按提纲完成“三层术语—四级活动—英国产业基线—奥斯曼材料修正—转入尺度问题”的递进。现在进行一致性检查，重点看旧的“正文锁定”状态是否仍残留在现行裁定中，以及脚注、标题和证据等级是否互相冲突。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:38:31Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="exec"><details>
+<summary>Tool use: **exec**</summary>
+Input (truncated): ```
+const r = await tools.shell_command({command: "git diff --check\ngit status --short\nrg -n \"状态：|当前结论：|主锚点：|对照锚点：|区域比较：|正文解锁：|正文：\" \"07-tex
+...
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:39:21Z)**_
+
+我先完成最后一轮一致性校验：更新提纲顶部的实际状态，清除本轮目标文件中的格式问题，再确认正文、证据表与审校记录彼此同步。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:39:27Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md`**
+
+```diff
+@@
+-> 状态：研究提纲，尚未冻结  
++> 状态：证据准入完成，主／对照锚点冻结，区域路径按结果B降级
+@@
+-> 正文状态：锁定  
++> 正文状态：已解锁；开篇与1.1已形成初稿
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-> 状态：第四轮证据闸门已完成；主锚点、对照锚点与区域路径均已作出裁定  
++> 状态：第四轮证据闸门已完成；主锚点、对照锚点与区域路径均已作出裁定
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md`**
+
+```diff
+@@
+-> 状态：已解锁；开篇与1.1已形成第一轮初稿  
++> 状态：已解锁；开篇与1.1已形成第一轮初稿
+```
+
+
+```
+apply_patch verification failed: Failed to find expected lines in D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md:
+> 状态：第四轮证据闸门已完成；主锚点、对照锚点与区域路径均已作出裁定
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:39:40Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$files = @(
+  '07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md',
+  '07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md',
+  '07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md'
+)
+foreach ($file in $files) {
+  Write-Output $file
+  Get-Content -LiteralPath $file -Encoding UTF8 -TotalCount 7 | ForEach-Object { '<' + $_ + '>' }
+}
+```
+```
+Exit code: 0
+Wall time: 1.8 seconds
+Output:
+07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md
+<# 第一章　工业化、劳动分工与“设计”的生成：章节提纲>
+<>
+<> 状态：研究提纲，尚未冻结  >
+<> 当前阶段：中心机制可行性核验  >
+<> 正文状态：锁定  >
+<> 正文字数基准：15,500—16,500字  >
+<> 正文绝对上限：18,000字  >
+07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+<# 第一章　证据与注释>
+<>
+<> 状态：第四轮证据准入完成；主锚点与对照锚点冻结，区域比较裁定为结果B>
+<> 当前结论：1.1—1.5可写；1.6按“英国路径的边界与当前不可比之处”降级后可写  >
+<>
+<## 一、中心机制生死门>
+<>
+07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md
+<# 第一章　工业化、劳动分工与“设计”的生成>
+<>
+<> 状态：已解锁（结果B路径）；1.1—1.5可写，1.6已降级为“英国路径的边界与当前不可比之处”  >
+<>
+<## 解锁条件>
+<>
+<只有同时满足以下条件，才能在本文件中撰写正文：>
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:39:53Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md`**
+
+```diff
+@@
+-> 状态：研究提纲，尚未冻结  
+-> 当前阶段：中心机制可行性核验  
+-> 正文状态：锁定  
++> 状态：证据准入完成，主／对照锚点冻结，区域路径按结果B降级
++> 当前阶段：围绕章节提纲撰写正文并逐条回溯原文
++> 正文状态：已解锁；开篇与1.1已形成初稿
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-> 当前结论：1.1—1.5可写；1.6按“英国路径的边界与当前不可比之处”降级后可写  
++> 当前结论：1.1—1.5可写；1.6按“英国路径的边界与当前不可比之处”降级后可写
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md`**
+
+```diff
+@@
+-> 状态：已解锁（结果B路径）；1.1—1.5可写，1.6已降级为“英国路径的边界与当前不可比之处”  
++> 状态：已解锁（结果B路径）；开篇与1.1已形成第一轮初稿，1.6按结果B降级
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:40:03Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$targets = @(
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/00-章节提纲.md',
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/01-本章文献映射.md',
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/02-证据与注释.md',
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/03-正文.md',
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md'
+)
+git diff --check -- $targets
+git diff --stat -- $targets
+$body = Get-Content -LiteralPath '07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md' -Raw -Encoding UTF8
+"正文字符数=$($body.Length)"
+rg -n "状态：|当前阶段：|主锚点|对照锚点|结果B|^## 开篇|^## 1\.1" -- $targets
+```
+```
+Exit code: 0
+Wall time: 1.8 seconds
+Output:
+ ...253\240\350\212\202\346\217\220\347\272\262.md" |  40 ++--
+ ...226\207\347\214\256\346\230\240\345\260\204.md" |  50 ++++-
+ ...215\256\344\270\216\346\263\250\351\207\212.md" | 229 ++++++++++++++++-----
+ .../03-\346\255\243\346\226\207.md"                |  56 ++++-
+ ...256\241\346\240\241\350\256\260\345\275\225.md" | 167 +++++++++++++++
+ 5 files changed, 465 insertions(+), 77 deletions(-)
+正文字符数=5033
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:69:| A | 完整连续链偏向档案保存充分的大企业 | 建立G1-A主锚点连续链与G1-B关联性三角互证链（建立时暂称“对照性三角核验链”）；增加档案保存偏差说明 | 00、01、02、03 |
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:71:| B | 两个锚点负担相同且过重 | 改为一个主锚点＋一个对照锚点；主锚点承担完整链，对照锚点只检验一项关键差异 | 00、01、02、03、04 |
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:88:G1-A主锚点连续链：未通过
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:116:- 限制：不得冻结六节结构、确定具体主锚点、解锁正文或建立正式图像清单。
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:123:| 主锚点强制要求市场／使用反馈 | 改为生产内部检验、返工、解释或修改是必要条件；外部反馈为优先项，可由1.5支持案例补充 | 00、02 |
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:124:| G1-B名称与对照锚点混淆 | 统一改名为“G1-B关联性三角互证链”，明确它是证据组织方法，不对应固定案例角色 | 00、01、02、03、05 |
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:132:G1-A主锚点连续链：未通过
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:135:具体主锚点：尚未确定
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:136:具体对照锚点：尚未确定
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:149:## 证据核验记录 01：报告级主锚点初筛
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:163:| 联邦军械库互换性制造 | 最接近G1-A，建立`CAND-G1A-01`候选链；不冻结主锚点 |
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:243:主锚点：首选方向，暂不冻结
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:244:对照锚点：未确定
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:254:3. 对照锚点尚未通过准入；
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:255:4. 区域材料尚未作结果A或结果B判定。
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:259:不再重写抽象框架。下一轮优先补充Hall—North链的独立来源；若项目内没有，再核定对照锚点，并继续保持正文锁定。
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:296:对照锚点：未确定
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:301:下一步停止增加Hall—North二手书目，只追索一项能够核实合同、标准传递或行政纠错的A级材料；同时进入对照锚点和区域路径核定。
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:330:Hall—North主锚点证据门槛：通过
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:331:主锚点正式冻结：待对照锚点共同裁定
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:336:下一步不再搜索Hall—North材料，直接进入对照锚点和区域路径核定。
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:340:## 证据核验记录 05：主锚点对象身份与对照锚点核定
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:348:### 主锚点身份补正
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:356:不得把不同实物合写为一件。主锚点由此正式通过准入。
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:358:### 对照锚点裁定
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md:360:对照锚点确定为：
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/
+... (truncated)
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:40:14Z)**_
+
+校验发现两处仍沿用上一阶段措辞：证据表的局部判定仍写着“正文不解锁”，文献映射仍写“区域路径待裁定”。它们不是历史审校记录，我会改成当前裁定，避免后续写作误读。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:40:19Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$p1='07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md'; $p2='07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md'; $p0='07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md';
+Get-Content -LiteralPath $p2 -Encoding UTF8 | Select-Object -Skip 22 -First 34
+Get-Content -LiteralPath $p1 -Encoding UTF8 | Select-Object -Skip 94 -First 16
+Get-Content -LiteralPath $p0 -Encoding UTF8 | Select-Object -Skip 408 -First 45
+```
+```
+Exit code: 0
+Wall time: 2.1 seconds
+Output:
+- 六个环节形成连续关系，而不是来自互不相关的行业拼接；
+- 至少证明一项权限发生转移、分离、冲突或重新组合；
+- 权限关系涉及两个不同类型的行动者；
+- 能证明权限变化进入实际生产；
+- 至少有一种生产／对象记录用于核验制度或企业自述；
+- 至少出现一次执行偏差、现场解释、修改、拒绝或检验记录，以显示权限边界。
+
+**当前判定：A级与B级混合连续链通过。** `CAND-G1A-01`已收缩为“Hall后装步枪生产体系向Simeon North承包体系的转移（1819—1834）”。House Report No. 375把Hall体系的模型、正式权限和现场检验升为A级；Gordon以两支同型实物独立核验跨厂互换结果和生产痕迹，并迫使执行机制改写为“机器粗加工—量规控制—熟练锉削”。但Hall—North标准传递与行政纠错节点仍主要依赖B级研究，不能把整条链统称A级；对照锚点和区域路径未定，正文仍不解锁。
+
+### G1-B　关联性三角互证链
+
+当家庭劳动、外包体系、女性劳动、殖民地生产或匿名熟练劳动没有保存完整连续档案时，允许以三类直接关联材料交叉核验。
+
+| 材料支点 | 核心问题 | 材料身份与位置 | 与其他支点的关系证明 | 可证明 | 不可证明 | 保存偏差 | 状态 |
+|---|---|---|---|---|---|---|---|
+| 实物或生产痕迹 | 对象中留下了什么工序、误差、修正或使用痕迹 | Gordon (1989), pp. 182–188：1832年North与1838年Harpers Ferry两支M1819步枪的拆检、互换测试、尺寸测量与刀痕分析 | 同型号、同一互换目标，分别由North与Harpers Ferry生产 | 两支枪可交换后膛块；关键表面多为手工锉削，少数内腔有铣削痕迹 | 不能外推至全部批次，不能证明每名工人的操作 | 存世优品可能高估一般生产水平 | 已核 |
+| 制度／企业材料 | 组织怎样规定岗位、媒介、质量或权利 | Hounshell (1984), pp. 38–43；Smith (1973), pp. 578–584：合同、Carrington报告、Hall体系和军械署扩散关系的研究性转述 | 均直接指向M1819、Harpers Ferry、North合同与互换目标 | 政府合同和组织媒介使跨地点互换成为明确生产目标 | 尚未直接读1827报告、1828合同与Hall—Bomford通信 | 管理者与军械署记录高度可见 | B级已核，待A源 |
+| 工人、订单、维修、使用或外部记录 | 实际执行、反馈或外部观察怎样修正制度自述 | Smith (1973), pp. 584–591：工资表、通信及Nathaniel French等流动机械师；Gordon (1989), pp. 185–188：实物刀痕对机器能力的反证 | 机械师在Hall、North和Springfield之间流动；刀痕显示知识由现场手工执行完成 | 技术传播依赖人员迁移，最终精度依赖未被制度自述充分记录的熟练劳动 | 不能恢复多数匿名工人的具体决定，也不能证明每条人员路线 | 管理档案保存姓名不均，实物不保存劳动者身份 | 已核 |
+
+**通过条件：**
+
+- 三个支点能够通过同一对象、组织、地点、工序、订单或时间关系直接连接；
+- 至少证明一项权限发生转移、分离、冲突或重新组合；
+- 涉及两个不同类型的行动者，并能证明变化进入实际生产；
+- 能用生产痕迹、执行偏差、修改、维修或检验材料显示边界；
+- 明确哪些空白来自档案保存，不能把无记录写成无活动。
+
+**当前判定：B级条件通过。**
+
+Gordon的工业考古材料与Hounshell／Smith的文献研究在材料类型、形成目的和核心观察上具有实质差异，能够互检“互换结果”和“实际加工方法”。Smith提供人员迁移与扩散网络，但Hounshell明显继承其研究，因此二者不能算两条完全独立路线。G1-B通过不等于取得A级档案，也不替代对照锚点和区域路径。
+
+### G2　活动层级判定
+
+| 拟分析活动 | 产品结果影响 | 预先性 | 比较性 | 实际权限 | 外化 | 跨工序 | 稳定制度识别 | 建议层级 | 依据 |
+定向回查后，原先过宽的“联邦军械库互换性制造”已收缩为：
+
+> `CAND-G1A-01：Hall后装步枪生产体系向Simeon North承包体系的转移（1819—1834）`
+
+该对象在B0186第1章pp. 38–43形成“提出—外化—传递—执行—检验—修正”的连续链。S1973补入人员与机床扩散网络，G1989以同型实物的互换测试、尺寸测量和加工痕迹提供独立核验，A1836则把Hall体系的既定模型、互换检验与合同权限提升为A级。NPS官方馆藏记录进一步提供M1819 Hall步枪的具体馆藏对象 `SPAR 952`。中心机制生死门继续通过，但必须保持对象分工：
+
+- G1989能够独立核验互换结果和实际加工方法，但不能独立证实“误发生产枪—补发正确模型与量规”的行政纠错�
+... (truncated)
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:40:54Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md`**
+
+```diff
+@@
+-暂定方向：
+-
+-- 主锚点第一优先候选：具体印花棉布生产链；证据门槛失败时整体替换；
+-- 对照锚点候选：具体陶瓷器、铸铁构件或其他能形成关键差异的对象；
+-- 支持案例一：工程构件及维修／执行图；
+-- 支持案例二：专利、设计注册或权利争议；
+-- 反例：家庭—作坊—机器混合生产。
+-
+-任何类别方向都不是具体案例。对象名称、年代、机构和材料链未核定前，不得进入开篇、图像清单或正文。
++当前冻结结果：
++
++- 主锚点：Hall M1819后装步枪生产体系及其向Simeon North承包体系的转移（1819—1834）；
++- 对照锚点：约1773年Wedgwood青蛙餐具试制甜点盘（NGV D7-1993）及Etruria—Chelsea生产关系；
++- 支持案例一、二：仍按单一机制原则，在1.3与1.5写作前由已核文献择定；
++- 反例：奥斯曼家庭—作坊—机器混合生产，用于限制工厂化、职业化和英国路径的普遍化叙述。
++
++主锚点与对照锚点已经完成对象身份和材料链核验，可以进入开篇与正文；正式图像仍须另行核查版权、清晰度和出版许可。
+@@
+-2. 主锚点和尚未确定的对照锚点不能完成对象身份或关系核验；
++2. 拟增补或替换的主锚点、对照锚点不能完成对象身份或关系核验；
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md`**
+
+```diff
+@@
+-- 对照锚点已核定，区域路径仍待结果A／B裁定。
++- 对照锚点已核定；区域路径已裁定为结果B，1.6只讨论英国路径的边界、真实商品联系与当前不可比之处。
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-**当前判定：A级与B级混合连续链通过。** `CAND-G1A-01`已收缩为“Hall后装步枪生产体系向Simeon North承包体系的转移（1819—1834）”。House Report No. 375把Hall体系的模型、正式权限和现场检验升为A级；Gordon以两支同型实物独立核验跨厂互换结果和生产痕迹，并迫使执行机制改写为“机器粗加工—量规控制—熟练锉削”。但Hall—North标准传递与行政纠错节点仍主要依赖B级研究，不能把整条链统称A级；对照锚点和区域路径未定，正文仍不解锁。
++**当前判定：A级与B级混合连续链通过。** `CAND-G1A-01`已收缩并冻结为“Hall后装步枪生产体系向Simeon North承包体系的转移（1819—1834）”。House Report No. 375把Hall体系的模型、正式权限和现场检验升为A级；Gordon以两支同型实物独立核验跨厂互换结果和生产痕迹，并迫使执行机制改写为“机器粗加工—量规控制—熟练锉削”。但Hall—North标准传递与行政纠错节点仍主要依赖B级研究，不能把整条链统称A级。对照锚点已通过，区域路径已裁定为结果B，正文相应解锁。
+@@
+-| 制度／企业材料 | 组织怎样规定岗位、媒介、质量或权利 | Hounshell (1984), pp. 38–43；Smith (1973), pp. 578–584：合同、Carrington报告、Hall体系和军械署扩散关系的研究性转述 | 均直接指向M1819、Harpers Ferry、North合同与互换目标 | 政府合同和组织媒介使跨地点互换成为明确生产目标 | 尚未直接读1827报告、1828合同与Hall—Bomford通信 | 管理者与军械署记录高度可见 | B级已核，待A源 |
++| 制度／企业材料 | 组织怎样规定岗位、媒介、质量或权利 | U.S. House Report No. 375 (1836)；Hounshell (1984), pp. 38–43；Smith (1973), pp. 578–584 | 均直接指向M1819、Harpers Ferry、North合同与互换目标；1836年官方报告直接记录既定模型、百枪检验及Hall的合同权限 | 政府合同和组织媒介使跨地点互换成为明确生产目标 | 1828合同原件与Hall—Bomford通信仍未直接取得，行政纠错细节仍属B级 | 管理者与军械署记录高度可见 | A+B混合已核 |
+@@
+-Gordon的工业考古材料与Hounshell／Smith的文献研究在材料类型、形成目的和核心观察上具有实质差异，能够互检“互换结果”和“实际加工方法”。Smith提供人员迁移与扩散网络，但Hounshell明显继承其研究，因此二者不能算两条完全独立路线。G1-B通过不等于取得A级档案，也不替代对照锚点和区域路径。
++Gordon的工业考古材料与Hounshell／Smith的文献研究在材料类型、形成目的和核心观察上具有实质差异，能够互检“互换结果”和“实际加工方法”。Smith提供人员迁移与扩散网络，但Hounshell明显继承其研究，因此二者不能算两条完全独立路线。G1-B只说明非连续材料之间已经形成可核关联，不把整条链自动提升为A级，也不替代对照锚点的独立对象核验。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:41:06Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$targets = @(
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/00-章节提纲.md',
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/01-本章文献映射.md',
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/02-证据与注释.md',
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/03-正文.md',
+'07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md'
+)
+git diff --check -- $targets
+rg -n "对照锚点和区域路径未定|区域路径仍待|正文仍不解锁|待A源|主锚点第一优先候选|对照锚点候选" -- $targets
+$body = Get-Content -LiteralPath '07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md' -Raw -Encoding UTF8
+$footnotes = [regex]::Matches($body, '(?m)^\[\^[0-9]+\]:').Count
+"正文字符数=$($body.Length); 脚注条目=$footnotes"
+```
+```
+Exit code: 0
+Wall time: 1.4 seconds
+Output:
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/00-章节提纲.md:332:- 对照锚点候选：陶瓷器、铸铁构件或其他能够形成单一机制差异的对象；
+07-textbook-writing/第01章-工业化劳动分工与设计的生成/02-证据与注释.md:16:| 传递 | 媒介如何到达其他工序、劳动者或地点 | Hounshell, pp. 42–43；Smith (1973), pp. 582–591 | 除模型和量规外，军械署、工场来访、Carrington及Nathaniel French等流动机械师共同传递生产知识 | “误发生产枪—补发模型与量规”细节仍未获独立材料复核；Smith与Hounshell存在来源继承 | B | 传递网络已核，纠错细节待A源 |
+正文字符数=5033; 脚注条目=6
+warning: in the working copy of '07-textbook-writing/第01章-工业化劳动分工与设计的生成/00-章节提纲.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '07-textbook-writing/第01章-工业化劳动分工与设计的生成/01-本章文献映射.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '07-textbook-writing/第01章-工业化劳动分工与设计的生成/02-证据与注释.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '07-textbook-writing/第01章-工业化劳动分工与设计的生成/03-正文.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '07-textbook-writing/第01章-工业化劳动分工与设计的生成/05-审校记录.md', LF will be replaced by CRLF the next time Git touches it
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:41:17Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command** `Get-Content -LiteralPath '07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md' -Encoding UTF8 | Select-Object -Skip 314 -First 28`</summary>
+```
+Exit code: 0
+Wall time: 1.6 seconds
+Output:
+本节不能取得连续证据链时，全章不得以“设计与制作的相对分离”为中心主线。
+
+### 6.5 1.4 主链与对照链：材料如何进入形式
+
+**本节问题：** 材料、工序和权限怎样在具体对象中共同形成可观察的形式？
+
+**论证任务：**
+
+1. 只分析一个主锚点和一个对照锚点，不铺开棉、陶瓷、铸铁、钢、玻璃和家具名录；
+2. 主锚点按“材料来源—方案与媒介—生产组织—现场修正—形式结果—销售／使用反馈”完成全部链条；
+3. 对照锚点只针对主锚点的一项关键机制形成有效差异，例如媒介是强制指令还是协商参照、现场是否保留修改权、法律署名是否等于实际判断；
+4. 对象细读必须服务于中心机制，不以风格描述替代。
+
+**锚点选择：**
+
+- 第一优先候选方向：具体印花棉布及其样本—制版—印染—销售链；
+- 其他主锚点候选：能够通过G1-A或G1-B的具体生产链；
+- 对照锚点候选：陶瓷器、铸铁构件或其他能够形成单一机制差异的对象；
+- 印花棉布方向若不能通过证据门槛，可以整体替换，不得只更换具体棉布对象或降低门槛；
+- 只有通过 `02-证据与注释.md` 中的准入门槛后，才能写入具体对象名称。
+
+**区域嵌入：**
+
+主锚点是否承担跨区域比较由证据决定，不预先绑定印花棉布。对照锚点只承担一项机制差异，不为追求材料或地理覆盖而选择。
+
+**转折：**
+
+主链与对照链检验权限关系是否随材料和组织而变化，下一节进一步区分具名作者、现场劳动和市场反馈不能互相替代的作用。
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:41:38Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md`**
+
+```diff
+@@
+-**锚点选择：**
+-
+-- 第一优先候选方向：具体印花棉布及其样本—制版—印染—销售链；
+-- 其他主锚点候选：能够通过G1-A或G1-B的具体生产链；
+-- 对照锚点候选：陶瓷器、铸铁构件或其他能够形成单一机制差异的对象；
+-- 印花棉布方向若不能通过证据门槛，可以整体替换，不得只更换具体棉布对象或降低门槛；
+-- 只有通过 `02-证据与注释.md` 中的准入门槛后，才能写入具体对象名称。
++**锚点选择：**
++
++- 主锚点已冻结为Hall M1819后装步枪生产体系及其向Simeon North承包体系的转移（1819—1834）；
++- 对照锚点已冻结为约1773年Wedgwood青蛙餐具试制甜点盘（NGV D7-1993）及Etruria—Chelsea生产关系；
++- 主锚点承担“既定模型—跨地点传递—机器与量规—检验与修正”的完整机制；
++- 对照锚点只检验一项差异：标准化的器形和任务接口可以与分工化手绘产生的逐件视觉差异并存；
++- 不再以印花棉布作为隐含主锚点，也不把枪械与陶瓷扩写成两个行业的对称历史。
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md`**
+
+```diff
+@@
+-| 传递 | 媒介如何到达其他工序、劳动者或地点 | Hounshell, pp. 42–43；Smith (1973), pp. 582–591 | 除模型和量规外，军械署、工场来访、Carrington及Nathaniel French等流动机械师共同传递生产知识 | “误发生产枪—补发模型与量规”细节仍未获独立材料复核；Smith与Hounshell存在来源继承 | B | 传递网络已核，纠错细节待A源 |
++| 传递 | 媒介如何到达其他工序、劳动者或地点 | Hounshell, pp. 42–43；Smith (1973), pp. 582–591 | 除模型和量规外，军械署、工场来访、Carrington及Nathaniel French等流动机械师共同传递生产知识 | “误发生产枪—补发模型与量规”细节仍未获独立材料复核；Smith与Hounshell存在来源继承 | B | 传递网络已核；纠错细节保持B级，不作为正文必证事实 |
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:41:44Z)**_
+
+<tool-use data-tool-type="task" data-tool-name="update_plan"><details>
+<summary>Tool use: **update_plan**</summary>
+**Agent task list:**
+- [X] 核验Hall—North链的A级与独立来源
+- [X] 把补充来源写入文献映射、证据表与审校记录
+- [X] 核定对照锚点和区域路径
+- [X] 重新裁定正文解锁条件
+- [X] 围绕提纲撰写开篇与1.1初稿
+
+```
+Plan updated
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:42:00Z)**_
+
+已完成下一阶段工作：
+
+- 证据准入完成：Hall—North主锚点、Wedgwood对照锚点均已冻结。
+- 区域路径裁定为结果B，不再强行制造英—奥对称比较。
+- 正文正式解锁。
+- 已依据提纲并回溯原文，完成“开篇＋1.1”第一轮初稿，约5,000字符、6条注释。
+- 修正了提纲、文献映射和证据表中的旧状态表述，并通过目标文件格式检查。
+
+主要成果：
+
+- [03-正文.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md>)
+- [00-章节提纲.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md>)
+- [01-本章文献映射.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\01-本章文献映射.md>)
+- [02-证据与注释.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md>)
+- [05-审校记录.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md>)
+
+下一写作节点是1.2“尺度变化：机器、能源、市场与协调问题”，将继续以Hall—North链为中心，避免写成一般性的工业革命背景介绍。
+
+---
+
+_**User (2026-07-31 05:47:49Z)**_
+
+写作模式有问题
+
+
+---
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:47:58Z)**_
+
+我先暂停继续扩写，重新对照正文、章节提纲和《艺术与观念》样例，定位究竟是叙事视角、段落组织、引注方式，还是“证据表直接转写成正文”的问题；本轮先诊断，不继续堆字数。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:48:03Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$files = @(
+'07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md',
+'07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md',
+'07-textbook-writing\00-总纲与规范\《艺术与观念》写作样例与语言语序规则-v1.0.md',
+'07-textbook-writing\00-总纲与规范\教材统一编写规范-v1.0.md'
+)
+foreach ($file in $files) {
+  Write-Output "FILE: $file"
+  if ($file -like '*03-正文.md') { Get-Content -LiteralPath $file -Encoding UTF8 | Select-Object -Skip 35 -First 60 }
+  elseif ($file -like '*艺术与观念*') { rg -n "叙事|段落|开篇|语序|教材|案例|对象|注释|正文|论点|读者|声音|场景" -- $file | Select-Object -First 100 }
+  elseif ($file -like '*教材统一*') { rg -n "正文|段落|开篇|案例|对象|叙事|引注|脚注|读者|语言|论证" -- $file | Select-Object -First 100 }
+  else { rg -n "开篇|1\.1|论证任务|对象|叙事|历史词语" -- $file | Select-Object -First 80 }
+}
+```
+```
+Exit code: 0
+Wall time: 2.1 seconds
+Output:
+FILE: 07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md
+3. 每个关键判断、直接引文、数字和行动者权限在落笔时回溯对应原文，核对页码、上下文、版本和材料声音。
+4. 报告只用于定位。正文脚注回指实际读取的原文；转引必须标明实际阅读来源。
+5. 同一来源不得从1.2一路铺写到1.5而不改变问题。跨节使用时，分别说明它在各节承担的不同证据功能。
+6. 原文与提纲预期不一致时，优先修改或收缩正文判断，并在 `02-证据与注释.md` 记录；不得为保留既定结论而选择性摘取。
+7. 未核材料留在文献映射或证据表，不用占位句写入正文。
+
+## 开篇　从一支可以拆散重装的步枪说起
+
+1827年，美国联邦军械署的三名调查委员来到哈珀斯费里步枪工场。他们从约翰·霍尔（John H. Hall）在1824年制造的步枪中抽取一百支，命令工人将枪械拆散，把同类零件混在一起，再装配到一百个新枪托上。委员随后逐支检查。1836年美国众议院报告收录的调查记录称，这些零件能够重新组成完整步枪；记录还把产品的形式、尺寸和相对比例同“既定模型”联系起来，使偏差成为可以发现和检验的对象。[^1]
+
+今天，斯普林菲尔德军械库国家历史遗址仍收藏一支M1819霍尔专利后装燧发步枪，登记号为SPAR 952。它不是已知参与1827年试验的那一百支枪，也没有被证实为后来实物研究拆检的样枪。它的意义首先在于让一种生产问题变得可见：枪托、枪管、后膛块、扳机和连接件构成一件完整武器，但这些部件不必由同一名工匠连续完成。零件一旦能够跨越不同工位，甚至跨越哈珀斯费里与私人承包商西缅·诺思（Simeon North）的工场相互替换，产品形式便不再只存在于制作者手中的某件成品里。模型、量规、夹具、合同和检验程序也开始参与规定“同一种枪”应当是什么。[^2]
+
+不过，部件互换不能被简化为机器精度的胜利。罗伯特·戈登（Robert B. Gordon）在1987年拆检一支1832年诺思制造的M1819步枪和一支1838年哈珀斯费里制造的同型枪。两支枪交换后膛块以后仍能工作，操作却不如交换前顺畅。关键配合面留下的痕迹还显示，机床主要承担粗加工，熟练工借助量规、锉刀和专用夹具完成最终尺寸。[^3] 机器、标准媒介与手工判断并不是先后取代的三种生产方式，而是在同一件产品中共同发生作用。
+
+一百支枪的拆装试验由此提出的，不只是机械制造问题。霍尔能够提出互换目标、改进机器并指导工人，联邦政府却掌握合同、设施和检验安排；工人没有取得公开作者身份，却在关键配合面的加工中决定部件能否实际装合；检验者不制作零件，却可以依据模型和尺寸接受或否定结果。若把这一过程统称为一名发明家的“设计”，不同权限便会重新被压缩到一个名字之下。本章因此不追问工业革命在何时“发明了设计”，而要考察另一项更具体的变化：在工业化条件下，提出、表述、执行、修改和检验形式的权限怎样被重新分配，又为何始终没有完全离开现场知识。
+
+## 1.1　在“设计”之前：历史词语与分布式造物知识
+
+“设计”不是一枚可以原样放入所有历史时期的标签。本章首先区分三种用法。第一种是历史行动者实际使用的称谓，例如商人、工场主、master、制模工、绘图员、织工和检验员。第二种是教材为了比较不同生产关系而使用的分析概念“设计性活动”。它指制作完成以前，对可能形式作出选择，并通过图样、模型、样品、规格或明确指令把选择传递给他人的活动。第三种是后来形成的专业身份，即岗位、合同、课程、协会或法律把某类活动识别为独立职业。三种用法不能互相替代。织工改变经纬配置，可能具有形式—工艺判断，却不因此自动获得后来意义上的“设计师”身份。
+
+为了避免从“参与制作”直接跳到“从事设计”，本章把造物活动分为四级。第一级是产品形成劳动，包括准备材料、搬运、加工、装配和表面处理。第二级是形式—工艺判断，即劳动者根据材料状态、工具能力和工序误差调整做法。第三级是组织化形式决定：某项决定被外化以后，能够跨越工序、人员或地点进入生产。第四级才是制度识别的设计活动，相关权限被岗位、合同、教育或法律明确命名。这四级不是从低到高的必然进化序列。同一工场可以具有复杂的跨工序决定，却没有独立的设计职业；已经出现设计岗位的�
+... (truncated)
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:48:29Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Assessing writing mode issues**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:48:29Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Diagnosing writing mode flaws and proposing correction**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:48:42Z)**_
+
+你判断得对。当前正文采用了错误的“证据表转写模式”，还不是成熟的教材写作。
+
+主要问题是：
+
+- 1.1像研究方案说明，连续定义“三种用法”“四级活动”，概念先于历史展开。
+- 段落以“某学者指出”为中心，接近文献综述，不是以物、行动者和生产过程推动叙事。
+- 来源限制反复进入正文，打断阅读；多数应留在脚注和证据表。
+- 开篇虽然有事件，却没有真正细读步枪的结构、拆装动作与操作经验。
+- 1.1题为“历史词语”，正文却没有展示历史文件中的实际称谓及语境。
+- 英国与奥斯曼材料被并排用来证明框架，仍带有比较矩阵的痕迹。
+- `03-正文.md`顶部还保留解锁条件和工作说明，不应混入最终教材正文。
+
+正确模式应改为：
+
+> 具体对象或历史动作 → 当时行动者面对的问题 → 生产过程的可见变化 → 必要概念 → 制度机制 → 限定与反例 → 小节判断
+
+正文负责让读者“看见历史怎样发生”；精确证据等级、未取得材料和保存偏差主要放进脚注及[02-证据与注释.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\02-证据与注释.md>)。
+
+因此当前[03-正文.md](<D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md>)不应继续向下扩写。下一步应保留已经核定的事实和引注，重新写作开篇与1.1，而不是在现稿上局部润色。
+
+---
+
+_**User (2026-07-31 05:50:47Z)**_
+
+"D:\Design-history-new\07-textbook-writing\00-总纲与规范\《艺术与观念》写作样例与语言语序规则-v1.0.md"
+根据以上写作样例与规则，再次调整第一章写作模式
+
+
+---
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:51:11Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning first chapter mode adjustment**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:51:12Z)**_
+
+我会把这份规则作为本轮唯一的体例基准：先完整读取，再把第一章从“证据矩阵解释型”改成“历史现场—对象细读—机制展开—条件性回收”的教材叙事。调整会同时落到章节提纲的专用写法和现有开篇、1.1正文，而不改变已经核定的证据结论。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:51:14Z)**_
+
+<tool-use data-tool-type="task" data-tool-name="update_plan"><details>
+<summary>Tool use: **update_plan**</summary>
+**Agent task list:**
+- [⚡] 完整读取写作样例并提取第一章适用规则
+- [ ] 诊断第一章现稿与样例的具体偏差
+- [ ] 重写第一章专用写作模式及开篇、1.1
+- [ ] 校验结构、引注和证据边界
+
+```
+Plan updated
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:51:23Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command** `Get-Content -LiteralPath '07-textbook-writing\00-总纲与规范\《艺术与观念》写作样例与语言语序规则-v1.0.md' -Raw -Encoding UTF8`</summary>
+```
+Exit code: 0
+Wall time: 1.2 seconds
+Output:
+# 《现当代设计史》写作样例与语言语序规则
+
+> 副题：基于《艺术与观念》上下册的写作方法转化  
+> 版本：v1.0  
+> 适用范围：《现当代设计史》导论、正文、章末结论及教学栏目  
+> 性质：写作体例与语言规范，不作为设计史事实来源  
+> 参照文本：`写作参考体例/艺术与观念_上册_古典时期_文艺复兴_full.md`、`写作参考体例/艺术与观念_下册_巴洛克时期_新千年_full.md`
+
+## 一、使用目的
+
+《艺术与观念》的主要价值，不是提供现当代设计史的事实结论，而是示范如何把历史背景、作品形式、观看经验和时代观念组织成连续、可理解的教学叙事。本教材吸收其以下方法：
+
+1. 从具体历史现场进入抽象问题；
+2. 把制度、赞助、技术和社会生活作为形式产生的条件；
+3. 按照可跟随的顺序描述对象；
+4. 通过比较说明形式差异，而不只给出风格名称；
+5. 将建筑、物品、图像、音乐、文学等不同媒介放在共同问题下讨论；
+6. 在章末把材料回收为观念判断，并为下一章留下转折。
+
+这些方法进入《现当代设计史》时，必须补入来源批判、反例、证据权限和区域差异。不得把《艺术与观念》的强叙事、时代概括或价值判断直接移植为本教材的历史结论。
+
+## 二、核心写作模型
+
+《现当代设计史》的基本论证链为：
+
+> 历史现场 → 问题提出 → 概念与材料说明 → 对象细读 → 行动者与制度 → 生产、流通和使用 → 竞争性解释 → 条件性结论 → 章际转折
+
+其中，《艺术与观念》主要提供“历史现场—形式细读—观念回收”的叙事能力；本教材增加“材料说明—制度机制—竞争性解释—条件性结论”，以防止把风格描述误写成历史因果。
+
+### 1. 可以吸收的写法
+
+| 《艺术与观念》的方法 | 在《现当代设计史》中的转化 |
+|---|---|
+| 以典礼、城市、建筑或公共事件开篇 | 以物品、展览、课程、工厂、商店、住宅、界面或制度文件提出矛盾 |
+| 从政治、宗教、赞助关系解释艺术 | 从国家、企业、学校、专业组织、市场、劳动与技术制度解释设计 |
+| 沿视觉顺序描述作品 | 沿“接近—辨认—操作—使用—维护”的顺序分析设计对象 |
+| 跨绘画、雕塑、建筑和音乐比较 | 跨产品、平面、空间、服务、媒介和基础设施比较 |
+| 章末归纳时代观念 | 章末说明观念如何经由组织、物质和使用过程取得历史形态 |
+| 以前后风格对照形成转折 | 以前一制度的解释限度和新材料的出现形成章际转折 |
+
+### 2. 必须修正的写法
+
+| 风险 | 修正规则 |
+|---|---|
+| 用“时代精神”直接解释形式 | 写出制度、技术、劳动、媒介和使用之间的中介机制 |
+| 把一个时期写成内部一致的整体 | 说明行动者分歧、地区异步和材料保存偏差 |
+| 把历史写成风格自然演进 | 区分继承、竞争、并存、后设归类和后来的正典化 |
+| 用名作代表全部历史 | 同时纳入普通物品、匿名劳动、失败方案和使用记录 |
+| 以文学化判断替代证据 | 将评价词转换为可观察特征和可回查材料 |
+| 引文融入叙事而不说明权限 | 区分行动者主张、制度规定、实际记录和研究者解释 |
+
+## 三、章的写法
+
+### 1. 章题必须包含历史对象和解释问题
+
+章题不宜只有运动或风格名称。优先采用：
+
+> 历史过程或机制：关键对象、行动者或问题
+
+例如：
+
+- 制度化的现代主义：制造联盟、包豪斯与设计教育；
+- 消费社会的设计：企业识别、家庭生活与欲望生产；
+- 数字化的人工世界：界面、平台与算法治理。
+
+### 2. 开篇历史现场
+
+开篇不是背景知识摘要，而是一个能够提出本章矛盾的现场。可采用四种方式：
+
+1. **事件现场**：一次展览、会议、开幕、停产、迁校或政策颁布；
+2. **对象现场**：一件产品、海报、住宅、课程作业或界面的生产与使用；
+3. **制度现场**：章程、合同、课程表、企业文件或行业标准开始生效；
+4. **争议现场**：两种相互冲突的评价围绕同一对象出现。
+
+开篇按以下顺序展开：
+
+> 时间与地点 → 人物和对象 → 可观察事实 → 当时的冲突 → 本章问题
+
+开篇不得提前给出整章答案，也不得用传奇故事替代史料。
+
+### 3. 承接前章
+
+每章开头必须用一段说明：
+
+1. 前章解释了什么；
+2. 前章采用的分析尺度是什么；
+3. 哪一问题仍未解决；
+4. 本章为什么需要更换材料、地区、行动者或制度尺度。
+
+推荐句式：
+
+> 上一章说明了……如何改变……，但这些材料还不能解释……。要回答这一问题，分析尺度必
+... (truncated)
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:51:34Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+rg -n "^## |^### " -- '07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md'
+Get-Content -LiteralPath '07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md' -Encoding UTF8 | Select-Object -First 46
+```
+```
+Exit code: 0
+Wall time: 1.8 seconds
+Output:
+10:## 一、文件职责
+29:## 二、本章在全书中的位置
+31:### 2.1 承接导论
+35:### 2.2 本章问题
+41:### 2.3 暂定中心论点
+47:### 2.4 通向第二章
+68:## 三、核心概念的操作性判据
+70:### 3.1 三种不同的“设计”层次
+80:### 3.2 活动分类
+93:### 3.3 七项识别维度
+107:### 3.4 生产权限、归属关系与反馈机制
+142:## 四、时间结构
+146:### 4.1 英国锚点时间轴
+156:### 4.2 比较地区自身时间轴
+166:### 4.3 机制—时间矩阵
+185:## 五、框架冻结前的中心机制生死门
+187:### 5.1 两种可接受的证据路径
+210:### 5.2 生死门判定
+227:## 六、六节问题链与字数
+229:### 6.1 篇幅表
+245:### 6.2 1.1 在“设计”之前：历史词语与分布式造物知识
+269:### 6.3 1.2 尺度变化：机器、能源、市场与协调问题
+292:### 6.4 1.3 表述媒介与决定权限：图样、模型、样品和规格
+317:### 6.5 1.4 主链与对照链：材料如何进入形式
+344:### 6.6 1.5 生产现场的判断：具名作者、匿名劳动与市场反馈
+374:### 6.7 1.6 英国路径的边界与当前不可比之处
+405:## 七、案例架构：1＋1＋2＋1
+425:## 八、证据独立性
+438:## 九、本章专用停写条件
+453:## 十、下一步
+# 第一章　工业化、劳动分工与“设计”的生成
+
+> 状态：已解锁（结果B路径）；开篇与1.1已形成第一轮初稿，1.6按结果B降级
+
+## 解锁条件
+
+只有同时满足以下条件，才能在本文件中撰写正文：
+
+1. `02-证据与注释.md` 的G1-A或G1-B通过，且中心机制生死门通过；
+2. 一个具体主锚点和一个对照锚点通过准入门槛；
+3. `01-本章文献映射.md` 已记录核心材料的全文／定向读取状态、精确页段、上下文和跨章边界；长篇原文可以按拟写判断定向回溯，但对应页段未核不得落笔；
+4. 六节结构经过重大修改后的复审；
+5. 第一章与第二章的边界没有未解决冲突；
+6. 区域材料已经作出结果A或结果B判定。
+
+区域比较采用两条解锁路径：
+
+- **结果A：完整比较成立。** 保留1.6的跨区域比较。
+- **结果B：完整比较不成立。** 可以解锁证据已经成立的1.1—1.5；1.6必须降级为“英国路径的边界与当前不可比之处”，删除对称比较表述，明确材料不对称，不得把英国路径写成普遍模型。
+
+在解锁前，本文件不存放试写段落、直接引文、情节化开篇或未经核验的事实。
+
+## 解锁裁定（2026-07-31）
+
+- G1-A：A级与B级混合连续链通过；
+- G1-B：B级关联互证通过；
+- 主锚点：Hall M1819生产体系及其向Simeon North承包体系的转移；
+- 对照锚点：约1773年Wedgwood青蛙餐具试制甜点盘（NGV D7-1993）；
+- 区域路径：结果B。英国机制棉纱与奥斯曼织造存在真实商品联系，但时期、图样权限和制度身份不对称；
+- 写作边界：1.6不作完整对称比较，不得把英国路径写成普遍阶段。
+
+## 解锁后的写作执行规则
+
+1. 以 `00-章节提纲.md` 的1.1—1.6问题链组织正文，不以书目顺序、报告顺序或单部著作的章节顺序组织正文。
+2. 每一段先确定它回答的提纲问题，再选择证据；不能回答该问题的材料，即使相关，也不写入本段。
+3. 每个关键判断、直接引文、数字和行动者权限在落笔时回溯对应原文，核对页码、上下文、版本和材料声音。
+4. 报告只用于定位。正文脚注回指实际读取的原文；转引必须标明实际阅读来源。
+5. 同一来源不得从1.2一路铺写到1.5而不改变问题。跨节使用时，分别说明它在各节承担的不同证据功能。
+6. 原文与提纲预期不一致时，优先修改或收缩正文判断，并在 `02-证据与注释.md` 记录；不得为保留既定结论而选择性摘取。
+7. 未核材料留在文献映射或证据表，不用占位句写入正文。
+
+## 开篇　从一支可以拆散重装的步枪说起
+
+1827年，美国联邦军械署的三名调查委员来到哈珀斯费里步枪工场。他们从约翰·霍尔（John H. Hall）在1824年制造的步枪中抽取一百支，命令工人将枪械拆散，把同类零件混在一起，再装配到一百个新枪托上。委员随后逐支检查。1836年美国众议院报告收录的调查记录称，这些零件能够重新组成完整步枪；记录还把产品的形式、尺寸和相对比例同“既定模型”联系起来，使偏差成为可以发现和检验的对象。[^1]
+
+今天，斯普林菲尔德军械库国家历史遗址仍收藏一支M1819霍尔专利后装燧发步枪，登记号为SPAR 952。它不是已知参与1827年试验的那一百支枪，也没有被证实为后来实物研究拆检的样枪。它的意义首先在于让一种生产问题变得可见：枪托、枪管、后膛块、扳机和连接件�
+... (truncated)
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:51:48Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning workflow restructuring and source review**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:51:51Z)**_
+
+样例规则已经确认：当前最关键的调整不是换几个句式，而是把“解锁规则、证据等级和分类表”退出出版正文，让正文重新由可观察对象和历史动作推动。我现在只回查重写所需的原文页段，不扩大书目范围。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:51:54Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$berg='00-book\Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.md'
+$quat='00-book\Donald Quataert：《Ottoman Manufacturing in the Age of the Industrial Revolution》.md'
+rg -n -i -C 4 "Yorkshire|putting-out|merchant-manufacturer|domestic industry|women|children|spinning|weaving|fulling" -- $berg | Select-Object -First 220
+rg -n -i -C 4 "Trabzon|Trebizond|headscarf|handkerchief|woodblock|wood block|black|women|household|putting-out|yarn|German dyes" -- $quat | Select-Object -First 260
+```
+```
+Exit code: 0
+Wall time: 2 seconds
+Total output lines: 82
+Output:
+1-The Age of Manufactures 1700-1820 Industry, innovation and work in Britain Second edition Maxine Berg ![](images/1deb03f7b8e42a6ef647073cbc0da53cf2e1c00d6f63a27cc6076145726b850b.jpg) ![](images/8969d42cdc180989b10a3e791dc5edc820f1c2b2a476026c6ee2fe1d57835448.jpg) Also available as a printed book see title verso for ISBN details
+2-
+3:# THE AGE OF MANUFACTURES, 1700–1820 This new edition of The Age of Manufactures provides an exciting alternative overview of the eighteenth-century British economy. Recent macroeconomic history has discounted many of the achievements of the Industrial Revolution, but Maxine Berg digs beneath the macroeconomic estimates to dissect the characteristics and processes of industry in the eighteenth century. A male industrial revolution has been presented as the general experience, but new industries, notably in textiles and metal products, were primarily employers of women. This new edition gives these industries and their workforces due prominence. Technologies, work processes, labour forces and markets shifted in a variety of directions and forms to create a sector of dynamic new initiatives alongside stable and declining crafts. The key to the Industrial Revolution must lie in the sources of technological creativity and the structures of industrial communities. The rise of the factory system was one result; proliferating workshops and putting-out systems were equal novelties in a whole range of consumer-based manufacturing industries. The Age of Manufactures reasserts the primacy of the industrial experience to Britain’s Industrial Revolution. In this new edition, four additional chapters, graphs and statistical summaries, as well as a thorough revision of the rest of the text, have refreshed and enhanced this well-established and important contribution to British economic history. Maxine Berg is Senior Lecturer in History at the University of Warwick. She is the author of The Machinery Question and the Making of Political Economy 1815–1848 (1980), an editor of Markets and Manufacture in Early Industrial Europe (1991), and author of many articles on the Industrial Revolution.
+4-
+5-# THE AGE OF MANUFACTURES, 1700–1820 Industry, innovation and work in Britain SECOND EDITION Maxine Berg OUTLEDGE London and New York
+6-
+7-First published 1994 by Routledge 11 New Fetter Lane, London EC4P 4EE This edition published in the Taylor & Francis e-Library, 2005. To purchase your own copy of this or any of Taylor & Francis or Routledge’s collection of thousands of eBooks please go to http://www.ebookstore.tandf.co.uk/. Simultaneously published in the USA and Canada by Routledge 29 West 35th Street, New York, NY 10001 © 1994 Maxine Berg All rights reserved. No part of this book may be reprinted or reproduced or utilized in any form or by any electronic, mechanical, or other means, now known or hereafter invented, including photocopying and recording, or in any information storage or retrieval system, without permission in writing from the publishers. British Library Cataloguing in Publication Data A catalogue record for this book is available from the British Library Library of Congress Cataloging in Publication Data Applied for ISBN 0-203-99097-8 Master e-book ISBN ISBN 0-415-06934-3 (hbk) ISBN 0-415-06935-1 (pbk) For the history students at Warwick University; and for Michael Lebowitz who taught me as an undergraduate
+8-
+9:## CONTENTS List of plates vi List of figures vii List of tables viii Preface ix Introduction 1 Part I Manufacture and the Economy 1 CURRENT PERSPECTIVES AND NEW DEPARTURES 9 2 INDUSTRIES 27 3 MODELS OF INDUSTRIAL TRANSITION 48 4 AGRICULTURE, RESOURCES, ENVIRONMENT 65 5 INDUSTRIAL DECLINE 84 6 TRADE, CONSUMPTION AND MANUFACTURING 100 7 WOMEN, CHILDREN AND WORK 117 Part II Paths to the Industrial Revolution 8 MACHINES AND MANUAL LABOUR 146 9 THE RISE OF THE FACTORY SYSTEM 162 10 THE TEXTILE INDUSTRIES: ORGANIZING WORK 180 11 THE TEXTILE INDUSTRIES: TECHNOLOGIES 204 12 THE METAL AND HARDWARE TRADES 223 Conclusion 246 Notes 250 Bibliography 273 Index 291
+10-
+11:## PLATES 1 Painting of Thorncliffe ironworks, near Sheffield, 1811 39 2 The art of hat-making 44 Flax spinning in County Down 119 Spinning with distaff and spindle 125 The flax spinning wheel 127 6 Spinning jenny 128 7 Calico printing—‘pencilling’ and block printing 133 8 Block printing 133 9 Cylinder printing 135 10 The Arkwright water frame, patented 1769 206 11 ‘Modern’ spinning mule 208 12 Spinning mule 209 13 Gig mill 216 14 Broad perpetual shearing frame 216 15 Sheffield cutler finishing a knife 231 16 Turning 237 17 Emailleur à la lampe, perles fausses 243
+12-
+13:## FIGURES 1.1 Britain’s development transition in European perspective 14 2.1 Trend growth of industry 32 2.2 The growth of the textile industries, 1730–1815 33 2.3 Percentage of labour costs of woollens in each process 35 2.4 Pig iron output, 1788–
+... (truncated)
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:52:15Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Outlining historical event details**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:52:15Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning chapter opening and introduction**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:52:19Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$berg='00-book\Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.md'
+$patterns=@('master clothier','merchant manufacturer','merchant-manufacturer','Yorkshire clothier','West Riding','fuller','fulling mill','putting out','putting-out')
+foreach($p in $patterns){"PATTERN: $p"; rg -o -i -m 12 ".{0,180}$([regex]::Escape($p)).{0,260}" -- $berg}
+$quat='00-book\Donald Quataert：《Ottoman Manufacturing in the Age of the Industrial Revolution》.md'
+$patterns2=@('Trabzon','Trebizond','wood blocks','woodblocks','wood block','head scarves','headscarves','handkerchiefs','black ground','German dyes')
+foreach($p in $patterns2){"PATTERN: $p"; rg -o -i -m 10 ".{0,180}$([regex]::Escape($p)).{0,260}" -- $quat}
+```
+```
+Exit code: 0
+Wall time: 2 seconds
+Total output lines: 216
+Output:
+PATTERN: master clothier
+four dozen of these in his large mill at Bean Ing. By this time, however, objections were being raised about the jenny’s impact on employment, and in 1806 a group of merchants and master clothiers in Saddleworth met to pass a resolution opposing the factory system in woollen spinning and weaving.<sup>4</sup> In the West Country, until the 1790s, it was only on the fringes of the industry that such machinery was accepted. This was an area which, unlike
+PATTERN: merchant manufacturer
+PATTERN: merchant-manufacturer
+carded long-fibred wool, was organized in Yorkshire on a much more capitalistic basis right from the outset. There the small independent clothier never existed; instead there were merchant-manufacturers who resembled the large West of England clothiers. They bought large quantities of wool at big fairs and put it out over a wide area to be spun and woven. The open marketing at the Leeds cloth hall with over 1,000 stallholders was in sharp contrast to the co
+PATTERN: Yorkshire clothier
+PATTERN: West Riding
+ntration of the industry in this one region meant not gradual change in the industry but a regional revolution in organization and products.<sup>16</sup> The new importance of the West Riding of Yorkshire was complemented by the decline over the century of the industry in Suffolk, Essex and the West Country, and by the early nineteenth century in Northamptonshire and other parts of the Midlands and the South.<sup>17</sup> The major gains of the in
+ly with the manufacturer. While the woollen industry of the West Country and the worsted industry of West Yorkshire were model examples of putting-out, the woollen industry of the West Riding was the seat of that independent artisan production which received the praise of Defoe, Josiah Tucker and David Hume. And the survival of these small independent clothiers was ensured well into the nineteenth century, when in face of the advantages of machine
+ntury textile entrepreneurs from the West Country, East Anglia and the Midlands show a close connection between agricultural and industrial investments. In these areas, unlike the West Riding which was known for its yeoman clothiers, this connection did not represent a direct involvement in both farming and manufacture. There was, rather, a direct connection between investment in textiles and investment in secondary agrarian activity. Many entrepr
+an=1>353</td></tr></table> Source: R.C.Allen, ‘Agriculture and the Industrial Revolution’, table 5.4, p. 109. metal trades. Capital from farms and smallholdings also went into the West Riding woollen industry.<sup>34</sup> Was this capital agricultural or industrial in its origins? This section has argued that there was no clear-cut division between the two sectors. Early industrial capital formation and enterprise frequently combined activities a
+y took to industry to supplement their small agricultural incomes. The Kentish Weald, North-West Wiltshire and central Suffolk provided examples of the first, and the Dales of the West Riding examples of the second, where They knitted as they walked the village streets, they knitted in the dark because they were too poor to have a light; they knitted for dear life, because life was so cheap.<sup>46</sup> The simple correspondence between areas of 
+-operative agriculture, this is not to say that communal agriculture and industrial by-employments did not coexist. Wigston was a case in point; so too was the woollen area of the West Riding of Yorkshire. For most cottagers and smallholders, however, the kind of inheritance that was most important was not that of a tenure but that of use rights. David Hey has shown that it was not so much equal partition that was crucial as the existence of commo
+ferent inheritance systems and the differential decline of manorialism also help to explain the emergence of different industries and different industrial organizations within the West Riding of Yorkshire. The traditional woollen industry found its context in an area of large fertile holdings dominated by traditional manorial controls over land tenure. More copyhold land was retained, and the commons were not enclosed until the late eighteenth cen
+tain’s long experience in using them, are not enough to explain this series of events. Tyneside’s early success story built on coal was soon eclipsed by that of Lancashire and the West Riding, whose emergence as successful industrial regions was caused by a quite different range of factors. The extent to which coal provided a release from the limits to growth was, furthermore, subject to strict constraints, as Ricardo clearly understood. Mines wer
+tended along a right-angle connecting Bristol, London and Norwich. By the nineteenth century this zone had shifted north and north-west to the coalfields of the West Midlands, the West Riding, Lancashire and South Wales. The old manufacturing centre
+... (truncated)
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:52:31Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+$q='00-book\Donald Quataert：《Ottoman Manufacturing in the Age of the Industrial Revolution》.md'
+rg -o -i -m 4 ".{0,1200}large and small Trabzon dyehouses.{0,2600}" -- $q
+$b='00-book\Dr Maxine Berg：《The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain》.md'
+rg -o -i -m 4 ".{0,1000}some of the wool was put out to be spun in neighbouring cottages.{0,2200}" -- $b
+```
+```
+Exit code: 0
+Wall time: 1.9 seconds
+Output:
+ltogether, probably display the range that was extant in the late Ottoman economy. ## Trabzon The port city of Trabzon was not a major textile producer and yet the local organization of labor at first glance seems unique in its exquisite variety. This quality, however, probably is apparent rather than real, stemming from the simple fact that the activities of this particular port city were heavily documented in the sources consulted for this study. Home weavers commercially made silk cloth, after dyeing threads that merchants likely provided. Less formally, peddlers regularly toured linen-weaving neighborhoods and bought the surplus for sale in other areas. In cotton textiles during the 187os, merchants operated a production nexus that included urban workshops and home weavers in the hinterland, making manusa cloth.33 At the end of the century, the workers in urban workshops were weaving on consignment for merchants who provided the varns needed.34 In 1912, independent workshop weavers of the cotton peştemal fabric accounted for one-third of the looms in the city while home industry producers made up the balance, selling to merchants by the piece. In addition, c. 19oo, a number of large and small Trabzon dyehouses cut, dyed and printed imported cloths for use as women's head gear. They imported both coarse and fine cotton cloth from England and used mainly German dyes. At the worksite, they cut up the bolt of cloth into approximately 25 pieces (of either çember or yazma). Persians operated the large shops and were seen as more skilled, printing in all colors and marketing their own products (cember) in the retail trade. The Armenians (yazmacıs) were small shop owners who first printed the black background color of the yazma cloth and then gave it to Turkish women who worked at home tracing out in color the general patterns, copied from İstanbul, of the head dress. Using woodblocks sent from the capital, they then stamped in patterns with the traced colors. In addition, they printed various kinds of turbans (sarık), made from Manchester cloth, and produced the abani type, worked with yellow silk, as well. The women dyer/printers received payment by the piece; in contrast, only men worked in the dyehouses and they received wages, of 5–6 piasters a day.35 Overall, the impression is that centralized textile production at Trabzon gradually declined while household production was able to compete more successfully. By 19oo, putting out networks and household production dominated textile manufacturing in Trabzon far more than at any time in the preceding century. ## Diyarbakır The town of Diyarbakır and its surrounding villages contained one of the densest concentrations of looms in eastern Anatolia. In the 185os, the town of Diyarbakır held some 3oo weaving establishments controlled by 20o masters who directed some 1,5oo men and boys. Unusually for the Erzurum-Harput-Diyarbakır region as a whole, most looms – approximately 86 percent – in the local area of Diyarbakır were urban based. This urban concentration probably derived from Diyarbakır weavers' focus on silk cloth making, a more highly skilled activity that typically occurred in towns rather than the countryside. Town weavers specialized in silk and cotton-silk textiles, including red and white-thread kutni and citari cloths as well as silk cloth (canfez). Paid by the piece, silk weavers in town then annually earned 5o percent more than the cotton weavers. Workers owned their looms, either for silk or cotton, that cost up to one-third of an annual wage.36 In the surrounding rural districts, most weavers focused on the production of cotton cloth. Commercial and subsistence weaving was scattered throughout these rural areas.37 This pattern owed much to the poor agriculture of the Diyarbakır region, that encouraged p
+t a full set of clothmaking utensils and employed journeymen, women and apprentices. The larger clothiers often bought pieces from small men and sold these along with the cloth of their own manufacture to merchants from London and Yorkshire. The cloth was then taken once or twice a week to the open markets in Leeds, Halifax or Wakefield, or sent in cargoes to Blackwell Hall or Bartholomew Fair. The small clothier’s establishment was largely determined by the size of the labour force needed to make a piece of cloth; in the case of the kersey manufacture it took six people sorting, carding, spinning, weaving and shearing for one week to produce one finished but undyed piece.<sup>32</sup> During the course of the eighteenth century a division arose in Yorkshire between the woollen and worsted branches. The small independent wool clothiers remained much as they had been in the seventeenth century. The father went to market and bought the wool; the wife and children carded and spun it, and some of the wool was put out to be spun in neighbouring cottages. With the help of his sons, apprentic
+... (truncated)
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:52:44Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command**</summary>
+```bash
+Get-Content -LiteralPath '07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md' -Encoding UTF8 | Select-Object -Skip 445 -First 80
+Get-Content -LiteralPath '07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md' -Encoding UTF8 | Select-Object -Last 18
+```
+```
+Exit code: 0
+Wall time: 1.9 seconds
+Output:
+5. 把专利、注册、署名或企业归属当作实际形式决定；
+6. 区域比较未通过，却仍保留对称比较表述或把英国路径写成普遍模型；
+7. 区域材料只在最后一节出现；
+8. 1.6越界承担教育、展览、公共审美或国家竞争主论证；
+9. 文献独立性只按数量判断；
+10. 具体图像和教学组件先于主锚点与对照锚点冻结。
+
+## 十、下一步
+
+1. 在 `01-本章文献映射.md` 完成候选材料的全文读取状态、精确页段和跨章边界；
+2. 在 `02-证据与注释.md` 分别尝试G1-A主锚点连续链和G1-B关联性三角互证链；
+3. 生死门通过后，确定一个主锚点、一个对照锚点，并判定区域材料进入结果A或结果B；
+4. 复审六节结构和16,000字分配；
+5. 通过结构复审后，才解锁 `03-正文.md`，再建立具体图像与教学组件。
+
+正文启动后以本提纲的六节问题链为唯一组织轴。每个关键判断在落笔时定向回溯对应原文页段，核对上下文、版本和页码；不因某部文献材料丰富而另起与小节问题无关的论述。长篇原文不要求无差别通读，但未经对应页段核验的内容不得进入正文。
+## 1.2　尺度变化：机器、能源、市场与协调问题
+
+## 1.3　表述媒介与决定权限：图样、模型、样品和规格
+
+## 1.4　主链与对照链：材料如何进入形式
+
+## 1.5　生产现场的判断：具名作者、匿名劳动与市场反馈
+
+## 1.6　英国路径的边界与当前不可比之处
+
+## 结语　从生产权限进入公共治理
+
+[^1]: U.S. Congress, House, Committee on Military Affairs, *John H. Hall*, H. Rep. No. 375, 24th Cong., 1st sess., February 24, 1836, pp. 8–10。该报告服务于霍尔补偿请愿，能够证明委员会如何记录试验和评价体系，不能视为无立场的现场观察。
+[^2]: National Park Service, Springfield Armory National Historic Site, “Federal Armories,” 馆藏条目 *U.S. Breech-loading Flintlock Rifle M1819 (Hall’s Patent)*, .52 caliber, SPAR 952；关于霍尔体系向诺思承包体系的传递，见 David A. Hounshell, *From the American System to Mass Production, 1800–1932* (Baltimore: Johns Hopkins University Press, 1984), pp. 38–43。现有材料未证明SPAR 952即戈登拆检样枪。
+[^3]: Robert B. Gordon, “Simeon North, John Hall, and Mechanized Manufacturing,” *Technology and Culture* 30, no. 1 (1989): 182–188。
+[^4]: Maxine Berg, *The Age of Manufactures, 1700–1820: Industry, Innovation and Work in Britain*, 2nd ed. (London and New York: Routledge, 1994), ch. 10, pp. 180–203。初稿依据项目源文本定向读取；定稿前须复核纸本分页。
+[^5]: Donald Quataert, *Ottoman Manufacturing in the Age of the Industrial Revolution* (Cambridge: Cambridge University Press, 1993), pp. 80–90。
+[^6]: Quataert, *Ottoman Manufacturing*, pp. 84–90。初稿依据项目源文本定向读取；具体页码在定稿前复核纸本。
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:53:08Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating Section 10 Writing Mode**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:53:21Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating Section 10 Writing Mode**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:53:21Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Refining chapter 1.1 historical opening**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:53:35Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating Section 10 Writing Mode**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:53:35Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Refining chapter 1.1 historical opening**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:53:35Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Integrating historical terms and Trabzon case**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:53:38Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Updating Section 10 Writing Mode**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:53:38Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Refining chapter 1.1 historical opening**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:53:38Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Integrating historical terms and Trabzon case**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:53:38Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning full chapter 1 patch with rewriting**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:54:17Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md`**
+
+```diff
+@@
+-## 十、下一步
+-
+-1. 在 `01-本章文献映射.md` 完成候选材料的全文读取状态、精确页段和跨章边界；
+-2. 在 `02-证据与注释.md` 分别尝试G1-A主锚点连续链和G1-B关联性三角互证链；
+-3. 生死门通过后，确定一个主锚点、一个对照锚点，并判定区域材料进入结果A或结果B；
+-4. 复审六节结构和16,000字分配；
+-5. 通过结构复审后，才解锁 `03-正文.md`，再建立具体图像与教学组件。
+-
+-正文启动后以本提纲的六节问题链为唯一组织轴。每个关键判断在落笔时定向回溯对应原文页段，核对上下文、版本和页码；不因某部文献材料丰富而另起与小节问题无关的论述。长篇原文不要求无差别通读，但未经对应页段核验的内容不得进入正文。
++## 十、第一章正文写作模式
++
++本章统一采用《艺术与观念》样例转化后的教材叙事，不把提纲、权限矩阵或证据等级直接改写成连续正文。六节问题链仍是论证骨架，但骨架通过历史现场、对象动作和行动者关系呈现。
++
++### 10.1 章节推进
++
++> 承接导论 → 历史现场 → 对象提出的矛盾 → 分节展开生产机制 → 对照与反例限制判断 → 条件性结论 → 通向第二章
++
++开篇只提出问题，不提前给出整章答案。每节末尾必须留下下一节需要处理的证据问题，不使用“下面将讨论”作机械预告。
++
++### 10.2 小节内部
++
++> 具体对象或生产动作 → 当时称谓和行动者 → 可观察材料 → 机制解释 → 证据边界 → 有限判断
++
++1. 每节优先选择一件物、一道工序或一次制度动作作为入口；
++2. 抽象概念必须从对象中产生。四级活动分类和权限矩阵只用于作者检查，不按条目向读者宣讲；
++3. 研究者姓名只在确有史学分歧或材料身份需要说明时进入正文；一般事实由脚注承担出处；
++4. 来源批判集中放在文献首次出现处、争议段或脚注，不在相邻段落重复“不能证明”；
++5. 对象细读按照“辨认—拆分／操作—生产—检验／使用”的可跟随顺序展开；
++6. 英国与奥斯曼材料不写成对称地区综述。奥斯曼材料只在具体商品、原料、图案或劳动关系与本节问题发生联系时进入。
++
++### 10.3 段落与语句
++
++> 初步判断 → 可核事实 → 对象或操作分析 → 机制解释 → 限定 → 段落回收
++
++- 一个段落只承担一个主要判断；
++- 时间、地点和材料身份前置，历史行动者、制度材料、研究者与教材作者分别拥有明确主语；
++- 事实在前，解释在后；“因此”“从而”之前必须出现原因、中介机制和结果对象；
++- 句子一般控制在30—60字；超过90字时拆分证据、转折或因果；
++- 段末回收本段对小节问题的意义，或说明为什么必须转换材料、行动者或尺度。
++
++### 10.4 正文与工作文件的边界
++
++- `03-正文.md`只保留可进入教材的章题、承接段、正文和脚注；
++- 解锁条件、证据等级、候选淘汰过程和未核材料留在 `01-本章文献映射.md`、`02-证据与注释.md` 与 `05-审校记录.md`；
++- 每个关键判断落笔时仍须定向回溯对应原文，核对上下文、版本、页码和材料声音；
++- 原文与提纲预期不一致时，收缩正文判断并更新证据表，不为维持叙事强度选择性摘取；
++- 长篇原文不作无差别通读，但未经对应页段核验的内容不得进入正文。
++
++### 10.5 当前执行顺序
++
++1. 以Hall步枪拆装检验重写开篇，只建立矛盾；
++2. 以约克郡一匹毛织物的生产路径重写1.1，使概念从对象与称谓中产生；
++3. 以特拉布宗印花头巾作为时间和区域上的限制案例，不建立英—奥对称发展线；
++4. 逐节回溯原文后继续1.2—1.6；
++5. 正文成形后再建立图像清单和教学组件。
+```
+
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md`**
+
+```diff
+@@
+ # 第一章　工业化、劳动分工与“设计”的生成
+ 
+-> 状态：已解锁（结果B路径）；开篇与1.1已形成第一轮初稿，1.6按结果B降级
+-
+-## 解锁条件
+-
+-只有同时满足以下条件，才能在本文件中撰写正文：
+-
+-1. `02-证据与注释.md` 的G1-A或G1-B通过，且中心机制生死门通过；
+-2. 一个具体主锚点和一个对照锚点通过准入门槛；
+-3. `01-本章文献映射.md` 已记录核心材料的全文／定向读取状态、精确页段、上下文和跨章边界；长篇原文可以按拟写判断定向回溯，但对应页段未核不得落笔；
+-4. 六节结构经过重大修改后的复审；
+-5. 第一章与第二章的边界没有未解决冲突；
+-6. 区域材料已经作出结果A或结果B判定。
+-
+-区域比较采用两条解锁路径：
+-
+-- **结果A：完整比较成立。** 保留1.6的跨区域比较。
+-- **结果B：完整比较不成立。** 可以解锁证据已经成立的1.1—1.5；1.6必须降级为“英国路径的边界与当前不可比之处”，删除对称比较表述，明确材料不对称，不得把英国路径写成普遍模型。
+-
+-在解锁前，本文件不存放试写段落、直接引文、情节化开篇或未经核验的事实。
+-
+-## 解锁裁定（2026-07-31）
+-
+-- G1-A：A级与B级混合连续链通过；
+-- G1-B：B级关联互证通过；
+-- 主锚点：Hall M1819生产体系及其向Simeon North承包体系的转移；
+-- 对照锚点：约1773年Wedgwood青蛙餐具试制甜点盘（NGV D7-1993）；
+-- 区域路径：结果B。英国机制棉纱与奥斯曼织造存在真实商品联系，但时期、图样权限和制度身份不对称；
+-- 写作边界：1.6不作完整对称比较，不得把英国路径写成普遍阶段。
+-
+-## 解锁后的写作执行规则
+-
+-1. 以 `00-章节提纲.md` 的1.1—1.6问题链组织正文，不以书目顺序、报告顺序或单部著作的章节顺序组织正文。
+-2. 每一段先确定它回答的提纲问题，再选择证据；不能回答该问题的材料，即使相关，也不写入本段。
+-3. 每个关键判断、直接引文、数字和行动者权限在落笔时回溯对应原文，核对页码、上下文、版本和材料声音。
+-4. 报告只用于定位。正文脚注回指实际读取的原文；转引必须标明实际阅读来源。
+-5. 同一来源不得从1.2一路铺写到1.5而不改变问题。跨节使用时，分别说明它在各节承担的不同证据功能。
+-6. 原文与提纲预期不一致时，优先修改或收缩正文判断，并在 `02-证据与注释.md` 记录；不得为保留既定结论而选择性摘取。
+-7. 未核材料留在文献映射或证据表，不用占位句写入正文。
++导论已经说明，设计史研究的不只是设计师和名作，还包括物品怎样被生产、使用、解释和保存。不过，这一分析尺度还不能回答一个更具体的问题：当产品经过更多工序、更多劳动者和更远距离以后，谁能够决定它的形式？第一章由此从设计史的研究对象转向生产关系，考察形式判断怎样在劳动分工中被传递、执行和修正。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\00-章节提纲.md
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:54:39Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning patch replacement and footnote renumbering**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:54:39Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Structuring opening paragraphs with source analysis**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:54:40Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning patch replacement and footnote renumbering**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:54:40Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Structuring opening paragraphs with source analysis**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:55:51Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md`**
+
+```diff
+@@
+ ## 开篇　从一支可以拆散重装的步枪说起
+ 
+-1827年，美国联邦军械署的三名调查委员来到哈珀斯费里步枪工场。他们从约翰·霍尔（John H. Hall）在1824年制造的步枪中抽取一百支，命令工人将枪械拆散，把同类零件混在一起，再装配到一百个新枪托上。委员随后逐支检查。1836年美国众议院报告收录的调查记录称，这些零件能够重新组成完整步枪；记录还把产品的形式、尺寸和相对比例同“既定模型”联系起来，使偏差成为可以发现和检验的对象。[^1]
+-
+-今天，斯普林菲尔德军械库国家历史遗址仍收藏一支M1819霍尔专利后装燧发步枪，登记号为SPAR 952。它不是已知参与1827年试验的那一百支枪，也没有被证实为后来实物研究拆检的样枪。它的意义首先在于让一种生产问题变得可见：枪托、枪管、后膛块、扳机和连接件构成一件完整武器，但这些部件不必由同一名工匠连续完成。零件一旦能够跨越不同工位，甚至跨越哈珀斯费里与私人承包商西缅·诺思（Simeon North）的工场相互替换，产品形式便不再只存在于制作者手中的某件成品里。模型、量规、夹具、合同和检验程序也开始参与规定“同一种枪”应当是什么。[^2]
+-
+-不过，部件互换不能被简化为机器精度的胜利。罗伯特·戈登（Robert B. Gordon）在1987年拆检一支1832年诺思制造的M1819步枪和一支1838年哈珀斯费里制造的同型枪。两支枪交换后膛块以后仍能工作，操作却不如交换前顺畅。关键配合面留下的痕迹还显示，机床主要承担粗加工，熟练工借助量规、锉刀和专用夹具完成最终尺寸。[^3] 机器、标准媒介与手工判断并不是先后取代的三种生产方式，而是在同一件产品中共同发生作用。
+-
+-一百支枪的拆装试验由此提出的，不只是机械制造问题。霍尔能够提出互换目标、改进机器并指导工人，联邦政府却掌握合同、设施和检验安排；工人没有取得公开作者身份，却在关键配合面的加工中决定部件能否实际装合；检验者不制作零件，却可以依据模型和尺寸接受或否定结果。若把这一过程统称为一名发明家的“设计”，不同权限便会重新被压缩到一个名字之下。本章因此不追问工业革命在何时“发明了设计”，而要考察另一项更具体的变化：在工业化条件下，提出、表述、执行、修改和检验形式的权限怎样被重新分配，又为何始终没有完全离开现场知识。
++1827年，美国联邦军械署的三名调查委员来到哈珀斯费里。他们从约翰·霍尔（John H. Hall）的工场抽取一百支步枪，命令工人卸下零件，把同类部件混在一起，再装到一百个新枪托上。原来属于某一支枪的部件由此失去了固定位置。委员逐支检验重新装配的枪械，随后确认它们仍能组成完整产品。[^1]
++
++拆散以前，每支枪都呈现为一件连续的成品。拆散以后，枪托、枪管、后膛块和连接件成为可以重新组合的部件。检验所追问的也不再只是某位工匠能否做好一支枪，而是不同工位制造的零件能否共同符合一个“既定模型”。模型规定相对比例，量具检查尺寸，最后的装配则暴露两者是否真正进入生产。
++
++这项试验后来成为美国互换性制造叙述中的著名事件，却不能只被理解为机器取得了胜利。1987年，罗伯特·戈登（Robert B. Gordon）拆检一支1832年由西缅·诺思（Simeon North）制造的M1819步枪，以及一支1838年在哈珀斯费里制造的同型枪。两支枪的后膛块可以交换，动作却不如原配部件顺畅。配合面留下的加工痕迹还显示，机床完成粗加工以后，熟练工仍需借助量规、锉刀和夹具调整最终尺寸。[^2]
++
++于是，同一件枪中出现了几种并不重合的决定。政府通过合同和检验规定产品必须达到什么结果，霍尔组织模型、机器与工序，工人则在金属表面处理实际偏差。谁是这支枪的“设计者”，并不能概括这些关系。本章真正要追问的是：当产品被拆成部件、工序和指标以后，关于形式的决定怎样离开某个人的双手，又怎样在生产现场重新获得具体形态。
+ 
+ ## 1.1　在“设计”之前：历史词语与分布式造物知识
+ 
+-“设计”不是一枚可以原样放入所有历史时期的标签。本章首先区分三种用法。第一种是历史行动者实际使用的称谓，例如商人、工场主、master、制模工、绘图员、织工和检验员。第二种是教材为了比较不同生产关系而使用的分析概念“设计性活动”。它指制作完成以前，对可能形式作出选择，并通过图样、模型、样品、规格或明确指令把选择传递给他人的活动。第三种是后来形成的专业身份，即岗位、合同、课程、协会或法律把某类活动识别为独立职业。三种用法不能互相替代。织工改变经纬配置，可能具有形式—工艺判断，却不因此自动获得后来意义上的“设计师”身份。
+-
+-为了避免从“参与制作”直接跳到“从事设计”，本章把造物活动分为四级。第一级是产品形成劳动，包括准备材料、搬运、加工、装配和表面处理。第二级是形式—工艺判断，即劳动者根据材料状态、工具能力和工序误差调整做法。第三级是组织化形式决定：某项决定被外化以后，能够跨越工序、人员或地点进入生产。第四级才是制度识别的设计活动，相关权限被岗位、合同、教育或法律明确命名。这四级不是从低到高的必然进化序列。同一工场可以具有复杂的跨工序决定，却没有独立的设计职业；已经出现设计岗位的企业，也仍依赖未被岗位名称记录的现场判断。
+-
+-18世纪英国纺织业提供了观察分布式知识的一个入口。马克辛·伯格（Maxine Berg）对纺织劳动组织的研究表明，家庭生产、putting-out、专业作坊和集中工场并非依次退场。以约克郡毛纺为例，小生产者购买羊毛，家庭成员承担梳理和纺纱，织造、染色、缩绒和销售又可能连接学徒、邻近住户、缩绒作坊与公开市场。另一类商人—制造者则在较大范围内发放原料，把纺纱和织造分配给不同住户。[^4] 这些关系已经包含选择材料、安排工序和判断质量，却很难归属于单一作者。某块布的形式，是原料性质、家庭劳动、商人委托、地方技能和市场交易接续形成的结果。
+-
+-这里尤其需要区分“事实影响”与“正式权限”。家庭中的妇女和儿童承担梳理、纺纱或辅助加工，其劳动当然进入产品；只有当材料显示他们根据纤维、张力、颜色或工具状态调整工序时，才能进一步讨论形式—工艺判断。商人提供原料并不等于他决定了全部形式；但当商人选择纱线、规定品类、分发样品或决定是否收货时，他的决定会跨越多个住户进入生产。作坊主、织工和整理工也可能分别拥有解释和修改空间。与其追问“真正的设计者是谁”，更准确的问题是：哪一项决定由谁提出，借助什么媒介传递，又由谁在现场解释和检验。
+-
+-奥斯曼纺织业说明，这种分布式结构并不是等待英国工厂模式取代的早期阶段。唐纳德·夸特尔特（Donald Quataert）依据奥斯曼档案、领事报告和地区统计指出，19世纪的许多家庭既从事农业，也纺纱或织布；城市小作坊、商人组织的putting-out网络、行会关系和少数机制工厂长期并存。传统统计往往只记录城市、行会和工厂，因而使农村家庭生产与妇女劳动显得不重要。[^5] 材料的缺席在这里首先是保存和统计方式的结果，不能直接解释为活动不存在。
+-
+-特拉布宗的印花头巾生产进一步显示，分散并不等于没有协调。夸特尔特记录，一些小作坊先在棉布上印出黑色底层，再把半成品交给居家妇女描出彩色部分；工人随后使用从伊斯坦布尔送来的木版压印图案。进口布匹、德国染料、作坊加工、居家描色和异地木版在同一产品中相接。[^6] 木版使图案能够跨地点重复，作坊主控制工序分派，居家劳动者则必须在具体布面上处理颜色和套印。现有记录不足以证明这些妇女拥有图案选择权或最终验收权，但也不能把她们的工作降为对既定图样的无判断复制。
+-
+-英国与奥斯曼材料在年代、术语和档案密度上并不对称，因此不能据此建立两条整齐平行的职业发展线。两组材料能够共同说明的，是一种较低强度但更可靠的判断：在专业“设计”身份出现以前，形式知识已经分布在采购、制样、加工、调整、检验和销售等不同环节。工业化没有从空白处创造构思活动。它改变的是决定需要跨越的距离、重复的次数和承担风险的组织。只有当生产规模、机器能力和市场范围发生变化时，分布式判断才更频繁地被转换为模型、规格、样品和可检验的指令。
++### 一匹毛织物经过多少双手
++
++18世纪的约克郡，一位小布商兼生产者到市场购买羊毛。回家以后，他的妻子和孩子梳理、纺制纤维，一部分羊毛被送到邻近农舍。布商同儿子、学徒或雇工继续染色和织造，再把织物送往缩绒作坊。成品最后被运到市场摊位；有些人用马或驴驮运，也有人把布匹扛在肩上。这样的家庭每周可能只生产一两匹布，但一件产品已经经过住宅、邻舍、作坊、磨坊和市场。[^3]
++
++这条路径没有留下一个后来意义上的“设计师”岗位。史料和研究使用的是布商、商人—制造者、纺纱者、织工、染工、缩绒工、学徒与雇工等称谓。这些名称首先标示劳动关系，并不自动说明谁拥有决定产品形式的权限。不过，它们可以帮助读者看见：羊毛成为织物以前，材料选择、纱线质量、织造密度、染色和整理并不发生在同一处。
++
++“设计性活动”在本章中因此只是一个分析概念，而不是追加给历史人物的职业称号。准备羊毛、搬运和纺纱属于产品形成劳动；劳动者根据纤维、张力或工具状态调整做法时，才出现形式—工艺判断。某项决定如果通过样品、模型、尺寸或明确指令传给另一名劳动者，便进一步成为组织化的形式决定。只有岗位、合同或法律稳定地识别这些活动时，才可以讨论制度化的设计身份。四种关系可能重叠，却不会自然地一级一级发展。
++
++### 决定并不集中在一个岗位
++
++约克郡毛纺内部已经存在不同的组织方式。小型独立布商可以同家人完成多道工序，再借助邻舍和缩绒作坊补足生产。精纺毛织业中的商人—制造者则在集市大量购入羊毛，把纺纱和织造分派到更广的地区。[^4] 两者都依赖分散劳动，但决定移动的距离和方式并不相同。前一种关系中，材料和质量判断随着家庭成员共同工作而传递；后一种关系需要商人安排原料、工序和收货，使部分要求跨越互不相见的住户。
++
++这种差异也改变了判断失误由谁承担。纺纱者直接接触纤维，能够感知原料是否适合继续加工；织工面对的则是已经形成的纱线。商人可以选择原料、确定产品种类或拒绝收货，却未必知道每一次断线和张力变化。劳动者对产品具有事实影响，不等于他们拥有公开的提议权、批准权或署名权；商人拥有交易和验收位置，也不等于他预先决定了全部形式。产品形式正是在这些不相等的权限之间形成。
++
++把所有判断归给布商，会遮蔽纺纱、织造和整理中的现场调整；把每一项熟练劳动都称为“设计”，又会抹去原料支配、验收和市场位置造成的差异。因而，本章不寻找一位隐藏的“真正设计者”。更可核的问题是：某项形式判断由谁作出，以什么方式到达下一道工序，又由谁承担执行和检验的后果。
++
++### 分散生产不是工厂的早期影子
++
++家庭与作坊之间的协作没有随着机器工厂出现而整齐消失。约1900年的奥斯曼港口城市特拉布宗提供了一个时间较晚的限制案例。当地染印作坊购入英国棉布，主要使用德国染料，并把一匹布裁成大约二十五块头巾用料。较大的波斯人作坊能够完成多色印花并自行销售；亚美尼亚小作坊主先印出黑色底色，再把半成品交给居家劳动的土耳其妇女。她们依据来自伊斯坦布尔的图案描出颜色，并使用从首都送来的木版压印。作坊内的男性按日领取工资，居家染印的妇女则按件计酬。[^5]
++
++一块头巾由此连接了进口布匹、异地木版、城市作坊和家庭劳动。图案可以跨地区重复，颜色却仍需在具体布面上描绘和套印。作坊主决定半成品怎样分派，木版限定图案轮廓，居家劳动者则处理每块布上的实际位置与颜色。现有材料没有说明妇女能否选择图案或拒绝订单，因此不能把她们直接称为产品的设计者；但按件计酬和居家工作也没有取消她们在执行中的判断。
++
++特拉布宗材料晚于约克郡案例，保存它们的档案类型也不相同。这里不能建立一条英国与奥斯曼地区同步发展的职业史。它能够修正的是另一种预设：分散劳动不是尚未完成的工厂，工厂也没有自动终结家庭、作坊和市场之间的协作。在专业设计身份形成以前，形式知识已经分布在材料采购、工序安排、现场调整和验收之中。随后发生的变化，不是构思活动从无到有，而是生产规模扩大以后，这些判断必须跨越更远距离并重复更多次数。新的协调问题由此出现。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:56:13Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md`**
+
+```diff
+@@
+-[^1]: U.S. Congress, House, Committee on Military Affairs, *John H. Hall*, H. Rep. No. 375, 24th Cong., 1st sess., February 24, 1836, pp. 8–10。该报告服务于霍尔补偿请愿，能够证明委员会如何记录试验和评价体系，不能视为无立场的现场观察。
+-[^2]: National Park Service, Springfield Armory National Historic Site, “Federal Armories,” 馆藏条目 *U.S. Breech-loading Flintlock Rifle M1819 (Hall’s Patent)*, .52 caliber, SPAR 952；关于霍尔体系向诺思承包体系的传递，见 David A. Hounshell, *From the American System to Mass Production, 1800–1932* (Baltimore: Johns Hopkins University Press, 1984), pp. 38–43。现有材料未证明SPAR 952即戈登拆检样枪。
+-[^3]: Robert B. Gordon, “Simeon North, John Hall, and Mechanized Manufacturing,” *Technology and Culture* 30, no. 1 (1989): 182–188。
+-[^4]: Maxine Berg, *The Age of Manufactures, 1700–1820: Industry, Innovation and Work in Britain*, 2nd ed. (London and New York: Routledge, 1994), ch. 10, pp. 180–203。初稿依据项目源文本定向读取；定稿前须复核纸本分页。
+-[^5]: Donald Quataert, *Ottoman Manufacturing in the Age of the Industrial Revolution* (Cambridge: Cambridge University Press, 1993), pp. 80–90。
+-[^6]: Quataert, *Ottoman Manufacturing*, pp. 84–90。初稿依据项目源文本定向读取；具体页码在定稿前复核纸本。
++[^1]: U.S. Congress, House, Committee on Military Affairs, *John H. Hall*, H. Rep. No. 375, 24th Cong., 1st sess., February 24, 1836, pp. 8–10。报告在霍尔申请政府补偿的语境中追述1827年试验，能够证明委员会如何描述拆装和检验，不能视为无立场的现场记录。
++[^2]: Robert B. Gordon, “Simeon North, John Hall, and Mechanized Manufacturing,” *Technology and Culture* 30, no. 1 (1989): 182–188。关于霍尔体系、既定模型和诺思承包关系，另见 David A. Hounshell, *From the American System to Mass Production, 1800–1932* (Baltimore: Johns Hopkins University Press, 1984), pp. 38–43。
++[^3]: Maxine Berg, *The Age of Manufactures, 1700–1820: Industry, Innovation and Work in Britain*, 2nd ed. (London and New York: Routledge, 1994), ch. 10, pp. 180–203。
++[^4]: Berg, *The Age of Manufactures*, ch. 10, pp. 180–203。
++[^5]: Donald Quataert, *Ottoman Manufacturing in the Age of the Industrial Revolution* (Cambridge: Cambridge University Press, 1993), pp. 80–90。
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\03-正文.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:56:22Z)**_
+
+<tool-use data-tool-type="shell" data-tool-name="shell_command"><details>
+<summary>Tool use: **shell_command** `Get-Content -LiteralPath '07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md' -Encoding UTF8 | Select-Object -Last 80`</summary>
+```
+Exit code: 0
+Wall time: 2 seconds
+Output:
+
+### 主锚点身份补正
+
+NPS官方馆藏条目补齐了M1819 Hall步枪的具体馆藏身份。但 `SPAR 952` 没有被证实为Gordon于1987年拆检的1832年North枪或1838年Harpers Ferry枪。故三类材料分工如下：
+
+- `SPAR 952`：对象身份与现藏来源；
+- Gordon两枪：互换测试、尺寸和加工痕迹；
+- House Report No. 375：模型、合同权限与1827年百枪检验。
+
+不得把不同实物合写为一件。主锚点由此正式通过准入。
+
+### 对照锚点裁定
+
+对照锚点确定为：
+
+```text
+约1773年Wedgwood青蛙餐具试制甜点盘
+National Gallery of Victoria, D7-1993
+```
+
+NGV对象记录提供完整身份及缺少内边饰的试制痕迹；Blake-Roberts的馆员研究说明器坯在Etruria制造，再送往Chelsea，由男女画工分别承担边饰、蛙徽和风景等任务。
+
+该对象只检验一个机制差异：
+
+```text
+Hall体系：以部件尺寸同一和跨厂互换为协调目标
+Wedgwood体系：以稳定器形和任务接口容纳逐件不同的手绘图景
+```
+
+由此可证明标准化并不必然消除现场手工判断或所有产品差异。现有材料不能证明画工拥有订单批准权，也不能把缺少内边饰写成正式拒收。
+
+### 当前裁定
+
+```text
+G1-A：A级与B级混合连续链通过
+G1-B：B级条件通过
+主锚点：通过并冻结
+对照锚点：B级通过并冻结
+区域比较：待结果A／B裁定
+正文：继续锁定，等待区域路径裁定
+正式图像清单：继续暂缓
+```
+
+下一步只核定一个区域比较对，不再增加锚点书目。正文解锁后的写作必须回溯原文精确页段，并围绕六节提纲展开。
+
+---
+
+## 证据核验记录 06：区域结果B与正文解锁
+
+### 定向读取
+
+- Maxine Berg, *The Age of Manufactures, 1700–1820*，第10章pp. 180–203、第11章pp. 204–222；
+- Donald Quataert, *Ottoman Manufacturing in the Age of the Industrial Revolution*，第2章pp. 49–79、第3章pp. 80–104。
+
+两书只按区域准入表的六项指标定向读取，未通读长篇原文。
+
+### 区域裁定
+
+英国机制棉纱、布匹、染料和设备进入奥斯曼纺织网络，构成真实商品与技术关系。Quataert的材料能够说明这些投入如何嵌入家庭织机、小作坊、商人putting-out与少数机制工厂，也能识别特拉布宗印花中作坊、居家妇女和伊斯坦布尔木版之间的工序联系。
+
+完整对称比较仍不成立，原因是：
+
+1. Berg的英国材料主要覆盖1700—1820，奥斯曼关键细节集中于19世纪后半叶；
+2. 英国一侧缺少与奥斯曼木版、描色和地方工种同一时期的图样权限记录；
+3. master、merchant、outworker、行会和地方工种不能被压入同一职业阶段。
+
+因此区域比较采用结果B。1.6改名为“英国路径的边界与当前不可比之处”，只追踪商品联系、组织嵌入和不可比原因。
+
+### 正文解锁与首批写作
+
+```text
+1.1—1.5：解锁
+1.6：按结果B降级后解锁
+开篇：已形成初稿
+1.1：已形成初稿
+1.2—结语：待写
+正式图像清单：仍暂缓，待正文对象段稳定
+```
+
+开篇以1827年百枪拆装试验进入，但明确区分House Report中的试验枪、NPS `SPAR 952`和Gordon拆检的两支样枪。1.1先区分历史称谓、分析概念和后设职业身份，再以英国与奥斯曼分布式纺织劳动建立前工业／混合生产基线。脚注回指实际读取的原文和官方对象记录，未核材料未进入正文。
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:56:47Z)**_
+
+<tool-use data-tool-type="write" data-tool-name="apply_patch"><details>
+<summary>Tool use: **apply_patch**</summary>
+**Update: `D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md`**
+
+```diff
+@@
+ 开篇以1827年百枪拆装试验进入，但明确区分House Report中的试验枪、NPS `SPAR 952`和Gordon拆检的两支样枪。1.1先区分历史称谓、分析概念和后设职业身份，再以英国与奥斯曼分布式纺织劳动建立前工业／混合生产基线。脚注回指实际读取的原文和官方对象记录，未核材料未进入正文。
++
++---
++
++## 写作模式修订记录 07：从证据表转写改为教材叙事
++
++### 问题诊断
++
++第一轮正文虽然遵守证据边界，却把提纲中的概念分类、权限矩阵和证据限制直接转写为段落，形成以下问题：
++
++- 概念先于对象，读者先接收“三种用法”和“四级活动”，尚未看见这些区分要解释什么；
++- 段落由研究者和书目推动，接近文献综述；
++- 解锁条件、证据程序与出版正文混排；
++- 开篇提前给出较完整的权限答案，对象的拆装和操作过程不够可见；
++- 英国与奥斯曼材料仍残留矩阵式并列。
++
++### 采用的体例
++
++依据 `00-总纲与规范/《艺术与观念》写作样例与语言语序规则-v1.0.md`，第一章改用：
++
++```text
++历史现场
++→可观察对象与动作
++→当时称谓和行动者
++→生产机制
++→证据边界
++→条件性结论
++```
++
++提纲中的四级活动分类与权限矩阵继续作为作者核查工具，不再逐项向读者宣讲。研究者姓名只在材料身份或史学分歧需要说明时进入正文；证据等级、候选淘汰和未核事项退出 `03-正文.md`。
++
++### 已完成调整
++
++1. `00-章节提纲.md` 新增“第一章正文写作模式”，规定章节、小节、段落和工作文件的边界；
++2. `03-正文.md` 删除解锁条件、证据闸门和内部执行规则，只保留可进入教材的文本；
++3. 开篇改为按“时间与地点—拆枪动作—检验矛盾—本章问题”推进，不在开篇冻结整章答案；
++4. 1.1改由约克郡一匹毛织物的移动路径进入，再从对象中引出历史称谓与分析概念；
++5. 特拉布宗材料改为时间较晚的限制案例，用于否定“分散生产只是工厂前阶段”，不再承担英—奥对称比较。
++
++### 当前状态
++
++```text
++写作模式：已修订
++开篇：第二轮初稿
++1.1：第二轮初稿
++1.2—结语：待按新模式写作
++证据裁定：不变
++```
+```
+
+
+```
+Exit code: 0
+Wall time: 0 seconds
+Output:
+Success. Updated the following files:
+M D:\Design-history-new\07-textbook-writing\第01章-工业化劳动分工与设计的生成\05-审校记录.md
+```
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:56:58Z)**_
+
+新版已经落地：工作规则已从正文移出，开篇和1.1改由拆装动作、布匹流转与印花工序推动。现在进行最后的语言检查，重点看长句、脚注对应、段落单一判断和节末递进。
+
+_**Agent (gpt-5.6-sol 2026-07-31 05:57:00Z)**_
+
+<tool-use data-tool-type="task" data-tool-name="update_plan"><details>
+<summary>Tool use: **update_plan**</summary>
+**Agent task list:**
+- [X] 完整读取写作样例并提取第一章适用规则
+- [X] 诊断第一章现稿与样例的具体偏差
+- [X] 重写第一章专用写作模式及开篇、1.1
+- [⚡] 校验结构、引注和证据边界
+
+```
+Plan updated
+```
+</details></tool-use>
