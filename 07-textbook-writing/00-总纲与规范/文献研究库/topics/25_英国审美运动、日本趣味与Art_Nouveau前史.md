@@ -1,5 +1,23 @@
 # 英国审美运动、日本趣味与Art Nouveau前史
 
+## book-0073补充：古典垄断、哥特复兴与工艺美术前史
+
+- [book-0073](../summaries/book-0073.summary.md)以Laugier、Piranesi说明Classical体系在reason、nature、engineering和emotion之间的多重论证，再写19世纪Gothic、Ruskin和Morris对其权威的挑战。
+- 教材不采用“古典衰落后哥特／工艺美术接替”的线性序列，而比较不同历史范本、材料观、劳动伦理、宗教与市场的并行竞争。
+- 该书对Ruskin／Morris仅为概述，具体企业、工场、教育和消费以[book-0071](../summaries/book-0071.summary.md)等专项材料核验。
+
+## book-0072补充：Art Nouveau作为多价语言参照
+
+- [book-0072](../summaries/book-0072.summary.md)把Art Nouveau同International Style对照，强调前者可容纳隐喻、文字、通俗性和多种历史资源；Gaudí则被选作多价建筑的高峰。
+- Casa Batlló“龙代表Spain、骨骼代表Catalan martyrs”的说法，被作者本人标明为三手口述加个人推测，不能写成Gaudí意图或当时公众共识。
+- 本书讨论的是1977年批评者对Gaudí／Modernismo的使用，不替代加泰罗尼亚一手文献、项目档案和接收史。
+
+## book-0071补充：莫里斯企业的同业环境
+
+- [book-0071](../summaries/book-0071.summary.md)把莫里斯放回Pugin、Ruskin、Cole及同时代装饰企业、展览制度和中产消费市场，避免把英国设计改革写成一位反工业英雄的独线故事。
+- 企业风格通过跨媒介产品、陈列、样本、顾客委托与竞争形成；历史研究和中世纪资源经过当代材料、工艺与市场重新组织，并非未经转化的复古。
+- 本书可支撑审美运动和工艺美术运动的企业史背景，但不足以单独证明其对Art Nouveau或后续现代主义的直接影响；影响关系须有传播、接触和接受材料。
+
 ## 专题范围
 
 本专题处理约1850年代至1890年代英国审美运动及其跨大西洋、跨欧洲联系，重点不是建立一条纯风格谱系，而是分析设计改革怎样经博览会、博物馆、学校、建筑、室内、制造、零售、出版、讲演、讽刺和服装进入日常生活。
@@ -135,3 +153,16 @@
 - [book-0062](../summaries/book-0062.summary.md)把Whistler、19世纪日本木版画接受及E. S. Morse 1885年《Japanese Homes and their Surroundings》连接到浅色、细线、少量家具、开放结构和光。
 - 该材料最适合研究欧美如何观看、翻译和利用日本设计，不支持“日本本质上轻盈／稀疏”。须补日本作者、住宅使用、版画生产、收藏贸易、跨文化中介和误读。
 - “Oriental curios”“Chinatown”等措辞保留为1953年异域化话语的证据，不作为教材的描述语言。
+
+## book-0091增量：Crane的跨文化图案观看及其帝国边界
+
+- [book-0091《The Bases of Design》](../summaries/book-0091.summary.md)频繁调用Persian carpet、Indian embroidery、Chinese porcelain、Japanese print／embroidery和所谓“东方”图案，说明英国工艺美术改革如何借海外对象建立材料与装饰原则。
+- 作者有时强调形式会随征服、贸易、借用和当地重组而变化，但又以气候、所谓种族和国家性格解释地区艺术，混合了转译观察与维多利亚帝国分类。
+- 教材应把这些段落写成英国如何选择、重命名和使用亚洲／非洲材料的一手史料，补地方生产者、贸易、殖民征集和接受者；不采用种族化、宗教／国家象征或后来成为极端主义标志的图像。参见[专题73](73_沃尔特·克兰、设计基础、工艺条件与集体劳动.md)。
+
+## book-0092增量：从审美运动试验到Guild成熟语言
+
+- [book-0092《C. R. Ashbee》](../summaries/book-0092.summary.md)把早期家具、repoussé、象征图形和Magpie and Stump同1880年代Aesthetic Movement连接，随后才收窄为方正家具、锤纹银器、彩石与线材的成熟语言。
+- Ashbee珠宝借Cellini、Renaissance、Indian／“peasant” jewellery和dress reform反对钻石时尚；这既是材料改革，也是对女性穿戴方式的规范。
+- Vienna、Germany与United States对Guild形式的接受需分别证明展览、购买、往来和制度转译；视觉相似不能单独建立Art Nouveau影响链。
+- South Africa、India、Cairo和Jerusalem材料须放回帝国贸易、殖民治理、地方工匠与迁移，不作英国形式创新的无名资源。参见[专题74](74_C.R.阿什比、手工艺行会、合作生产与浪漫社会主义.md)。

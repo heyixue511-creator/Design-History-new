@@ -133,4 +133,6 @@ Huszár、Vantongerloo和van Doesburg都有倒签、后期重作或市场性误�
 - 荷兰殖民制度、材料供应和“普遍主义”的权力背景。
 - Spangen、Papaverhof、Concrete Villa、Schröder House的建筑档案、修复报告和使用史。
 - 神智学、Ostwald、第四维、相对论、光谱学和非欧几何的独立知识史。
+## book-0102增量：journal network与家庭协作
 
+[book-0102](../summaries/book-0102.summary.md)把De Stijl理解为围绕期刊和跨媒介实验形成、内部并不完全一致的网络。Schröder House应登记Truus Schröder-Schräder的共同设计、家庭需求和可变隔断，避免只用红黄蓝几何与Rietveld单人署名代表整个网络。

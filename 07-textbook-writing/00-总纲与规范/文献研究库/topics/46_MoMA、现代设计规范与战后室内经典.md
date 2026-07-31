@@ -158,3 +158,42 @@ Anni Albers、Dorothy Liebes、Eva Zeisel、Marianne Straub、Marguerite Wildenh
 - 美国住房隔离、土地、公共住房和地区政策；
 - 女性设计者、制造工人、摄影师和无名协作者；
 - 后续MoMA“Good Design”等展览与政策变化。
+
+## book-0075增量：家具竞赛、生产转化与椅子正典
+
+- [book-0075《1000 Chairs》](../summaries/book-0075.summary.md)补入1940年“Organic Design in Home Furnishings”和1948年低成本家具竞赛的对象入口，可追踪评审、原型、制造商、展览摄影和战后市场之间的转换。
+- Eames、Saarinen等作品进入MoMA叙事，不等于竞赛目标已经普遍转化为低价、舒适或可获得的家庭家具；须核对参赛记录、合同、上市价格、销量和用户。
+- 该书自身以博物馆、制造商、画廊、拍卖和私人收藏图片再生产椅子正典，说明MoMA只是更大经典化网络的一环。交叉参照：[专题57](57_椅子设计、坐姿身体与现代家具工业.md)。
+
+## book-0076增量：MoMA展览序列的百科回顾
+
+- [book-0076《Design of the 20th Century》](../summaries/book-0076.summary.md)的MoMA专条串联1929开馆、International Style／Machine Art、Organic Design、1950—1955 Good Design、Venturi讲座、1972 Italy: The New Domestic Landscape与1995 Mutant Materials。
+- 该序列适合研究竞赛、展览、出版、制造商和设计部门如何制造现代／激进设计经典；“净化左翼政治”等解释须回MoMA档案和同期文本。
+- 本书的MoMA条目仍是回顾性二手概述，应与[book-0062](../summaries/book-0062.summary.md)的同期规范文本分层，不把博物馆选择等同公众接受或实际可获得性。
+
+## book-0077增量：Design in Scandinavia与区域经典化
+
+- [book-0077《Scandinavian Design》](../summaries/book-0077.summary.md)把1954—1957年在美国、加拿大巡回的“Design in Scandinavia”视为区域概念国际普及的关键节点。
+- 该展应与MoMA Good Design、战后住房／家居市场、冷战文化、国家出口机构和北美零售并写；展览选择不证明五国对象普遍低价或社会民主。
+- 须回查主办、巡展城市、展品、企业、媒体、观众与订单，区分北欧自我呈现、美国机构规范和后世TASCHEN经典化。
+
+## book-0078增量：MoMA的识别更新与制度连续性
+
+- [book-0078《Identify》](../summaries/book-0078.summary.md)收入MoMA视觉识别案例，可追踪博物馆如何在既有名称、字标资产、出版和空间应用之间保持连续性。
+- 该材料来自设计事务所自述，适合重建方案逻辑，不足以解释董事会／策展部门决策、员工使用、观众识别和博物馆正典权力。
+- Smithsonian等多机构案例可与MoMA对照：视觉一致性同时是治理结构和公共权威的表达。参见[专题60](60_视觉识别、商标方法、组织治理与企业合法性.md)。
+
+## book-0089增量：冷战末期先锋建筑原作展与跨机构正典化
+
+- [book-0089《Architectural Drawings of the Russian Avant-Garde》](../summaries/book-0089.summary.md)是1990年MoMA建筑与设计部同Shchusev Museum合作的展览图录，显示原作借展、机构人员、企业赞助、NEA与国际文化基金共同决定可见性。
+- Wrede称这是Shchusev馆藏原作在美国的首次展示，并首次把其中“最重要”作品集中展出；“首次”须查借展档案，“最重要”是策展选择而非自然属性。
+- 前言批评Giedion、Pevsner、Hitchcock、Banham遗漏俄国先锋，并把Kopp、1970年Hayward展和Khan-Magomedov组织为“重新发现”谱系。该谱系须区分西方可见性与苏联／各共和国既有研究。
+- Kazus的机构史表明馆藏由竞赛归档、博物馆转移、测绘考察、学校与建筑师家庭捐赠形成；MoMA展览选择建立在既有保存偏向上。
+- Markdown开放许可与1990年“all rights reserved”、Shchusev图版权利并存；任何教材图像均逐件核权。地图／总平面、旗徽、政治象征和领袖纪念图不采用。详见[专题71](71_俄国先锋建筑、呼捷玛斯教学与竞赛图纸.md)。
+
+## book-0096增量：创馆旅行、捐赠与1978年俄国先锋派馆藏展
+
+- [book-0096](../summaries/book-0096.summary.md)显示MoMA怎样把Barr与Jere Abbott 1928年赴苏旅行、Barr早期文献搜集、Lieberman的部门评价及Lauder Foundation新赠Tatlin水彩连成机构先见与馆藏权威。
+- “重要且独特”“西方公共收藏唯一”“几乎完整呈现馆藏”都是1978年机构行动者说法，须以藏品登记、其他机构目录、赠藏／出口档案和明确时点核验。
+- 同一机构在1978年以绘画—雕塑形式演进组织先锋派，1990年又借Shchusev建筑图纸重写组织、教学和竞赛史，说明MoMA规范并非固定，而受部门、馆藏和国际合作改变。
+- 原文件是单页预告且整页重复两次；不能以重复OCR、宣传性文字或未经核权图像提高证据等级。详见[专题78](78_MoMA、俄国先锋派收藏与形式主义展览叙事.md)。

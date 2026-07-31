@@ -11662,3 +11662,157 @@ nodeRepl.write(snap7.slice(0,16000));`
 - title: `检索权威档案与馆藏记录`
 
 </details></tool-use>
+
+---
+
+_**User (2026-07-30 13:10:03Z)**_
+
+列出要补充的清单
+
+
+---
+
+_**Agent (gpt-5.6-sol 2026-07-30 13:10:20Z)**_
+
+<think><details><summary>Thought Process</summary>
+**Planning extended authoritative search**
+</details></think>
+
+_**Agent (gpt-5.6-sol 2026-07-30 13:10:22Z)**_
+
+下面只列“需要新增”的补强项，分为独立同对象研究、A级一手材料和实物／馆藏记录；Hounshell及仓库已有的一般背景文献不重复列入。先把书目信息和获取优先级核准，再形成可直接收入参考目录的版本。
+
+_**Agent (gpt-5.6-sol 2026-07-30 13:10:25Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- response_length: `long`
+- search_query: `[map[q:"Simeon North, John Hall, and Mechanized Manufacturing"] map[q:"John H. Hall, Simeon North, and the Milling Machine"] map[q:John Hall Simeon North rifle 1827 committee report Hall Rifle Works] map[q:site:si.edu OR site:nps.gov OR site:archives.gov "Hall rifle" "Simeon North"]]`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 13:10:38Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- response_length: `long`
+- search_query: `[map[q:site:loc.gov/resource/llserialset Hall rifle works 1827 committee report] map[q:site:memory.loc.gov Hall "Rifle Works" 1827 report] map[q:site:catalog.archives.gov John H Hall Harpers Ferry Rifle Works records] map[q:site:si.edu "Hall rifle" Harpers Ferry Simeon North collection]]`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 13:10:46Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- response_length: `long`
+- search_query: `[map[q:"The Breech-Loader in the Service" Fuller 1933 pdf] map[q:"Hall's machinery" "fabrication, cost" rifle 1827] map[q:"report on Hall's machinery" 1827 Hall rifle] map[q:"John H. Hall" papers archive finding aid]]`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 13:10:56Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- response_length: `long`
+- search_query: `[map[q:John H Hall William Thornton Improvement in Fire Arms patent May 21 1811 Google Patents] map[q:site:patents.google.com Hall Thornton 1811 fire arms patent] map[q:site:loc.gov Hall rifle 1837 report secretary of war] map[q:site:americanprecision.org Hall North gauges rifle works]]`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 13:11:12Z)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="run"><details>
+<summary>Tool use: **run**</summary>
+
+**Input:**
+
+- response_length: `medium`
+- search_query: `[map[q:Peter A. Schmidt Hall's Military Breechloaders 1996 bibliographic] map[q:"Hall's Military Breechloaders" Schmidt] map[q:site:worldcat.org "Hall's Military Breechloaders"] map[q:site:books.google.com Hall's Military Breechloaders Schmidt]]`
+
+</details></tool-use>
+
+_**Agent (gpt-5.6-sol 2026-07-30 13:14:28Z)**_
+
+需要补充的不是一般性的“美国制造体系”文献，而是以下三组能够直接核验 Hall—North 链条的材料。
+
+## 一、独立同对象研究
+
+| 优先级 | 待补文献 | 用途与注意事项 |
+|---|---|---|
+| P0 | Merritt Roe Smith, “John H. Hall, Simeon North, and the Milling Machine: The Nature of Innovation among Antebellum Arms Makers,” *Technology and Culture* 14, no. 4 (1973): 573–591 | 直接研究 Hall、North及其机械制造关系，应逐页核对技术转移、机床使用与互换性生产。它和 Smith 1977专著属于同一作者路线，不能算两条独立来源。[JSTOR](https://www.jstor.org/stable/3102444) |
+| P0 | Robert B. Gordon, “Simeon North, John Hall, and Mechanized Manufacturing,” *Technology and Culture* 30, no. 1 (1989): 179–188 | 当前最重要的独立作者核验路线。重点检查 Gordon 是否修正 Smith/Hounshell 对铣床、量规、标准模型和互换性实现程度的解释。[JSTOR](https://www.jstor.org/stable/3105469) |
+| P0 | Merritt Roe Smith, *Harpers Ferry Armory and the New Technology: The Challenge of Change*. Cornell University Press, 1977 | 以军械库档案为基础的同对象专著。用于恢复 Hounshell 压缩或转述的原始证据背景，但与 Smith 1973不能重复计算为“独立双源”。[书目信息](https://teachersinstitute.yale.edu/curriculum/units/1979/3/79.03.03/5) |
+| P1 | Peter A. Schmidt, *Hall’s Military Breechloaders*. Lincoln, RI: Andrew Mowbray, 1996 | 枪械实物和型号研究路线。适合核验 Hall 与 North 产品的结构差异、制造标记、型号演变和存世实物；需进一步判断其档案证据是否独立于 Smith。[NPS参考书目](https://www.nps.gov/museum/publications/mhii/mh2appl.pdf) |
+| P1 | Claud E. Fuller, *The Breech-Loader in the Service, 1816–1917*. 1933 | 含政府文件和早期报告转录，可用于追踪1827年调查报告等原文出处。它是“原始材料入口”，未经原件对照不能直接当作A级证据。[Google Books](https://books.google.com/books/about/The_Breech_loader_in_the_Service_1816_19.html?id=GHDfAAAAMAAJ) |
+
+其中真正构成独立交叉核验的核心组合是：
+
+```text
+Smith 1973／Smith 1977：一条研究路线
+＋
+Gordon 1989：第二条独立研究路线
+＋
+Schmidt 1996：实物与型号研究路线，独立性待核
+```
+
+## 二、必须追索的A级一手材料
+
+| 优先级 | 待补材料 | 主要核验问题 | 当前状态 |
+|---|---|---|---|
+| P0 | 1827年美国国会对 Hall Rifle Works 的调查报告 | Hall体系是否已经实现互换；机器、量规、检验和成本如何被官方描述 | 已确认报告存在，但正式文件号、会议期和原始扫描页仍待确定；应从 Congressional Serial Set／House Committee on Military Affairs 检索 |
+| P0 | Hall—George Bomford 往来信件，尤其1827—1834年 | Hall是否向军械署说明 North 执行偏差；谁提出修正；谁拥有批准、检验和拒收权限 | 应检索 NARA RG 156、Office of the Chief of Ordnance Records；具体系列、卷盒号待核 |
+| P0 | 1828年 Simeon North 承制5,000支 Hall rifles 的合同及补充条款 | 合同是否明确要求与 Harpers Ferry产品互换；规定了哪些模型、规格、检验或交付标准 | 合同事件已经得到权威机构说明，但合同原件或正式抄件仍需取得。[American Precision Museum](https://americanprecision.org/profile/simeon-north/) |
+| P0 | 向 North 提供正确标准枪、量规、模型或夹具的交接记录 | 直接核验 Hounshell 所述“错误模型—生产偏差—重新传递标准”的关键因果链 | 尚缺精确文献位置；这是当前最应优先搜索的A级材料 |
+| P0 | North产品的检验、拒收、返工或修正记录 | 证明外化标准实际进入生产，并发生解释、偏差、检验和修正 | 尚待从军械署检验报告、军械库账簿和合同履行文件中定位 |
+| P1 | John Hall与William Thornton的1811年专利，U.S. Patent X1,516, “Improvement in Fire-Arms” | 核验早期结构方案如何通过专利图样外化；不能单独证明Hall—North转移 | 专利图样已有数字化版本。[专利图样](https://commons.wikimedia.org/wiki/File:John_H._Hall%27s_Patent_Drawing_for_Improvements_to_Receiver_and_Lock_on_a_Rifle_-_DPLA_-_c4a62e565e114ee398e2ed798b4d9428_(page_1).jpg) |
+| P1 | Hall致John C. Calhoun信件，1819年及1822年 | 核验Hall向政府提出的生产目标、机器体系和互换性主张，区分计划与实际结果 | 1822年信件已被NPS引述；仍需回到信件影印件或档案原件。[NPS](https://www.nps.gov/hafe/learn/historyculture/john-h-hall.htm) |
+| P1 | 1836年关于购买Hall专利权／Hall请愿的国会文件 | 核验政府、Hall及其专利权之间的法律关系，以及政府对其制造体系的事后评价 | GovInfo已有官方扫描，需补齐正式题名、文号和精确页码。[GovInfo扫描](https://www.govinfo.gov/content/pkg/SERIALSET-00298_00_00-011-0069-0000/pdf/SERIALSET-00298_00_00-011-0069-0000.pdf) |
+| P1 | 1837年陆军部长提交的枪械改进审查委员会报告 | 核验官方测试、性能判断和检验标准；时间较晚，只能补充而不能代替1828—1834年转移证据 | 已有美国国会文献官方扫描。[Library of Congress](https://tile.loc.gov/storage-services/service/ll/llserialsetpdf/00/30/9_/00/_0/0/00309_00_00-016-0015-0000/SERIALSET-00309_00_00-016-0015-0000.pdf) |
+
+## 三、实物与技术记录
+
+这些材料用于把“文件中的互换性”与实际产品、量规和加工痕迹对应起来：
+
+1. Harpers Ferry生产的Hall步枪实物目录记录；
+2. Simeon North承制Hall步枪的实物目录记录；
+3. 同型号两地产品的零件、口径、标记和加工痕迹比较；
+4. Hall Rifle Works现存量规、样板、夹具和专用机床的藏品记录；
+5. North工厂机床、量规或生产账簿的馆藏记录；
+6. 军械库检验章、制造者标记和返工痕迹的高清图像；
+7. 博物馆藏品的登录号、来源史、测量数据和修复报告。
+
+可优先联系或检索：
+
+- Harpers Ferry National Historical Park；
+- American Precision Museum；
+- Smithsonian National Museum of American History；
+- National Archives RG 156；
+- Connecticut State Library及Middletown地方档案馆。
+
+Smithsonian已有Hall枪械藏品记录，但目前找到的这件手枪只能辅助说明结构和归属，不能直接证明Hall—North转移。[Smithsonian藏品记录](https://americanhistory.si.edu/collections/object/nmah_438578)
+
+## 四、最低补强包
+
+Hall—North链至少补齐以下四项后，才适合重新判断其证据等级：
+
+```text
+1. Smith 1973与Gordon 1989全文逐页对读；
+2. 一项Hall—Bomford／军械署原始通信；
+3. 1828年North合同，或标准枪—量规—模型交接材料；
+4. 一组Harpers Ferry产品与North产品的可核实实物记录。
+```
+
+1827年国会调查报告如果能够取得原始扫描并精确定位，将是第五项、也是最有价值的制度性A级证据。
+
+American Precision Museum简介、NPS人物页面、商业枪械网站以及Fuller的转录，可以作为检索入口，但不能代替上述独立研究与A级原件。
